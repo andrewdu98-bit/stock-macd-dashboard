@@ -40,6 +40,10 @@ module.exports = async function handler(req, res) {
   if (req.method === 'OPTIONS') return send(res, 200, { ok: true });
   if (req.method !== 'POST') return send(res, 405, { ok: false, error: 'POST only' });
   try {
+    const password = req.body?.password || req.headers['x-dashboard-password'];
+    if (!process.env.SHARED_PASSWORD) throw new Error('Server missing SHARED_PASSWORD');
+    if (password !== process.env.SHARED_PASSWORD) return send(res, 401, { ok: false, error: '共享密码不对' });
+
     const symbols = normalizeSymbols(req.body?.symbols);
     if (!symbols.length) return send(res, 400, { ok: false, error: '股票列表为空' });
     if (symbols.length > 250) return send(res, 400, { ok: false, error: '股票太多了，先限制 250 个以内' });
