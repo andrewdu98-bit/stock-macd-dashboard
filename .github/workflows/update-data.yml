@@ -2,7 +2,8 @@ name: Update market data
 on:
   workflow_dispatch:
   schedule:
-    - cron: '15 22 * * 1-5'
+    # Every hour on weekdays, in UTC. GitHub may delay scheduled runs by a few minutes.
+    - cron: '0 * * * 1-5'
 permissions:
   contents: write
 jobs:
