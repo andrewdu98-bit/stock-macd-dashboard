@@ -1,0 +1,5100 @@
+{
+  "generatedAt": "2026-05-23T15:55:58.486Z",
+  "count": 566,
+  "profiles": {
+    "A": {
+      "symbol": "A",
+      "name": "Agilent Technologies, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Diagnostics & Research",
+      "profile": "Agilent Technologies, Inc.，在NYSE上市，属于医疗健康板块，细分行业是诊断与研究，主要业务围绕诊断与研究展开。"
+    },
+    "AAOI": {
+      "symbol": "AAOI",
+      "name": "Applied Optoelectronics, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Communication Equipment",
+      "profile": "Applied Optoelectronics, Inc.，在NASDAQ上市，属于科技板块，细分行业是通信设备，主要业务围绕通信设备展开。"
+    },
+    "AAPL": {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Consumer Electronics",
+      "profile": "Apple Inc.，在NASDAQ上市，属于科技板块，细分行业是消费电子产品，主要业务围绕消费电子产品展开。"
+    },
+    "ABBV": {
+      "symbol": "ABBV",
+      "name": "AbbVie Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers—General",
+      "profile": "AbbVie Inc.，在NYSE上市，属于医疗健康板块，细分行业是药品制造商——一般，主要业务围绕药品制造商——一般展开。"
+    },
+    "ABNB": {
+      "symbol": "ABNB",
+      "name": "Airbnb, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Travel Services",
+      "profile": "Airbnb, Inc.，在NASDAQ上市，属于可选消费板块，细分行业是旅游服务，主要业务围绕旅游服务展开。"
+    },
+    "ABT": {
+      "symbol": "ABT",
+      "name": "Abbott Laboratories",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Medical Devices",
+      "profile": "Abbott Laboratories，在NYSE上市，属于医疗健康板块，细分行业是医疗器械，主要业务围绕医疗器械展开。"
+    },
+    "ACGL": {
+      "symbol": "ACGL",
+      "name": "Arch Capital Group Ltd.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Insurance—Diversified",
+      "profile": "Arch Capital Group Ltd.，在NASDAQ上市，属于金融服务板块，细分行业是保险——多元化，主要业务围绕保险——多元化展开。"
+    },
+    "ACN": {
+      "symbol": "ACN",
+      "name": "Accenture plc",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "profile": "Accenture plc，在NYSE上市，属于科技板块，细分行业是信息技术服务，主要业务围绕信息技术服务展开。"
+    },
+    "ADBE": {
+      "symbol": "ADBE",
+      "name": "Adobe Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Application",
+      "profile": "Adobe Inc.，在NASDAQ上市，属于科技板块，细分行业是软件—应用，主要业务围绕软件—应用展开。"
+    },
+    "ADI": {
+      "symbol": "ADI",
+      "name": "Analog Devices, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "profile": "Analog Devices, Inc.，在NASDAQ上市，属于科技板块，细分行业是半导体，主要业务围绕半导体展开。"
+    },
+    "ADM": {
+      "symbol": "ADM",
+      "name": "Archer-Daniels-Midland Company",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Farm Products",
+      "profile": "Archer-Daniels-Midland Company，在NYSE上市，属于必需消费板块，细分行业是农产品，主要业务围绕农产品展开。"
+    },
+    "ADP": {
+      "symbol": "ADP",
+      "name": "Automatic Data Processing, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Application",
+      "profile": "Automatic Data Processing, Inc.，在NASDAQ上市，属于科技板块，细分行业是软件—应用，主要业务围绕软件—应用展开。"
+    },
+    "ADSK": {
+      "symbol": "ADSK",
+      "name": "Autodesk, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Application",
+      "profile": "Autodesk, Inc.，在NASDAQ上市，属于科技板块，细分行业是软件—应用，主要业务围绕软件—应用展开。"
+    },
+    "AEE": {
+      "symbol": "AEE",
+      "name": "Ameren Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Utilities",
+      "industry": "Utilities—Regulated Electric",
+      "profile": "Ameren Corporation，在NYSE上市，属于公用事业板块，细分行业是公用事业——受监管的电力，主要业务围绕公用事业——受监管的电力展开。"
+    },
+    "AEP": {
+      "symbol": "AEP",
+      "name": "American Electric Power Company, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Utilities",
+      "industry": "Utilities—Regulated Electric",
+      "profile": "American Electric Power Company, Inc.，在NASDAQ上市，属于公用事业板块，细分行业是公用事业——受监管的电力，主要业务围绕公用事业——受监管的电力展开。"
+    },
+    "AES": {
+      "symbol": "AES",
+      "name": "The AES Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Utilities",
+      "industry": "Utilities—Diversified",
+      "profile": "The AES Corporation，在NYSE上市，属于公用事业板块，细分行业是公用事业——多元化，主要业务围绕公用事业——多元化展开。"
+    },
+    "AFL": {
+      "symbol": "AFL",
+      "name": "Aflac Incorporated",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Insurance—Life",
+      "profile": "Aflac Incorporated，在NYSE上市，属于金融服务板块，细分行业是保险—人寿，主要业务围绕保险—人寿展开。"
+    },
+    "AIG": {
+      "symbol": "AIG",
+      "name": "American International Group, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Insurance—Diversified",
+      "profile": "American International Group, Inc.，在NYSE上市，属于金融服务板块，细分行业是保险——多元化，主要业务围绕保险——多元化展开。"
+    },
+    "AIZ": {
+      "symbol": "AIZ",
+      "name": "Assurant, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Insurance—Property & Casualty",
+      "profile": "Assurant, Inc.，在NYSE上市，属于金融服务板块，细分行业是保险——财产与意外伤害，主要业务围绕保险——财产与意外伤害展开。"
+    },
+    "AJG": {
+      "symbol": "AJG",
+      "name": "Arthur J. Gallagher & Co.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Insurance Brokers",
+      "profile": "Arthur J. Gallagher & Co.，在NYSE上市，属于金融服务板块，细分行业是保险经纪人，主要业务围绕保险经纪人展开。"
+    },
+    "AKAM": {
+      "symbol": "AKAM",
+      "name": "Akamai Technologies, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Infrastructure",
+      "profile": "Akamai Technologies, Inc.，在NASDAQ上市，属于科技板块，细分行业是软件—基础设施，主要业务围绕软件—基础设施展开。"
+    },
+    "ALB": {
+      "symbol": "ALB",
+      "name": "Albemarle Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Basic Materials",
+      "industry": "Specialty Chemicals",
+      "profile": "Albemarle Corporation，在NYSE上市，属于基础材料板块，细分行业是特种化学品，主要业务围绕特种化学品展开。"
+    },
+    "ALGN": {
+      "symbol": "ALGN",
+      "name": "Align Technology, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Medical Instruments & Supplies",
+      "profile": "Align Technology, Inc.，在NASDAQ上市，属于医疗健康板块，细分行业是医疗器械及用品，主要业务围绕医疗器械及用品展开。"
+    },
+    "ALL": {
+      "symbol": "ALL",
+      "name": "The Allstate Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Insurance—Property & Casualty",
+      "profile": "The Allstate Corporation，在NYSE上市，属于金融服务板块，细分行业是保险——财产与意外伤害，主要业务围绕保险——财产与意外伤害展开。"
+    },
+    "ALLE": {
+      "symbol": "ALLE",
+      "name": "Allegion plc",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Security & Protection Services",
+      "profile": "Allegion plc，在NYSE上市，属于工业板块，细分行业是安全与保护服务，主要业务围绕安全与保护服务展开。"
+    },
+    "ALAB": {
+      "symbol": "ALAB",
+      "name": "Astera Labs, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "profile": "Astera Labs, Inc.，在NASDAQ上市，属于科技板块，细分行业是半导体，主要业务围绕半导体展开。"
+    },
+    "ALNY": {
+      "symbol": "ALNY",
+      "name": "Alnylam Pharmaceuticals, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Biotechnology",
+      "profile": "Alnylam Pharmaceuticals, Inc.，在NASDAQ上市，属于医疗健康板块，细分行业是生物技术，主要业务围绕生物技术展开。"
+    },
+    "AMAT": {
+      "symbol": "AMAT",
+      "name": "Applied Materials, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Semiconductor Equipment & Materials",
+      "profile": "Applied Materials, Inc.，在NASDAQ上市，属于科技板块，细分行业是半导体设备与材料，主要业务围绕半导体设备与材料展开。"
+    },
+    "AMCR": {
+      "symbol": "AMCR",
+      "name": "Amcor plc",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Packaging & Containers",
+      "profile": "Amcor plc，在NYSE上市，属于可选消费板块，细分行业是包装与容器，主要业务围绕包装与容器展开。"
+    },
+    "AMD": {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "profile": "Advanced Micro Devices, Inc.，在NASDAQ上市，属于科技板块，细分行业是半导体，主要业务围绕半导体展开。"
+    },
+    "AME": {
+      "symbol": "AME",
+      "name": "AMETEK, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "profile": "AMETEK, Inc.，在NYSE上市，属于工业板块，细分行业是特种工业机械，主要业务围绕特种工业机械展开。"
+    },
+    "AMGN": {
+      "symbol": "AMGN",
+      "name": "Amgen Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers—General",
+      "profile": "Amgen Inc.，在NASDAQ上市，属于医疗健康板块，细分行业是药品制造商——一般，主要业务围绕药品制造商——一般展开。"
+    },
+    "AMP": {
+      "symbol": "AMP",
+      "name": "Ameriprise Financial, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Asset Management",
+      "profile": "Ameriprise Financial, Inc.，在NYSE上市，属于金融服务板块，细分行业是资产管理，主要业务围绕资产管理展开。"
+    },
+    "AMT": {
+      "symbol": "AMT",
+      "name": "American Tower Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Real Estate",
+      "industry": "REIT—Specialty",
+      "profile": "American Tower Corporation，在NYSE上市，属于房地产板块，细分行业是房地产投资信托基金——专业，主要业务围绕房地产投资信托基金——专业展开。"
+    },
+    "AMZN": {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Internet Retail",
+      "profile": "Amazon.com, Inc.，在NASDAQ上市，属于可选消费板块，细分行业是网络零售，主要业务围绕网络零售展开。"
+    },
+    "AMZU": {
+      "symbol": "AMZU",
+      "name": "Direxion Daily AMZN Bull 2X Shares",
+      "exchange": "NASDAQ",
+      "quoteType": "ETF",
+      "sector": "",
+      "industry": "",
+      "profile": "Direxion Daily AMZN Bull 2X Shares，是在NASDAQ上市的 ETF，用来跟踪一篮子资产或某个主题指数。"
+    },
+    "ANET": {
+      "symbol": "ANET",
+      "name": "Arista Networks, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Computer Hardware",
+      "profile": "Arista Networks, Inc.，在NYSE上市，属于科技板块，细分行业是电脑硬件，主要业务围绕电脑硬件展开。"
+    },
+    "AON": {
+      "symbol": "AON",
+      "name": "Aon plc",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Insurance Brokers",
+      "profile": "Aon plc，在NYSE上市，属于金融服务板块，细分行业是保险经纪人，主要业务围绕保险经纪人展开。"
+    },
+    "AOS": {
+      "symbol": "AOS",
+      "name": "A. O. Smith Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "profile": "A. O. Smith Corporation，在NYSE上市，属于工业板块，细分行业是特种工业机械，主要业务围绕特种工业机械展开。"
+    },
+    "APA": {
+      "symbol": "APA",
+      "name": "APA Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Energy",
+      "industry": "Oil & Gas E&P",
+      "profile": "APA Corporation，在NASDAQ上市，属于能源板块，细分行业是油气勘探与生产，主要业务围绕油气勘探与生产展开。"
+    },
+    "APD": {
+      "symbol": "APD",
+      "name": "Air Products and Chemicals, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Basic Materials",
+      "industry": "Specialty Chemicals",
+      "profile": "Air Products and Chemicals, Inc.，在NYSE上市，属于基础材料板块，细分行业是特种化学品，主要业务围绕特种化学品展开。"
+    },
+    "APH": {
+      "symbol": "APH",
+      "name": "Amphenol Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Electronic Components",
+      "profile": "Amphenol Corporation，在NYSE上市，属于科技板块，细分行业是电子元件，主要业务围绕电子元件展开。"
+    },
+    "APO": {
+      "symbol": "APO",
+      "name": "Apollo Global Management, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Asset Management",
+      "profile": "Apollo Global Management, Inc.，在NYSE上市，属于金融服务板块，细分行业是资产管理，主要业务围绕资产管理展开。"
+    },
+    "APP": {
+      "symbol": "APP",
+      "name": "AppLovin Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Communication Services",
+      "industry": "Advertising Agencies",
+      "profile": "AppLovin Corporation，在NASDAQ上市，属于通信服务板块，细分行业是广告公司，主要业务围绕广告公司展开。"
+    },
+    "APTV": {
+      "symbol": "APTV",
+      "name": "Aptiv PLC",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Parts",
+      "profile": "Aptiv PLC，在NYSE上市，属于可选消费板块，细分行业是汽车配件，主要业务围绕汽车配件展开。"
+    },
+    "ARE": {
+      "symbol": "ARE",
+      "name": "Alexandria Real Estate Equities, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Real Estate",
+      "industry": "REIT—Office",
+      "profile": "Alexandria Real Estate Equities, Inc.，在NYSE上市，属于房地产板块，细分行业是房地产投资信托基金—办公室，主要业务围绕房地产投资信托基金—办公室展开。"
+    },
+    "ARES": {
+      "symbol": "ARES",
+      "name": "Ares Management Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Asset Management",
+      "profile": "Ares Management Corporation，在NYSE上市，属于金融服务板块，细分行业是资产管理，主要业务围绕资产管理展开。"
+    },
+    "ARM": {
+      "symbol": "ARM",
+      "name": "Arm Holdings plc",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "profile": "Arm Holdings plc，在NASDAQ上市，属于科技板块，细分行业是半导体，主要业务围绕半导体展开。"
+    },
+    "ASTS": {
+      "symbol": "ASTS",
+      "name": "AST SpaceMobile, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Communication Equipment",
+      "profile": "AST SpaceMobile, Inc.，在NASDAQ上市，属于科技板块，细分行业是通信设备，主要业务围绕通信设备展开。"
+    },
+    "ASML": {
+      "symbol": "ASML",
+      "name": "ASML Holding N.V.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Semiconductor Equipment & Materials",
+      "profile": "ASML Holding N.V.，在NASDAQ上市，属于科技板块，细分行业是半导体设备与材料，主要业务围绕半导体设备与材料展开。"
+    },
+    "ATO": {
+      "symbol": "ATO",
+      "name": "Atmos Energy Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Utilities",
+      "industry": "Utilities—Regulated Gas",
+      "profile": "Atmos Energy Corporation，在NYSE上市，属于公用事业板块，细分行业是公用事业——受监管的天然气，主要业务围绕公用事业——受监管的天然气展开。"
+    },
+    "AVB": {
+      "symbol": "AVB",
+      "name": "AvalonBay Communities, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Real Estate",
+      "industry": "REIT—Residential",
+      "profile": "AvalonBay Communities, Inc.，在NYSE上市，属于房地产板块，细分行业是REIT——住宅，主要业务围绕REIT——住宅展开。"
+    },
+    "AVGO": {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "profile": "Broadcom Inc.，在NASDAQ上市，属于科技板块，细分行业是半导体，主要业务围绕半导体展开。"
+    },
+    "AVY": {
+      "symbol": "AVY",
+      "name": "Avery Dennison Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Packaging & Containers",
+      "profile": "Avery Dennison Corporation，在NYSE上市，属于可选消费板块，细分行业是包装与容器，主要业务围绕包装与容器展开。"
+    },
+    "AWK": {
+      "symbol": "AWK",
+      "name": "American Water Works Company, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Utilities",
+      "industry": "Utilities—Regulated Water",
+      "profile": "American Water Works Company, Inc.，在NYSE上市，属于公用事业板块，细分行业是公用事业——调节水，主要业务围绕公用事业——调节水展开。"
+    },
+    "AXON": {
+      "symbol": "AXON",
+      "name": "Axon Enterprise, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "profile": "Axon Enterprise, Inc.，在NASDAQ上市，属于工业板块，细分行业是航空航天与国防，主要业务围绕航空航天与国防展开。"
+    },
+    "AXP": {
+      "symbol": "AXP",
+      "name": "American Express Company",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Credit Services",
+      "profile": "American Express Company，在NYSE上市，属于金融服务板块，细分行业是信用服务，主要业务围绕信用服务展开。"
+    },
+    "AXTI": {
+      "symbol": "AXTI",
+      "name": "AXT, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Semiconductor Equipment & Materials",
+      "profile": "AXT, Inc.，在NASDAQ上市，属于科技板块，细分行业是半导体设备与材料，主要业务围绕半导体设备与材料展开。"
+    },
+    "AZO": {
+      "symbol": "AZO",
+      "name": "AutoZone, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Parts",
+      "profile": "AutoZone, Inc.，在NYSE上市，属于可选消费板块，细分行业是汽车配件，主要业务围绕汽车配件展开。"
+    },
+    "BA": {
+      "symbol": "BA",
+      "name": "The Boeing Company",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "profile": "The Boeing Company，在NYSE上市，属于工业板块，细分行业是航空航天与国防，主要业务围绕航空航天与国防展开。"
+    },
+    "BABA": {
+      "symbol": "BABA",
+      "name": "Alibaba Group Holding Limited",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Internet Retail",
+      "profile": "Alibaba Group Holding Limited，在NYSE上市，属于可选消费板块，细分行业是网络零售，主要业务围绕网络零售展开。"
+    },
+    "BAC": {
+      "symbol": "BAC",
+      "name": "Bank of America Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Banks—Diversified",
+      "profile": "Bank of America Corporation，在NYSE上市，属于金融服务板块，细分行业是银行——多元化，主要业务围绕银行——多元化展开。"
+    },
+    "BALL": {
+      "symbol": "BALL",
+      "name": "Ball Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Packaging & Containers",
+      "profile": "Ball Corporation，在NYSE上市，属于可选消费板块，细分行业是包装与容器，主要业务围绕包装与容器展开。"
+    },
+    "BAX": {
+      "symbol": "BAX",
+      "name": "Baxter International Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Medical Instruments & Supplies",
+      "profile": "Baxter International Inc.，在NYSE上市，属于医疗健康板块，细分行业是医疗器械及用品，主要业务围绕医疗器械及用品展开。"
+    },
+    "BB": {
+      "symbol": "BB",
+      "name": "BlackBerry Limited",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Infrastructure",
+      "profile": "BlackBerry Limited，在NYSE上市，属于科技板块，细分行业是软件—基础设施，主要业务围绕软件—基础设施展开。"
+    },
+    "BBY": {
+      "symbol": "BBY",
+      "name": "Best Buy Co., Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Specialty Retail",
+      "profile": "Best Buy Co., Inc.，在NYSE上市，属于可选消费板块，细分行业是专业零售，主要业务围绕专业零售展开。"
+    },
+    "BDX": {
+      "symbol": "BDX",
+      "name": "Becton, Dickinson and Company",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Medical Instruments & Supplies",
+      "profile": "Becton, Dickinson and Company，在NYSE上市，属于医疗健康板块，细分行业是医疗器械及用品，主要业务围绕医疗器械及用品展开。"
+    },
+    "BEN": {
+      "symbol": "BEN",
+      "name": "Franklin Resources, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Asset Management",
+      "profile": "Franklin Resources, Inc.，在NYSE上市，属于金融服务板块，细分行业是资产管理，主要业务围绕资产管理展开。"
+    },
+    "BF-B": {
+      "symbol": "BF-B",
+      "name": "Brown-Forman Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Beverages—Wineries & Distilleries",
+      "profile": "Brown-Forman Corporation，在NYSE上市，属于必需消费板块，细分行业是饮料——酿酒厂和酿酒厂，主要业务围绕饮料——酿酒厂和酿酒厂展开。"
+    },
+    "BG": {
+      "symbol": "BG",
+      "name": "Bunge Global SA",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Farm Products",
+      "profile": "Bunge Global SA，在NYSE上市，属于必需消费板块，细分行业是农产品，主要业务围绕农产品展开。"
+    },
+    "BIIB": {
+      "symbol": "BIIB",
+      "name": "Biogen Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers—General",
+      "profile": "Biogen Inc.，在NASDAQ上市，属于医疗健康板块，细分行业是药品制造商——一般，主要业务围绕药品制造商——一般展开。"
+    },
+    "BK": {
+      "symbol": "BK",
+      "name": "The Bank of New York Mellon Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Banks—Diversified",
+      "profile": "The Bank of New York Mellon Corporation，在NYSE上市，属于金融服务板块，细分行业是银行——多元化，主要业务围绕银行——多元化展开。"
+    },
+    "BKNG": {
+      "symbol": "BKNG",
+      "name": "Booking Holdings Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Travel Services",
+      "profile": "Booking Holdings Inc.，在NASDAQ上市，属于可选消费板块，细分行业是旅游服务，主要业务围绕旅游服务展开。"
+    },
+    "BKR": {
+      "symbol": "BKR",
+      "name": "Baker Hughes Company",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Energy",
+      "industry": "Oil & Gas Equipment & Services",
+      "profile": "Baker Hughes Company，在NASDAQ上市，属于能源板块，细分行业是油服与能源设备，主要业务围绕油服与能源设备展开。"
+    },
+    "BLDR": {
+      "symbol": "BLDR",
+      "name": "Builders FirstSource, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Building Products & Equipment",
+      "profile": "Builders FirstSource, Inc.，在NYSE上市，属于工业板块，细分行业是建筑产品和设备，主要业务围绕建筑产品和设备展开。"
+    },
+    "BLK": {
+      "symbol": "BLK",
+      "name": "BlackRock, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Asset Management",
+      "profile": "BlackRock, Inc.，在NYSE上市，属于金融服务板块，细分行业是资产管理，主要业务围绕资产管理展开。"
+    },
+    "BMY": {
+      "symbol": "BMY",
+      "name": "Bristol-Myers Squibb Company",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers—General",
+      "profile": "Bristol-Myers Squibb Company，在NYSE上市，属于医疗健康板块，细分行业是药品制造商——一般，主要业务围绕药品制造商——一般展开。"
+    },
+    "BNO": {
+      "symbol": "BNO",
+      "name": "United States Brent Oil Fund, LP",
+      "exchange": "NYSEArca",
+      "quoteType": "ETF",
+      "sector": "",
+      "industry": "",
+      "profile": "United States Brent Oil Fund, LP，是在NYSEArca上市的 ETF，主要提供原油与传统能源方向的市场敞口。"
+    },
+    "BOIL": {
+      "symbol": "BOIL",
+      "name": "ProShares Ultra Bloomberg Natural Gas",
+      "exchange": "NYSEArca",
+      "quoteType": "ETF",
+      "sector": "",
+      "industry": "",
+      "profile": "ProShares Ultra Bloomberg Natural Gas，是在NYSEArca上市的 ETF，用来跟踪一篮子资产或某个主题指数。"
+    },
+    "BR": {
+      "symbol": "BR",
+      "name": "Broadridge Financial Solutions, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "profile": "Broadridge Financial Solutions, Inc.，在NYSE上市，属于科技板块，细分行业是信息技术服务，主要业务围绕信息技术服务展开。"
+    },
+    "BRK-B": {
+      "symbol": "BRK-B",
+      "name": "Berkshire Hathaway Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Insurance—Diversified",
+      "profile": "Berkshire Hathaway Inc.，在NYSE上市，属于金融服务板块，细分行业是保险——多元化，主要业务围绕保险——多元化展开。"
+    },
+    "BRO": {
+      "symbol": "BRO",
+      "name": "Brown & Brown, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Insurance Brokers",
+      "profile": "Brown & Brown, Inc.，在NYSE上市，属于金融服务板块，细分行业是保险经纪人，主要业务围绕保险经纪人展开。"
+    },
+    "BSX": {
+      "symbol": "BSX",
+      "name": "Boston Scientific Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Medical Devices",
+      "profile": "Boston Scientific Corporation，在NYSE上市，属于医疗健康板块，细分行业是医疗器械，主要业务围绕医疗器械展开。"
+    },
+    "BX": {
+      "symbol": "BX",
+      "name": "Blackstone Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Asset Management",
+      "profile": "Blackstone Inc.，在NYSE上市，属于金融服务板块，细分行业是资产管理，主要业务围绕资产管理展开。"
+    },
+    "BXP": {
+      "symbol": "BXP",
+      "name": "BXP, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Real Estate",
+      "industry": "REIT—Office",
+      "profile": "BXP, Inc.，在NYSE上市，属于房地产板块，细分行业是房地产投资信托基金—办公室，主要业务围绕房地产投资信托基金—办公室展开。"
+    },
+    "C": {
+      "symbol": "C",
+      "name": "Citigroup Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Banks—Diversified",
+      "profile": "Citigroup Inc.，在NYSE上市，属于金融服务板块，细分行业是银行——多元化，主要业务围绕银行——多元化展开。"
+    },
+    "CAG": {
+      "symbol": "CAG",
+      "name": "Conagra Brands, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "profile": "Conagra Brands, Inc.，在NYSE上市，属于必需消费板块，细分行业是包装食品，主要业务围绕包装食品展开。"
+    },
+    "CAH": {
+      "symbol": "CAH",
+      "name": "Cardinal Health, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Medical Distribution",
+      "profile": "Cardinal Health, Inc.，在NYSE上市，属于医疗健康板块，细分行业是医疗配送，主要业务围绕医疗配送展开。"
+    },
+    "CARR": {
+      "symbol": "CARR",
+      "name": "Carrier Global Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Building Products & Equipment",
+      "profile": "Carrier Global Corporation，在NYSE上市，属于工业板块，细分行业是建筑产品和设备，主要业务围绕建筑产品和设备展开。"
+    },
+    "CASY": {
+      "symbol": "CASY",
+      "name": "Casey's General Stores, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Specialty Retail",
+      "profile": "Casey's General Stores, Inc.，在NASDAQ上市，属于可选消费板块，细分行业是专业零售，主要业务围绕专业零售展开。"
+    },
+    "CAT": {
+      "symbol": "CAT",
+      "name": "Caterpillar Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Farm & Heavy Construction Machinery",
+      "profile": "Caterpillar Inc.，在NYSE上市，属于工业板块，细分行业是农用和重型工程机械，主要业务围绕农用和重型工程机械展开。"
+    },
+    "CB": {
+      "symbol": "CB",
+      "name": "Chubb Limited",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Insurance—Property & Casualty",
+      "profile": "Chubb Limited，在NYSE上市，属于金融服务板块，细分行业是保险——财产与意外伤害，主要业务围绕保险——财产与意外伤害展开。"
+    },
+    "CBOE": {
+      "symbol": "CBOE",
+      "name": "Cboe Global Markets, Inc.",
+      "exchange": "BATS Trading",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Financial Data & Stock Exchanges",
+      "profile": "Cboe Global Markets, Inc.，在BATS Trading上市，属于金融服务板块，细分行业是财务数据和证券交易所，主要业务围绕财务数据和证券交易所展开。"
+    },
+    "CBRE": {
+      "symbol": "CBRE",
+      "name": "CBRE Group, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Real Estate",
+      "industry": "Real Estate Services",
+      "profile": "CBRE Group, Inc.，在NYSE上市，属于房地产板块，细分行业是房地产服务，主要业务围绕房地产服务展开。"
+    },
+    "CCEP": {
+      "symbol": "CCEP",
+      "name": "Coca-Cola Europacific Partners PLC",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Beverages—Non—Alcoholic",
+      "profile": "Coca-Cola Europacific Partners PLC，在NASDAQ上市，属于必需消费板块，细分行业是饮料——非酒精类，主要业务围绕饮料——非酒精类展开。"
+    },
+    "CCI": {
+      "symbol": "CCI",
+      "name": "Crown Castle Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Real Estate",
+      "industry": "REIT—Specialty",
+      "profile": "Crown Castle Inc.，在NYSE上市，属于房地产板块，细分行业是房地产投资信托基金——专业，主要业务围绕房地产投资信托基金——专业展开。"
+    },
+    "CCL": {
+      "symbol": "CCL",
+      "name": "Carnival Corporation Ltd.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Travel Services",
+      "profile": "Carnival Corporation Ltd.，在NYSE上市，属于可选消费板块，细分行业是旅游服务，主要业务围绕旅游服务展开。"
+    },
+    "CDNS": {
+      "symbol": "CDNS",
+      "name": "Cadence Design Systems, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Application",
+      "profile": "Cadence Design Systems, Inc.，在NASDAQ上市，属于科技板块，细分行业是软件—应用，主要业务围绕软件—应用展开。"
+    },
+    "CDW": {
+      "symbol": "CDW",
+      "name": "CDW Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "profile": "CDW Corporation，在NASDAQ上市，属于科技板块，细分行业是信息技术服务，主要业务围绕信息技术服务展开。"
+    },
+    "CEG": {
+      "symbol": "CEG",
+      "name": "Constellation Energy Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Utilities",
+      "industry": "Utilities—Independent Power Producers",
+      "profile": "Constellation Energy Corporation，在NASDAQ上市，属于公用事业板块，细分行业是公用事业——独立电力生产商，主要业务围绕公用事业——独立电力生产商展开。"
+    },
+    "CF": {
+      "symbol": "CF",
+      "name": "CF Industries Holdings, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Basic Materials",
+      "industry": "Agricultural Inputs",
+      "profile": "CF Industries Holdings, Inc.，在NYSE上市，属于基础材料板块，细分行业是农业投入，主要业务围绕农业投入展开。"
+    },
+    "CFG": {
+      "symbol": "CFG",
+      "name": "Citizens Financial Group, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Banks—Regional",
+      "profile": "Citizens Financial Group, Inc.，在NYSE上市，属于金融服务板块，细分行业是银行——区域性，主要业务围绕银行——区域性展开。"
+    },
+    "CHD": {
+      "symbol": "CHD",
+      "name": "Church & Dwight Co., Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Household & Personal Products",
+      "profile": "Church & Dwight Co., Inc.，在NYSE上市，属于必需消费板块，细分行业是家居及个人产品，主要业务围绕家居及个人产品展开。"
+    },
+    "CHRW": {
+      "symbol": "CHRW",
+      "name": "C.H. Robinson Worldwide, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Integrated Freight & Logistics",
+      "profile": "C.H. Robinson Worldwide, Inc.，在NASDAQ上市，属于工业板块，细分行业是综合货运及物流，主要业务围绕综合货运及物流展开。"
+    },
+    "CHTR": {
+      "symbol": "CHTR",
+      "name": "Charter Communications, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Communication Services",
+      "industry": "Telecom Services",
+      "profile": "Charter Communications, Inc.，在NASDAQ上市，属于通信服务板块，细分行业是电信服务，主要业务围绕电信服务展开。"
+    },
+    "CI": {
+      "symbol": "CI",
+      "name": "The Cigna Group",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Healthcare Plans",
+      "profile": "The Cigna Group，在NYSE上市，属于医疗健康板块，细分行业是医疗保健计划，主要业务围绕医疗保健计划展开。"
+    },
+    "CIEN": {
+      "symbol": "CIEN",
+      "name": "Ciena Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Communication Equipment",
+      "profile": "Ciena Corporation，在NYSE上市，属于科技板块，细分行业是通信设备，主要业务围绕通信设备展开。"
+    },
+    "CINF": {
+      "symbol": "CINF",
+      "name": "Cincinnati Financial Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Insurance—Property & Casualty",
+      "profile": "Cincinnati Financial Corporation，在NASDAQ上市，属于金融服务板块，细分行业是保险——财产与意外伤害，主要业务围绕保险——财产与意外伤害展开。"
+    },
+    "CL": {
+      "symbol": "CL",
+      "name": "Colgate-Palmolive Company",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Household & Personal Products",
+      "profile": "Colgate-Palmolive Company，在NYSE上市，属于必需消费板块，细分行业是家居及个人产品，主要业务围绕家居及个人产品展开。"
+    },
+    "CLX": {
+      "symbol": "CLX",
+      "name": "The Clorox Company",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Household & Personal Products",
+      "profile": "The Clorox Company，在NYSE上市，属于必需消费板块，细分行业是家居及个人产品，主要业务围绕家居及个人产品展开。"
+    },
+    "CMCSA": {
+      "symbol": "CMCSA",
+      "name": "Comcast Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Communication Services",
+      "industry": "Telecom Services",
+      "profile": "Comcast Corporation，在NASDAQ上市，属于通信服务板块，细分行业是电信服务，主要业务围绕电信服务展开。"
+    },
+    "CME": {
+      "symbol": "CME",
+      "name": "CME Group Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Financial Data & Stock Exchanges",
+      "profile": "CME Group Inc.，在NASDAQ上市，属于金融服务板块，细分行业是财务数据和证券交易所，主要业务围绕财务数据和证券交易所展开。"
+    },
+    "CMG": {
+      "symbol": "CMG",
+      "name": "Chipotle Mexican Grill, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Restaurants",
+      "profile": "Chipotle Mexican Grill, Inc.，在NYSE上市，属于可选消费板块，细分行业是餐厅，主要业务围绕餐厅展开。"
+    },
+    "CMI": {
+      "symbol": "CMI",
+      "name": "Cummins Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "profile": "Cummins Inc.，在NYSE上市，属于工业板块，细分行业是特种工业机械，主要业务围绕特种工业机械展开。"
+    },
+    "CMS": {
+      "symbol": "CMS",
+      "name": "CMS Energy Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Utilities",
+      "industry": "Utilities—Regulated Electric",
+      "profile": "CMS Energy Corporation，在NYSE上市，属于公用事业板块，细分行业是公用事业——受监管的电力，主要业务围绕公用事业——受监管的电力展开。"
+    },
+    "CNC": {
+      "symbol": "CNC",
+      "name": "Centene Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Healthcare Plans",
+      "profile": "Centene Corporation，在NYSE上市，属于医疗健康板块，细分行业是医疗保健计划，主要业务围绕医疗保健计划展开。"
+    },
+    "CNP": {
+      "symbol": "CNP",
+      "name": "CenterPoint Energy, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Utilities",
+      "industry": "Utilities—Regulated Electric",
+      "profile": "CenterPoint Energy, Inc.，在NYSE上市，属于公用事业板块，细分行业是公用事业——受监管的电力，主要业务围绕公用事业——受监管的电力展开。"
+    },
+    "COF": {
+      "symbol": "COF",
+      "name": "Capital One Financial Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Credit Services",
+      "profile": "Capital One Financial Corporation，在NYSE上市，属于金融服务板块，细分行业是信用服务，主要业务围绕信用服务展开。"
+    },
+    "COHR": {
+      "symbol": "COHR",
+      "name": "Coherent Corp.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Scientific & Technical Instruments",
+      "profile": "Coherent Corp.，在NYSE上市，属于科技板块，细分行业是科学技术仪器，主要业务围绕科学技术仪器展开。"
+    },
+    "COIN": {
+      "symbol": "COIN",
+      "name": "Coinbase Global, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Financial Data & Stock Exchanges",
+      "profile": "Coinbase Global, Inc.，在NASDAQ上市，属于金融服务板块，细分行业是财务数据和证券交易所，主要业务围绕财务数据和证券交易所展开。"
+    },
+    "COO": {
+      "symbol": "COO",
+      "name": "The Cooper Companies, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Medical Instruments & Supplies",
+      "profile": "The Cooper Companies, Inc.，在NASDAQ上市，属于医疗健康板块，细分行业是医疗器械及用品，主要业务围绕医疗器械及用品展开。"
+    },
+    "COP": {
+      "symbol": "COP",
+      "name": "ConocoPhillips",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Energy",
+      "industry": "Oil & Gas E&P",
+      "profile": "ConocoPhillips，在NYSE上市，属于能源板块，细分行业是油气勘探与生产，主要业务围绕油气勘探与生产展开。"
+    },
+    "COR": {
+      "symbol": "COR",
+      "name": "Cencora, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Medical Distribution",
+      "profile": "Cencora, Inc.，在NYSE上市，属于医疗健康板块，细分行业是医疗配送，主要业务围绕医疗配送展开。"
+    },
+    "COST": {
+      "symbol": "COST",
+      "name": "Costco Wholesale Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Discount Stores",
+      "profile": "Costco Wholesale Corporation，在NASDAQ上市，属于必需消费板块，细分行业是折扣零售，主要业务围绕折扣零售展开。"
+    },
+    "CPAY": {
+      "symbol": "CPAY",
+      "name": "Corpay, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Infrastructure",
+      "profile": "Corpay, Inc.，在NYSE上市，属于科技板块，细分行业是软件—基础设施，主要业务围绕软件—基础设施展开。"
+    },
+    "CPB": {
+      "symbol": "CPB",
+      "name": "The Campbell's Company",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "profile": "The Campbell's Company，在NASDAQ上市，属于必需消费板块，细分行业是包装食品，主要业务围绕包装食品展开。"
+    },
+    "CPRT": {
+      "symbol": "CPRT",
+      "name": "Copart, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Specialty Business Services",
+      "profile": "Copart, Inc.，在NASDAQ上市，属于工业板块，细分行业是专业商业服务，主要业务围绕专业商业服务展开。"
+    },
+    "CPT": {
+      "symbol": "CPT",
+      "name": "Camden Property Trust",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Real Estate",
+      "industry": "REIT—Residential",
+      "profile": "Camden Property Trust，在NYSE上市，属于房地产板块，细分行业是REIT——住宅，主要业务围绕REIT——住宅展开。"
+    },
+    "CRH": {
+      "symbol": "CRH",
+      "name": "CRH plc",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Basic Materials",
+      "industry": "Building Materials",
+      "profile": "CRH plc，在NYSE上市，属于基础材料板块，细分行业是建筑材料，主要业务围绕建筑材料展开。"
+    },
+    "CRL": {
+      "symbol": "CRL",
+      "name": "Charles River Laboratories International, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Diagnostics & Research",
+      "profile": "Charles River Laboratories International, Inc.，在NYSE上市，属于医疗健康板块，细分行业是诊断与研究，主要业务围绕诊断与研究展开。"
+    },
+    "CRM": {
+      "symbol": "CRM",
+      "name": "Salesforce, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Application",
+      "profile": "Salesforce, Inc.，在NYSE上市，属于科技板块，细分行业是软件—应用，主要业务围绕软件—应用展开。"
+    },
+    "CRWD": {
+      "symbol": "CRWD",
+      "name": "CrowdStrike Holdings, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Infrastructure",
+      "profile": "CrowdStrike Holdings, Inc.，在NASDAQ上市，属于科技板块，细分行业是软件—基础设施，主要业务围绕软件—基础设施展开。"
+    },
+    "CSCO": {
+      "symbol": "CSCO",
+      "name": "Cisco Systems, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Communication Equipment",
+      "profile": "Cisco Systems, Inc.，在NASDAQ上市，属于科技板块，细分行业是通信设备，主要业务围绕通信设备展开。"
+    },
+    "CSGP": {
+      "symbol": "CSGP",
+      "name": "CoStar Group, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Real Estate",
+      "industry": "Real Estate Services",
+      "profile": "CoStar Group, Inc.，在NASDAQ上市，属于房地产板块，细分行业是房地产服务，主要业务围绕房地产服务展开。"
+    },
+    "CSX": {
+      "symbol": "CSX",
+      "name": "CSX Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Railroads",
+      "profile": "CSX Corporation，在NASDAQ上市，属于工业板块，细分行业是铁路，主要业务围绕铁路展开。"
+    },
+    "CTAS": {
+      "symbol": "CTAS",
+      "name": "Cintas Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Specialty Business Services",
+      "profile": "Cintas Corporation，在NASDAQ上市，属于工业板块，细分行业是专业商业服务，主要业务围绕专业商业服务展开。"
+    },
+    "CTRA": {
+      "symbol": "CTRA",
+      "name": "PT Ciputra Development Tbk",
+      "exchange": "Jakarta",
+      "quoteType": "EQUITY",
+      "sector": "Real Estate",
+      "industry": "Real Estate—Development",
+      "profile": "CTRA，主要从事原油、油服、炼化或能源运输相关业务。"
+    },
+    "CTSH": {
+      "symbol": "CTSH",
+      "name": "Cognizant Technology Solutions Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "profile": "Cognizant Technology Solutions Corporation，在NASDAQ上市，属于科技板块，细分行业是信息技术服务，主要业务围绕信息技术服务展开。"
+    },
+    "CTVA": {
+      "symbol": "CTVA",
+      "name": "Corteva, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Basic Materials",
+      "industry": "Agricultural Inputs",
+      "profile": "Corteva, Inc.，在NYSE上市，属于基础材料板块，细分行业是农业投入，主要业务围绕农业投入展开。"
+    },
+    "CVNA": {
+      "symbol": "CVNA",
+      "name": "Carvana Co.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto & Truck Dealerships",
+      "profile": "Carvana Co.，在NYSE上市，属于可选消费板块，细分行业是汽车和卡车经销商，主要业务围绕汽车和卡车经销商展开。"
+    },
+    "CVS": {
+      "symbol": "CVS",
+      "name": "CVS Health Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Healthcare Plans",
+      "profile": "CVS Health Corporation，在NYSE上市，属于医疗健康板块，细分行业是医疗保健计划，主要业务围绕医疗保健计划展开。"
+    },
+    "CVX": {
+      "symbol": "CVX",
+      "name": "Chevron Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Energy",
+      "industry": "Oil & Gas Integrated",
+      "profile": "Chevron Corporation，在NYSE上市，属于能源板块，细分行业是油气一体化，主要业务围绕油气一体化展开。"
+    },
+    "D": {
+      "symbol": "D",
+      "name": "Dominion Energy, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Utilities",
+      "industry": "Utilities—Regulated Electric",
+      "profile": "Dominion Energy, Inc.，在NYSE上市，属于公用事业板块，细分行业是公用事业——受监管的电力，主要业务围绕公用事业——受监管的电力展开。"
+    },
+    "DAL": {
+      "symbol": "DAL",
+      "name": "Delta Air Lines, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Airlines",
+      "profile": "Delta Air Lines, Inc.，在NYSE上市，属于工业板块，细分行业是航空公司，主要业务围绕航空公司展开。"
+    },
+    "DASH": {
+      "symbol": "DASH",
+      "name": "DoorDash, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Internet Retail",
+      "profile": "DoorDash, Inc.，在NASDAQ上市，属于可选消费板块，细分行业是网络零售，主要业务围绕网络零售展开。"
+    },
+    "DD": {
+      "symbol": "DD",
+      "name": "DuPont de Nemours, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Basic Materials",
+      "industry": "Specialty Chemicals",
+      "profile": "DuPont de Nemours, Inc.，在NYSE上市，属于基础材料板块，细分行业是特种化学品，主要业务围绕特种化学品展开。"
+    },
+    "DDOG": {
+      "symbol": "DDOG",
+      "name": "Datadog, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Application",
+      "profile": "Datadog, Inc.，在NASDAQ上市，属于科技板块，细分行业是软件—应用，主要业务围绕软件—应用展开。"
+    },
+    "DE": {
+      "symbol": "DE",
+      "name": "Deere & Company",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Farm & Heavy Construction Machinery",
+      "profile": "Deere & Company，在NYSE上市，属于工业板块，细分行业是农用和重型工程机械，主要业务围绕农用和重型工程机械展开。"
+    },
+    "DECK": {
+      "symbol": "DECK",
+      "name": "Deckers Outdoor Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Footwear & Accessories",
+      "profile": "Deckers Outdoor Corporation，在NYSE上市，属于可选消费板块，细分行业是鞋类及配饰，主要业务围绕鞋类及配饰展开。"
+    },
+    "DELL": {
+      "symbol": "DELL",
+      "name": "Dell Technologies Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Computer Hardware",
+      "profile": "Dell Technologies Inc.，在NYSE上市，属于科技板块，细分行业是电脑硬件，主要业务围绕电脑硬件展开。"
+    },
+    "DG": {
+      "symbol": "DG",
+      "name": "Dollar General Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Discount Stores",
+      "profile": "Dollar General Corporation，在NYSE上市，属于必需消费板块，细分行业是折扣零售，主要业务围绕折扣零售展开。"
+    },
+    "DGX": {
+      "symbol": "DGX",
+      "name": "Quest Diagnostics Incorporated",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Diagnostics & Research",
+      "profile": "Quest Diagnostics Incorporated，在NYSE上市，属于医疗健康板块，细分行业是诊断与研究，主要业务围绕诊断与研究展开。"
+    },
+    "DHI": {
+      "symbol": "DHI",
+      "name": "D.R. Horton, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Residential Construction",
+      "profile": "D.R. Horton, Inc.，在NYSE上市，属于可选消费板块，细分行业是住宅建设，主要业务围绕住宅建设展开。"
+    },
+    "DHR": {
+      "symbol": "DHR",
+      "name": "Danaher Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Diagnostics & Research",
+      "profile": "Danaher Corporation，在NYSE上市，属于医疗健康板块，细分行业是诊断与研究，主要业务围绕诊断与研究展开。"
+    },
+    "DIS": {
+      "symbol": "DIS",
+      "name": "The Walt Disney Company",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Communication Services",
+      "industry": "Entertainment",
+      "profile": "The Walt Disney Company，在NYSE上市，属于通信服务板块，细分行业是娱乐，主要业务围绕娱乐展开。"
+    },
+    "DLR": {
+      "symbol": "DLR",
+      "name": "Digital Realty Trust, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Real Estate",
+      "industry": "REIT—Specialty",
+      "profile": "Digital Realty Trust, Inc.，在NYSE上市，属于房地产板块，细分行业是房地产投资信托基金——专业，主要业务围绕房地产投资信托基金——专业展开。"
+    },
+    "DLTR": {
+      "symbol": "DLTR",
+      "name": "Dollar Tree, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Discount Stores",
+      "profile": "Dollar Tree, Inc.，在NASDAQ上市，属于必需消费板块，细分行业是折扣零售，主要业务围绕折扣零售展开。"
+    },
+    "DOC": {
+      "symbol": "DOC",
+      "name": "Healthpeak Properties, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Real Estate",
+      "industry": "REIT—Healthcare Facilities",
+      "profile": "Healthpeak Properties, Inc.，在NYSE上市，属于房地产板块，细分行业是房地产投资信托基金——医疗保健设施，主要业务围绕房地产投资信托基金——医疗保健设施展开。"
+    },
+    "DOV": {
+      "symbol": "DOV",
+      "name": "Dover Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "profile": "Dover Corporation，在NYSE上市，属于工业板块，细分行业是特种工业机械，主要业务围绕特种工业机械展开。"
+    },
+    "DOW": {
+      "symbol": "DOW",
+      "name": "Dow Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Basic Materials",
+      "industry": "Chemicals",
+      "profile": "Dow Inc.，在NYSE上市，属于基础材料板块，细分行业是化学品，主要业务围绕化学品展开。"
+    },
+    "DPZ": {
+      "symbol": "DPZ",
+      "name": "Domino's Pizza, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Restaurants",
+      "profile": "Domino's Pizza, Inc.，在NASDAQ上市，属于可选消费板块，细分行业是餐厅，主要业务围绕餐厅展开。"
+    },
+    "DRAM": {
+      "symbol": "DRAM",
+      "name": "Roundhill Memory ETF",
+      "exchange": "BATS Trading",
+      "quoteType": "ETF",
+      "sector": "",
+      "industry": "",
+      "profile": "Roundhill Memory ETF，是在BATS Trading上市的 ETF，用来跟踪一篮子资产或某个主题指数。"
+    },
+    "DRI": {
+      "symbol": "DRI",
+      "name": "Darden Restaurants, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Restaurants",
+      "profile": "Darden Restaurants, Inc.，在NYSE上市，属于可选消费板块，细分行业是餐厅，主要业务围绕餐厅展开。"
+    },
+    "DTE": {
+      "symbol": "DTE",
+      "name": "DTE Energy Company",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Utilities",
+      "industry": "Utilities—Regulated Electric",
+      "profile": "DTE Energy Company，在NYSE上市，属于公用事业板块，细分行业是公用事业——受监管的电力，主要业务围绕公用事业——受监管的电力展开。"
+    },
+    "DUK": {
+      "symbol": "DUK",
+      "name": "Duke Energy Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Utilities",
+      "industry": "Utilities—Regulated Electric",
+      "profile": "Duke Energy Corporation，在NYSE上市，属于公用事业板块，细分行业是公用事业——受监管的电力，主要业务围绕公用事业——受监管的电力展开。"
+    },
+    "DVA": {
+      "symbol": "DVA",
+      "name": "DaVita Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Medical Care Facilities",
+      "profile": "DaVita Inc.，在NYSE上市，属于医疗健康板块，细分行业是医疗设施，主要业务围绕医疗设施展开。"
+    },
+    "DVN": {
+      "symbol": "DVN",
+      "name": "Devon Energy Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Energy",
+      "industry": "Oil & Gas E&P",
+      "profile": "Devon Energy Corporation，在NYSE上市，属于能源板块，细分行业是油气勘探与生产，主要业务围绕油气勘探与生产展开。"
+    },
+    "DXCM": {
+      "symbol": "DXCM",
+      "name": "DexCom, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Medical Devices",
+      "profile": "DexCom, Inc.，在NASDAQ上市，属于医疗健康板块，细分行业是医疗器械，主要业务围绕医疗器械展开。"
+    },
+    "EA": {
+      "symbol": "EA",
+      "name": "Electronic Arts Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Communication Services",
+      "industry": "Electronic Gaming & Multimedia",
+      "profile": "Electronic Arts Inc.，在NASDAQ上市，属于通信服务板块，细分行业是电子游戏和多媒体，主要业务围绕电子游戏和多媒体展开。"
+    },
+    "EBAY": {
+      "symbol": "EBAY",
+      "name": "eBay Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Internet Retail",
+      "profile": "eBay Inc.，在NASDAQ上市，属于可选消费板块，细分行业是网络零售，主要业务围绕网络零售展开。"
+    },
+    "ECL": {
+      "symbol": "ECL",
+      "name": "Ecolab Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Basic Materials",
+      "industry": "Specialty Chemicals",
+      "profile": "Ecolab Inc.，在NYSE上市，属于基础材料板块，细分行业是特种化学品，主要业务围绕特种化学品展开。"
+    },
+    "ED": {
+      "symbol": "ED",
+      "name": "Consolidated Edison, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Utilities",
+      "industry": "Utilities—Regulated Electric",
+      "profile": "Consolidated Edison, Inc.，在NYSE上市，属于公用事业板块，细分行业是公用事业——受监管的电力，主要业务围绕公用事业——受监管的电力展开。"
+    },
+    "EFX": {
+      "symbol": "EFX",
+      "name": "Equifax Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Consulting Services",
+      "profile": "Equifax Inc.，在NYSE上市，属于工业板块，细分行业是咨询服务，主要业务围绕咨询服务展开。"
+    },
+    "EG": {
+      "symbol": "EG",
+      "name": "Everest Group, Ltd.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Insurance—Reinsurance",
+      "profile": "Everest Group, Ltd.，在NYSE上市，属于金融服务板块，细分行业是保险—再保险，主要业务围绕保险—再保险展开。"
+    },
+    "EIX": {
+      "symbol": "EIX",
+      "name": "Edison International",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Utilities",
+      "industry": "Utilities—Regulated Electric",
+      "profile": "Edison International，在NYSE上市，属于公用事业板块，细分行业是公用事业——受监管的电力，主要业务围绕公用事业——受监管的电力展开。"
+    },
+    "EL": {
+      "symbol": "EL",
+      "name": "The Estée Lauder Companies Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Household & Personal Products",
+      "profile": "The Estée Lauder Companies Inc.，在NYSE上市，属于必需消费板块，细分行业是家居及个人产品，主要业务围绕家居及个人产品展开。"
+    },
+    "ELV": {
+      "symbol": "ELV",
+      "name": "Elevance Health, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Healthcare Plans",
+      "profile": "Elevance Health, Inc.，在NYSE上市，属于医疗健康板块，细分行业是医疗保健计划，主要业务围绕医疗保健计划展开。"
+    },
+    "EME": {
+      "symbol": "EME",
+      "name": "EMCOR Group, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Engineering & Construction",
+      "profile": "EMCOR Group, Inc.，在NYSE上市，属于工业板块，细分行业是工程与建筑，主要业务围绕工程与建筑展开。"
+    },
+    "EMR": {
+      "symbol": "EMR",
+      "name": "Emerson Electric Co.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "profile": "Emerson Electric Co.，在NYSE上市，属于工业板块，细分行业是特种工业机械，主要业务围绕特种工业机械展开。"
+    },
+    "EOG": {
+      "symbol": "EOG",
+      "name": "EOG Resources, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Energy",
+      "industry": "Oil & Gas E&P",
+      "profile": "EOG Resources, Inc.，在NYSE上市，属于能源板块，细分行业是油气勘探与生产，主要业务围绕油气勘探与生产展开。"
+    },
+    "EPAM": {
+      "symbol": "EPAM",
+      "name": "EPAM Systems, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "profile": "EPAM Systems, Inc.，在NYSE上市，属于科技板块，细分行业是信息技术服务，主要业务围绕信息技术服务展开。"
+    },
+    "EQIX": {
+      "symbol": "EQIX",
+      "name": "Equinix, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Real Estate",
+      "industry": "REIT—Specialty",
+      "profile": "Equinix, Inc.，在NASDAQ上市，属于房地产板块，细分行业是房地产投资信托基金——专业，主要业务围绕房地产投资信托基金——专业展开。"
+    },
+    "EQR": {
+      "symbol": "EQR",
+      "name": "Equity Residential",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Real Estate",
+      "industry": "REIT—Residential",
+      "profile": "Equity Residential，在NYSE上市，属于房地产板块，细分行业是REIT——住宅，主要业务围绕REIT——住宅展开。"
+    },
+    "EQT": {
+      "symbol": "EQT",
+      "name": "EQT Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Energy",
+      "industry": "Oil & Gas E&P",
+      "profile": "EQT Corporation，在NYSE上市，属于能源板块，细分行业是油气勘探与生产，主要业务围绕油气勘探与生产展开。"
+    },
+    "ERIE": {
+      "symbol": "ERIE",
+      "name": "Erie Indemnity Company",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Insurance Brokers",
+      "profile": "Erie Indemnity Company，在NASDAQ上市，属于金融服务板块，细分行业是保险经纪人，主要业务围绕保险经纪人展开。"
+    },
+    "ES": {
+      "symbol": "ES",
+      "name": "Eversource Energy",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Utilities",
+      "industry": "Utilities—Regulated Electric",
+      "profile": "Eversource Energy，在NYSE上市，属于公用事业板块，细分行业是公用事业——受监管的电力，主要业务围绕公用事业——受监管的电力展开。"
+    },
+    "ESS": {
+      "symbol": "ESS",
+      "name": "Essex Property Trust, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Real Estate",
+      "industry": "REIT—Residential",
+      "profile": "Essex Property Trust, Inc.，在NYSE上市，属于房地产板块，细分行业是REIT——住宅，主要业务围绕REIT——住宅展开。"
+    },
+    "ETN": {
+      "symbol": "ETN",
+      "name": "Eaton Corporation plc",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "profile": "Eaton Corporation plc，在NYSE上市，属于工业板块，细分行业是特种工业机械，主要业务围绕特种工业机械展开。"
+    },
+    "ETR": {
+      "symbol": "ETR",
+      "name": "Entergy Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Utilities",
+      "industry": "Utilities—Regulated Electric",
+      "profile": "Entergy Corporation，在NYSE上市，属于公用事业板块，细分行业是公用事业——受监管的电力，主要业务围绕公用事业——受监管的电力展开。"
+    },
+    "EVRG": {
+      "symbol": "EVRG",
+      "name": "Evergy, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Utilities",
+      "industry": "Utilities—Regulated Electric",
+      "profile": "Evergy, Inc.，在NASDAQ上市，属于公用事业板块，细分行业是公用事业——受监管的电力，主要业务围绕公用事业——受监管的电力展开。"
+    },
+    "EW": {
+      "symbol": "EW",
+      "name": "Edwards Lifesciences Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Medical Devices",
+      "profile": "Edwards Lifesciences Corporation，在NYSE上市，属于医疗健康板块，细分行业是医疗器械，主要业务围绕医疗器械展开。"
+    },
+    "EXC": {
+      "symbol": "EXC",
+      "name": "Exelon Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Utilities",
+      "industry": "Utilities—Regulated Electric",
+      "profile": "Exelon Corporation，在NASDAQ上市，属于公用事业板块，细分行业是公用事业——受监管的电力，主要业务围绕公用事业——受监管的电力展开。"
+    },
+    "EXE": {
+      "symbol": "EXE",
+      "name": "Expand Energy Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Energy",
+      "industry": "Oil & Gas E&P",
+      "profile": "Expand Energy Corporation，在NASDAQ上市，属于能源板块，细分行业是油气勘探与生产，主要业务围绕油气勘探与生产展开。"
+    },
+    "EXPD": {
+      "symbol": "EXPD",
+      "name": "Expeditors International of Washington, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Integrated Freight & Logistics",
+      "profile": "Expeditors International of Washington, Inc.，在NYSE上市，属于工业板块，细分行业是综合货运及物流，主要业务围绕综合货运及物流展开。"
+    },
+    "EXPE": {
+      "symbol": "EXPE",
+      "name": "Expedia Group, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Travel Services",
+      "profile": "Expedia Group, Inc.，在NASDAQ上市，属于可选消费板块，细分行业是旅游服务，主要业务围绕旅游服务展开。"
+    },
+    "EXR": {
+      "symbol": "EXR",
+      "name": "Extra Space Storage Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Real Estate",
+      "industry": "REIT—Industrial",
+      "profile": "Extra Space Storage Inc.，在NYSE上市，属于房地产板块，细分行业是房地产投资信托基金——工业，主要业务围绕房地产投资信托基金——工业展开。"
+    },
+    "F": {
+      "symbol": "F",
+      "name": "Ford Motor Company",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers",
+      "profile": "Ford Motor Company，在NYSE上市，属于可选消费板块，细分行业是汽车制造商，主要业务围绕汽车制造商展开。"
+    },
+    "FANG": {
+      "symbol": "FANG",
+      "name": "Diamondback Energy, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Energy",
+      "industry": "Oil & Gas E&P",
+      "profile": "Diamondback Energy, Inc.，在NASDAQ上市，属于能源板块，细分行业是油气勘探与生产，主要业务围绕油气勘探与生产展开。"
+    },
+    "FAST": {
+      "symbol": "FAST",
+      "name": "Fastenal Company",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Industrial Distribution",
+      "profile": "Fastenal Company，在NASDAQ上市，属于工业板块，细分行业是产业分布，主要业务围绕产业分布展开。"
+    },
+    "FCX": {
+      "symbol": "FCX",
+      "name": "Freeport-McMoRan Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Basic Materials",
+      "industry": "Copper",
+      "profile": "Freeport-McMoRan Inc.，在NYSE上市，属于基础材料板块，细分行业是铜，主要业务围绕铜展开。"
+    },
+    "FDS": {
+      "symbol": "FDS",
+      "name": "FactSet Research Systems Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Financial Data & Stock Exchanges",
+      "profile": "FactSet Research Systems Inc.，在NYSE上市，属于金融服务板块，细分行业是财务数据和证券交易所，主要业务围绕财务数据和证券交易所展开。"
+    },
+    "FDX": {
+      "symbol": "FDX",
+      "name": "FedEx Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Integrated Freight & Logistics",
+      "profile": "FedEx Corporation，在NYSE上市，属于工业板块，细分行业是综合货运及物流，主要业务围绕综合货运及物流展开。"
+    },
+    "FE": {
+      "symbol": "FE",
+      "name": "FirstEnergy Corp.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Utilities",
+      "industry": "Utilities—Regulated Electric",
+      "profile": "FirstEnergy Corp.，在NYSE上市，属于公用事业板块，细分行业是公用事业——受监管的电力，主要业务围绕公用事业——受监管的电力展开。"
+    },
+    "FER": {
+      "symbol": "FER",
+      "name": "Ferrovial N.V.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Engineering & Construction",
+      "profile": "Ferrovial N.V.，在NASDAQ上市，属于工业板块，细分行业是工程与建筑，主要业务围绕工程与建筑展开。"
+    },
+    "FFIV": {
+      "symbol": "FFIV",
+      "name": "F5, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Infrastructure",
+      "profile": "F5, Inc.，在NASDAQ上市，属于科技板块，细分行业是软件—基础设施，主要业务围绕软件—基础设施展开。"
+    },
+    "FICO": {
+      "symbol": "FICO",
+      "name": "Fair Isaac Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Application",
+      "profile": "Fair Isaac Corporation，在NYSE上市，属于科技板块，细分行业是软件—应用，主要业务围绕软件—应用展开。"
+    },
+    "FIS": {
+      "symbol": "FIS",
+      "name": "Fidelity National Information Services, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "profile": "Fidelity National Information Services, Inc.，在NYSE上市，属于科技板块，细分行业是信息技术服务，主要业务围绕信息技术服务展开。"
+    },
+    "FISV": {
+      "symbol": "FISV",
+      "name": "Fiserv, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "profile": "Fiserv, Inc.，在NASDAQ上市，属于科技板块，细分行业是信息技术服务，主要业务围绕信息技术服务展开。"
+    },
+    "FITB": {
+      "symbol": "FITB",
+      "name": "Fifth Third Bancorp",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Banks—Regional",
+      "profile": "Fifth Third Bancorp，在NASDAQ上市，属于金融服务板块，细分行业是银行——区域性，主要业务围绕银行——区域性展开。"
+    },
+    "FIX": {
+      "symbol": "FIX",
+      "name": "Comfort Systems USA, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Engineering & Construction",
+      "profile": "Comfort Systems USA, Inc.，在NYSE上市，属于工业板块，细分行业是工程与建筑，主要业务围绕工程与建筑展开。"
+    },
+    "FLY": {
+      "symbol": "FLY",
+      "name": "Firefly Aerospace Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "profile": "Firefly Aerospace Inc.，在NASDAQ上市，属于工业板块，细分行业是航空航天与国防，主要业务围绕航空航天与国防展开。"
+    },
+    "FORM": {
+      "symbol": "FORM",
+      "name": "FormFactor, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Semiconductor Equipment & Materials",
+      "profile": "FormFactor, Inc.，在NASDAQ上市，属于科技板块，细分行业是半导体设备与材料，主要业务围绕半导体设备与材料展开。"
+    },
+    "FOX": {
+      "symbol": "FOX",
+      "name": "Fox Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Communication Services",
+      "industry": "Entertainment",
+      "profile": "Fox Corporation，在NASDAQ上市，属于通信服务板块，细分行业是娱乐，主要业务围绕娱乐展开。"
+    },
+    "FOXA": {
+      "symbol": "FOXA",
+      "name": "Fox Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Communication Services",
+      "industry": "Entertainment",
+      "profile": "Fox Corporation，在NASDAQ上市，属于通信服务板块，细分行业是娱乐，主要业务围绕娱乐展开。"
+    },
+    "FRO": {
+      "symbol": "FRO",
+      "name": "Frontline plc",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Energy",
+      "industry": "Oil & Gas Midstream",
+      "profile": "Frontline plc，在NYSE上市，属于能源板块，细分行业是石油和天然气中游，主要业务围绕石油和天然气中游展开。"
+    },
+    "FRT": {
+      "symbol": "FRT",
+      "name": "Federal Realty Investment Trust",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Real Estate",
+      "industry": "REIT—Retail",
+      "profile": "Federal Realty Investment Trust，在NYSE上市，属于房地产板块，细分行业是房地产投资信托基金——零售，主要业务围绕房地产投资信托基金——零售展开。"
+    },
+    "FSLR": {
+      "symbol": "FSLR",
+      "name": "First Solar, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Solar",
+      "profile": "First Solar, Inc.，在NASDAQ上市，属于科技板块，细分行业是太阳的，主要业务围绕太阳的展开。"
+    },
+    "FSLY": {
+      "symbol": "FSLY",
+      "name": "Fastly, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Application",
+      "profile": "Fastly, Inc.，在NASDAQ上市，属于科技板块，细分行业是软件—应用，主要业务围绕软件—应用展开。"
+    },
+    "FTNT": {
+      "symbol": "FTNT",
+      "name": "Fortinet, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Infrastructure",
+      "profile": "Fortinet, Inc.，在NASDAQ上市，属于科技板块，细分行业是软件—基础设施，主要业务围绕软件—基础设施展开。"
+    },
+    "FTV": {
+      "symbol": "FTV",
+      "name": "Fortive Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Scientific & Technical Instruments",
+      "profile": "Fortive Corporation，在NYSE上市，属于科技板块，细分行业是科学技术仪器，主要业务围绕科学技术仪器展开。"
+    },
+    "GD": {
+      "symbol": "GD",
+      "name": "General Dynamics Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "profile": "General Dynamics Corporation，在NYSE上市，属于工业板块，细分行业是航空航天与国防，主要业务围绕航空航天与国防展开。"
+    },
+    "GDDY": {
+      "symbol": "GDDY",
+      "name": "GoDaddy Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Infrastructure",
+      "profile": "GoDaddy Inc.，在NYSE上市，属于科技板块，细分行业是软件—基础设施，主要业务围绕软件—基础设施展开。"
+    },
+    "GE": {
+      "symbol": "GE",
+      "name": "GE Aerospace",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "profile": "GE Aerospace，在NYSE上市，属于工业板块，细分行业是航空航天与国防，主要业务围绕航空航天与国防展开。"
+    },
+    "GEHC": {
+      "symbol": "GEHC",
+      "name": "GE HealthCare Technologies Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Medical Devices",
+      "profile": "GE HealthCare Technologies Inc.，在NASDAQ上市，属于医疗健康板块，细分行业是医疗器械，主要业务围绕医疗器械展开。"
+    },
+    "GEN": {
+      "symbol": "GEN",
+      "name": "Gen Digital Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Infrastructure",
+      "profile": "Gen Digital Inc.，在NASDAQ上市，属于科技板块，细分行业是软件—基础设施，主要业务围绕软件—基础设施展开。"
+    },
+    "GEV": {
+      "symbol": "GEV",
+      "name": "GE Vernova Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "profile": "GE Vernova Inc.，在NYSE上市，属于工业板块，细分行业是特种工业机械，主要业务围绕特种工业机械展开。"
+    },
+    "GILD": {
+      "symbol": "GILD",
+      "name": "Gilead Sciences, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers—General",
+      "profile": "Gilead Sciences, Inc.，在NASDAQ上市，属于医疗健康板块，细分行业是药品制造商——一般，主要业务围绕药品制造商——一般展开。"
+    },
+    "GIS": {
+      "symbol": "GIS",
+      "name": "General Mills, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "profile": "General Mills, Inc.，在NYSE上市，属于必需消费板块，细分行业是包装食品，主要业务围绕包装食品展开。"
+    },
+    "GL": {
+      "symbol": "GL",
+      "name": "Globe Life Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Insurance—Life",
+      "profile": "Globe Life Inc.，在NYSE上市，属于金融服务板块，细分行业是保险—人寿，主要业务围绕保险—人寿展开。"
+    },
+    "GLD": {
+      "symbol": "GLD",
+      "name": "SPDR Gold Shares",
+      "exchange": "NYSEArca",
+      "quoteType": "ETF",
+      "sector": "",
+      "industry": "",
+      "profile": "SPDR Gold Shares，是在NYSEArca上市的 ETF，用来跟踪一篮子资产或某个主题指数。"
+    },
+    "GLW": {
+      "symbol": "GLW",
+      "name": "Corning Incorporated",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Electronic Components",
+      "profile": "Corning Incorporated，在NYSE上市，属于科技板块，细分行业是电子元件，主要业务围绕电子元件展开。"
+    },
+    "GM": {
+      "symbol": "GM",
+      "name": "General Motors Company",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers",
+      "profile": "General Motors Company，在NYSE上市，属于可选消费板块，细分行业是汽车制造商，主要业务围绕汽车制造商展开。"
+    },
+    "GNRC": {
+      "symbol": "GNRC",
+      "name": "Generac Holdings Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "profile": "Generac Holdings Inc.，在NYSE上市，属于工业板块，细分行业是特种工业机械，主要业务围绕特种工业机械展开。"
+    },
+    "GOOG": {
+      "symbol": "GOOG",
+      "name": "Alphabet Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Communication Services",
+      "industry": "Internet Content & Information",
+      "profile": "Alphabet Inc.，在NASDAQ上市，属于通信服务板块，细分行业是互联网内容与信息服务，主要业务围绕互联网内容与信息服务展开。"
+    },
+    "GOOGL": {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Communication Services",
+      "industry": "Internet Content & Information",
+      "profile": "Alphabet Inc.，在NASDAQ上市，属于通信服务板块，细分行业是互联网内容与信息服务，主要业务围绕互联网内容与信息服务展开。"
+    },
+    "GPC": {
+      "symbol": "GPC",
+      "name": "Genuine Parts Company",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Parts",
+      "profile": "Genuine Parts Company，在NYSE上市，属于可选消费板块，细分行业是汽车配件，主要业务围绕汽车配件展开。"
+    },
+    "GPN": {
+      "symbol": "GPN",
+      "name": "Global Payments Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Specialty Business Services",
+      "profile": "Global Payments Inc.，在NYSE上市，属于工业板块，细分行业是专业商业服务，主要业务围绕专业商业服务展开。"
+    },
+    "GRMN": {
+      "symbol": "GRMN",
+      "name": "Garmin Ltd.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Scientific & Technical Instruments",
+      "profile": "Garmin Ltd.，在NYSE上市，属于科技板块，细分行业是科学技术仪器，主要业务围绕科学技术仪器展开。"
+    },
+    "GS": {
+      "symbol": "GS",
+      "name": "The Goldman Sachs Group, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Capital Markets",
+      "profile": "The Goldman Sachs Group, Inc.，在NYSE上市，属于金融服务板块，细分行业是资本市场，主要业务围绕资本市场展开。"
+    },
+    "GWW": {
+      "symbol": "GWW",
+      "name": "W.W. Grainger, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Industrial Distribution",
+      "profile": "W.W. Grainger, Inc.，在NYSE上市，属于工业板块，细分行业是产业分布，主要业务围绕产业分布展开。"
+    },
+    "HAL": {
+      "symbol": "HAL",
+      "name": "Halliburton Company",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Energy",
+      "industry": "Oil & Gas Equipment & Services",
+      "profile": "Halliburton Company，在NYSE上市，属于能源板块，细分行业是油服与能源设备，主要业务围绕油服与能源设备展开。"
+    },
+    "HAS": {
+      "symbol": "HAS",
+      "name": "Hasbro, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Leisure",
+      "profile": "Hasbro, Inc.，在NASDAQ上市，属于可选消费板块，细分行业是闲暇，主要业务围绕闲暇展开。"
+    },
+    "HBAN": {
+      "symbol": "HBAN",
+      "name": "Huntington Bancshares Incorporated",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Banks—Regional",
+      "profile": "Huntington Bancshares Incorporated，在NASDAQ上市，属于金融服务板块，细分行业是银行——区域性，主要业务围绕银行——区域性展开。"
+    },
+    "HCA": {
+      "symbol": "HCA",
+      "name": "HCA Healthcare, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Medical Care Facilities",
+      "profile": "HCA Healthcare, Inc.，在NYSE上市，属于医疗健康板块，细分行业是医疗设施，主要业务围绕医疗设施展开。"
+    },
+    "HD": {
+      "symbol": "HD",
+      "name": "The Home Depot, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Home Improvement Retail",
+      "profile": "The Home Depot, Inc.，在NYSE上市，属于可选消费板块，细分行业是家居装修零售，主要业务围绕家居装修零售展开。"
+    },
+    "HIG": {
+      "symbol": "HIG",
+      "name": "The Hartford Insurance Group, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Insurance—Diversified",
+      "profile": "The Hartford Insurance Group, Inc.，在NYSE上市，属于金融服务板块，细分行业是保险——多元化，主要业务围绕保险——多元化展开。"
+    },
+    "HII": {
+      "symbol": "HII",
+      "name": "Huntington Ingalls Industries, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "profile": "Huntington Ingalls Industries, Inc.，在NYSE上市，属于工业板块，细分行业是航空航天与国防，主要业务围绕航空航天与国防展开。"
+    },
+    "HLT": {
+      "symbol": "HLT",
+      "name": "Hilton Worldwide Holdings Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Lodging",
+      "profile": "Hilton Worldwide Holdings Inc.，在NYSE上市，属于可选消费板块，细分行业是住宿，主要业务围绕住宿展开。"
+    },
+    "HON": {
+      "symbol": "HON",
+      "name": "Honeywell International Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Conglomerates",
+      "profile": "Honeywell International Inc.，在NASDAQ上市，属于工业板块，细分行业是企业集团，主要业务围绕企业集团展开。"
+    },
+    "HOOD": {
+      "symbol": "HOOD",
+      "name": "Robinhood Markets, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Capital Markets",
+      "profile": "Robinhood Markets, Inc.，在NASDAQ上市，属于金融服务板块，细分行业是资本市场，主要业务围绕资本市场展开。"
+    },
+    "HPE": {
+      "symbol": "HPE",
+      "name": "Hewlett Packard Enterprise Company",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Communication Equipment",
+      "profile": "Hewlett Packard Enterprise Company，在NYSE上市，属于科技板块，细分行业是通信设备，主要业务围绕通信设备展开。"
+    },
+    "HPQ": {
+      "symbol": "HPQ",
+      "name": "HP Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Computer Hardware",
+      "profile": "HP Inc.，在NYSE上市，属于科技板块，细分行业是电脑硬件，主要业务围绕电脑硬件展开。"
+    },
+    "HRL": {
+      "symbol": "HRL",
+      "name": "Hormel Foods Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "profile": "Hormel Foods Corporation，在NYSE上市，属于必需消费板块，细分行业是包装食品，主要业务围绕包装食品展开。"
+    },
+    "HSIC": {
+      "symbol": "HSIC",
+      "name": "Henry Schein, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Medical Distribution",
+      "profile": "Henry Schein, Inc.，在NASDAQ上市，属于医疗健康板块，细分行业是医疗配送，主要业务围绕医疗配送展开。"
+    },
+    "HST": {
+      "symbol": "HST",
+      "name": "Host Hotels & Resorts, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Real Estate",
+      "industry": "REIT—Hotel & Motel",
+      "profile": "Host Hotels & Resorts, Inc.，在NASDAQ上市，属于房地产板块，细分行业是房地产投资信托基金——酒店和汽车旅馆，主要业务围绕房地产投资信托基金——酒店和汽车旅馆展开。"
+    },
+    "HSY": {
+      "symbol": "HSY",
+      "name": "The Hershey Company",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Confectioners",
+      "profile": "The Hershey Company，在NYSE上市，属于必需消费板块，细分行业是糖果商，主要业务围绕糖果商展开。"
+    },
+    "HUBB": {
+      "symbol": "HUBB",
+      "name": "Hubbell Incorporated",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Electrical Equipment & Parts",
+      "profile": "Hubbell Incorporated，在NYSE上市，属于工业板块，细分行业是电气设备及零件，主要业务围绕电气设备及零件展开。"
+    },
+    "HUM": {
+      "symbol": "HUM",
+      "name": "Humana Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Healthcare Plans",
+      "profile": "Humana Inc.，在NYSE上市，属于医疗健康板块，细分行业是医疗保健计划，主要业务围绕医疗保健计划展开。"
+    },
+    "HYLN": {
+      "symbol": "HYLN",
+      "name": "Hyliion Holdings Corp.",
+      "exchange": "NYSE MKT",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Parts",
+      "profile": "Hyliion Holdings Corp.，主要从事高关注度成长题材或交易热度较高的个股相关业务。"
+    },
+    "HWM": {
+      "symbol": "HWM",
+      "name": "Howmet Aerospace Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "profile": "Howmet Aerospace Inc.，在NYSE上市，属于工业板块，细分行业是航空航天与国防，主要业务围绕航空航天与国防展开。"
+    },
+    "IBIT": {
+      "symbol": "IBIT",
+      "name": "iShares Bitcoin Trust ETF",
+      "exchange": "NASDAQ",
+      "quoteType": "ETF",
+      "sector": "",
+      "industry": "",
+      "profile": "iShares Bitcoin Trust ETF，是在NASDAQ上市的 ETF，主要提供加密资产与相关金融服务方向的市场敞口。"
+    },
+    "IBKR": {
+      "symbol": "IBKR",
+      "name": "Interactive Brokers Group, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Capital Markets",
+      "profile": "Interactive Brokers Group, Inc.，在NASDAQ上市，属于金融服务板块，细分行业是资本市场，主要业务围绕资本市场展开。"
+    },
+    "IBM": {
+      "symbol": "IBM",
+      "name": "International Business Machines Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "profile": "International Business Machines Corporation，在NYSE上市，属于科技板块，细分行业是信息技术服务，主要业务围绕信息技术服务展开。"
+    },
+    "ICE": {
+      "symbol": "ICE",
+      "name": "Intercontinental Exchange, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Financial Data & Stock Exchanges",
+      "profile": "Intercontinental Exchange, Inc.，在NYSE上市，属于金融服务板块，细分行业是财务数据和证券交易所，主要业务围绕财务数据和证券交易所展开。"
+    },
+    "IDXX": {
+      "symbol": "IDXX",
+      "name": "IDEXX Laboratories, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Diagnostics & Research",
+      "profile": "IDEXX Laboratories, Inc.，在NASDAQ上市，属于医疗健康板块，细分行业是诊断与研究，主要业务围绕诊断与研究展开。"
+    },
+    "IEX": {
+      "symbol": "IEX",
+      "name": "IDEX Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "profile": "IDEX Corporation，在NYSE上市，属于工业板块，细分行业是特种工业机械，主要业务围绕特种工业机械展开。"
+    },
+    "IFF": {
+      "symbol": "IFF",
+      "name": "International Flavors & Fragrances Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Basic Materials",
+      "industry": "Specialty Chemicals",
+      "profile": "International Flavors & Fragrances Inc.，在NYSE上市，属于基础材料板块，细分行业是特种化学品，主要业务围绕特种化学品展开。"
+    },
+    "INCY": {
+      "symbol": "INCY",
+      "name": "Incyte Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Biotechnology",
+      "profile": "Incyte Corporation，在NASDAQ上市，属于医疗健康板块，细分行业是生物技术，主要业务围绕生物技术展开。"
+    },
+    "INSM": {
+      "symbol": "INSM",
+      "name": "Insmed Incorporated",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Biotechnology",
+      "profile": "Insmed Incorporated，在NASDAQ上市，属于医疗健康板块，细分行业是生物技术，主要业务围绕生物技术展开。"
+    },
+    "INTC": {
+      "symbol": "INTC",
+      "name": "Intel Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "profile": "Intel Corporation，在NASDAQ上市，属于科技板块，细分行业是半导体，主要业务围绕半导体展开。"
+    },
+    "INTU": {
+      "symbol": "INTU",
+      "name": "Intuit Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Application",
+      "profile": "Intuit Inc.，在NASDAQ上市，属于科技板块，细分行业是软件—应用，主要业务围绕软件—应用展开。"
+    },
+    "INVH": {
+      "symbol": "INVH",
+      "name": "Invitation Homes Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Real Estate",
+      "industry": "REIT—Residential",
+      "profile": "Invitation Homes Inc.，在NYSE上市，属于房地产板块，细分行业是REIT——住宅，主要业务围绕REIT——住宅展开。"
+    },
+    "IONQ": {
+      "symbol": "IONQ",
+      "name": "IonQ, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Computer Hardware",
+      "profile": "IonQ, Inc.，在NYSE上市，属于科技板块，细分行业是电脑硬件，主要业务围绕电脑硬件展开。"
+    },
+    "IP": {
+      "symbol": "IP",
+      "name": "International Paper Company",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Packaging & Containers",
+      "profile": "International Paper Company，在NYSE上市，属于可选消费板块，细分行业是包装与容器，主要业务围绕包装与容器展开。"
+    },
+    "IQV": {
+      "symbol": "IQV",
+      "name": "IQVIA Holdings Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Diagnostics & Research",
+      "profile": "IQVIA Holdings Inc.，在NYSE上市，属于医疗健康板块，细分行业是诊断与研究，主要业务围绕诊断与研究展开。"
+    },
+    "IR": {
+      "symbol": "IR",
+      "name": "Ingersoll Rand Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "profile": "Ingersoll Rand Inc.，在NYSE上市，属于工业板块，细分行业是特种工业机械，主要业务围绕特种工业机械展开。"
+    },
+    "IRM": {
+      "symbol": "IRM",
+      "name": "Iron Mountain Incorporated",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Real Estate",
+      "industry": "REIT—Specialty",
+      "profile": "Iron Mountain Incorporated，在NYSE上市，属于房地产板块，细分行业是房地产投资信托基金——专业，主要业务围绕房地产投资信托基金——专业展开。"
+    },
+    "ISRG": {
+      "symbol": "ISRG",
+      "name": "Intuitive Surgical, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Medical Instruments & Supplies",
+      "profile": "Intuitive Surgical, Inc.，在NASDAQ上市，属于医疗健康板块，细分行业是医疗器械及用品，主要业务围绕医疗器械及用品展开。"
+    },
+    "IT": {
+      "symbol": "IT",
+      "name": "Gartner, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "profile": "Gartner, Inc.，在NYSE上市，属于科技板块，细分行业是信息技术服务，主要业务围绕信息技术服务展开。"
+    },
+    "ITW": {
+      "symbol": "ITW",
+      "name": "Illinois Tool Works Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "profile": "Illinois Tool Works Inc.，在NYSE上市，属于工业板块，细分行业是特种工业机械，主要业务围绕特种工业机械展开。"
+    },
+    "IVZ": {
+      "symbol": "IVZ",
+      "name": "Invesco Ltd.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Asset Management",
+      "profile": "Invesco Ltd.，在NYSE上市，属于金融服务板块，细分行业是资产管理，主要业务围绕资产管理展开。"
+    },
+    "J": {
+      "symbol": "J",
+      "name": "Jacobs Solutions Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Engineering & Construction",
+      "profile": "Jacobs Solutions Inc.，在NYSE上市，属于工业板块，细分行业是工程与建筑，主要业务围绕工程与建筑展开。"
+    },
+    "JBHT": {
+      "symbol": "JBHT",
+      "name": "J.B. Hunt Transport Services, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Integrated Freight & Logistics",
+      "profile": "J.B. Hunt Transport Services, Inc.，在NASDAQ上市，属于工业板块，细分行业是综合货运及物流，主要业务围绕综合货运及物流展开。"
+    },
+    "JBL": {
+      "symbol": "JBL",
+      "name": "Jabil Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Electronic Components",
+      "profile": "Jabil Inc.，在NYSE上市，属于科技板块，细分行业是电子元件，主要业务围绕电子元件展开。"
+    },
+    "JCI": {
+      "symbol": "JCI",
+      "name": "Johnson Controls International plc",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Building Products & Equipment",
+      "profile": "Johnson Controls International plc，在NYSE上市，属于工业板块，细分行业是建筑产品和设备，主要业务围绕建筑产品和设备展开。"
+    },
+    "JKHY": {
+      "symbol": "JKHY",
+      "name": "Jack Henry & Associates, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "profile": "Jack Henry & Associates, Inc.，在NASDAQ上市，属于科技板块，细分行业是信息技术服务，主要业务围绕信息技术服务展开。"
+    },
+    "JNJ": {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers—General",
+      "profile": "Johnson & Johnson，在NYSE上市，属于医疗健康板块，细分行业是药品制造商——一般，主要业务围绕药品制造商——一般展开。"
+    },
+    "JPM": {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Banks—Diversified",
+      "profile": "JPMorgan Chase & Co.，在NYSE上市，属于金融服务板块，细分行业是银行——多元化，主要业务围绕银行——多元化展开。"
+    },
+    "KDP": {
+      "symbol": "KDP",
+      "name": "Keurig Dr Pepper Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Beverages—Non—Alcoholic",
+      "profile": "Keurig Dr Pepper Inc.，在NASDAQ上市，属于必需消费板块，细分行业是饮料——非酒精类，主要业务围绕饮料——非酒精类展开。"
+    },
+    "KEY": {
+      "symbol": "KEY",
+      "name": "KeyCorp",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Banks—Regional",
+      "profile": "KeyCorp，在NYSE上市，属于金融服务板块，细分行业是银行——区域性，主要业务围绕银行——区域性展开。"
+    },
+    "KEYS": {
+      "symbol": "KEYS",
+      "name": "Keysight Technologies, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Scientific & Technical Instruments",
+      "profile": "Keysight Technologies, Inc.，在NYSE上市，属于科技板块，细分行业是科学技术仪器，主要业务围绕科学技术仪器展开。"
+    },
+    "KHC": {
+      "symbol": "KHC",
+      "name": "The Kraft Heinz Company",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "profile": "The Kraft Heinz Company，在NASDAQ上市，属于必需消费板块，细分行业是包装食品，主要业务围绕包装食品展开。"
+    },
+    "KIM": {
+      "symbol": "KIM",
+      "name": "Kimco Realty Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Real Estate",
+      "industry": "REIT—Retail",
+      "profile": "Kimco Realty Corporation，在NYSE上市，属于房地产板块，细分行业是房地产投资信托基金——零售，主要业务围绕房地产投资信托基金——零售展开。"
+    },
+    "KKR": {
+      "symbol": "KKR",
+      "name": "KKR & Co. Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Asset Management",
+      "profile": "KKR & Co. Inc.，在NYSE上市，属于金融服务板块，细分行业是资产管理，主要业务围绕资产管理展开。"
+    },
+    "KLAC": {
+      "symbol": "KLAC",
+      "name": "KLA Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Semiconductor Equipment & Materials",
+      "profile": "KLA Corporation，在NASDAQ上市，属于科技板块，细分行业是半导体设备与材料，主要业务围绕半导体设备与材料展开。"
+    },
+    "KMB": {
+      "symbol": "KMB",
+      "name": "Kimberly-Clark Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Household & Personal Products",
+      "profile": "Kimberly-Clark Corporation，在NASDAQ上市，属于必需消费板块，细分行业是家居及个人产品，主要业务围绕家居及个人产品展开。"
+    },
+    "KMI": {
+      "symbol": "KMI",
+      "name": "Kinder Morgan, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Energy",
+      "industry": "Oil & Gas Midstream",
+      "profile": "Kinder Morgan, Inc.，在NYSE上市，属于能源板块，细分行业是石油和天然气中游，主要业务围绕石油和天然气中游展开。"
+    },
+    "KO": {
+      "symbol": "KO",
+      "name": "The Coca-Cola Company",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Beverages—Non—Alcoholic",
+      "profile": "The Coca-Cola Company，在NYSE上市，属于必需消费板块，细分行业是饮料——非酒精类，主要业务围绕饮料——非酒精类展开。"
+    },
+    "KR": {
+      "symbol": "KR",
+      "name": "The Kroger Co.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Grocery Stores",
+      "profile": "The Kroger Co.，在NYSE上市，属于必需消费板块，细分行业是杂货店，主要业务围绕杂货店展开。"
+    },
+    "KVUE": {
+      "symbol": "KVUE",
+      "name": "Kenvue Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Household & Personal Products",
+      "profile": "Kenvue Inc.，在NYSE上市，属于必需消费板块，细分行业是家居及个人产品，主要业务围绕家居及个人产品展开。"
+    },
+    "L": {
+      "symbol": "L",
+      "name": "Loews Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Insurance—Property & Casualty",
+      "profile": "Loews Corporation，在NYSE上市，属于金融服务板块，细分行业是保险——财产与意外伤害，主要业务围绕保险——财产与意外伤害展开。"
+    },
+    "LDOS": {
+      "symbol": "LDOS",
+      "name": "Leidos Holdings, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "profile": "Leidos Holdings, Inc.，在NYSE上市，属于科技板块，细分行业是信息技术服务，主要业务围绕信息技术服务展开。"
+    },
+    "LEN": {
+      "symbol": "LEN",
+      "name": "Lennar Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Residential Construction",
+      "profile": "Lennar Corporation，在NYSE上市，属于可选消费板块，细分行业是住宅建设，主要业务围绕住宅建设展开。"
+    },
+    "LH": {
+      "symbol": "LH",
+      "name": "Labcorp Holdings Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Diagnostics & Research",
+      "profile": "Labcorp Holdings Inc.，在NYSE上市，属于医疗健康板块，细分行业是诊断与研究，主要业务围绕诊断与研究展开。"
+    },
+    "LHX": {
+      "symbol": "LHX",
+      "name": "L3Harris Technologies, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "profile": "L3Harris Technologies, Inc.，在NYSE上市，属于工业板块，细分行业是航空航天与国防，主要业务围绕航空航天与国防展开。"
+    },
+    "LII": {
+      "symbol": "LII",
+      "name": "Lennox International Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Building Products & Equipment",
+      "profile": "Lennox International Inc.，在NYSE上市，属于工业板块，细分行业是建筑产品和设备，主要业务围绕建筑产品和设备展开。"
+    },
+    "LIN": {
+      "symbol": "LIN",
+      "name": "Linde plc",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Basic Materials",
+      "industry": "Specialty Chemicals",
+      "profile": "Linde plc，在NASDAQ上市，属于基础材料板块，细分行业是特种化学品，主要业务围绕特种化学品展开。"
+    },
+    "LITE": {
+      "symbol": "LITE",
+      "name": "Lumentum Holdings Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Communication Equipment",
+      "profile": "Lumentum Holdings Inc.，在NASDAQ上市，属于科技板块，细分行业是通信设备，主要业务围绕通信设备展开。"
+    },
+    "LLY": {
+      "symbol": "LLY",
+      "name": "Eli Lilly and Company",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers—General",
+      "profile": "Eli Lilly and Company，在NYSE上市，属于医疗健康板块，细分行业是药品制造商——一般，主要业务围绕药品制造商——一般展开。"
+    },
+    "LMND": {
+      "symbol": "LMND",
+      "name": "Lemonade, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Insurance—Property & Casualty",
+      "profile": "Lemonade, Inc.，在NYSE上市，属于金融服务板块，细分行业是保险——财产与意外伤害，主要业务围绕保险——财产与意外伤害展开。"
+    },
+    "LMT": {
+      "symbol": "LMT",
+      "name": "Lockheed Martin Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "profile": "Lockheed Martin Corporation，在NYSE上市，属于工业板块，细分行业是航空航天与国防，主要业务围绕航空航天与国防展开。"
+    },
+    "LNG": {
+      "symbol": "LNG",
+      "name": "Cheniere Energy, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Energy",
+      "industry": "Oil & Gas Midstream",
+      "profile": "Cheniere Energy, Inc.，在NYSE上市，属于能源板块，细分行业是石油和天然气中游，主要业务围绕石油和天然气中游展开。"
+    },
+    "LNT": {
+      "symbol": "LNT",
+      "name": "Alliant Energy Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Utilities",
+      "industry": "Utilities—Regulated Electric",
+      "profile": "Alliant Energy Corporation，在NASDAQ上市，属于公用事业板块，细分行业是公用事业——受监管的电力，主要业务围绕公用事业——受监管的电力展开。"
+    },
+    "LOW": {
+      "symbol": "LOW",
+      "name": "Lowe's Companies, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Home Improvement Retail",
+      "profile": "Lowe's Companies, Inc.，在NYSE上市，属于可选消费板块，细分行业是家居装修零售，主要业务围绕家居装修零售展开。"
+    },
+    "LPTH": {
+      "symbol": "LPTH",
+      "name": "LightPath Technologies, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Electronic Components",
+      "profile": "LightPath Technologies, Inc.，在NASDAQ上市，属于科技板块，细分行业是电子元件，主要业务围绕电子元件展开。"
+    },
+    "LRCX": {
+      "symbol": "LRCX",
+      "name": "Lam Research Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Semiconductor Equipment & Materials",
+      "profile": "Lam Research Corporation，在NASDAQ上市，属于科技板块，细分行业是半导体设备与材料，主要业务围绕半导体设备与材料展开。"
+    },
+    "LULU": {
+      "symbol": "LULU",
+      "name": "lululemon athletica inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Apparel Retail",
+      "profile": "lululemon athletica inc.，在NASDAQ上市，属于可选消费板块，细分行业是服装零售，主要业务围绕服装零售展开。"
+    },
+    "LUNR": {
+      "symbol": "LUNR",
+      "name": "Intuitive Machines, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "profile": "Intuitive Machines, Inc.，在NASDAQ上市，属于工业板块，细分行业是航空航天与国防，主要业务围绕航空航天与国防展开。"
+    },
+    "LUV": {
+      "symbol": "LUV",
+      "name": "Southwest Airlines Co.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Airlines",
+      "profile": "Southwest Airlines Co.，在NYSE上市，属于工业板块，细分行业是航空公司，主要业务围绕航空公司展开。"
+    },
+    "LVS": {
+      "symbol": "LVS",
+      "name": "Las Vegas Sands Corp.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Resorts & Casinos",
+      "profile": "Las Vegas Sands Corp.，在NYSE上市，属于可选消费板块，细分行业是度假村和赌场，主要业务围绕度假村和赌场展开。"
+    },
+    "LYB": {
+      "symbol": "LYB",
+      "name": "LyondellBasell Industries N.V.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Basic Materials",
+      "industry": "Specialty Chemicals",
+      "profile": "LyondellBasell Industries N.V.，在NYSE上市，属于基础材料板块，细分行业是特种化学品，主要业务围绕特种化学品展开。"
+    },
+    "LYV": {
+      "symbol": "LYV",
+      "name": "Live Nation Entertainment, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Communication Services",
+      "industry": "Entertainment",
+      "profile": "Live Nation Entertainment, Inc.，在NYSE上市，属于通信服务板块，细分行业是娱乐，主要业务围绕娱乐展开。"
+    },
+    "MA": {
+      "symbol": "MA",
+      "name": "Mastercard Incorporated",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Credit Services",
+      "profile": "Mastercard Incorporated，在NYSE上市，属于金融服务板块，细分行业是信用服务，主要业务围绕信用服务展开。"
+    },
+    "MAA": {
+      "symbol": "MAA",
+      "name": "Mid-America Apartment Communities, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Real Estate",
+      "industry": "REIT—Residential",
+      "profile": "Mid-America Apartment Communities, Inc.，在NYSE上市，属于房地产板块，细分行业是REIT——住宅，主要业务围绕REIT——住宅展开。"
+    },
+    "MAR": {
+      "symbol": "MAR",
+      "name": "Marriott International, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Lodging",
+      "profile": "Marriott International, Inc.，在NASDAQ上市，属于可选消费板块，细分行业是住宿，主要业务围绕住宿展开。"
+    },
+    "MAS": {
+      "symbol": "MAS",
+      "name": "Masco Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Building Products & Equipment",
+      "profile": "Masco Corporation，在NYSE上市，属于工业板块，细分行业是建筑产品和设备，主要业务围绕建筑产品和设备展开。"
+    },
+    "MCD": {
+      "symbol": "MCD",
+      "name": "McDonald's Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Restaurants",
+      "profile": "McDonald's Corporation，在NYSE上市，属于可选消费板块，细分行业是餐厅，主要业务围绕餐厅展开。"
+    },
+    "MCHP": {
+      "symbol": "MCHP",
+      "name": "Microchip Technology Incorporated",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "profile": "Microchip Technology Incorporated，在NASDAQ上市，属于科技板块，细分行业是半导体，主要业务围绕半导体展开。"
+    },
+    "MCK": {
+      "symbol": "MCK",
+      "name": "McKesson Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Medical Distribution",
+      "profile": "McKesson Corporation，在NYSE上市，属于医疗健康板块，细分行业是医疗配送，主要业务围绕医疗配送展开。"
+    },
+    "MCO": {
+      "symbol": "MCO",
+      "name": "Moody's Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Financial Data & Stock Exchanges",
+      "profile": "Moody's Corporation，在NYSE上市，属于金融服务板块，细分行业是财务数据和证券交易所，主要业务围绕财务数据和证券交易所展开。"
+    },
+    "MDLZ": {
+      "symbol": "MDLZ",
+      "name": "Mondelez International, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Confectioners",
+      "profile": "Mondelez International, Inc.，在NASDAQ上市，属于必需消费板块，细分行业是糖果商，主要业务围绕糖果商展开。"
+    },
+    "MDT": {
+      "symbol": "MDT",
+      "name": "Medtronic plc",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Medical Devices",
+      "profile": "Medtronic plc，在NYSE上市，属于医疗健康板块，细分行业是医疗器械，主要业务围绕医疗器械展开。"
+    },
+    "MELI": {
+      "symbol": "MELI",
+      "name": "MercadoLibre, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Internet Retail",
+      "profile": "MercadoLibre, Inc.，在NASDAQ上市，属于可选消费板块，细分行业是网络零售，主要业务围绕网络零售展开。"
+    },
+    "MET": {
+      "symbol": "MET",
+      "name": "MetLife, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Insurance—Life",
+      "profile": "MetLife, Inc.，在NYSE上市，属于金融服务板块，细分行业是保险—人寿，主要业务围绕保险—人寿展开。"
+    },
+    "META": {
+      "symbol": "META",
+      "name": "Meta Platforms, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Communication Services",
+      "industry": "Internet Content & Information",
+      "profile": "Meta Platforms, Inc.，在NASDAQ上市，属于通信服务板块，细分行业是互联网内容与信息服务，主要业务围绕互联网内容与信息服务展开。"
+    },
+    "MGM": {
+      "symbol": "MGM",
+      "name": "MGM Resorts International",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Resorts & Casinos",
+      "profile": "MGM Resorts International，在NYSE上市，属于可选消费板块，细分行业是度假村和赌场，主要业务围绕度假村和赌场展开。"
+    },
+    "MKC": {
+      "symbol": "MKC",
+      "name": "McCormick & Company, Incorporated",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "profile": "McCormick & Company, Incorporated，在NYSE上市，属于必需消费板块，细分行业是包装食品，主要业务围绕包装食品展开。"
+    },
+    "MLM": {
+      "symbol": "MLM",
+      "name": "Martin Marietta Materials, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Basic Materials",
+      "industry": "Building Materials",
+      "profile": "Martin Marietta Materials, Inc.，在NYSE上市，属于基础材料板块，细分行业是建筑材料，主要业务围绕建筑材料展开。"
+    },
+    "MMM": {
+      "symbol": "MMM",
+      "name": "3M Company",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Conglomerates",
+      "profile": "3M Company，在NYSE上市，属于工业板块，细分行业是企业集团，主要业务围绕企业集团展开。"
+    },
+    "MNST": {
+      "symbol": "MNST",
+      "name": "Monster Beverage Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Beverages—Non—Alcoholic",
+      "profile": "Monster Beverage Corporation，在NASDAQ上市，属于必需消费板块，细分行业是饮料——非酒精类，主要业务围绕饮料——非酒精类展开。"
+    },
+    "MO": {
+      "symbol": "MO",
+      "name": "Altria Group, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Tobacco",
+      "profile": "Altria Group, Inc.，在NYSE上市，属于必需消费板块，细分行业是烟草，主要业务围绕烟草展开。"
+    },
+    "MOS": {
+      "symbol": "MOS",
+      "name": "The Mosaic Company",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Basic Materials",
+      "industry": "Agricultural Inputs",
+      "profile": "The Mosaic Company，在NYSE上市，属于基础材料板块，细分行业是农业投入，主要业务围绕农业投入展开。"
+    },
+    "MPC": {
+      "symbol": "MPC",
+      "name": "Marathon Petroleum Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Energy",
+      "industry": "Oil & Gas Refining & Marketing",
+      "profile": "Marathon Petroleum Corporation，在NYSE上市，属于能源板块，细分行业是炼油与成品油销售，主要业务围绕炼油与成品油销售展开。"
+    },
+    "MPWR": {
+      "symbol": "MPWR",
+      "name": "Monolithic Power Systems, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "profile": "Monolithic Power Systems, Inc.，在NASDAQ上市，属于科技板块，细分行业是半导体，主要业务围绕半导体展开。"
+    },
+    "MRK": {
+      "symbol": "MRK",
+      "name": "Merck & Co., Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers—General",
+      "profile": "Merck & Co., Inc.，在NYSE上市，属于医疗健康板块，细分行业是药品制造商——一般，主要业务围绕药品制造商——一般展开。"
+    },
+    "MRNA": {
+      "symbol": "MRNA",
+      "name": "Moderna, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Biotechnology",
+      "profile": "Moderna, Inc.，在NASDAQ上市，属于医疗健康板块，细分行业是生物技术，主要业务围绕生物技术展开。"
+    },
+    "MRSH": {
+      "symbol": "MRSH",
+      "name": "Marsh & McLennan Companies, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Insurance Brokers",
+      "profile": "Marsh & McLennan Companies, Inc.，在NYSE上市，属于金融服务板块，细分行业是保险经纪人，主要业务围绕保险经纪人展开。"
+    },
+    "MRVL": {
+      "symbol": "MRVL",
+      "name": "Marvell Technology, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "profile": "Marvell Technology, Inc.，在NASDAQ上市，属于科技板块，细分行业是半导体，主要业务围绕半导体展开。"
+    },
+    "MS": {
+      "symbol": "MS",
+      "name": "Morgan Stanley",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Capital Markets",
+      "profile": "Morgan Stanley，在NYSE上市，属于金融服务板块，细分行业是资本市场，主要业务围绕资本市场展开。"
+    },
+    "MSCI": {
+      "symbol": "MSCI",
+      "name": "MSCI Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Financial Data & Stock Exchanges",
+      "profile": "MSCI Inc.，在NYSE上市，属于金融服务板块，细分行业是财务数据和证券交易所，主要业务围绕财务数据和证券交易所展开。"
+    },
+    "MSFT": {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Infrastructure",
+      "profile": "Microsoft Corporation，在NASDAQ上市，属于科技板块，细分行业是软件—基础设施，主要业务围绕软件—基础设施展开。"
+    },
+    "MSFU": {
+      "symbol": "MSFU",
+      "name": "Direxion Daily MSFT Bull 2X Shares",
+      "exchange": "NASDAQ",
+      "quoteType": "ETF",
+      "sector": "",
+      "industry": "",
+      "profile": "Direxion Daily MSFT Bull 2X Shares，是在NASDAQ上市的 ETF，用来跟踪一篮子资产或某个主题指数。"
+    },
+    "MSI": {
+      "symbol": "MSI",
+      "name": "Motorola Solutions, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Communication Equipment",
+      "profile": "Motorola Solutions, Inc.，在NYSE上市，属于科技板块，细分行业是通信设备，主要业务围绕通信设备展开。"
+    },
+    "MSTR": {
+      "symbol": "MSTR",
+      "name": "Strategy Inc",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Application",
+      "profile": "Strategy Inc，在NASDAQ上市，属于科技板块，细分行业是软件—应用，主要业务围绕软件—应用展开。"
+    },
+    "MTB": {
+      "symbol": "MTB",
+      "name": "M&T Bank Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Banks—Regional",
+      "profile": "M&T Bank Corporation，在NYSE上市，属于金融服务板块，细分行业是银行——区域性，主要业务围绕银行——区域性展开。"
+    },
+    "MTD": {
+      "symbol": "MTD",
+      "name": "Mettler-Toledo International Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Diagnostics & Research",
+      "profile": "Mettler-Toledo International Inc.，在NYSE上市，属于医疗健康板块，细分行业是诊断与研究，主要业务围绕诊断与研究展开。"
+    },
+    "MU": {
+      "symbol": "MU",
+      "name": "Micron Technology, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "profile": "Micron Technology, Inc.，在NASDAQ上市，属于科技板块，细分行业是半导体，主要业务围绕半导体展开。"
+    },
+    "NBIS": {
+      "symbol": "NBIS",
+      "name": "Nebius Group N.V.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Communication Services",
+      "industry": "Internet Content & Information",
+      "profile": "Nebius Group N.V.，在NASDAQ上市，属于通信服务板块，细分行业是互联网内容与信息服务，主要业务围绕互联网内容与信息服务展开。"
+    },
+    "NCLH": {
+      "symbol": "NCLH",
+      "name": "Norwegian Cruise Line Holdings Ltd.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Travel Services",
+      "profile": "Norwegian Cruise Line Holdings Ltd.，在NYSE上市，属于可选消费板块，细分行业是旅游服务，主要业务围绕旅游服务展开。"
+    },
+    "NDAQ": {
+      "symbol": "NDAQ",
+      "name": "Nasdaq, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Financial Data & Stock Exchanges",
+      "profile": "Nasdaq, Inc.，在NASDAQ上市，属于金融服务板块，细分行业是财务数据和证券交易所，主要业务围绕财务数据和证券交易所展开。"
+    },
+    "NDSN": {
+      "symbol": "NDSN",
+      "name": "Nordson Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "profile": "Nordson Corporation，在NASDAQ上市，属于工业板块，细分行业是特种工业机械，主要业务围绕特种工业机械展开。"
+    },
+    "NEE": {
+      "symbol": "NEE",
+      "name": "NextEra Energy, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Utilities",
+      "industry": "Utilities—Regulated Electric",
+      "profile": "NextEra Energy, Inc.，在NYSE上市，属于公用事业板块，细分行业是公用事业——受监管的电力，主要业务围绕公用事业——受监管的电力展开。"
+    },
+    "NEM": {
+      "symbol": "NEM",
+      "name": "Newmont Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Basic Materials",
+      "industry": "Gold",
+      "profile": "Newmont Corporation，在NYSE上市，属于基础材料板块，细分行业是金子，主要业务围绕金子展开。"
+    },
+    "NET": {
+      "symbol": "NET",
+      "name": "Cloudflare, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Infrastructure",
+      "profile": "Cloudflare, Inc.，在NYSE上市，属于科技板块，细分行业是软件—基础设施，主要业务围绕软件—基础设施展开。"
+    },
+    "NFLX": {
+      "symbol": "NFLX",
+      "name": "Netflix, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Communication Services",
+      "industry": "Entertainment",
+      "profile": "Netflix, Inc.，在NASDAQ上市，属于通信服务板块，细分行业是娱乐，主要业务围绕娱乐展开。"
+    },
+    "NI": {
+      "symbol": "NI",
+      "name": "NiSource Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Utilities",
+      "industry": "Utilities—Regulated Gas",
+      "profile": "NiSource Inc.，在NYSE上市，属于公用事业板块，细分行业是公用事业——受监管的天然气，主要业务围绕公用事业——受监管的天然气展开。"
+    },
+    "NKE": {
+      "symbol": "NKE",
+      "name": "NIKE, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Footwear & Accessories",
+      "profile": "NIKE, Inc.，在NYSE上市，属于可选消费板块，细分行业是鞋类及配饰，主要业务围绕鞋类及配饰展开。"
+    },
+    "NOK": {
+      "symbol": "NOK",
+      "name": "Nokia Oyj",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Communication Equipment",
+      "profile": "Nokia Oyj，在NYSE上市，属于科技板块，细分行业是通信设备，主要业务围绕通信设备展开。"
+    },
+    "NOC": {
+      "symbol": "NOC",
+      "name": "Northrop Grumman Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "profile": "Northrop Grumman Corporation，在NYSE上市，属于工业板块，细分行业是航空航天与国防，主要业务围绕航空航天与国防展开。"
+    },
+    "NOW": {
+      "symbol": "NOW",
+      "name": "ServiceNow, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Application",
+      "profile": "ServiceNow, Inc.，在NYSE上市，属于科技板块，细分行业是软件—应用，主要业务围绕软件—应用展开。"
+    },
+    "NRG": {
+      "symbol": "NRG",
+      "name": "NRG Energy, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Utilities",
+      "industry": "Utilities—Independent Power Producers",
+      "profile": "NRG Energy, Inc.，在NYSE上市，属于公用事业板块，细分行业是公用事业——独立电力生产商，主要业务围绕公用事业——独立电力生产商展开。"
+    },
+    "NSC": {
+      "symbol": "NSC",
+      "name": "Norfolk Southern Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Railroads",
+      "profile": "Norfolk Southern Corporation，在NYSE上市，属于工业板块，细分行业是铁路，主要业务围绕铁路展开。"
+    },
+    "NTAP": {
+      "symbol": "NTAP",
+      "name": "NetApp, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Infrastructure",
+      "profile": "NetApp, Inc.，在NASDAQ上市，属于科技板块，细分行业是软件—基础设施，主要业务围绕软件—基础设施展开。"
+    },
+    "NTRS": {
+      "symbol": "NTRS",
+      "name": "Northern Trust Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Asset Management",
+      "profile": "Northern Trust Corporation，在NASDAQ上市，属于金融服务板块，细分行业是资产管理，主要业务围绕资产管理展开。"
+    },
+    "NUE": {
+      "symbol": "NUE",
+      "name": "Nucor Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Basic Materials",
+      "industry": "Steel",
+      "profile": "Nucor Corporation，在NYSE上市，属于基础材料板块，细分行业是钢，主要业务围绕钢展开。"
+    },
+    "NVDA": {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "profile": "NVIDIA Corporation，在NASDAQ上市，属于科技板块，细分行业是半导体，主要业务围绕半导体展开。"
+    },
+    "NVTS": {
+      "symbol": "NVTS",
+      "name": "Navitas Semiconductor Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "profile": "Navitas Semiconductor Corporation，在NASDAQ上市，属于科技板块，细分行业是半导体，主要业务围绕半导体展开。"
+    },
+    "NVR": {
+      "symbol": "NVR",
+      "name": "NVR, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Residential Construction",
+      "profile": "NVR, Inc.，在NYSE上市，属于可选消费板块，细分行业是住宅建设，主要业务围绕住宅建设展开。"
+    },
+    "NWS": {
+      "symbol": "NWS",
+      "name": "News Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Communication Services",
+      "industry": "Entertainment",
+      "profile": "News Corporation，在NASDAQ上市，属于通信服务板块，细分行业是娱乐，主要业务围绕娱乐展开。"
+    },
+    "NWSA": {
+      "symbol": "NWSA",
+      "name": "News Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Communication Services",
+      "industry": "Entertainment",
+      "profile": "News Corporation，在NASDAQ上市，属于通信服务板块，细分行业是娱乐，主要业务围绕娱乐展开。"
+    },
+    "NXPI": {
+      "symbol": "NXPI",
+      "name": "NXP Semiconductors N.V.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "profile": "NXP Semiconductors N.V.，在NASDAQ上市，属于科技板块，细分行业是半导体，主要业务围绕半导体展开。"
+    },
+    "O": {
+      "symbol": "O",
+      "name": "Realty Income Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Real Estate",
+      "industry": "REIT—Retail",
+      "profile": "Realty Income Corporation，在NYSE上市，属于房地产板块，细分行业是房地产投资信托基金——零售，主要业务围绕房地产投资信托基金——零售展开。"
+    },
+    "ODFL": {
+      "symbol": "ODFL",
+      "name": "Old Dominion Freight Line, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Trucking",
+      "profile": "Old Dominion Freight Line, Inc.，在NASDAQ上市，属于工业板块，细分行业是卡车运输，主要业务围绕卡车运输展开。"
+    },
+    "OKE": {
+      "symbol": "OKE",
+      "name": "ONEOK, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Energy",
+      "industry": "Oil & Gas Midstream",
+      "profile": "ONEOK, Inc.，在NYSE上市，属于能源板块，细分行业是石油和天然气中游，主要业务围绕石油和天然气中游展开。"
+    },
+    "OMC": {
+      "symbol": "OMC",
+      "name": "Omnicom Group Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Communication Services",
+      "industry": "Advertising Agencies",
+      "profile": "Omnicom Group Inc.，在NYSE上市，属于通信服务板块，细分行业是广告公司，主要业务围绕广告公司展开。"
+    },
+    "ON": {
+      "symbol": "ON",
+      "name": "ON Semiconductor Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "profile": "ON Semiconductor Corporation，在NASDAQ上市，属于科技板块，细分行业是半导体，主要业务围绕半导体展开。"
+    },
+    "ONDS": {
+      "symbol": "ONDS",
+      "name": "Ondas Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Communication Equipment",
+      "profile": "Ondas Inc.，在NASDAQ上市，属于科技板块，细分行业是通信设备，主要业务围绕通信设备展开。"
+    },
+    "ORCL": {
+      "symbol": "ORCL",
+      "name": "Oracle Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Infrastructure",
+      "profile": "Oracle Corporation，在NYSE上市，属于科技板块，细分行业是软件—基础设施，主要业务围绕软件—基础设施展开。"
+    },
+    "ORLY": {
+      "symbol": "ORLY",
+      "name": "O'Reilly Automotive, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Parts",
+      "profile": "O'Reilly Automotive, Inc.，在NASDAQ上市，属于可选消费板块，细分行业是汽车配件，主要业务围绕汽车配件展开。"
+    },
+    "OTIS": {
+      "symbol": "OTIS",
+      "name": "Otis Worldwide Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "profile": "Otis Worldwide Corporation，在NYSE上市，属于工业板块，细分行业是特种工业机械，主要业务围绕特种工业机械展开。"
+    },
+    "OXY": {
+      "symbol": "OXY",
+      "name": "Occidental Petroleum Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Energy",
+      "industry": "Oil & Gas E&P",
+      "profile": "Occidental Petroleum Corporation，在NYSE上市，属于能源板块，细分行业是油气勘探与生产，主要业务围绕油气勘探与生产展开。"
+    },
+    "PANW": {
+      "symbol": "PANW",
+      "name": "Palo Alto Networks, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Infrastructure",
+      "profile": "Palo Alto Networks, Inc.，在NASDAQ上市，属于科技板块，细分行业是软件—基础设施，主要业务围绕软件—基础设施展开。"
+    },
+    "PAYX": {
+      "symbol": "PAYX",
+      "name": "Paychex, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Application",
+      "profile": "Paychex, Inc.，在NASDAQ上市，属于科技板块，细分行业是软件—应用，主要业务围绕软件—应用展开。"
+    },
+    "PCAR": {
+      "symbol": "PCAR",
+      "name": "PACCAR Inc",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Farm & Heavy Construction Machinery",
+      "profile": "PACCAR Inc，在NASDAQ上市，属于工业板块，细分行业是农用和重型工程机械，主要业务围绕农用和重型工程机械展开。"
+    },
+    "PCG": {
+      "symbol": "PCG",
+      "name": "PG&E Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Utilities",
+      "industry": "Utilities—Regulated Electric",
+      "profile": "PG&E Corporation，在NYSE上市，属于公用事业板块，细分行业是公用事业——受监管的电力，主要业务围绕公用事业——受监管的电力展开。"
+    },
+    "PDD": {
+      "symbol": "PDD",
+      "name": "PDD Holdings Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Internet Retail",
+      "profile": "PDD Holdings Inc.，在NASDAQ上市，属于可选消费板块，细分行业是网络零售，主要业务围绕网络零售展开。"
+    },
+    "PEG": {
+      "symbol": "PEG",
+      "name": "Public Service Enterprise Group Incorporated",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Utilities",
+      "industry": "Utilities—Regulated Electric",
+      "profile": "Public Service Enterprise Group Incorporated，在NYSE上市，属于公用事业板块，细分行业是公用事业——受监管的电力，主要业务围绕公用事业——受监管的电力展开。"
+    },
+    "PEP": {
+      "symbol": "PEP",
+      "name": "PepsiCo, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Beverages—Non—Alcoholic",
+      "profile": "PepsiCo, Inc.，在NASDAQ上市，属于必需消费板块，细分行业是饮料——非酒精类，主要业务围绕饮料——非酒精类展开。"
+    },
+    "PFE": {
+      "symbol": "PFE",
+      "name": "Pfizer Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers—General",
+      "profile": "Pfizer Inc.，在NYSE上市，属于医疗健康板块，细分行业是药品制造商——一般，主要业务围绕药品制造商——一般展开。"
+    },
+    "PFG": {
+      "symbol": "PFG",
+      "name": "Principal Financial Group, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Asset Management",
+      "profile": "Principal Financial Group, Inc.，在NASDAQ上市，属于金融服务板块，细分行业是资产管理，主要业务围绕资产管理展开。"
+    },
+    "PG": {
+      "symbol": "PG",
+      "name": "The Procter & Gamble Company",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Household & Personal Products",
+      "profile": "The Procter & Gamble Company，在NYSE上市，属于必需消费板块，细分行业是家居及个人产品，主要业务围绕家居及个人产品展开。"
+    },
+    "PGR": {
+      "symbol": "PGR",
+      "name": "The Progressive Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Insurance—Property & Casualty",
+      "profile": "The Progressive Corporation，在NYSE上市，属于金融服务板块，细分行业是保险——财产与意外伤害，主要业务围绕保险——财产与意外伤害展开。"
+    },
+    "PH": {
+      "symbol": "PH",
+      "name": "Parker-Hannifin Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "profile": "Parker-Hannifin Corporation，在NYSE上市，属于工业板块，细分行业是特种工业机械，主要业务围绕特种工业机械展开。"
+    },
+    "PHM": {
+      "symbol": "PHM",
+      "name": "PulteGroup, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Residential Construction",
+      "profile": "PulteGroup, Inc.，在NYSE上市，属于可选消费板块，细分行业是住宅建设，主要业务围绕住宅建设展开。"
+    },
+    "PKG": {
+      "symbol": "PKG",
+      "name": "Packaging Corporation of America",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Packaging & Containers",
+      "profile": "Packaging Corporation of America，在NYSE上市，属于可选消费板块，细分行业是包装与容器，主要业务围绕包装与容器展开。"
+    },
+    "PLD": {
+      "symbol": "PLD",
+      "name": "Prologis, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Real Estate",
+      "industry": "REIT—Industrial",
+      "profile": "Prologis, Inc.，在NYSE上市，属于房地产板块，细分行业是房地产投资信托基金——工业，主要业务围绕房地产投资信托基金——工业展开。"
+    },
+    "PLTR": {
+      "symbol": "PLTR",
+      "name": "Palantir Technologies Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Infrastructure",
+      "profile": "Palantir Technologies Inc.，在NASDAQ上市，属于科技板块，细分行业是软件—基础设施，主要业务围绕软件—基础设施展开。"
+    },
+    "PM": {
+      "symbol": "PM",
+      "name": "Philip Morris International Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Tobacco",
+      "profile": "Philip Morris International Inc.，在NYSE上市，属于必需消费板块，细分行业是烟草，主要业务围绕烟草展开。"
+    },
+    "PNC": {
+      "symbol": "PNC",
+      "name": "The PNC Financial Services Group, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Banks—Regional",
+      "profile": "The PNC Financial Services Group, Inc.，在NYSE上市，属于金融服务板块，细分行业是银行——区域性，主要业务围绕银行——区域性展开。"
+    },
+    "PNR": {
+      "symbol": "PNR",
+      "name": "Pentair plc",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "profile": "Pentair plc，在NYSE上市，属于工业板块，细分行业是特种工业机械，主要业务围绕特种工业机械展开。"
+    },
+    "PNW": {
+      "symbol": "PNW",
+      "name": "Pinnacle West Capital Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Utilities",
+      "industry": "Utilities—Regulated Electric",
+      "profile": "Pinnacle West Capital Corporation，在NYSE上市，属于公用事业板块，细分行业是公用事业——受监管的电力，主要业务围绕公用事业——受监管的电力展开。"
+    },
+    "PODD": {
+      "symbol": "PODD",
+      "name": "Insulet Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Medical Devices",
+      "profile": "Insulet Corporation，在NASDAQ上市，属于医疗健康板块，细分行业是医疗器械，主要业务围绕医疗器械展开。"
+    },
+    "POET": {
+      "symbol": "POET",
+      "name": "POET Technologies Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "profile": "POET Technologies Inc.，在NASDAQ上市，属于科技板块，细分行业是半导体，主要业务围绕半导体展开。"
+    },
+    "POOL": {
+      "symbol": "POOL",
+      "name": "Pool Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Industrial Distribution",
+      "profile": "Pool Corporation，在NASDAQ上市，属于工业板块，细分行业是产业分布，主要业务围绕产业分布展开。"
+    },
+    "PPG": {
+      "symbol": "PPG",
+      "name": "PPG Industries, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Basic Materials",
+      "industry": "Specialty Chemicals",
+      "profile": "PPG Industries, Inc.，在NYSE上市，属于基础材料板块，细分行业是特种化学品，主要业务围绕特种化学品展开。"
+    },
+    "PPL": {
+      "symbol": "PPL",
+      "name": "PPL Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Utilities",
+      "industry": "Utilities—Regulated Electric",
+      "profile": "PPL Corporation，在NYSE上市，属于公用事业板块，细分行业是公用事业——受监管的电力，主要业务围绕公用事业——受监管的电力展开。"
+    },
+    "PRU": {
+      "symbol": "PRU",
+      "name": "Prudential Financial, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Insurance—Life",
+      "profile": "Prudential Financial, Inc.，在NYSE上市，属于金融服务板块，细分行业是保险—人寿，主要业务围绕保险—人寿展开。"
+    },
+    "PSA": {
+      "symbol": "PSA",
+      "name": "Public Storage",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Real Estate",
+      "industry": "REIT—Industrial",
+      "profile": "Public Storage，在NYSE上市，属于房地产板块，细分行业是房地产投资信托基金——工业，主要业务围绕房地产投资信托基金——工业展开。"
+    },
+    "PSKY": {
+      "symbol": "PSKY",
+      "name": "Paramount Skydance Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Communication Services",
+      "industry": "Entertainment",
+      "profile": "Paramount Skydance Corporation，在NASDAQ上市，属于通信服务板块，细分行业是娱乐，主要业务围绕娱乐展开。"
+    },
+    "PSX": {
+      "symbol": "PSX",
+      "name": "Phillips 66",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Energy",
+      "industry": "Oil & Gas Refining & Marketing",
+      "profile": "Phillips 66，在NYSE上市，属于能源板块，细分行业是炼油与成品油销售，主要业务围绕炼油与成品油销售展开。"
+    },
+    "PTC": {
+      "symbol": "PTC",
+      "name": "PTC Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Application",
+      "profile": "PTC Inc.，在NASDAQ上市，属于科技板块，细分行业是软件—应用，主要业务围绕软件—应用展开。"
+    },
+    "PWR": {
+      "symbol": "PWR",
+      "name": "Quanta Services, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Engineering & Construction",
+      "profile": "Quanta Services, Inc.，在NYSE上市，属于工业板块，细分行业是工程与建筑，主要业务围绕工程与建筑展开。"
+    },
+    "PYPL": {
+      "symbol": "PYPL",
+      "name": "PayPal Holdings, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Credit Services",
+      "profile": "PayPal Holdings, Inc.，在NASDAQ上市，属于金融服务板块，细分行业是信用服务，主要业务围绕信用服务展开。"
+    },
+    "Q": {
+      "symbol": "Q",
+      "name": "Qnity Electronics, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Semiconductor Equipment & Materials",
+      "profile": "Qnity Electronics, Inc.，在NYSE上市，属于科技板块，细分行业是半导体设备与材料，主要业务围绕半导体设备与材料展开。"
+    },
+    "QBTS": {
+      "symbol": "QBTS",
+      "name": "D-Wave Quantum Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Computer Hardware",
+      "profile": "D-Wave Quantum Inc.，在NYSE上市，属于科技板块，细分行业是电脑硬件，主要业务围绕电脑硬件展开。"
+    },
+    "QCOM": {
+      "symbol": "QCOM",
+      "name": "QUALCOMM Incorporated",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "profile": "QUALCOMM Incorporated，在NASDAQ上市，属于科技板块，细分行业是半导体，主要业务围绕半导体展开。"
+    },
+    "QQQ": {
+      "symbol": "QQQ",
+      "name": "Invesco QQQ Trust",
+      "exchange": "NASDAQ",
+      "quoteType": "ETF",
+      "sector": "",
+      "industry": "",
+      "profile": "Invesco QQQ Trust，是在NASDAQ上市的 ETF，用来跟踪一篮子资产或某个主题指数。"
+    },
+    "QUBT": {
+      "symbol": "QUBT",
+      "name": "Quantum Computing Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Computer Hardware",
+      "profile": "Quantum Computing Inc.，在NASDAQ上市，属于科技板块，细分行业是电脑硬件，主要业务围绕电脑硬件展开。"
+    },
+    "RCL": {
+      "symbol": "RCL",
+      "name": "Royal Caribbean Cruises Ltd.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Travel Services",
+      "profile": "Royal Caribbean Cruises Ltd.，在NYSE上市，属于可选消费板块，细分行业是旅游服务，主要业务围绕旅游服务展开。"
+    },
+    "RDW": {
+      "symbol": "RDW",
+      "name": "Redwire Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "profile": "Redwire Corporation，在NYSE上市，属于工业板块，细分行业是航空航天与国防，主要业务围绕航空航天与国防展开。"
+    },
+    "RDDT": {
+      "symbol": "RDDT",
+      "name": "Reddit, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Communication Services",
+      "industry": "Internet Content & Information",
+      "profile": "Reddit, Inc.，在NYSE上市，属于通信服务板块，细分行业是互联网内容与信息服务，主要业务围绕互联网内容与信息服务展开。"
+    },
+    "REG": {
+      "symbol": "REG",
+      "name": "Regency Centers Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Real Estate",
+      "industry": "REIT—Retail",
+      "profile": "Regency Centers Corporation，在NASDAQ上市，属于房地产板块，细分行业是房地产投资信托基金——零售，主要业务围绕房地产投资信托基金——零售展开。"
+    },
+    "REGN": {
+      "symbol": "REGN",
+      "name": "Regeneron Pharmaceuticals, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Biotechnology",
+      "profile": "Regeneron Pharmaceuticals, Inc.，在NASDAQ上市，属于医疗健康板块，细分行业是生物技术，主要业务围绕生物技术展开。"
+    },
+    "RGTI": {
+      "symbol": "RGTI",
+      "name": "Rigetti Computing, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Computer Hardware",
+      "profile": "Rigetti Computing, Inc.，在NASDAQ上市，属于科技板块，细分行业是电脑硬件，主要业务围绕电脑硬件展开。"
+    },
+    "RF": {
+      "symbol": "RF",
+      "name": "Regions Financial Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Banks—Regional",
+      "profile": "Regions Financial Corporation，在NYSE上市，属于金融服务板块，细分行业是银行——区域性，主要业务围绕银行——区域性展开。"
+    },
+    "RJF": {
+      "symbol": "RJF",
+      "name": "Raymond James Financial, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Asset Management",
+      "profile": "Raymond James Financial, Inc.，在NYSE上市，属于金融服务板块，细分行业是资产管理，主要业务围绕资产管理展开。"
+    },
+    "RKLB": {
+      "symbol": "RKLB",
+      "name": "Rocket Lab Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "profile": "Rocket Lab Corporation，在NASDAQ上市，属于工业板块，细分行业是航空航天与国防，主要业务围绕航空航天与国防展开。"
+    },
+    "RL": {
+      "symbol": "RL",
+      "name": "Ralph Lauren Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Apparel Manufacturing",
+      "profile": "Ralph Lauren Corporation，在NYSE上市，属于可选消费板块，细分行业是服装制造，主要业务围绕服装制造展开。"
+    },
+    "RMBS": {
+      "symbol": "RMBS",
+      "name": "Rambus Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "profile": "Rambus Inc.，在NASDAQ上市，属于科技板块，细分行业是半导体，主要业务围绕半导体展开。"
+    },
+    "RMD": {
+      "symbol": "RMD",
+      "name": "ResMed Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Medical Instruments & Supplies",
+      "profile": "ResMed Inc.，在NYSE上市，属于医疗健康板块，细分行业是医疗器械及用品，主要业务围绕医疗器械及用品展开。"
+    },
+    "ROK": {
+      "symbol": "ROK",
+      "name": "Rockwell Automation, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "profile": "Rockwell Automation, Inc.，在NYSE上市，属于工业板块，细分行业是特种工业机械，主要业务围绕特种工业机械展开。"
+    },
+    "ROL": {
+      "symbol": "ROL",
+      "name": "Rollins, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Personal Services",
+      "profile": "Rollins, Inc.，在NYSE上市，属于可选消费板块，细分行业是个人服务，主要业务围绕个人服务展开。"
+    },
+    "ROP": {
+      "symbol": "ROP",
+      "name": "Roper Technologies, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Application",
+      "profile": "Roper Technologies, Inc.，在NASDAQ上市，属于科技板块，细分行业是软件—应用，主要业务围绕软件—应用展开。"
+    },
+    "ROST": {
+      "symbol": "ROST",
+      "name": "Ross Stores, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Apparel Retail",
+      "profile": "Ross Stores, Inc.，在NASDAQ上市，属于可选消费板块，细分行业是服装零售，主要业务围绕服装零售展开。"
+    },
+    "RSG": {
+      "symbol": "RSG",
+      "name": "Republic Services, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Waste Management",
+      "profile": "Republic Services, Inc.，在NYSE上市，属于工业板块，细分行业是废物管理，主要业务围绕废物管理展开。"
+    },
+    "RTX": {
+      "symbol": "RTX",
+      "name": "RTX Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "profile": "RTX Corporation，在NYSE上市，属于工业板块，细分行业是航空航天与国防，主要业务围绕航空航天与国防展开。"
+    },
+    "RVTY": {
+      "symbol": "RVTY",
+      "name": "Revvity, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Diagnostics & Research",
+      "profile": "Revvity, Inc.，在NYSE上市，属于医疗健康板块，细分行业是诊断与研究，主要业务围绕诊断与研究展开。"
+    },
+    "SATS": {
+      "symbol": "SATS",
+      "name": "EchoStar Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Communication Services",
+      "industry": "Telecom Services",
+      "profile": "EchoStar Corporation，在NASDAQ上市，属于通信服务板块，细分行业是电信服务，主要业务围绕电信服务展开。"
+    },
+    "SBAC": {
+      "symbol": "SBAC",
+      "name": "SBA Communications Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Real Estate",
+      "industry": "REIT—Specialty",
+      "profile": "SBA Communications Corporation，在NASDAQ上市，属于房地产板块，细分行业是房地产投资信托基金——专业，主要业务围绕房地产投资信托基金——专业展开。"
+    },
+    "SBUX": {
+      "symbol": "SBUX",
+      "name": "Starbucks Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Restaurants",
+      "profile": "Starbucks Corporation，在NASDAQ上市，属于可选消费板块，细分行业是餐厅，主要业务围绕餐厅展开。"
+    },
+    "SCHW": {
+      "symbol": "SCHW",
+      "name": "The Charles Schwab Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Capital Markets",
+      "profile": "The Charles Schwab Corporation，在NYSE上市，属于金融服务板块，细分行业是资本市场，主要业务围绕资本市场展开。"
+    },
+    "SHLD": {
+      "symbol": "SHLD",
+      "name": "Global X Defense Tech ETF",
+      "exchange": "NYSEArca",
+      "quoteType": "ETF",
+      "sector": "",
+      "industry": "",
+      "profile": "Global X Defense Tech ETF，是在NYSEArca上市的 ETF，用来跟踪一篮子资产或某个主题指数。"
+    },
+    "SHOP": {
+      "symbol": "SHOP",
+      "name": "Shopify Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Application",
+      "profile": "Shopify Inc.，在NASDAQ上市，属于科技板块，细分行业是软件—应用，主要业务围绕软件—应用展开。"
+    },
+    "SHW": {
+      "symbol": "SHW",
+      "name": "The Sherwin-Williams Company",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Basic Materials",
+      "industry": "Specialty Chemicals",
+      "profile": "The Sherwin-Williams Company，在NYSE上市，属于基础材料板块，细分行业是特种化学品，主要业务围绕特种化学品展开。"
+    },
+    "SJM": {
+      "symbol": "SJM",
+      "name": "The J. M. Smucker Company",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "profile": "The J. M. Smucker Company，在NYSE上市，属于必需消费板块，细分行业是包装食品，主要业务围绕包装食品展开。"
+    },
+    "SLB": {
+      "symbol": "SLB",
+      "name": "SLB N.V.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Energy",
+      "industry": "Oil & Gas Equipment & Services",
+      "profile": "SLB N.V.，在NYSE上市，属于能源板块，细分行业是油服与能源设备，主要业务围绕油服与能源设备展开。"
+    },
+    "SMCI": {
+      "symbol": "SMCI",
+      "name": "Super Micro Computer, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Computer Hardware",
+      "profile": "Super Micro Computer, Inc.，在NASDAQ上市，属于科技板块，细分行业是电脑硬件，主要业务围绕电脑硬件展开。"
+    },
+    "SNA": {
+      "symbol": "SNA",
+      "name": "Snap-on Incorporated",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Tools & Accessories",
+      "profile": "Snap-on Incorporated，在NYSE上市，属于工业板块，细分行业是工具及配件，主要业务围绕工具及配件展开。"
+    },
+    "SNDK": {
+      "symbol": "SNDK",
+      "name": "Sandisk Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Computer Hardware",
+      "profile": "Sandisk Corporation，在NASDAQ上市，属于科技板块，细分行业是电脑硬件，主要业务围绕电脑硬件展开。"
+    },
+    "SNPS": {
+      "symbol": "SNPS",
+      "name": "Synopsys, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Infrastructure",
+      "profile": "Synopsys, Inc.，在NASDAQ上市，属于科技板块，细分行业是软件—基础设施，主要业务围绕软件—基础设施展开。"
+    },
+    "SO": {
+      "symbol": "SO",
+      "name": "The Southern Company",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Utilities",
+      "industry": "Utilities—Regulated Electric",
+      "profile": "The Southern Company，在NYSE上市，属于公用事业板块，细分行业是公用事业——受监管的电力，主要业务围绕公用事业——受监管的电力展开。"
+    },
+    "SOLV": {
+      "symbol": "SOLV",
+      "name": "Solventum Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Medical Instruments & Supplies",
+      "profile": "Solventum Corporation，在NYSE上市，属于医疗健康板块，细分行业是医疗器械及用品，主要业务围绕医疗器械及用品展开。"
+    },
+    "SOXL": {
+      "symbol": "SOXL",
+      "name": "Direxion Daily Semiconductor Bull 3X Shares",
+      "exchange": "NYSEArca",
+      "quoteType": "ETF",
+      "sector": "",
+      "industry": "",
+      "profile": "Direxion Daily Semiconductor Bull 3X Shares，是在NYSEArca上市的 ETF，用来跟踪一篮子资产或某个主题指数。"
+    },
+    "SPCX": {
+      "symbol": "SPCX",
+      "name": "SPAC and New Issue ETF",
+      "exchange": "NASDAQ",
+      "quoteType": "ETF",
+      "sector": "",
+      "industry": "",
+      "profile": "SPAC and New Issue ETF，是在NASDAQ上市的 ETF，主要提供太空与卫星通信方向的市场敞口。"
+    },
+    "SPG": {
+      "symbol": "SPG",
+      "name": "Simon Property Group, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Real Estate",
+      "industry": "REIT—Retail",
+      "profile": "Simon Property Group, Inc.，在NYSE上市，属于房地产板块，细分行业是房地产投资信托基金——零售，主要业务围绕房地产投资信托基金——零售展开。"
+    },
+    "SPGI": {
+      "symbol": "SPGI",
+      "name": "S&P Global Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Financial Data & Stock Exchanges",
+      "profile": "S&P Global Inc.，在NYSE上市，属于金融服务板块，细分行业是财务数据和证券交易所，主要业务围绕财务数据和证券交易所展开。"
+    },
+    "SPY": {
+      "symbol": "SPY",
+      "name": "State Street SPDR S&P 500 ETF Trust",
+      "exchange": "NYSEArca",
+      "quoteType": "ETF",
+      "sector": "",
+      "industry": "",
+      "profile": "State Street SPDR S&P 500 ETF Trust，是在NYSEArca上市的 ETF，用来跟踪一篮子资产或某个主题指数。"
+    },
+    "SRE": {
+      "symbol": "SRE",
+      "name": "Sempra",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Utilities",
+      "industry": "Utilities—Diversified",
+      "profile": "Sempra，在NYSE上市，属于公用事业板块，细分行业是公用事业——多元化，主要业务围绕公用事业——多元化展开。"
+    },
+    "STE": {
+      "symbol": "STE",
+      "name": "STERIS plc",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Medical Devices",
+      "profile": "STERIS plc，在NYSE上市，属于医疗健康板块，细分行业是医疗器械，主要业务围绕医疗器械展开。"
+    },
+    "STLD": {
+      "symbol": "STLD",
+      "name": "Steel Dynamics, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Basic Materials",
+      "industry": "Steel",
+      "profile": "Steel Dynamics, Inc.，在NASDAQ上市，属于基础材料板块，细分行业是钢，主要业务围绕钢展开。"
+    },
+    "STT": {
+      "symbol": "STT",
+      "name": "State Street Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Asset Management",
+      "profile": "State Street Corporation，在NYSE上市，属于金融服务板块，细分行业是资产管理，主要业务围绕资产管理展开。"
+    },
+    "STX": {
+      "symbol": "STX",
+      "name": "Seagate Technology Holdings plc",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Computer Hardware",
+      "profile": "Seagate Technology Holdings plc，在NASDAQ上市，属于科技板块，细分行业是电脑硬件，主要业务围绕电脑硬件展开。"
+    },
+    "STZ": {
+      "symbol": "STZ",
+      "name": "Constellation Brands, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Beverages—Brewers",
+      "profile": "Constellation Brands, Inc.，在NYSE上市，属于必需消费板块，细分行业是饮料——啤酒，主要业务围绕饮料——啤酒展开。"
+    },
+    "SW": {
+      "symbol": "SW",
+      "name": "Smurfit Westrock Plc",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Packaging & Containers",
+      "profile": "Smurfit Westrock Plc，在NYSE上市，属于可选消费板块，细分行业是包装与容器，主要业务围绕包装与容器展开。"
+    },
+    "SWK": {
+      "symbol": "SWK",
+      "name": "Stanley Black & Decker, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Tools & Accessories",
+      "profile": "Stanley Black & Decker, Inc.，在NYSE上市，属于工业板块，细分行业是工具及配件，主要业务围绕工具及配件展开。"
+    },
+    "SWKS": {
+      "symbol": "SWKS",
+      "name": "Skyworks Solutions, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "profile": "Skyworks Solutions, Inc.，在NASDAQ上市，属于科技板块，细分行业是半导体，主要业务围绕半导体展开。"
+    },
+    "SYF": {
+      "symbol": "SYF",
+      "name": "Synchrony Financial",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Credit Services",
+      "profile": "Synchrony Financial，在NYSE上市，属于金融服务板块，细分行业是信用服务，主要业务围绕信用服务展开。"
+    },
+    "SYK": {
+      "symbol": "SYK",
+      "name": "Stryker Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Medical Devices",
+      "profile": "Stryker Corporation，在NYSE上市，属于医疗健康板块，细分行业是医疗器械，主要业务围绕医疗器械展开。"
+    },
+    "SYY": {
+      "symbol": "SYY",
+      "name": "Sysco Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Food Distribution",
+      "profile": "Sysco Corporation，在NYSE上市，属于必需消费板块，细分行业是食品配送，主要业务围绕食品配送展开。"
+    },
+    "T": {
+      "symbol": "T",
+      "name": "AT&T Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Communication Services",
+      "industry": "Telecom Services",
+      "profile": "AT&T Inc.，在NYSE上市，属于通信服务板块，细分行业是电信服务，主要业务围绕电信服务展开。"
+    },
+    "TAP": {
+      "symbol": "TAP",
+      "name": "Molson Coors Beverage Company",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Beverages—Brewers",
+      "profile": "Molson Coors Beverage Company，在NYSE上市，属于必需消费板块，细分行业是饮料——啤酒，主要业务围绕饮料——啤酒展开。"
+    },
+    "TDG": {
+      "symbol": "TDG",
+      "name": "TransDigm Group Incorporated",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "profile": "TransDigm Group Incorporated，在NYSE上市，属于工业板块，细分行业是航空航天与国防，主要业务围绕航空航天与国防展开。"
+    },
+    "TDY": {
+      "symbol": "TDY",
+      "name": "Teledyne Technologies Incorporated",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Scientific & Technical Instruments",
+      "profile": "Teledyne Technologies Incorporated，在NYSE上市，属于科技板块，细分行业是科学技术仪器，主要业务围绕科学技术仪器展开。"
+    },
+    "TECH": {
+      "symbol": "TECH",
+      "name": "Bio-Techne Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Biotechnology",
+      "profile": "Bio-Techne Corporation，在NASDAQ上市，属于医疗健康板块，细分行业是生物技术，主要业务围绕生物技术展开。"
+    },
+    "TEL": {
+      "symbol": "TEL",
+      "name": "TE Connectivity plc",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Electronic Components",
+      "profile": "TE Connectivity plc，在NYSE上市，属于科技板块，细分行业是电子元件，主要业务围绕电子元件展开。"
+    },
+    "TER": {
+      "symbol": "TER",
+      "name": "Teradyne, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Semiconductor Equipment & Materials",
+      "profile": "Teradyne, Inc.，在NASDAQ上市，属于科技板块，细分行业是半导体设备与材料，主要业务围绕半导体设备与材料展开。"
+    },
+    "TFC": {
+      "symbol": "TFC",
+      "name": "Truist Financial Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Banks—Regional",
+      "profile": "Truist Financial Corporation，在NYSE上市，属于金融服务板块，细分行业是银行——区域性，主要业务围绕银行——区域性展开。"
+    },
+    "TGT": {
+      "symbol": "TGT",
+      "name": "Target Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Discount Stores",
+      "profile": "Target Corporation，在NYSE上市，属于必需消费板块，细分行业是折扣零售，主要业务围绕折扣零售展开。"
+    },
+    "TJX": {
+      "symbol": "TJX",
+      "name": "The TJX Companies, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Apparel Retail",
+      "profile": "The TJX Companies, Inc.，在NYSE上市，属于可选消费板块，细分行业是服装零售，主要业务围绕服装零售展开。"
+    },
+    "TKO": {
+      "symbol": "TKO",
+      "name": "TKO Group Holdings, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Communication Services",
+      "industry": "Entertainment",
+      "profile": "TKO Group Holdings, Inc.，在NYSE上市，属于通信服务板块，细分行业是娱乐，主要业务围绕娱乐展开。"
+    },
+    "TMO": {
+      "symbol": "TMO",
+      "name": "Thermo Fisher Scientific Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Diagnostics & Research",
+      "profile": "Thermo Fisher Scientific Inc.，在NYSE上市，属于医疗健康板块，细分行业是诊断与研究，主要业务围绕诊断与研究展开。"
+    },
+    "TMUS": {
+      "symbol": "TMUS",
+      "name": "T-Mobile US, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Communication Services",
+      "industry": "Telecom Services",
+      "profile": "T-Mobile US, Inc.，在NASDAQ上市，属于通信服务板块，细分行业是电信服务，主要业务围绕电信服务展开。"
+    },
+    "TPL": {
+      "symbol": "TPL",
+      "name": "Texas Pacific Land Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Energy",
+      "industry": "Oil & Gas E&P",
+      "profile": "Texas Pacific Land Corporation，在NYSE上市，属于能源板块，细分行业是油气勘探与生产，主要业务围绕油气勘探与生产展开。"
+    },
+    "TPR": {
+      "symbol": "TPR",
+      "name": "Tapestry, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Luxury Goods",
+      "profile": "Tapestry, Inc.，在NYSE上市，属于可选消费板块，细分行业是奢侈品，主要业务围绕奢侈品展开。"
+    },
+    "TQQQ": {
+      "symbol": "TQQQ",
+      "name": "ProShares UltraPro QQQ",
+      "exchange": "NASDAQ",
+      "quoteType": "ETF",
+      "sector": "",
+      "industry": "",
+      "profile": "ProShares UltraPro QQQ，是在NASDAQ上市的 ETF，用来跟踪一篮子资产或某个主题指数。"
+    },
+    "TRGP": {
+      "symbol": "TRGP",
+      "name": "Targa Resources Corp.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Energy",
+      "industry": "Oil & Gas Midstream",
+      "profile": "Targa Resources Corp.，在NYSE上市，属于能源板块，细分行业是石油和天然气中游，主要业务围绕石油和天然气中游展开。"
+    },
+    "TRI": {
+      "symbol": "TRI",
+      "name": "Thomson Reuters Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Specialty Business Services",
+      "profile": "Thomson Reuters Corporation，在NASDAQ上市，属于工业板块，细分行业是专业商业服务，主要业务围绕专业商业服务展开。"
+    },
+    "TRMB": {
+      "symbol": "TRMB",
+      "name": "Trimble Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Scientific & Technical Instruments",
+      "profile": "Trimble Inc.，在NASDAQ上市，属于科技板块，细分行业是科学技术仪器，主要业务围绕科学技术仪器展开。"
+    },
+    "TROW": {
+      "symbol": "TROW",
+      "name": "T. Rowe Price Group, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Asset Management",
+      "profile": "T. Rowe Price Group, Inc.，在NASDAQ上市，属于金融服务板块，细分行业是资产管理，主要业务围绕资产管理展开。"
+    },
+    "TRV": {
+      "symbol": "TRV",
+      "name": "The Travelers Companies, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Insurance—Property & Casualty",
+      "profile": "The Travelers Companies, Inc.，在NYSE上市，属于金融服务板块，细分行业是保险——财产与意外伤害，主要业务围绕保险——财产与意外伤害展开。"
+    },
+    "TSCO": {
+      "symbol": "TSCO",
+      "name": "Tractor Supply Company",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Specialty Retail",
+      "profile": "Tractor Supply Company，在NASDAQ上市，属于可选消费板块，细分行业是专业零售，主要业务围绕专业零售展开。"
+    },
+    "TSLA": {
+      "symbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers",
+      "profile": "Tesla, Inc.，在NASDAQ上市，属于可选消费板块，细分行业是汽车制造商，主要业务围绕汽车制造商展开。"
+    },
+    "TSM": {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Company Limited",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "profile": "Taiwan Semiconductor Manufacturing Company Limited，在NYSE上市，属于科技板块，细分行业是半导体，主要业务围绕半导体展开。"
+    },
+    "TSMX": {
+      "symbol": "TSMX",
+      "name": "Direxion Daily TSM Bull 2X ETF",
+      "exchange": "NASDAQ",
+      "quoteType": "ETF",
+      "sector": "",
+      "industry": "",
+      "profile": "Direxion Daily TSM Bull 2X ETF，是在NASDAQ上市的 ETF，用来跟踪一篮子资产或某个主题指数。"
+    },
+    "TSN": {
+      "symbol": "TSN",
+      "name": "Tyson Foods, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Farm Products",
+      "profile": "Tyson Foods, Inc.，在NYSE上市，属于必需消费板块，细分行业是农产品，主要业务围绕农产品展开。"
+    },
+    "TT": {
+      "symbol": "TT",
+      "name": "Trane Technologies plc",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Building Products & Equipment",
+      "profile": "Trane Technologies plc，在NYSE上市，属于工业板块，细分行业是建筑产品和设备，主要业务围绕建筑产品和设备展开。"
+    },
+    "TTD": {
+      "symbol": "TTD",
+      "name": "The Trade Desk, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Communication Services",
+      "industry": "Advertising Agencies",
+      "profile": "The Trade Desk, Inc.，在NASDAQ上市，属于通信服务板块，细分行业是广告公司，主要业务围绕广告公司展开。"
+    },
+    "TTWO": {
+      "symbol": "TTWO",
+      "name": "Take-Two Interactive Software, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Communication Services",
+      "industry": "Electronic Gaming & Multimedia",
+      "profile": "Take-Two Interactive Software, Inc.，在NASDAQ上市，属于通信服务板块，细分行业是电子游戏和多媒体，主要业务围绕电子游戏和多媒体展开。"
+    },
+    "TXN": {
+      "symbol": "TXN",
+      "name": "Texas Instruments Incorporated",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "profile": "Texas Instruments Incorporated，在NASDAQ上市，属于科技板块，细分行业是半导体，主要业务围绕半导体展开。"
+    },
+    "TXT": {
+      "symbol": "TXT",
+      "name": "Textron Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "profile": "Textron Inc.，在NYSE上市，属于工业板块，细分行业是航空航天与国防，主要业务围绕航空航天与国防展开。"
+    },
+    "TYL": {
+      "symbol": "TYL",
+      "name": "Tyler Technologies, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Application",
+      "profile": "Tyler Technologies, Inc.，在NYSE上市，属于科技板块，细分行业是软件—应用，主要业务围绕软件—应用展开。"
+    },
+    "UAL": {
+      "symbol": "UAL",
+      "name": "United Airlines Holdings, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Airlines",
+      "profile": "United Airlines Holdings, Inc.，在NASDAQ上市，属于工业板块，细分行业是航空公司，主要业务围绕航空公司展开。"
+    },
+    "UBER": {
+      "symbol": "UBER",
+      "name": "Uber Technologies, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Application",
+      "profile": "Uber Technologies, Inc.，在NYSE上市，属于科技板块，细分行业是软件—应用，主要业务围绕软件—应用展开。"
+    },
+    "UDR": {
+      "symbol": "UDR",
+      "name": "UDR, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Real Estate",
+      "industry": "REIT—Residential",
+      "profile": "UDR, Inc.，在NYSE上市，属于房地产板块，细分行业是REIT——住宅，主要业务围绕REIT——住宅展开。"
+    },
+    "UHS": {
+      "symbol": "UHS",
+      "name": "Universal Health Services, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Medical Care Facilities",
+      "profile": "Universal Health Services, Inc.，在NYSE上市，属于医疗健康板块，细分行业是医疗设施，主要业务围绕医疗设施展开。"
+    },
+    "ULTA": {
+      "symbol": "ULTA",
+      "name": "Ulta Beauty, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Specialty Retail",
+      "profile": "Ulta Beauty, Inc.，在NASDAQ上市，属于可选消费板块，细分行业是专业零售，主要业务围绕专业零售展开。"
+    },
+    "UNH": {
+      "symbol": "UNH",
+      "name": "UnitedHealth Group Incorporated",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Healthcare Plans",
+      "profile": "UnitedHealth Group Incorporated，在NYSE上市，属于医疗健康板块，细分行业是医疗保健计划，主要业务围绕医疗保健计划展开。"
+    },
+    "UNP": {
+      "symbol": "UNP",
+      "name": "Union Pacific Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Railroads",
+      "profile": "Union Pacific Corporation，在NYSE上市，属于工业板块，细分行业是铁路，主要业务围绕铁路展开。"
+    },
+    "UPS": {
+      "symbol": "UPS",
+      "name": "United Parcel Service, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Integrated Freight & Logistics",
+      "profile": "United Parcel Service, Inc.，在NYSE上市，属于工业板块，细分行业是综合货运及物流，主要业务围绕综合货运及物流展开。"
+    },
+    "UPST": {
+      "symbol": "UPST",
+      "name": "Upstart Holdings, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Credit Services",
+      "profile": "Upstart Holdings, Inc.，在NASDAQ上市，属于金融服务板块，细分行业是信用服务，主要业务围绕信用服务展开。"
+    },
+    "URI": {
+      "symbol": "URI",
+      "name": "United Rentals, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Rental & Leasing Services",
+      "profile": "United Rentals, Inc.，在NYSE上市，属于工业板块，细分行业是租赁服务，主要业务围绕租赁服务展开。"
+    },
+    "USAR": {
+      "symbol": "USAR",
+      "name": "USA Rare Earth, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Basic Materials",
+      "industry": "Other Industrial Metals & Mining",
+      "profile": "USA Rare Earth, Inc.，在NASDAQ上市，属于基础材料板块，细分行业是其他工业金属和采矿，主要业务围绕其他工业金属和采矿展开。"
+    },
+    "USB": {
+      "symbol": "USB",
+      "name": "U.S. Bancorp",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Banks—Regional",
+      "profile": "U.S. Bancorp，在NYSE上市，属于金融服务板块，细分行业是银行——区域性，主要业务围绕银行——区域性展开。"
+    },
+    "USO": {
+      "symbol": "USO",
+      "name": "United States Oil Fund, LP",
+      "exchange": "NYSEArca",
+      "quoteType": "ETF",
+      "sector": "",
+      "industry": "",
+      "profile": "United States Oil Fund, LP，是在NYSEArca上市的 ETF，主要提供原油与传统能源方向的市场敞口。"
+    },
+    "V": {
+      "symbol": "V",
+      "name": "Visa Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Credit Services",
+      "profile": "Visa Inc.，在NYSE上市，属于金融服务板块，细分行业是信用服务，主要业务围绕信用服务展开。"
+    },
+    "VEEV": {
+      "symbol": "VEEV",
+      "name": "Veeva Systems Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Health Information Services",
+      "profile": "Veeva Systems Inc.，在NYSE上市，属于医疗健康板块，细分行业是健康信息服务，主要业务围绕健康信息服务展开。"
+    },
+    "VIAV": {
+      "symbol": "VIAV",
+      "name": "Viavi Solutions Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Communication Equipment",
+      "profile": "Viavi Solutions Inc.，在NASDAQ上市，属于科技板块，细分行业是通信设备，主要业务围绕通信设备展开。"
+    },
+    "VICI": {
+      "symbol": "VICI",
+      "name": "VICI Properties Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Real Estate",
+      "industry": "REIT—Diversified",
+      "profile": "VICI Properties Inc.，在NYSE上市，属于房地产板块，细分行业是REIT——多元化，主要业务围绕REIT——多元化展开。"
+    },
+    "VLO": {
+      "symbol": "VLO",
+      "name": "Valero Energy Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Energy",
+      "industry": "Oil & Gas Refining & Marketing",
+      "profile": "Valero Energy Corporation，在NYSE上市，属于能源板块，细分行业是炼油与成品油销售，主要业务围绕炼油与成品油销售展开。"
+    },
+    "VLTO": {
+      "symbol": "VLTO",
+      "name": "Veralto Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Pollution & Treatment Controls",
+      "profile": "Veralto Corporation，在NYSE上市，属于工业板块，细分行业是污染与处理控制，主要业务围绕污染与处理控制展开。"
+    },
+    "VMC": {
+      "symbol": "VMC",
+      "name": "Vulcan Materials Company",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Basic Materials",
+      "industry": "Building Materials",
+      "profile": "Vulcan Materials Company，在NYSE上市，属于基础材料板块，细分行业是建筑材料，主要业务围绕建筑材料展开。"
+    },
+    "VRSK": {
+      "symbol": "VRSK",
+      "name": "Verisk Analytics, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Consulting Services",
+      "profile": "Verisk Analytics, Inc.，在NASDAQ上市，属于工业板块，细分行业是咨询服务，主要业务围绕咨询服务展开。"
+    },
+    "VRSN": {
+      "symbol": "VRSN",
+      "name": "VeriSign, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Infrastructure",
+      "profile": "VeriSign, Inc.，在NASDAQ上市，属于科技板块，细分行业是软件—基础设施，主要业务围绕软件—基础设施展开。"
+    },
+    "VRT": {
+      "symbol": "VRT",
+      "name": "Vertiv Holdings Co",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Electrical Equipment & Parts",
+      "profile": "Vertiv Holdings Co，在NYSE上市，属于工业板块，细分行业是电气设备及零件，主要业务围绕电气设备及零件展开。"
+    },
+    "VRTX": {
+      "symbol": "VRTX",
+      "name": "Vertex Pharmaceuticals Incorporated",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Biotechnology",
+      "profile": "Vertex Pharmaceuticals Incorporated，在NASDAQ上市，属于医疗健康板块，细分行业是生物技术，主要业务围绕生物技术展开。"
+    },
+    "VST": {
+      "symbol": "VST",
+      "name": "Vistra Corp.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Utilities",
+      "industry": "Utilities—Independent Power Producers",
+      "profile": "Vistra Corp.，在NYSE上市，属于公用事业板块，细分行业是公用事业——独立电力生产商，主要业务围绕公用事业——独立电力生产商展开。"
+    },
+    "VTR": {
+      "symbol": "VTR",
+      "name": "Ventas, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Real Estate",
+      "industry": "REIT—Healthcare Facilities",
+      "profile": "Ventas, Inc.，在NYSE上市，属于房地产板块，细分行业是房地产投资信托基金——医疗保健设施，主要业务围绕房地产投资信托基金——医疗保健设施展开。"
+    },
+    "VTRS": {
+      "symbol": "VTRS",
+      "name": "Viatris Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers—Specialty & Generic",
+      "profile": "Viatris Inc.，在NASDAQ上市，属于医疗健康板块，细分行业是药品制造商——特种药品和非专利药品，主要业务围绕药品制造商——特种药品和非专利药品展开。"
+    },
+    "VZ": {
+      "symbol": "VZ",
+      "name": "Verizon Communications Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Communication Services",
+      "industry": "Telecom Services",
+      "profile": "Verizon Communications Inc.，在NYSE上市，属于通信服务板块，细分行业是电信服务，主要业务围绕电信服务展开。"
+    },
+    "WAB": {
+      "symbol": "WAB",
+      "name": "Westinghouse Air Brake Technologies Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Railroads",
+      "profile": "Westinghouse Air Brake Technologies Corporation，在NYSE上市，属于工业板块，细分行业是铁路，主要业务围绕铁路展开。"
+    },
+    "WAT": {
+      "symbol": "WAT",
+      "name": "Waters Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Diagnostics & Research",
+      "profile": "Waters Corporation，在NYSE上市，属于医疗健康板块，细分行业是诊断与研究，主要业务围绕诊断与研究展开。"
+    },
+    "WBD": {
+      "symbol": "WBD",
+      "name": "Warner Bros. Discovery, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Communication Services",
+      "industry": "Entertainment",
+      "profile": "Warner Bros. Discovery, Inc.，在NASDAQ上市，属于通信服务板块，细分行业是娱乐，主要业务围绕娱乐展开。"
+    },
+    "WDAY": {
+      "symbol": "WDAY",
+      "name": "Workday, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Application",
+      "profile": "Workday, Inc.，在NASDAQ上市，属于科技板块，细分行业是软件—应用，主要业务围绕软件—应用展开。"
+    },
+    "WDC": {
+      "symbol": "WDC",
+      "name": "Western Digital Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Computer Hardware",
+      "profile": "Western Digital Corporation，在NASDAQ上市，属于科技板块，细分行业是电脑硬件，主要业务围绕电脑硬件展开。"
+    },
+    "WEC": {
+      "symbol": "WEC",
+      "name": "WEC Energy Group, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Utilities",
+      "industry": "Utilities—Regulated Electric",
+      "profile": "WEC Energy Group, Inc.，在NYSE上市，属于公用事业板块，细分行业是公用事业——受监管的电力，主要业务围绕公用事业——受监管的电力展开。"
+    },
+    "WELL": {
+      "symbol": "WELL",
+      "name": "Welltower Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Real Estate",
+      "industry": "REIT—Healthcare Facilities",
+      "profile": "Welltower Inc.，在NYSE上市，属于房地产板块，细分行业是房地产投资信托基金——医疗保健设施，主要业务围绕房地产投资信托基金——医疗保健设施展开。"
+    },
+    "WFC": {
+      "symbol": "WFC",
+      "name": "Wells Fargo & Company",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Banks—Diversified",
+      "profile": "Wells Fargo & Company，在NYSE上市，属于金融服务板块，细分行业是银行——多元化，主要业务围绕银行——多元化展开。"
+    },
+    "WM": {
+      "symbol": "WM",
+      "name": "Waste Management, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Waste Management",
+      "profile": "Waste Management, Inc.，在NYSE上市，属于工业板块，细分行业是废物管理，主要业务围绕废物管理展开。"
+    },
+    "WMB": {
+      "symbol": "WMB",
+      "name": "The Williams Companies, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Energy",
+      "industry": "Oil & Gas Midstream",
+      "profile": "The Williams Companies, Inc.，在NYSE上市，属于能源板块，细分行业是石油和天然气中游，主要业务围绕石油和天然气中游展开。"
+    },
+    "WMT": {
+      "symbol": "WMT",
+      "name": "Walmart Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Defensive",
+      "industry": "Discount Stores",
+      "profile": "Walmart Inc.，在NASDAQ上市，属于必需消费板块，细分行业是折扣零售，主要业务围绕折扣零售展开。"
+    },
+    "WRB": {
+      "symbol": "WRB",
+      "name": "W. R. Berkley Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Insurance—Property & Casualty",
+      "profile": "W. R. Berkley Corporation，在NYSE上市，属于金融服务板块，细分行业是保险——财产与意外伤害，主要业务围绕保险——财产与意外伤害展开。"
+    },
+    "WSM": {
+      "symbol": "WSM",
+      "name": "Williams-Sonoma, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Specialty Retail",
+      "profile": "Williams-Sonoma, Inc.，在NYSE上市，属于可选消费板块，细分行业是专业零售，主要业务围绕专业零售展开。"
+    },
+    "WST": {
+      "symbol": "WST",
+      "name": "West Pharmaceutical Services, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Medical Instruments & Supplies",
+      "profile": "West Pharmaceutical Services, Inc.，在NYSE上市，属于医疗健康板块，细分行业是医疗器械及用品，主要业务围绕医疗器械及用品展开。"
+    },
+    "WTW": {
+      "symbol": "WTW",
+      "name": "Willis Towers Watson Public Limited Company",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Financial Services",
+      "industry": "Insurance Brokers",
+      "profile": "Willis Towers Watson Public Limited Company，在NASDAQ上市，属于金融服务板块，细分行业是保险经纪人，主要业务围绕保险经纪人展开。"
+    },
+    "WY": {
+      "symbol": "WY",
+      "name": "Weyerhaeuser Company",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Real Estate",
+      "industry": "REIT—Specialty",
+      "profile": "Weyerhaeuser Company，在NYSE上市，属于房地产板块，细分行业是房地产投资信托基金——专业，主要业务围绕房地产投资信托基金——专业展开。"
+    },
+    "WYNN": {
+      "symbol": "WYNN",
+      "name": "Wynn Resorts, Limited",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Resorts & Casinos",
+      "profile": "Wynn Resorts, Limited，在NASDAQ上市，属于可选消费板块，细分行业是度假村和赌场，主要业务围绕度假村和赌场展开。"
+    },
+    "XEL": {
+      "symbol": "XEL",
+      "name": "Xcel Energy Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Utilities",
+      "industry": "Utilities—Regulated Electric",
+      "profile": "Xcel Energy Inc.，在NASDAQ上市，属于公用事业板块，细分行业是公用事业——受监管的电力，主要业务围绕公用事业——受监管的电力展开。"
+    },
+    "XLE": {
+      "symbol": "XLE",
+      "name": "State Street Energy Select Sector SPDR ETF",
+      "exchange": "NYSEArca",
+      "quoteType": "ETF",
+      "sector": "",
+      "industry": "",
+      "profile": "State Street Energy Select Sector SPDR ETF，是在NYSEArca上市的 ETF，主要提供原油与传统能源方向的市场敞口。"
+    },
+    "XOM": {
+      "symbol": "XOM",
+      "name": "Exxon Mobil Corporation",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Energy",
+      "industry": "Oil & Gas Integrated",
+      "profile": "Exxon Mobil Corporation，在NYSE上市，属于能源板块，细分行业是油气一体化，主要业务围绕油气一体化展开。"
+    },
+    "XYL": {
+      "symbol": "XYL",
+      "name": "Xylem Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "profile": "Xylem Inc.，在NYSE上市，属于工业板块，细分行业是特种工业机械，主要业务围绕特种工业机械展开。"
+    },
+    "XYZ": {
+      "symbol": "XYZ",
+      "name": "Block, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Infrastructure",
+      "profile": "Block, Inc.，在NYSE上市，属于科技板块，细分行业是软件—基础设施，主要业务围绕软件—基础设施展开。"
+    },
+    "YUM": {
+      "symbol": "YUM",
+      "name": "Yum! Brands, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Consumer Cyclical",
+      "industry": "Restaurants",
+      "profile": "Yum! Brands, Inc.，在NYSE上市，属于可选消费板块，细分行业是餐厅，主要业务围绕餐厅展开。"
+    },
+    "ZBH": {
+      "symbol": "ZBH",
+      "name": "Zimmer Biomet Holdings, Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Medical Devices",
+      "profile": "Zimmer Biomet Holdings, Inc.，在NYSE上市，属于医疗健康板块，细分行业是医疗器械，主要业务围绕医疗器械展开。"
+    },
+    "ZBRA": {
+      "symbol": "ZBRA",
+      "name": "Zebra Technologies Corporation",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Communication Equipment",
+      "profile": "Zebra Technologies Corporation，在NASDAQ上市，属于科技板块，细分行业是通信设备，主要业务围绕通信设备展开。"
+    },
+    "ZS": {
+      "symbol": "ZS",
+      "name": "Zscaler, Inc.",
+      "exchange": "NASDAQ",
+      "quoteType": "EQUITY",
+      "sector": "Technology",
+      "industry": "Software—Infrastructure",
+      "profile": "Zscaler, Inc.，在NASDAQ上市，属于科技板块，细分行业是软件—基础设施，主要业务围绕软件—基础设施展开。"
+    },
+    "ZTS": {
+      "symbol": "ZTS",
+      "name": "Zoetis Inc.",
+      "exchange": "NYSE",
+      "quoteType": "EQUITY",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers—Specialty & Generic",
+      "profile": "Zoetis Inc.，在NYSE上市，属于医疗健康板块，细分行业是药品制造商——特种药品和非专利药品，主要业务围绕药品制造商——特种药品和非专利药品展开。"
+    }
+  }
+}
