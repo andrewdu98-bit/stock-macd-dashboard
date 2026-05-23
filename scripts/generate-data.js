@@ -21,8 +21,63 @@ const TAG_GROUPS = {
   '科技股':['AAPL','MSFT','GOOG','GOOGL','AMZN','META','NVDA','AMD','AVGO','ORCL','CRM','ADBE','CSCO','IBM','INTC','NOW','SHOP','TSLA','UBER','ANET','CRWD','PLTR','SNOW','PANW','DDOG','APP']
 };
 const TAGS_BY_SYMBOL = Object.entries(TAG_GROUPS).reduce((acc,[tag,symbols])=>{for(const symbol of symbols){if(!acc[symbol])acc[symbol]=[];if(!acc[symbol].includes(tag))acc[symbol].push(tag)}return acc},{});
+const TAG_BLURBS = {
+  '算力':'AI 算力芯片、网络互联或高性能计算基础设施',
+  '服务器':'服务器、交换机、企业网络或数据中心硬件',
+  '能源':'电力、公用事业、核能或新能源基础设施',
+  '石油':'原油、油服、炼化或能源运输',
+  '半导体内存':'半导体、存储芯片、材料或光通信器件',
+  '量子计算':'量子计算硬件、软件或相关光学技术',
+  '太空卫星':'卫星通信、航天发射或太空基础设施',
+  '社交媒体':'社交平台、社区流量或广告分发',
+  '加密货币':'加密资产交易、托管或比特币相关金融产品',
+  '国防军工':'国防装备、军工系统或航空航天防务',
+  '热门股':'高关注度成长题材或交易热度较高的个股',
+  '消费':'零售、品牌消费、食品饮料或家庭消费品',
+  '科技股':'大型科技平台、企业软件、云计算或数字化服务'
+};
+const PROFILE_OVERRIDES = {
+  SPY:'SPDR S&P 500 ETF Trust，跟踪标普500指数，是观察美股大盘的核心 ETF。',
+  QQQ:'Invesco QQQ Trust，主要跟踪纳斯达克100指数，覆盖大型科技与成长股。',
+  IBIT:'iShares Bitcoin Trust ETF，主要提供比特币现货价格敞口。',
+  SOXL:'Direxion Daily Semiconductor Bull 3X Shares，是半导体板块的三倍做多杠杆 ETF。',
+  USO:'United States Oil Fund, LP，主要跟踪原油期货走势。',
+  XLE:'Energy Select Sector SPDR Fund，主要覆盖美股大型能源公司。',
+  BNO:'United States Brent Oil Fund, LP，主要跟踪布伦特原油期货走势。',
+  BOIL:'ProShares Ultra Bloomberg Natural Gas，是天然气方向的杠杆 ETF。',
+  TQQQ:'ProShares UltraPro QQQ，是纳指100的三倍做多杠杆 ETF。',
+  IBIT:'iShares Bitcoin Trust ETF，主要提供比特币现货价格敞口。',
+  MSTR:'MicroStrategy Incorporated，主营企业软件，同时以大规模持有比特币著称。',
+  COIN:'Coinbase Global, Inc.，主营加密货币交易、托管和相关基础设施服务。',
+  HOOD:'Robinhood Markets, Inc.，主营零售券商、加密资产交易与金融平台服务。',
+  NVDA:'NVIDIA Corporation，主营 GPU、AI 算力平台和数据中心芯片。',
+  AMD:'Advanced Micro Devices, Inc.，主营 CPU、GPU 与数据中心芯片。',
+  MU:'Micron Technology, Inc.，主营 DRAM、NAND 等存储芯片。',
+  SNDK:'SanDisk Corporation，主营闪存与存储产品。',
+  WDC:'Western Digital Corporation，主营硬盘、闪存和数据存储设备。',
+  DELL:'Dell Technologies Inc.，主营服务器、存储、PC 与企业基础设施。',
+  HPE:'Hewlett Packard Enterprise Company，主营企业服务器、网络和混合云基础设施。',
+  SMCI:'Super Micro Computer, Inc.，主营 AI 服务器与高性能计算硬件。',
+  ASTS:'AST SpaceMobile, Inc.，主营卫星直连通信网络建设。',
+  RKLB:'Rocket Lab USA, Inc.，主营火箭发射、卫星平台和太空服务。',
+  LUNR:'Intuitive Machines, Inc.，主营月球探测与航天基础设施服务。',
+  RDDT:'Reddit, Inc.，主营社区平台、广告与用户流量商业化。',
+  META:'Meta Platforms, Inc.，主营社交平台、广告业务和 AI/AR 生态。'
+};
 function readWatchlist(){return fs.readFileSync(WATCHLIST,'utf8').split(/\r?\n/).map(s=>s.trim().toUpperCase()).filter(s=>s&&!s.startsWith('#'))}
 function tagsForSymbol(symbol){return (TAGS_BY_SYMBOL[symbol]||[]).slice().sort((a,b)=>a.localeCompare(b,'zh-CN'))}
+function companyProfile(symbol,name,tags){
+  if(PROFILE_OVERRIDES[symbol]) return PROFILE_OVERRIDES[symbol];
+  const cleanName = name || symbol;
+  if(/\b(ETF|Trust|Fund|Shares)\b/i.test(cleanName)){
+    const tagText=tags.length?`，偏向${tags.slice(0,2).join(' / ')}主题`:'';
+    return `${cleanName}，这是一只交易型基金${tagText}。`;
+  }
+  const blurbs=tags.map(tag=>TAG_BLURBS[tag]).filter(Boolean);
+  if(blurbs.length===1)return `${cleanName}，主要从事${blurbs[0]}相关业务。`;
+  if(blurbs.length>1)return `${cleanName}，主要从事${blurbs.slice(0,2).join('，并覆盖')}相关业务。`;
+  return `${cleanName}，是一家美股上市公司。`;
+}
 function ema(values, period){const k=2/(period+1);let prev=null;return values.map(v=>{prev=prev==null?v:v*k+prev*(1-k);return prev})}
 function sma(values, period){return values.map((_,i)=>{const start=Math.max(0,i-period+1),seg=values.slice(start,i+1).filter(Number.isFinite);return seg.length?seg.reduce((a,b)=>a+b,0)/seg.length:null})}
 function macd(c){const e12=ema(c,12),e26=ema(c,26),dif=c.map((_,i)=>e12[i]-e26[i]),dea=ema(dif,9),hist=dif.map((x,i)=>x-dea[i]);return{dif,dea,hist}}
@@ -35,14 +90,14 @@ function maSignal(fast,slow){const n=fast.length-1,maF=fast[n],maS=slow[n],pF=fa
 function volSignal(fast,slow,vol){const n=fast.length-1,mvF=fast[n],mvS=slow[n],pF=fast[n-1],pS=slow[n-1],strong=vol[n]>mvS*1.5,spread=mvF-mvS,prevSpread=pF-pS;if(mvF>mvS&&pF<=pS&&strong)return{key:'buy',label:'买入',badge:'量价金叉'};if(mvF<mvS&&pF>=pS)return{key:'sell',label:'卖出',badge:'量能死叉'};if(mvF>mvS)return{key:'hold',label:'持有',badge:strong?'放量多头':'量能多头'};return{key:'watch',label:'观望',badge:'等待'}}
 function crossAge(fast,slow,rows){let n=fast.length-1;if(!(fast[n]>slow[n]))return{bullish:false,days:0,date:null,weakening:false,label:'未多头'};let idx=0;for(let i=n;i>=1;i--)if(fast[i]>slow[i]&&fast[i-1]<=slow[i-1]){idx=i;break}const spread=fast.map((x,i)=>x-slow[i]),start=Math.max(idx,n-9),seg=spread.slice(start,n+1),cur=spread[n],prev=spread[n-1]??cur,prev2=spread[n-2]??prev,peak=Math.max(...seg);const falling3=cur<prev&&prev<prev2;const fromPeak=peak>0?(peak-cur)/peak:0;const weakening=!!(cur>0&&(falling3||fromPeak>=0.45));const label=weakening?'明显走弱':(cur>prev?'动能增强':'正常回落');return{bullish:true,days:n-idx+1,date:rows[idx].date,weakening,label,spreadPeak:+peak.toFixed(4),spreadChange:+(cur-prev).toFixed(4),dropFromPeak:+(fromPeak*100).toFixed(1)}}
 function kdjCrossAge(k,d,rows){let n=k.length-1;if(!(k[n]>d[n]))return{bullish:false,days:0,date:null,weakening:false,label:'未金叉'};let idx=0;for(let i=n;i>=1;i--)if(k[i]>d[i]&&k[i-1]<=d[i-1]){idx=i;break}const curD=d[n],prevD=d[n-1]??curD,prev2D=d[n-2]??prevD;const weakening=curD>80&&curD<prevD&&prevD<prev2D;const label=curD<20?'超卖金叉区':curD>80?(weakening?'高位钝化走弱':'高位钝化'):(curD>prevD?'动能回升':'正常回落');return{bullish:true,days:n-idx+1,date:rows[idx].date,weakening,label,d:+curD.toFixed(2),k:+k[n].toFixed(2)}}
-function summarizeViews(symbol,name,date,price,views,beta){const defs=[['macd','MACD'],['ema','EMA8/21'],['kdj','KDJ'],['priceCross','价格'],['volumeCross','量价']];const crosses=defs.map(([key,label])=>({key,label,signal:views[key].signal,badge:views[key].signal.badge}));const buys=crosses.filter(x=>x.signal.key==='buy'),sells=crosses.filter(x=>x.signal.key==='sell'),holds=crosses.filter(x=>x.signal.key==='hold');const key=buys.length?'buy':sells.length?'sell':holds.length?'hold':'watch';const badge=buys.length?`${buys.length}个金叉`:sells.length?`${sells.length}个死叉`:holds.length?`${holds.length}个偏多`:'无交叉';const r={symbol,name,date,price,signal:{key,label:key==='buy'?'买入':key==='sell'?'卖出':key==='hold'?'持有':'观望',badge},crosses,buys,sells,holds,tags:tagsForSymbol(symbol),updatedAt:new Date().toISOString()};if(Number.isFinite(beta))r.beta=beta;return r}
+function summarizeViews(symbol,name,date,price,views,beta){const defs=[['macd','MACD'],['ema','EMA8/21'],['kdj','KDJ'],['priceCross','价格'],['volumeCross','量价']];const crosses=defs.map(([key,label])=>({key,label,signal:views[key].signal,badge:views[key].signal.badge}));const buys=crosses.filter(x=>x.signal.key==='buy'),sells=crosses.filter(x=>x.signal.key==='sell'),holds=crosses.filter(x=>x.signal.key==='hold');const key=buys.length?'buy':sells.length?'sell':holds.length?'hold':'watch';const badge=buys.length?`${buys.length}个金叉`:sells.length?`${sells.length}个死叉`:holds.length?`${holds.length}个偏多`:'无交叉';const tags=tagsForSymbol(symbol);const r={symbol,name,date,price,signal:{key,label:key==='buy'?'买入':key==='sell'?'卖出':key==='hold'?'持有':'观望',badge},crosses,buys,sells,holds,tags,companyProfile:companyProfile(symbol,name,tags),updatedAt:new Date().toISOString()};if(Number.isFinite(beta))r.beta=beta;return r}
 /* Calculate beta coefficient from daily returns relative to SPY */
 function calcBeta(stockCloses, spyCloses){const n=Math.min(stockCloses.length,spyCloses.length);if(n<30)return NaN;const stockRets=[],spyRets=[];for(let i=1;i<n;i++){const sr=stockCloses[i]/stockCloses[i-1]-1;const mr=spyCloses[i]/spyCloses[i-1]-1;if(Number.isFinite(sr)&&Number.isFinite(mr)){stockRets.push(sr);spyRets.push(mr)}}if(stockRets.length<20)return NaN;const avgM=spyRets.reduce((a,b)=>a+b,0)/spyRets.length;const avgS=stockRets.reduce((a,b)=>a+b,0)/stockRets.length;let cov=0,varM=0;for(let i=0;i<spyRets.length;i++){cov+=(spyRets[i]-avgM)*(stockRets[i]-avgS);varM+=(spyRets[i]-avgM)**2}if(varM===0)return NaN;return+(cov/varM).toFixed(3)}
 /* Global cache for SPY closes across all fetchSym calls */
 const spyCache=[];let spyFetched=false;
 async function ensureSpyCache(){if(spyFetched)return;const url='https://query1.finance.yahoo.com/v8/finance/chart/SPY?range=6mo&interval=1d&includePrePost=false&events=div%2Csplits';try{const r=await fetch(url,{headers:{'user-agent':'Mozilla/5.0'}});if(r.ok){const j=await r.json();const x=j.chart?.result?.[0];if(x){const q=x.indicators.quote[0];spyCache.length=0;for(const c of q.close){if(Number.isFinite(c))spyCache.push(c)}}spyFetched=true}}catch{}/* proceed without SPY if it fails */spyFetched=true}
-async function fetchSym(s){const url=`https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(s)}?range=6mo&interval=1d&includePrePost=false&events=div%2Csplits`;const r=await fetch(url,{headers:{'user-agent':'Mozilla/5.0'}});if(!r.ok)throw new Error(`Yahoo ${r.status}`);const j=await r.json();const x=j.chart?.result?.[0];if(!x)throw new Error('no chart data');const q=x.indicators.quote[0];const rows=x.timestamp.map((t,i)=>({date:new Date(t*1000).toISOString().slice(0,10),high:q.high[i],low:q.low[i],close:q.close[i],volume:q.volume[i]})).filter(r=>Number.isFinite(r.close)&&Number.isFinite(r.high)&&Number.isFinite(r.low)&&Number.isFinite(r.volume));if(rows.length<55)throw new Error('not enough data');const c=rows.map(r=>r.close),v=rows.map(r=>r.volume),m=macd(c),e8=ema(c,8),e21=ema(c,21),e20=ema(c,20),e50=ema(c,50),kd=kdj(rows),ma8=sma(c,8),ma21=sma(c,21),mv5=sma(v,5),mv20=sma(v,20),n=rows.length-1,pb20=emaPullbackSignal(rows,e20,20),pb50=emaPullbackSignal(rows,e50,50),tags=tagsForSymbol(s);let beta=NaN;if(s!=='SPY'){await ensureSpyCache();if(spyCache.length>=30)beta=calcBeta(c,spyCache)}const views={macd:{signal:macdSignal(m.hist,m.dif,m.dea),dif:m.dif[n],dea:m.dea[n],hist:m.hist[n],crossAge:crossAge(m.dif,m.dea,rows),histTail:m.hist.slice(-28).map(x=>+x.toFixed(4))},ema:{signal:emaSignal(e8,e21),ema8:e8[n],ema21:e21[n],ema20:e20[n],ema50:e50[n],pullback20:pb20,pullback50:pb50,spread:e8[n]-e21[n],crossAge:crossAge(e8,e21,rows),spreadTail:e8.slice(-28).map((x,i)=>+(x-e21[e21.length-28+i]).toFixed(4))},kdj:{signal:kdjSignal(kd.k,kd.d),k:kd.k[n],d:kd.d[n],j:kd.j[n],crossAge:kdjCrossAge(kd.k,kd.d,rows),kdjTail:kd.k.slice(-28).map((x,i)=>+(x-kd.d[kd.d.length-28+i]).toFixed(4))},priceCross:{signal:maSignal(ma8,ma21),maFast:ma8[n],maSlow:ma21[n],spread:ma8[n]-ma21[n],crossAge:crossAge(ma8,ma21,rows),maTail:ma8.slice(-28).map((x,i)=>+(x-ma21[ma21.length-28+i]).toFixed(4))},volumeCross:{signal:volSignal(mv5,mv20,v),mavolFast:mv5[n],mavolSlow:mv20[n],volume:v[n],volumeRatio:v[n]/mv20[n],spread:mv5[n]-mv20[n],crossAge:crossAge(mv5,mv20,rows),volTail:mv5.slice(-28).map((x,i)=>+(x-mv20[mv20.length-28+i]).toFixed(0))}};return{symbol:s,name:COMPANY[s]||s,date:rows[n].date,price:rows[n].close,beta,tags,...views,summary:summarizeViews(s,COMPANY[s]||s,rows[n].date,rows[n].close,views,beta),updatedAt:new Date().toISOString()}}
-function viewOf(item,kind){if(item.error)return item;const r={symbol:item.symbol,name:item.name,date:item.date,price:item.price,tags:item.tags||[],...item[kind],updatedAt:item.updatedAt};if(item.beta!=null)r.beta=item.beta;return r}
+async function fetchSym(s){const url=`https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(s)}?range=6mo&interval=1d&includePrePost=false&events=div%2Csplits`;const r=await fetch(url,{headers:{'user-agent':'Mozilla/5.0'}});if(!r.ok)throw new Error(`Yahoo ${r.status}`);const j=await r.json();const x=j.chart?.result?.[0];if(!x)throw new Error('no chart data');const q=x.indicators.quote[0];const rows=x.timestamp.map((t,i)=>({date:new Date(t*1000).toISOString().slice(0,10),high:q.high[i],low:q.low[i],close:q.close[i],volume:q.volume[i]})).filter(r=>Number.isFinite(r.close)&&Number.isFinite(r.high)&&Number.isFinite(r.low)&&Number.isFinite(r.volume));if(rows.length<55)throw new Error('not enough data');const c=rows.map(r=>r.close),v=rows.map(r=>r.volume),m=macd(c),e8=ema(c,8),e21=ema(c,21),e20=ema(c,20),e50=ema(c,50),kd=kdj(rows),ma8=sma(c,8),ma21=sma(c,21),mv5=sma(v,5),mv20=sma(v,20),n=rows.length-1,tags=tagsForSymbol(s),profile=companyProfile(s,COMPANY[s]||s,tags),pb20=emaPullbackSignal(rows,e20,20),pb50=emaPullbackSignal(rows,e50,50);let beta=NaN;if(s!=='SPY'){await ensureSpyCache();if(spyCache.length>=30)beta=calcBeta(c,spyCache)}const views={macd:{signal:macdSignal(m.hist,m.dif,m.dea),dif:m.dif[n],dea:m.dea[n],hist:m.hist[n],crossAge:crossAge(m.dif,m.dea,rows),histTail:m.hist.slice(-28).map(x=>+x.toFixed(4))},ema:{signal:emaSignal(e8,e21),ema8:e8[n],ema21:e21[n],ema20:e20[n],ema50:e50[n],pullback20:pb20,pullback50:pb50,spread:e8[n]-e21[n],crossAge:crossAge(e8,e21,rows),spreadTail:e8.slice(-28).map((x,i)=>+(x-e21[e21.length-28+i]).toFixed(4))},kdj:{signal:kdjSignal(kd.k,kd.d),k:kd.k[n],d:kd.d[n],j:kd.j[n],crossAge:kdjCrossAge(kd.k,kd.d,rows),kdjTail:kd.k.slice(-28).map((x,i)=>+(x-kd.d[kd.d.length-28+i]).toFixed(4))},priceCross:{signal:maSignal(ma8,ma21),maFast:ma8[n],maSlow:ma21[n],spread:ma8[n]-ma21[n],crossAge:crossAge(ma8,ma21,rows),maTail:ma8.slice(-28).map((x,i)=>+(x-ma21[ma21.length-28+i]).toFixed(4))},volumeCross:{signal:volSignal(mv5,mv20,v),mavolFast:mv5[n],mavolSlow:mv20[n],volume:v[n],volumeRatio:v[n]/mv20[n],spread:mv5[n]-mv20[n],crossAge:crossAge(mv5,mv20,rows),volTail:mv5.slice(-28).map((x,i)=>+(x-mv20[mv20.length-28+i]).toFixed(0))}};return{symbol:s,name:COMPANY[s]||s,date:rows[n].date,price:rows[n].close,beta,tags,companyProfile:profile,...views,summary:summarizeViews(s,COMPANY[s]||s,rows[n].date,rows[n].close,views,beta),updatedAt:new Date().toISOString()}}
+function viewOf(item,kind){if(item.error)return item;const r={symbol:item.symbol,name:item.name,date:item.date,price:item.price,tags:item.tags||[],companyProfile:item.companyProfile||'',...item[kind],updatedAt:item.updatedAt};if(item.beta!=null)r.beta=item.beta;return r}
 function sortItems(items){const order={buy:0,hold:1,watch:2,sell:3};return items.sort((a,b)=>(order[a.signal?.key]??9)-(order[b.signal?.key]??9)||(b.crossAge?.days||0)-(a.crossAge?.days||0)||a.symbol.localeCompare(b.symbol))}
 function sortSummary(items){const score=x=>(x.buys?.length||0)*10+(x.sells?.length||0)*6+(x.holds?.length||0);return items.sort((a,b)=>score(b)-score(a)||a.symbol.localeCompare(b.symbol))}
 function counts(items){const out={buy:0,hold:0,sell:0,watch:0,total:items.length};for(const it of items)if(it.signal)out[it.signal.key]++;return out}
