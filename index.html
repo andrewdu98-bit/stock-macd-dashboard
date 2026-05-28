@@ -92,6 +92,9 @@ h1{font-size:26px;font-weight:800;letter-spacing:-.5px;background:linear-gradien
 .card-head{display:flex;justify-content:space-between;align-items:flex-start;gap:10px}
 .card-sym{font-size:17px;font-weight:800;letter-spacing:.3px;display:flex;align-items:center;gap:6px}
 .sym-tip{position:relative;display:inline-flex;align-items:center;gap:6px;cursor:help}
+.sym-link{color:inherit;text-decoration:none;border-bottom:1px dashed rgba(37,99,235,.35);transition:color .18s ease,border-color .18s ease}
+.sym-link:hover{color:var(--blue);border-bottom-color:var(--blue)}
+.sym-link:focus-visible{outline:2px solid rgba(37,99,235,.35);outline-offset:2px;border-radius:4px}
 .sym-tooltip{position:absolute;left:0;top:calc(100% + 10px);z-index:20;min-width:240px;max-width:320px;padding:10px 12px;border-radius:10px;background:#0f172a;color:#fff;box-shadow:0 12px 30px rgba(15,23,42,.28);font-size:12px;line-height:1.55;font-weight:500;opacity:0;visibility:hidden;transform:translateY(4px);transition:opacity .18s ease,transform .18s ease,visibility .18s ease;pointer-events:none;white-space:normal}
 .sym-tooltip::before{content:'';position:absolute;left:14px;bottom:100%;border:6px solid transparent;border-bottom-color:#0f172a}
 .sym-tip:hover .sym-tooltip,.sym-tip:focus-within .sym-tooltip{opacity:1;visibility:visible;transform:translateY(0)}
@@ -337,7 +340,8 @@ function bars(a,dates){let max=Math.max(...a.map(x=>Math.abs(x)),.0001);let ad=d
 function companyProfileEntry(symbol){return companyProfilesData?.profiles?.[symbol]||null}
 function displayName(it){return companyProfileEntry(it.symbol)?.name||it.name||it.symbol}
 function profileText(it){return companyProfileEntry(it.symbol)?.profile||it.companyProfile||it.name||it.symbol}
-function symbolTip(it){const profile=esc(profileText(it));const label=esc(it.symbol);const title=esc(displayName(it));return'<span class="sym-tip" tabindex="0" aria-label="'+title+'"><span>'+label+'</span><span class="sym-tooltip"><b>'+title+'</b>'+profile+'</span></span>'}
+function yahooQuoteUrl(symbol){return 'https://finance.yahoo.com/quote/'+encodeURIComponent(symbol)+'/'} 
+function symbolTip(it){const profile=esc(profileText(it));const label=esc(it.symbol);const title=esc(displayName(it));const href=esc(yahooQuoteUrl(it.symbol));return'<span class="sym-tip" tabindex="0" aria-label="'+title+'"><a class="sym-link" href="'+href+'" target="_blank" rel="noreferrer noopener">'+label+'</a><span class="sym-tooltip"><b>'+title+'</b>'+profile+'</span></span>'}
 function crossText(it){if(!it.crossAge||!it.crossAge.bullish)return'未多头';return'金叉第 '+it.crossAge.days+' 天 · '+(it.crossAge.label||'')}
 function crossClass(it){return it.crossAge&&it.crossAge.weakening?'weakening':'strong'}
 function metricValues(it){if(activeView==='ema')return[it.ema8,it.ema21,it.spread];if(activeView==='kdj')return[it.k,it.d,it.j];if(activeView==='priceCross')return[it.maFast,it.maSlow,it.spread];if(activeView==='volumeCross')return[it.mavolFast,it.mavolSlow,it.volumeRatio];return[it.dif,it.dea,it.hist]}
