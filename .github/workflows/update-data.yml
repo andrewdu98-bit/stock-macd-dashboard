@@ -2,14 +2,26 @@ name: Update market data
 on:
   workflow_dispatch:
   schedule:
-    # Daily morning run in UTC. GitHub may delay scheduled runs by a few minutes.
-    - cron: '0 12 * * *'
+    # GitHub Actions cron is UTC only. These two UTC times cover both EST and EDT.
+    # The first step below keeps only the run that is actually 10:00 AM in Detroit.
+    - cron: '0 14 * * *'
+    - cron: '0 15 * * *'
 permissions:
   contents: write
 jobs:
   update-data:
     runs-on: ubuntu-latest
     steps:
+      - name: Skip unless it's 10 AM in Detroit
+        if: github.event_name == 'schedule'
+        env:
+          TZ: America/Detroit
+        run: |
+          hour=$(date +%H)
+          if [ "$hour" != "10" ]; then
+            echo "Not 10 AM in Detroit yet (current hour: $hour); skipping."
+            exit 0
+          fi
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
