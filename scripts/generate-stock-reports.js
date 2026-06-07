@@ -14,6 +14,16 @@ function num(value, digits = 2) {
   return Number.isFinite(value) ? Number(value.toFixed(digits)) : null;
 }
 
+function fmtUsdYi(value) {
+  if (!Number.isFinite(value)) return null;
+  return `${(value / 1e8).toFixed(1)}亿美元`;
+}
+
+function fmtPct(value) {
+  if (!Number.isFinite(value)) return null;
+  return `${(value * 100).toFixed(1)}%`;
+}
+
 function joinZh(items) {
   const arr = items.filter(Boolean);
   if (!arr.length) return '';
@@ -109,6 +119,7 @@ function reportForSymbol(symbol, bundle, profileEntry) {
   const tone = marketTone(summary);
   const price = summary.price;
   const beta = summary.beta;
+  const financials = profileEntry?.financials || {};
   const signals = {
     macd: bundle.macd,
     ema: bundle.ema,
@@ -149,6 +160,14 @@ function reportForSymbol(symbol, bundle, profileEntry) {
     risks: makeRisks(beta, signals, summary),
     checklist,
     metrics: {
+      financials: {
+        revenue: fmtUsdYi(financials.revenue),
+        revenueYoY: fmtPct(financials.revenueYoY),
+        grossMargin: fmtPct(financials.grossMargin),
+        operatingMargin: fmtPct(financials.operatingMargin),
+        netMargin: fmtPct(financials.netMargin),
+        asOfDate: financials.asOfDate || ''
+      },
       macd: {
         signal: signals.macd?.signal?.badge || '',
         dif: num(signals.macd?.dif, 3),

@@ -7,6 +7,7 @@ const DATA = path.join(ROOT, 'data.json');
 const USER_AGENT = 'Mozilla/5.0';
 const US_EXCHANGES = new Set(['NASDAQ', 'NYSE', 'NYSEArca', 'BATS Trading', 'NYSE American']);
 const translationCache = new Map();
+const FUNDAMENTAL_TYPES = ['annualTotalRevenue', 'annualGrossProfit', 'annualOperatingIncome', 'annualNetIncome'];
 
 const SECTOR_MAP = {
   'Technology': '科技',
@@ -25,6 +26,7 @@ const SECTOR_MAP = {
 const INDUSTRY_MAP = {
   'Semiconductors': '半导体',
   'Semiconductor Equipment & Materials': '半导体设备与材料',
+  'Consumer Electronics': '消费电子',
   'Discount Stores': '折扣零售',
   'Internet Content & Information': '互联网内容与信息服务',
   'Aerospace & Defense': '航空航天与国防',
@@ -35,7 +37,10 @@ const INDUSTRY_MAP = {
   'Software - Application': '应用软件',
   'Electronic Components': '电子元件',
   'Communication Equipment': '通信设备',
-  'Memory Chips': '存储芯片'
+  'Memory Chips': '存储芯片',
+  'Diagnostics & Research': '诊断与研究',
+  'Drug Manufacturers—General': '综合制药',
+  'Biotechnology': '生物科技'
 };
 
 const THEME_HINTS = {
@@ -85,6 +90,77 @@ async function fetchSearch(symbol) {
   );
 }
 
+async function fetchFundamentals(symbol) {
+  const period1 = 1577836800;
+  const period2 = 1812153600;
+  const url =
+    'https://query1.finance.yahoo.com/ws/fundamentals-timeseries/v1/finance/timeseries/' +
+    encodeURIComponent(symbol) +
+    '?type=' + FUNDAMENTAL_TYPES.join(',') +
+    `&period1=${period1}&period2=${period2}`;
+  const res = await fetch(url, { headers: { 'user-agent': USER_AGENT } });
+  if (!res.ok) throw new Error(`fundamentals ${res.status}`);
+  const json = await res.json();
+  return json.timeseries?.result || [];
+}
+
+function latestSeriesValue(result, key) {
+  const row = result.find((item) => Array.isArray(item[key]) && item[key].length);
+  if (!row) return null;
+  const values = row[key]
+    .map((entry) => ({
+      asOfDate: entry.asOfDate,
+      raw: entry.reportedValue?.raw
+    }))
+    .filter((entry) => Number.isFinite(entry.raw))
+    .sort((a, b) => String(a.asOfDate).localeCompare(String(b.asOfDate)));
+  if (!values.length) return null;
+  return { latest: values[values.length - 1], prev: values[values.length - 2] || null };
+}
+
+function ratio(num, den) {
+  if (!Number.isFinite(num) || !Number.isFinite(den) || den === 0) return null;
+  return num / den;
+}
+
+function yoy(cur, prev) {
+  if (!Number.isFinite(cur) || !Number.isFinite(prev) || prev === 0) return null;
+  return cur / prev - 1;
+}
+
+function fmtPct(value) {
+  return Number.isFinite(value) ? `${(value * 100).toFixed(1)}%` : '暂无';
+}
+
+function fmtUsdYi(value) {
+  if (!Number.isFinite(value)) return '暂无';
+  return `${(value / 1e8).toFixed(1)}亿美元`;
+}
+
+function buildFinancialSnapshot(result) {
+  const revenue = latestSeriesValue(result, 'annualTotalRevenue');
+  const gross = latestSeriesValue(result, 'annualGrossProfit');
+  const op = latestSeriesValue(result, 'annualOperatingIncome');
+  const net = latestSeriesValue(result, 'annualNetIncome');
+  const revenueRaw = revenue?.latest?.raw ?? null;
+  const prevRevenueRaw = revenue?.prev?.raw ?? null;
+  const grossRaw = gross?.latest?.raw ?? null;
+  const opRaw = op?.latest?.raw ?? null;
+  const netRaw = net?.latest?.raw ?? null;
+  return {
+    asOfDate: revenue?.latest?.asOfDate || gross?.latest?.asOfDate || op?.latest?.asOfDate || net?.latest?.asOfDate || '',
+    revenue: revenueRaw,
+    revenuePrev: prevRevenueRaw,
+    revenueYoY: yoy(revenueRaw, prevRevenueRaw),
+    grossProfit: grossRaw,
+    operatingIncome: opRaw,
+    netIncome: netRaw,
+    grossMargin: ratio(grossRaw, revenueRaw),
+    operatingMargin: ratio(opRaw, revenueRaw),
+    netMargin: ratio(netRaw, revenueRaw)
+  };
+}
+
 function normalizeName(symbol, quote, fallback) {
   return (
     quote?.longname ||
@@ -114,6 +190,21 @@ async function translateTerm(term) {
   if (INDUSTRY_MAP[term]) return INDUSTRY_MAP[term];
   if (SECTOR_MAP[term]) return SECTOR_MAP[term];
   return translateText(term);
+}
+
+function inferProducts(industry, tags, quoteType) {
+  if (quoteType === 'ETF') return '相关主题、行业或资产类别的投资敞口';
+  const items = [];
+  if (/半导体|存储|电子元件/i.test(industry)) items.push('芯片、存储器件和相关半导体解决方案');
+  if (/软件|云|Infrastructure|Application/i.test(industry)) items.push('企业软件、云平台和数字化服务');
+  if (/折扣零售|消费电子产品|Internet Content|社交/i.test(industry)) items.push('面向消费者的硬件、平台或零售服务');
+  if (/航空航天|国防/i.test(industry)) items.push('航天、卫星或国防相关系统');
+  if (/油气|炼油|能源设备/i.test(industry)) items.push('原油、天然气或能源相关产品与服务');
+  if ((tags || []).includes('算力')) items.push('AI 算力平台与数据中心相关产品');
+  if ((tags || []).includes('服务器')) items.push('服务器与数据中心基础设施');
+  if ((tags || []).includes('加密货币')) items.push('加密资产交易、托管或相关金融产品');
+  if ((tags || []).includes('太空卫星')) items.push('太空、卫星或航天基础设施服务');
+  return items[0] || '核心行业相关产品与服务';
 }
 
 function isTrustedUsQuote(quote) {
@@ -157,6 +248,32 @@ async function buildProfile(symbol, quote, fallback) {
   return fallback?.companyProfile || `${name}，是在美国上市的公司。`;
 }
 
+function buildRichProfile(name, quote, fallback, financials) {
+  const tags = fallback?.tags || [];
+  const industry = INDUSTRY_MAP[quote?.industry] || INDUSTRY_MAP[quote?.industryDisp] || quote?.industryDisp || quote?.industry || '';
+  const sector = SECTOR_MAP[quote?.sector] || SECTOR_MAP[quote?.sectorDisp] || quote?.sectorDisp || quote?.sector || '';
+  const exchange = quote?.exchDisp || '美国';
+  const quoteType = quote?.quoteType || '';
+  const products = inferProducts(industry, tags, quoteType);
+
+  if (quoteType === 'ETF') {
+    return `${name} 是在${exchange}上市的 ETF，主要提供${products}。由于这类产品本质上是资产组合工具，不适合用企业营收和利润率来衡量，跟踪时更适合看其对应主题、持仓方向、资金流以及价格趋势是否持续。`;
+  }
+
+  const revenue = fmtUsdYi(financials.revenue);
+  const yoyText = Number.isFinite(financials.revenueYoY) ? `，同比${financials.revenueYoY >= 0 ? '增长' : '下滑'}${Math.abs(financials.revenueYoY * 100).toFixed(1)}%` : '';
+  const grossMargin = fmtPct(financials.grossMargin);
+  const opMargin = fmtPct(financials.operatingMargin);
+  const netMargin = fmtPct(financials.netMargin);
+  const profitState = Number.isFinite(financials.netIncome)
+    ? (financials.netIncome > 0 ? `净利润约${fmtUsdYi(financials.netIncome)}` : `净利润仍为亏损${fmtUsdYi(Math.abs(financials.netIncome))}`)
+    : '净利润数据暂缺';
+  const sectorText = sector ? `，属于${sector}板块` : '';
+  const industryText = industry ? `，细分行业是${industry}` : '';
+
+  return `${name} 在${exchange}上市${sectorText}${industryText}，主营${products}。从最新年度口径看，公司营收约${revenue}${yoyText}，${profitState}。如果按本地计算口径看，毛利率约${grossMargin}、营业利润率约${opMargin}、净利率约${netMargin}，可以帮助快速判断这家公司当前更像高成长、高盈利，还是仍在投入扩张阶段。`;
+}
+
 async function main() {
   const { watchlist, latestSummary, latestMacd } = loadBaseData();
   const result = {};
@@ -165,6 +282,11 @@ async function main() {
     const fallback = latestSummary.get(symbol) || latestMacd.get(symbol) || { symbol, name: symbol };
     try {
       const quote = await fetchSearch(symbol);
+      const fundamentals = (quote?.quoteType === 'EQUITY' || quote?.quoteType === 'MUTUALFUND')
+        ? await fetchFundamentals(symbol).catch(() => [])
+        : [];
+      const financials = buildFinancialSnapshot(fundamentals);
+      const shortProfile = await buildProfile(symbol, quote, fallback);
       result[symbol] = {
         symbol,
         name: normalizeName(symbol, quote, fallback),
@@ -172,13 +294,16 @@ async function main() {
         quoteType: quote?.quoteType || '',
         sector: quote?.sectorDisp || quote?.sector || '',
         industry: quote?.industryDisp || quote?.industry || '',
-        profile: await buildProfile(symbol, quote, fallback)
+        profile: buildRichProfile(normalizeName(symbol, quote, fallback), quote, fallback, financials),
+        shortProfile,
+        financials
       };
     } catch (error) {
       result[symbol] = {
         symbol,
         name: fallback.name || symbol,
         profile: fallback.companyProfile || `${fallback.name || symbol}，是在美国上市的公司。`,
+        shortProfile: fallback.companyProfile || `${fallback.name || symbol}，是在美国上市的公司。`,
         error: error.message || String(error)
       };
     }
