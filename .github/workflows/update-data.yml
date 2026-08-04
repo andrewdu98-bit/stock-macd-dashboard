@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   schedule:
     # GitHub Actions cron is UTC only. These two UTC times cover both EST and EDT.
-    # The first step below keeps only the run that is actually 10:00 AM in Detroit.
+    # The gate step below keeps only the run that is actually 10:00 AM in Detroit.
     - cron: '0 14 * * *'
     - cron: '0 15 * * *'
 permissions:
@@ -12,22 +12,33 @@ jobs:
   update-data:
     runs-on: ubuntu-latest
     steps:
-      - name: Skip unless it's 10 AM in Detroit
-        if: github.event_name == 'schedule'
+      - name: Gate scheduled runs to 10 AM Detroit
+        id: gate
         env:
           TZ: America/Detroit
         run: |
-          hour=$(date +%H)
-          if [ "$hour" != "10" ]; then
-            echo "Not 10 AM in Detroit yet (current hour: $hour); skipping."
+          if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
             exit 0
           fi
+
+          hour=$(date +%H)
+          if [ "$hour" = "10" ]; then
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Not 10 AM in Detroit yet (current hour: $hour); skipping."
+            echo "should_run=false" >> "$GITHUB_OUTPUT"
+          fi
       - uses: actions/checkout@v4
+        if: steps.gate.outputs.should_run == 'true'
       - uses: actions/setup-node@v4
+        if: steps.gate.outputs.should_run == 'true'
         with:
           node-version: '22'
       - run: node scripts/generate-data.js
+        if: steps.gate.outputs.should_run == 'true'
       - name: Commit updated data
+        if: steps.gate.outputs.should_run == 'true'
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
