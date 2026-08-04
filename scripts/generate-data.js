@@ -16,7 +16,7 @@ const TAG_GROUPS = {
   '社交媒体':['META','RDDT','SNAP','PINS'],
   '加密货币':['COIN','MSTR','IBIT','HOOD'],
   '国防军工':['LMT','RTX','NOC','GD','BA','HII','LHX','AXON'],
-  '热门股':['TSLA','NVDA','RDDT','ASTS','RKLB','LUNR','BB','NOK','CVNA','APP','HOOD','PLTR','AXTI','NVTS','HYLN','FLY'],
+  '热门股':['TSLA','NVDA','RDDT','ASTS','RKLB','LUNR','BB','NOK','CVNA','APP','HOOD','PLTR','AXTI','NVTS','HYLN','FLY','SPY','KORU','SKHY','ORCL','AMZN','IGV','MSFT','WDC','NBIS','CDNS','MSFU','APPX','ADBE','SPCX','AMD'],
   '消费':['WMT','COST','HD','SBUX','NKE','MCD','CMG','CAG','CASY','CL','CLX','CPB','DG','DLTR','EL','GIS','HSY','KDP','KO','PEP','PG','SYY'],
   '科技股':['AAPL','MSFT','GOOG','GOOGL','AMZN','META','NVDA','AMD','AVGO','ORCL','CRM','ADBE','CSCO','IBM','INTC','NOW','SHOP','TSLA','UBER','ANET','CRWD','PLTR','SNOW','PANW','DDOG','APP']
 };
