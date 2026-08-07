@@ -1,8 +1,14 @@
 name: Deploy GitHub Pages
 
 on:
+  # Normal edits pushed by a human should deploy immediately.
   push:
     branches: [main]
+  # Data commits made by the Update market data workflow use GITHUB_TOKEN;
+  # those commits do not trigger push workflows, so deploy after that workflow completes.
+  workflow_run:
+    workflows: ["Update market data"]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -16,6 +22,7 @@ concurrency:
 
 jobs:
   deploy:
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
