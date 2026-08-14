@@ -1,9 +1,9 @@
 {
   "symbol": "AME",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-13T23:50:02.647Z",
+  "updatedAt": "2026-08-14T13:45:43.503Z",
   "start": "2016-08-15",
-  "end": "2026-08-13",
+  "end": "2026-08-14",
   "rows": [
     {
       "date": "2016-08-15",
@@ -20107,7 +20107,15 @@
       "high": 261.1600036621094,
       "low": 255.7100067138672,
       "close": 256.2200012207031,
-      "volume": 479178
+      "volume": 655800
+    },
+    {
+      "date": "2026-08-14",
+      "open": 255.39999389648438,
+      "high": 257.3999938964844,
+      "low": 254.27000427246094,
+      "close": 256.92999267578125,
+      "volume": 33754
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "symbol": "CTSH",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-13T23:50:06.363Z",
+  "updatedAt": "2026-08-14T13:45:49.818Z",
   "start": "2016-08-15",
-  "end": "2026-08-13",
+  "end": "2026-08-14",
   "rows": [
     {
       "date": "2016-08-15",
@@ -20107,7 +20107,15 @@
       "high": 59.81999969482422,
       "low": 57.630001068115234,
       "close": 59.290000915527344,
-      "volume": 6456189
+      "volume": 7521000
+    },
+    {
+      "date": "2026-08-14",
+      "open": 60.09000015258789,
+      "high": 60.09000015258789,
+      "low": 58.20000076293945,
+      "close": 58.25,
+      "volume": 230173
     }
   ]
 }

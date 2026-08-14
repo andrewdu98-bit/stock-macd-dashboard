@@ -1,9 +1,9 @@
 {
   "symbol": "WYNN",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-13T23:50:20.503Z",
+  "updatedAt": "2026-08-14T13:46:14.393Z",
   "start": "2016-08-15",
-  "end": "2026-08-13",
+  "end": "2026-08-14",
   "rows": [
     {
       "date": "2016-08-15",
@@ -20107,7 +20107,15 @@
       "high": 103.58999633789062,
       "low": 101.33000183105469,
       "close": 102.37000274658203,
-      "volume": 1193792
+      "volume": 1271000
+    },
+    {
+      "date": "2026-08-14",
+      "open": 102.0999984741211,
+      "high": 102.55000305175781,
+      "low": 101.57499694824219,
+      "close": 101.69000244140625,
+      "volume": 25793
     }
   ]
 }

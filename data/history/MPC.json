@@ -1,9 +1,9 @@
 {
   "symbol": "MPC",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-13T23:50:13.413Z",
+  "updatedAt": "2026-08-14T13:46:01.982Z",
   "start": "2016-08-15",
-  "end": "2026-08-13",
+  "end": "2026-08-14",
   "rows": [
     {
       "date": "2016-08-15",
@@ -20104,10 +20104,18 @@
     {
       "date": "2026-08-13",
       "open": 345.3999938964844,
-      "high": 357.19500732421875,
+      "high": 357.20001220703125,
       "low": 344,
       "close": 356.3699951171875,
-      "volume": 2231053
+      "volume": 2232100
+    },
+    {
+      "date": "2026-08-14",
+      "open": 356.989990234375,
+      "high": 358.9989929199219,
+      "low": 355.20001220703125,
+      "close": 355.7349853515625,
+      "volume": 157682
     }
   ]
 }

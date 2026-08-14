@@ -1,9 +1,9 @@
 {
   "symbol": "JPM",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-13T23:50:11.572Z",
+  "updatedAt": "2026-08-14T13:45:58.713Z",
   "start": "2016-08-15",
-  "end": "2026-08-13",
+  "end": "2026-08-14",
   "rows": [
     {
       "date": "2016-08-15",
@@ -20107,7 +20107,15 @@
       "high": 366.5,
       "low": 361.5199890136719,
       "close": 363.1099853515625,
-      "volume": 3722183
+      "volume": 5101100
+    },
+    {
+      "date": "2026-08-14",
+      "open": 363,
+      "high": 364.92999267578125,
+      "low": 361.45001220703125,
+      "close": 364.760009765625,
+      "volume": 238207
     }
   ]
 }

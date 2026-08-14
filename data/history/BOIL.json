@@ -1,9 +1,9 @@
 {
   "symbol": "BOIL",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-13T23:50:04.370Z",
+  "updatedAt": "2026-08-14T13:45:46.388Z",
   "start": "2016-08-15",
-  "end": "2026-08-13",
+  "end": "2026-08-14",
   "rows": [
     {
       "date": "2016-08-15",
@@ -20107,7 +20107,15 @@
       "high": 20.190000534057617,
       "low": 19.440000534057617,
       "close": 19.610000610351562,
-      "volume": 5763965
+      "volume": 5794000
+    },
+    {
+      "date": "2026-08-14",
+      "open": 19.65999984741211,
+      "high": 19.875,
+      "low": 19.604999542236328,
+      "close": 19.825000762939453,
+      "volume": 841296
     }
   ]
 }

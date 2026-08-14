@@ -1,9 +1,9 @@
 {
   "symbol": "LNT",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-13T23:50:12.381Z",
+  "updatedAt": "2026-08-14T13:46:00.251Z",
   "start": "2016-08-15",
-  "end": "2026-08-13",
+  "end": "2026-08-14",
   "rows": [
     {
       "date": "2016-08-15",
@@ -20091,7 +20091,15 @@
       "high": 70.7699966430664,
       "low": 70.1500015258789,
       "close": 70.19999694824219,
-      "volume": 3181759
+      "volume": 3255600
+    },
+    {
+      "date": "2026-08-14",
+      "open": 70.01000213623047,
+      "high": 70.47250366210938,
+      "low": 69.98500061035156,
+      "close": 70.43000030517578,
+      "volume": 47594
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "symbol": "CINF",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-13T23:50:05.313Z",
+  "updatedAt": "2026-08-14T13:45:48.040Z",
   "start": "2016-08-15",
-  "end": "2026-08-13",
+  "end": "2026-08-14",
   "rows": [
     {
       "date": "2016-08-15",
@@ -20083,7 +20083,15 @@
       "high": 175.27000427246094,
       "low": 172.00999450683594,
       "close": 172.6699981689453,
-      "volume": 327150
+      "volume": 345500
+    },
+    {
+      "date": "2026-08-14",
+      "open": 172.57000732421875,
+      "high": 172.91000366210938,
+      "low": 172.0800018310547,
+      "close": 172.50999450683594,
+      "volume": 7494
     }
   ]
 }

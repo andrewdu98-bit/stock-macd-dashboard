@@ -1,9 +1,9 @@
 {
   "symbol": "DXCM",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-13T23:50:07.350Z",
+  "updatedAt": "2026-08-14T13:45:51.604Z",
   "start": "2016-08-15",
-  "end": "2026-08-13",
+  "end": "2026-08-14",
   "rows": [
     {
       "date": "2016-08-15",
@@ -20103,11 +20103,19 @@
     },
     {
       "date": "2026-08-13",
-      "open": 90.70999908447266,
+      "open": 90.81999969482422,
       "high": 91.62000274658203,
       "low": 90.1500015258789,
       "close": 91.4800033569336,
-      "volume": 4664168
+      "volume": 4686400
+    },
+    {
+      "date": "2026-08-14",
+      "open": 91.93000030517578,
+      "high": 91.93000030517578,
+      "low": 90.93000030517578,
+      "close": 91.125,
+      "volume": 207610
     }
   ]
 }

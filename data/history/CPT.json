@@ -1,9 +1,9 @@
 {
   "symbol": "CPT",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-13T23:50:05.980Z",
+  "updatedAt": "2026-08-14T13:45:49.224Z",
   "start": "2016-08-15",
-  "end": "2026-08-13",
+  "end": "2026-08-14",
   "rows": [
     {
       "date": "2016-08-15",
@@ -20107,7 +20107,15 @@
       "high": 111.04000091552734,
       "low": 108.77999877929688,
       "close": 110.47000122070312,
-      "volume": 795979
+      "volume": 796000
+    },
+    {
+      "date": "2026-08-14",
+      "open": 109.66000366210938,
+      "high": 111.24659729003906,
+      "low": 110.43499755859375,
+      "close": 111.05000305175781,
+      "volume": 214324
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "symbol": "TRMB",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-13T23:50:18.576Z",
+  "updatedAt": "2026-08-14T13:46:11.061Z",
   "start": "2016-08-15",
-  "end": "2026-08-13",
+  "end": "2026-08-14",
   "rows": [
     {
       "date": "2016-08-15",
@@ -20104,10 +20104,18 @@
     {
       "date": "2026-08-13",
       "open": 56.90999984741211,
-      "high": 57.79499816894531,
+      "high": 57.79999923706055,
       "low": 54.709999084472656,
       "close": 57.540000915527344,
-      "volume": 4529907
+      "volume": 4559300
+    },
+    {
+      "date": "2026-08-14",
+      "open": 57.630001068115234,
+      "high": 57.630001068115234,
+      "low": 56.625,
+      "close": 56.779998779296875,
+      "volume": 342431
     }
   ]
 }

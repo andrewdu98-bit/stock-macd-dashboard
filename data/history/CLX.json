@@ -1,9 +1,9 @@
 {
   "symbol": "CLX",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-13T23:50:05.449Z",
+  "updatedAt": "2026-08-14T13:45:48.218Z",
   "start": "2016-08-15",
-  "end": "2026-08-13",
+  "end": "2026-08-14",
   "rows": [
     {
       "date": "2016-08-15",
@@ -20091,7 +20091,15 @@
       "high": 107.44999694824219,
       "low": 104.44999694824219,
       "close": 106.54000091552734,
-      "volume": 3831705
+      "volume": 3846700
+    },
+    {
+      "date": "2026-08-14",
+      "open": 106.2300033569336,
+      "high": 106.52999877929688,
+      "low": 104.77999877929688,
+      "close": 105.19499969482422,
+      "volume": 103861
     }
   ]
 }

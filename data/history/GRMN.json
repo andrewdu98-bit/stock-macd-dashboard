@@ -1,9 +1,9 @@
 {
   "symbol": "GRMN",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-13T23:50:09.732Z",
+  "updatedAt": "2026-08-14T13:45:55.695Z",
   "start": "2016-08-15",
-  "end": "2026-08-13",
+  "end": "2026-08-14",
   "rows": [
     {
       "date": "2016-08-15",
@@ -20080,10 +20080,18 @@
     {
       "date": "2026-08-13",
       "open": 312,
-      "high": 314.0400085449219,
+      "high": 314.0799865722656,
       "low": 309.1499938964844,
       "close": 311.92999267578125,
-      "volume": 532532
+      "volume": 535500
+    },
+    {
+      "date": "2026-08-14",
+      "open": 313.4700012207031,
+      "high": 313.4800109863281,
+      "low": 312.1875,
+      "close": 312.625,
+      "volume": 11062
     }
   ]
 }

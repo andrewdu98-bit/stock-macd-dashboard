@@ -1,9 +1,9 @@
 {
   "symbol": "ISRG",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-13T23:50:11.080Z",
+  "updatedAt": "2026-08-14T13:45:58.115Z",
   "start": "2016-08-15",
-  "end": "2026-08-13",
+  "end": "2026-08-14",
   "rows": [
     {
       "date": "2016-08-15",
@@ -20107,7 +20107,15 @@
       "high": 404.69000244140625,
       "low": 398,
       "close": 401.2699890136719,
-      "volume": 2353835
+      "volume": 2355000
+    },
+    {
+      "date": "2026-08-14",
+      "open": 401.0199890136719,
+      "high": 402.4599914550781,
+      "low": 397.7900085449219,
+      "close": 398.06500244140625,
+      "volume": 134054
     }
   ]
 }

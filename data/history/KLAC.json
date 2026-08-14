@@ -1,9 +1,9 @@
 {
   "symbol": "KLAC",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-13T23:50:11.689Z",
+  "updatedAt": "2026-08-14T13:45:59.100Z",
   "start": "2016-08-15",
-  "end": "2026-08-13",
+  "end": "2026-08-14",
   "rows": [
     {
       "date": "2016-08-15",
@@ -20103,11 +20103,19 @@
     },
     {
       "date": "2026-08-13",
-      "open": 208.52999877929688,
+      "open": 208.52000427246094,
       "high": 214.8000030517578,
       "low": 207,
       "close": 209.3699951171875,
-      "volume": 8488883
+      "volume": 8537000
+    },
+    {
+      "date": "2026-08-14",
+      "open": 206.6999969482422,
+      "high": 208.5,
+      "low": 205.64500427246094,
+      "close": 208.0399932861328,
+      "volume": 559860
     }
   ]
 }
