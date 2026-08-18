@@ -1,9 +1,9 @@
 {
   "symbol": "FOXA",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-17T13:46:42.836Z",
+  "updatedAt": "2026-08-18T13:44:32.543Z",
   "start": "2019-03-12",
-  "end": "2026-08-17",
+  "end": "2026-08-18",
   "rows": [
     {
       "date": "2019-03-12",
@@ -14931,15 +14931,23 @@
       "high": 69.25,
       "low": 67.1500015258789,
       "close": 69.04000091552734,
-      "volume": 7497900
+      "volume": 7501500
     },
     {
       "date": "2026-08-17",
-      "open": 68.91000366210938,
-      "high": 69.70500183105469,
-      "low": 68.7750015258789,
-      "close": 69.19499969482422,
-      "volume": 552517
+      "open": 0,
+      "high": 0,
+      "low": 0,
+      "close": 0,
+      "volume": 0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 69.6500015258789,
+      "high": 69.7699966430664,
+      "low": 69.22000122070312,
+      "close": 69.55500030517578,
+      "volume": 89422
     }
   ]
 }

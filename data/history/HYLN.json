@@ -1,9 +1,9 @@
 {
   "symbol": "HYLN",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-17T13:46:45.766Z",
+  "updatedAt": "2026-08-18T13:44:34.983Z",
   "start": "2020-01-02",
-  "end": "2026-08-17",
+  "end": "2026-08-18",
   "rows": [
     {
       "date": "2020-01-02",
@@ -13307,15 +13307,23 @@
       "high": 4.380000114440918,
       "low": 3.9700000286102295,
       "close": 4.059999942779541,
-      "volume": 3654900
+      "volume": 3661500
     },
     {
       "date": "2026-08-17",
+      "open": 0,
+      "high": 0,
+      "low": 0,
+      "close": 0,
+      "volume": 0
+    },
+    {
+      "date": "2026-08-18",
       "open": 4.099999904632568,
-      "high": 4.099999904632568,
-      "low": 3.936000108718872,
-      "close": 4.019999980926514,
-      "volume": 293862
+      "high": 4.074999809265137,
+      "low": 3.950000047683716,
+      "close": 4.045000076293945,
+      "volume": 242904
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "symbol": "VLTO",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-17T13:47:03.864Z",
+  "updatedAt": "2026-08-18T13:44:49.911Z",
   "start": "2023-10-04",
-  "end": "2026-08-17",
+  "end": "2026-08-18",
   "rows": [
     {
       "date": "2023-10-04",
@@ -5751,11 +5751,19 @@
     },
     {
       "date": "2026-08-17",
+      "open": 0,
+      "high": 0,
+      "low": 0,
+      "close": 0,
+      "volume": 0
+    },
+    {
+      "date": "2026-08-18",
       "open": 97.05000305175781,
-      "high": 97.58709716796875,
-      "low": 96.77999877929688,
-      "close": 96.77999877929688,
-      "volume": 17864
+      "high": 97.91500091552734,
+      "low": 96.94000244140625,
+      "close": 97.33499908447266,
+      "volume": 70456
     }
   ]
 }
