@@ -1,9 +1,9 @@
 {
   "symbol": "MLM",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-19T13:47:47.858Z",
+  "updatedAt": "2026-08-20T13:47:12.020Z",
   "start": "2016-08-22",
-  "end": "2026-08-19",
+  "end": "2026-08-20",
   "rows": [
     {
       "date": "2016-08-22",
@@ -20080,10 +20080,18 @@
     {
       "date": "2026-08-19",
       "open": 525.0499877929688,
-      "high": 532.3099975585938,
+      "high": 539.6500244140625,
       "low": 525.02001953125,
-      "close": 531.469970703125,
-      "volume": 26152
+      "close": 535.530029296875,
+      "volume": 779000
+    },
+    {
+      "date": "2026-08-20",
+      "open": 527.1099853515625,
+      "high": 531.5900268554688,
+      "low": 525.25,
+      "close": 527.47998046875,
+      "volume": 24555
     }
   ]
 }

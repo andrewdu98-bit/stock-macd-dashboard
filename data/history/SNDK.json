@@ -1,9 +1,9 @@
 {
   "symbol": "SNDK",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-19T13:47:57.642Z",
+  "updatedAt": "2026-08-20T13:47:20.922Z",
   "start": "2025-02-13",
-  "end": "2026-08-19",
+  "end": "2026-08-20",
   "rows": [
     {
       "date": "2025-02-13",
@@ -3035,15 +3035,23 @@
       "high": 1724.989990234375,
       "low": 1600.199951171875,
       "close": 1625.780029296875,
-      "volume": 18385900
+      "volume": 18650700
     },
     {
       "date": "2026-08-19",
       "open": 1682.405029296875,
-      "high": 1698.9998779296875,
-      "low": 1620,
-      "close": 1640.1700439453125,
-      "volume": 4539962
+      "high": 1699,
+      "low": 1542,
+      "close": 1568.8699951171875,
+      "volume": 16104900
+    },
+    {
+      "date": "2026-08-20",
+      "open": 1569,
+      "high": 1623,
+      "low": 1565,
+      "close": 1571.5699462890625,
+      "volume": 2526970
     }
   ]
 }

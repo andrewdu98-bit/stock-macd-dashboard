@@ -1,9 +1,9 @@
 {
   "symbol": "CAH",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-19T13:47:27.751Z",
+  "updatedAt": "2026-08-20T13:46:52.963Z",
   "start": "2016-08-22",
-  "end": "2026-08-19",
+  "end": "2026-08-20",
   "rows": [
     {
       "date": "2016-08-22",
@@ -20072,10 +20072,18 @@
     {
       "date": "2026-08-19",
       "open": 236.41000366210938,
-      "high": 237.29989624023438,
+      "high": 238.14999389648438,
       "low": 232.33999633789062,
-      "close": 236.6199951171875,
-      "volume": 119937
+      "close": 234.85000610351562,
+      "volume": 1374800
+    },
+    {
+      "date": "2026-08-20",
+      "open": 232.25,
+      "high": 235,
+      "low": 231.16600036621094,
+      "close": 232.07000732421875,
+      "volume": 76579
     }
   ]
 }
