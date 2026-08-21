@@ -1,9 +1,9 @@
 {
   "symbol": "FDS",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-20T13:47:01.590Z",
+  "updatedAt": "2026-08-21T13:46:51.612Z",
   "start": "2016-08-22",
-  "end": "2026-08-20",
+  "end": "2026-08-21",
   "rows": [
     {
       "date": "2016-08-22",
@@ -20104,10 +20104,18 @@
     {
       "date": "2026-08-20",
       "open": 297.6499938964844,
-      "high": 300.4599914550781,
+      "high": 304.29998779296875,
       "low": 293.5799865722656,
       "close": 300.05999755859375,
-      "volume": 24538
+      "volume": 958200
+    },
+    {
+      "date": "2026-08-21",
+      "open": 298.57000732421875,
+      "high": 300.1099853515625,
+      "low": 297.875,
+      "close": 298.2650146484375,
+      "volume": 24761
     }
   ]
 }
