@@ -1,9 +1,9 @@
 {
   "symbol": "CEG",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-24T13:46:36.965Z",
+  "updatedAt": "2026-08-25T13:46:45.831Z",
   "start": "2022-01-19",
-  "end": "2026-08-24",
+  "end": "2026-08-25",
   "rows": [
     {
       "date": "2022-01-19",
@@ -9223,11 +9223,19 @@
     },
     {
       "date": "2026-08-24",
-      "open": 272,
+      "open": 271.5899963378906,
       "high": 275.60699462890625,
       "low": 269.5299987792969,
-      "close": 270.17999267578125,
-      "volume": 164715
+      "close": 273.42999267578125,
+      "volume": 2623400
+    },
+    {
+      "date": "2026-08-25",
+      "open": 274.4100036621094,
+      "high": 277.75,
+      "low": 273.5199890136719,
+      "close": 274.7850036621094,
+      "volume": 140512
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "symbol": "UPST",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-24T13:47:03.530Z",
+  "updatedAt": "2026-08-25T13:47:13.640Z",
   "start": "2020-12-16",
-  "end": "2026-08-24",
+  "end": "2026-08-25",
   "rows": [
     {
       "date": "2020-12-16",
@@ -11416,10 +11416,18 @@
     {
       "date": "2026-08-24",
       "open": 30.209999084472656,
-      "high": 30.459999084472656,
+      "high": 30.5,
       "low": 29.579999923706055,
-      "close": 29.690000534057617,
-      "volume": 259053
+      "close": 29.889999389648438,
+      "volume": 3353300
+    },
+    {
+      "date": "2026-08-25",
+      "open": 30.030000686645508,
+      "high": 30.200000762939453,
+      "low": 29.584999084472656,
+      "close": 29.75,
+      "volume": 230111
     }
   ]
 }
