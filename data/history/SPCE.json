@@ -1,9 +1,9 @@
 {
   "symbol": "SPCE",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-25T13:47:09.856Z",
+  "updatedAt": "2026-08-26T13:46:54.034Z",
   "start": "2017-09-29",
-  "end": "2026-08-25",
+  "end": "2026-08-26",
   "rows": [
     {
       "date": "2017-09-29",
@@ -17898,8 +17898,16 @@
       "open": 3.0299999713897705,
       "high": 3.049999952316284,
       "low": 2.9600000381469727,
-      "close": 2.984999895095825,
-      "volume": 518362
+      "close": 2.9700000286102295,
+      "volume": 4520600
+    },
+    {
+      "date": "2026-08-26",
+      "open": 2.9600000381469727,
+      "high": 2.990000009536743,
+      "low": 2.940000057220459,
+      "close": 2.9514000415802,
+      "volume": 358753
     }
   ]
 }
