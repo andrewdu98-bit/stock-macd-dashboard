@@ -1,9 +1,9 @@
 {
   "symbol": "BSX",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-26T13:46:27.569Z",
+  "updatedAt": "2026-08-27T13:46:25.978Z",
   "start": "2016-08-29",
-  "end": "2026-08-26",
+  "end": "2026-08-27",
   "rows": [
     {
       "date": "2016-08-29",
@@ -20096,10 +20096,18 @@
     {
       "date": "2026-08-26",
       "open": 47,
-      "high": 48.52000045776367,
+      "high": 48.540000915527344,
       "low": 46.900001525878906,
-      "close": 47.77000045776367,
-      "volume": 7419698
+      "close": 48.16999816894531,
+      "volume": 36566700
+    },
+    {
+      "date": "2026-08-27",
+      "open": 48,
+      "high": 48.06999969482422,
+      "low": 47.54999923706055,
+      "close": 47.79499816894531,
+      "volume": 1430664
     }
   ]
 }

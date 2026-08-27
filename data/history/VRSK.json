@@ -1,9 +1,9 @@
 {
   "symbol": "VRSK",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-26T13:46:58.754Z",
+  "updatedAt": "2026-08-27T13:47:00.249Z",
   "start": "2016-08-29",
-  "end": "2026-08-26",
+  "end": "2026-08-27",
   "rows": [
     {
       "date": "2016-08-29",
@@ -20074,8 +20074,16 @@
       "open": 186.9199981689453,
       "high": 189.25999450683594,
       "low": 185.27999877929688,
-      "close": 188.4949951171875,
-      "volume": 34836
+      "close": 187.8699951171875,
+      "volume": 721900
+    },
+    {
+      "date": "2026-08-27",
+      "open": 187.3800048828125,
+      "high": 189.14999389648438,
+      "low": 186.8249969482422,
+      "close": 188.6199951171875,
+      "volume": 29474
     }
   ]
 }

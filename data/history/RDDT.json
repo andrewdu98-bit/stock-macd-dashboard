@@ -1,9 +1,9 @@
 {
   "symbol": "RDDT",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-26T13:46:51.858Z",
+  "updatedAt": "2026-08-27T13:46:52.789Z",
   "start": "2024-03-21",
-  "end": "2026-08-26",
+  "end": "2026-08-27",
   "rows": [
     {
       "date": "2024-03-21",
@@ -4881,9 +4881,17 @@
       "date": "2026-08-26",
       "open": 161,
       "high": 165.91000366210938,
-      "low": 159.80999755859375,
-      "close": 160.83999633789062,
-      "volume": 377985
+      "low": 155.27000427246094,
+      "close": 155.36000061035156,
+      "volume": 3661500
+    },
+    {
+      "date": "2026-08-27",
+      "open": 155.75999450683594,
+      "high": 157.47999572753906,
+      "low": 153.5,
+      "close": 156.8699951171875,
+      "volume": 382694
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "symbol": "EQR",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-26T13:46:34.531Z",
+  "updatedAt": "2026-08-27T13:46:33.675Z",
   "start": "2016-08-29",
-  "end": "2026-08-26",
+  "end": "2026-08-27",
   "rows": [
     {
       "date": "2016-08-29",
@@ -20079,6 +20079,14 @@
     },
     {
       "date": "2026-08-26",
+      "open": 0,
+      "high": 0,
+      "low": 0,
+      "close": 0,
+      "volume": 0
+    },
+    {
+      "date": "2026-08-27",
       "open": 0,
       "high": 0,
       "low": 0,

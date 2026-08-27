@@ -1,9 +1,9 @@
 {
   "symbol": "CME",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-26T13:46:29.662Z",
+  "updatedAt": "2026-08-27T13:46:28.143Z",
   "start": "2016-08-29",
-  "end": "2026-08-26",
+  "end": "2026-08-27",
   "rows": [
     {
       "date": "2016-08-29",
@@ -20098,8 +20098,16 @@
       "open": 278.4100036621094,
       "high": 282.1700134277344,
       "low": 277.760009765625,
-      "close": 280.5199890136719,
-      "volume": 107906
+      "close": 280.9800109863281,
+      "volume": 1722500
+    },
+    {
+      "date": "2026-08-27",
+      "open": 279.95001220703125,
+      "high": 282.45001220703125,
+      "low": 279.6650085449219,
+      "close": 281.42999267578125,
+      "volume": 100365
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "symbol": "CRL",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-26T13:46:30.856Z",
+  "updatedAt": "2026-08-27T13:46:29.685Z",
   "start": "2016-08-29",
-  "end": "2026-08-26",
+  "end": "2026-08-27",
   "rows": [
     {
       "date": "2016-08-29",
@@ -20096,10 +20096,18 @@
     {
       "date": "2026-08-26",
       "open": 293.1700134277344,
-      "high": 299,
+      "high": 299.5299987792969,
       "low": 290.010009765625,
-      "close": 296.7049865722656,
-      "volume": 33119
+      "close": 295.1000061035156,
+      "volume": 1231100
+    },
+    {
+      "date": "2026-08-27",
+      "open": 297.010009765625,
+      "high": 301.44989013671875,
+      "low": 297,
+      "close": 300.7799987792969,
+      "volume": 75316
     }
   ]
 }

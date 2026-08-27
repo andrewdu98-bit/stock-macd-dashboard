@@ -1,9 +1,9 @@
 {
   "symbol": "ALAB",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-26T13:46:23.709Z",
+  "updatedAt": "2026-08-27T13:46:21.872Z",
   "start": "2024-03-20",
-  "end": "2026-08-26",
+  "end": "2026-08-27",
   "rows": [
     {
       "date": "2024-03-20",
@@ -4887,11 +4887,19 @@
     },
     {
       "date": "2026-08-26",
-      "open": 281.32000732421875,
-      "high": 287.1700134277344,
+      "open": 282.6199951171875,
+      "high": 290.6300048828125,
       "low": 280,
-      "close": 283.125,
-      "volume": 111755
+      "close": 290.29998779296875,
+      "volume": 1912400
+    },
+    {
+      "date": "2026-08-27",
+      "open": 298,
+      "high": 307.5400085449219,
+      "low": 296.79998779296875,
+      "close": 306.9599914550781,
+      "volume": 381347
     }
   ]
 }

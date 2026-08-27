@@ -1,9 +1,9 @@
 {
   "symbol": "AXON",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-26T13:46:25.664Z",
+  "updatedAt": "2026-08-27T13:46:23.954Z",
   "start": "2016-08-29",
-  "end": "2026-08-26",
+  "end": "2026-08-27",
   "rows": [
     {
       "date": "2016-08-29",
@@ -20072,10 +20072,18 @@
     {
       "date": "2026-08-26",
       "open": 609,
-      "high": 613.25,
-      "low": 605.02001953125,
-      "close": 610.97998046875,
-      "volume": 16145
+      "high": 614,
+      "low": 597.0900268554688,
+      "close": 607.47998046875,
+      "volume": 416300
+    },
+    {
+      "date": "2026-08-27",
+      "open": 613,
+      "high": 613.1199951171875,
+      "low": 599.6699829101562,
+      "close": 606.7150268554688,
+      "volume": 56903
     }
   ]
 }
