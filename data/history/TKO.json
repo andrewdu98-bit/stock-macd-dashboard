@@ -1,9 +1,9 @@
 {
   "symbol": "TKO",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-27T13:46:57.135Z",
+  "updatedAt": "2026-08-28T13:46:59.756Z",
   "start": "2016-08-29",
-  "end": "2026-08-27",
+  "end": "2026-08-28",
   "rows": [
     {
       "date": "2016-08-29",
@@ -20105,9 +20105,17 @@
       "date": "2026-08-27",
       "open": 187.10000610351562,
       "high": 188.6999969482422,
-      "low": 184.5,
-      "close": 188,
-      "volume": 34543
+      "low": 183.6999969482422,
+      "close": 184.33999633789062,
+      "volume": 683600
+    },
+    {
+      "date": "2026-08-28",
+      "open": 185.13999938964844,
+      "high": 185.75999450683594,
+      "low": 183.2100067138672,
+      "close": 184.3258056640625,
+      "volume": 45737
     }
   ]
 }

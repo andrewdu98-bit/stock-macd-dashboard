@@ -1,9 +1,9 @@
 {
   "symbol": "AMT",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-27T13:46:22.394Z",
+  "updatedAt": "2026-08-28T13:46:31.116Z",
   "start": "2016-08-29",
-  "end": "2026-08-27",
+  "end": "2026-08-28",
   "rows": [
     {
       "date": "2016-08-29",
@@ -20098,8 +20098,16 @@
       "open": 174.19000244140625,
       "high": 176.11000061035156,
       "low": 173.5,
-      "close": 175.48500061035156,
-      "volume": 492889
+      "close": 174.16000366210938,
+      "volume": 2204900
+    },
+    {
+      "date": "2026-08-28",
+      "open": 174.5399932861328,
+      "high": 175.89999389648438,
+      "low": 174.21499633789062,
+      "close": 175.86000061035156,
+      "volume": 67049
     }
   ]
 }

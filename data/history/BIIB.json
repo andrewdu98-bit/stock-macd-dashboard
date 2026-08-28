@@ -1,9 +1,9 @@
 {
   "symbol": "BIIB",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-27T13:46:25.125Z",
+  "updatedAt": "2026-08-28T13:46:33.414Z",
   "start": "2016-08-29",
-  "end": "2026-08-27",
+  "end": "2026-08-28",
   "rows": [
     {
       "date": "2016-08-29",
@@ -20080,10 +20080,18 @@
     {
       "date": "2026-08-27",
       "open": 219.38999938964844,
-      "high": 219.6999969482422,
+      "high": 222.11000061035156,
       "low": 217.52999877929688,
-      "close": 217.6649932861328,
-      "volume": 19172
+      "close": 221.5,
+      "volume": 497300
+    },
+    {
+      "date": "2026-08-28",
+      "open": 221.1699981689453,
+      "high": 222,
+      "low": 218.97999572753906,
+      "close": 220.25,
+      "volume": 18526
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "symbol": "FICO",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-27T13:46:35.329Z",
+  "updatedAt": "2026-08-28T13:46:41.973Z",
   "start": "2016-08-29",
-  "end": "2026-08-27",
+  "end": "2026-08-28",
   "rows": [
     {
       "date": "2016-08-29",
@@ -20080,10 +20080,18 @@
     {
       "date": "2026-08-27",
       "open": 1137.52001953125,
-      "high": 1158.010009765625,
+      "high": 1175.4100341796875,
       "low": 1136.489990234375,
-      "close": 1147,
-      "volume": 6528
+      "close": 1157.06005859375,
+      "volume": 183000
+    },
+    {
+      "date": "2026-08-28",
+      "open": 1161,
+      "high": 1176.989990234375,
+      "low": 1159.4300537109375,
+      "close": 1161.875,
+      "volume": 5020
     }
   ]
 }

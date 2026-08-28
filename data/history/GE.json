@@ -1,9 +1,9 @@
 {
   "symbol": "GE",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-27T13:46:36.907Z",
+  "updatedAt": "2026-08-28T13:46:42.965Z",
   "start": "2016-08-29",
-  "end": "2026-08-27",
+  "end": "2026-08-28",
   "rows": [
     {
       "date": "2016-08-29",
@@ -20104,10 +20104,18 @@
     {
       "date": "2026-08-27",
       "open": 352.7900085449219,
-      "high": 353.4949951171875,
-      "low": 349.0199890136719,
-      "close": 349.489990234375,
-      "volume": 130529
+      "high": 353.5,
+      "low": 339.6000061035156,
+      "close": 342.7300109863281,
+      "volume": 5090900
+    },
+    {
+      "date": "2026-08-28",
+      "open": 345.0849914550781,
+      "high": 345.5,
+      "low": 343.2099914550781,
+      "close": 345,
+      "volume": 132458
     }
   ]
 }
