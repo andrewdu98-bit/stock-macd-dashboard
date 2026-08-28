@@ -1,7 +1,7 @@
 {
   "symbol": "ROP",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:56.843Z",
+  "updatedAt": "2026-08-28T13:51:14.763Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20090,8 +20090,8 @@
       "open": 422.70001220703125,
       "high": 426.6400146484375,
       "low": 420.8550109863281,
-      "close": 423.260009765625,
-      "volume": 15981
+      "close": 423.3299865722656,
+      "volume": 20358
     }
   ]
 }

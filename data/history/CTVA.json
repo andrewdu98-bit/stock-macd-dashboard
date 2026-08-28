@@ -1,7 +1,7 @@
 {
   "symbol": "CTVA",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:37.650Z",
+  "updatedAt": "2026-08-28T13:50:55.323Z",
   "start": "2019-05-24",
   "end": "2026-08-28",
   "rows": [
@@ -14594,8 +14594,8 @@
       "open": 83.18000030517578,
       "high": 83.51499938964844,
       "low": 82.69999694824219,
-      "close": 82.86000061035156,
-      "volume": 116282
+      "close": 82.8499984741211,
+      "volume": 135711
     }
   ]
 }

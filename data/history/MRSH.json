@@ -1,7 +1,7 @@
 {
   "symbol": "MRSH",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:50.724Z",
+  "updatedAt": "2026-08-28T13:51:08.602Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20106,8 +20106,8 @@
       "open": 190.47000122070312,
       "high": 192.97999572753906,
       "low": 190.74000549316406,
-      "close": 191.75,
-      "volume": 60548
+      "close": 192.33999633789062,
+      "volume": 84807
     }
   ]
 }

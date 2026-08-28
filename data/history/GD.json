@@ -1,7 +1,7 @@
 {
   "symbol": "GD",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:42.821Z",
+  "updatedAt": "2026-08-28T13:51:00.583Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20098,8 +20098,8 @@
       "open": 381.07000732421875,
       "high": 381.0799865722656,
       "low": 378.5899963378906,
-      "close": 378.9717102050781,
-      "volume": 19373
+      "close": 379.5,
+      "volume": 22820
     }
   ]
 }

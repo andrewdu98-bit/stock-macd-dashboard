@@ -1,7 +1,7 @@
 {
   "symbol": "ETR",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:40.755Z",
+  "updatedAt": "2026-08-28T13:50:58.548Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20114,8 +20114,8 @@
       "open": 107.16999816894531,
       "high": 107.87999725341797,
       "low": 106.72339630126953,
-      "close": 106.91439819335938,
-      "volume": 42001
+      "close": 106.95500183105469,
+      "volume": 48778
     }
   ]
 }

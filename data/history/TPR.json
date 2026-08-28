@@ -1,7 +1,7 @@
 {
   "symbol": "TPR",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:59.982Z",
+  "updatedAt": "2026-08-28T13:51:17.952Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20114,8 +20114,8 @@
       "open": 124.51000213623047,
       "high": 124.75499725341797,
       "low": 123.13999938964844,
-      "close": 123.41500091552734,
-      "volume": 99349
+      "close": 123.6624984741211,
+      "volume": 145362
     }
   ]
 }

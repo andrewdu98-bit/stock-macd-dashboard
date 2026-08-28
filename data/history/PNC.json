@@ -1,7 +1,7 @@
 {
   "symbol": "PNC",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:54.807Z",
+  "updatedAt": "2026-08-28T13:51:12.653Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20106,8 +20106,8 @@
       "open": 244.52000427246094,
       "high": 245.28500366210938,
       "low": 243.9250030517578,
-      "close": 245.02499389648438,
-      "volume": 22778
+      "close": 243.98500061035156,
+      "volume": 30162
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "PG",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:54.354Z",
+  "updatedAt": "2026-08-28T13:51:12.171Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20112,10 +20112,10 @@
     {
       "date": "2026-08-28",
       "open": 143.25,
-      "high": 143.5,
+      "high": 143.74000549316406,
       "low": 143.00999450683594,
-      "close": 143.47999572753906,
-      "volume": 666952
+      "close": 143.51499938964844,
+      "volume": 725306
     }
   ]
 }

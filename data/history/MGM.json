@@ -1,7 +1,7 @@
 {
   "symbol": "MGM",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:49.976Z",
+  "updatedAt": "2026-08-28T13:51:07.870Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20090,8 +20090,8 @@
       "open": 43.22999954223633,
       "high": 43.43000030517578,
       "low": 43.08000183105469,
-      "close": 43.16999816894531,
-      "volume": 56833
+      "close": 43.17499923706055,
+      "volume": 63627
     }
   ]
 }

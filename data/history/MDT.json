@@ -1,7 +1,7 @@
 {
   "symbol": "MDT",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:49.746Z",
+  "updatedAt": "2026-08-28T13:51:07.639Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20112,10 +20112,10 @@
     {
       "date": "2026-08-28",
       "open": 90.29000091552734,
-      "high": 90.64099884033203,
+      "high": 90.7699966430664,
       "low": 90.04499816894531,
-      "close": 90.61000061035156,
-      "volume": 333499
+      "close": 90.70999908447266,
+      "volume": 386195
     }
   ]
 }

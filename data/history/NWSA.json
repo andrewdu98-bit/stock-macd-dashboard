@@ -1,7 +1,7 @@
 {
   "symbol": "NWSA",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:53.007Z",
+  "updatedAt": "2026-08-28T13:51:10.768Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20114,8 +20114,8 @@
       "open": 31.360000610351562,
       "high": 31.5,
       "low": 31.030000686645508,
-      "close": 31.270000457763672,
-      "volume": 376874
+      "close": 31.239999771118164,
+      "volume": 526127
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "ALGN",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:30.445Z",
+  "updatedAt": "2026-08-28T13:50:48.036Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20090,8 +20090,8 @@
       "open": 158.50999450683594,
       "high": 159.96499633789062,
       "low": 157.52000427246094,
-      "close": 157.63999938964844,
-      "volume": 63979
+      "close": 158.38499450683594,
+      "volume": 79134
     }
   ]
 }

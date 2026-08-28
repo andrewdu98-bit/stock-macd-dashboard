@@ -1,7 +1,7 @@
 {
   "symbol": "GPN",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:43.813Z",
+  "updatedAt": "2026-08-28T13:51:01.532Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20090,8 +20090,8 @@
       "open": 93.08999633789062,
       "high": 93.66999816894531,
       "low": 91.70500183105469,
-      "close": 92.33999633789062,
-      "volume": 49268
+      "close": 92.91000366210938,
+      "volume": 79451
     }
   ]
 }

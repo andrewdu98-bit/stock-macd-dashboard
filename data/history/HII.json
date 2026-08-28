@@ -1,7 +1,7 @@
 {
   "symbol": "HII",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:44.500Z",
+  "updatedAt": "2026-08-28T13:51:02.254Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20090,8 +20090,8 @@
       "open": 296.4200134277344,
       "high": 297.2749938964844,
       "low": 294.95001220703125,
-      "close": 295.03009033203125,
-      "volume": 15592
+      "close": 295.45001220703125,
+      "volume": 18876
     }
   ]
 }

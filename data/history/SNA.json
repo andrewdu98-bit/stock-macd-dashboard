@@ -1,7 +1,7 @@
 {
   "symbol": "SNA",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:57.808Z",
+  "updatedAt": "2026-08-28T13:51:15.753Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20089,9 +20089,9 @@
       "date": "2026-08-28",
       "open": 397.7900085449219,
       "high": 399.1199951171875,
-      "low": 395.1600036621094,
-      "close": 399.1199951171875,
-      "volume": 6027
+      "low": 394.8800048828125,
+      "close": 394.8800048828125,
+      "volume": 6941
     }
   ]
 }

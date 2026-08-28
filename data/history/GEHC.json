@@ -1,7 +1,7 @@
 {
   "symbol": "GEHC",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:42.996Z",
+  "updatedAt": "2026-08-28T13:51:00.687Z",
   "start": "2022-12-15",
   "end": "2026-08-28",
   "rows": [
@@ -7426,8 +7426,8 @@
       "open": 72.81999969482422,
       "high": 73,
       "low": 71.80999755859375,
-      "close": 72.17500305175781,
-      "volume": 154289
+      "close": 72.30000305175781,
+      "volume": 185580
     }
   ]
 }

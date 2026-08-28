@@ -1,7 +1,7 @@
 {
   "symbol": "CNP",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:36.299Z",
+  "updatedAt": "2026-08-28T13:50:53.946Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20114,8 +20114,8 @@
       "open": 39.630001068115234,
       "high": 39.72999954223633,
       "low": 39.400001525878906,
-      "close": 39.619998931884766,
-      "volume": 170126
+      "close": 39.650001525878906,
+      "volume": 194049
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "OTIS",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:53.559Z",
+  "updatedAt": "2026-08-28T13:51:11.418Z",
   "start": "2020-03-19",
   "end": "2026-08-28",
   "rows": [
@@ -12946,8 +12946,8 @@
       "open": 71.7699966430664,
       "high": 72,
       "low": 71.58000183105469,
-      "close": 71.70500183105469,
-      "volume": 74831
+      "close": 71.66000366210938,
+      "volume": 95678
     }
   ]
 }

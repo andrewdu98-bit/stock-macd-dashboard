@@ -1,7 +1,7 @@
 {
   "symbol": "AMAT",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:30.855Z",
+  "updatedAt": "2026-08-28T13:50:48.349Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20114,8 +20114,8 @@
       "open": 477.9649963378906,
       "high": 477.9649963378906,
       "low": 470.8999938964844,
-      "close": 474.2049865722656,
-      "volume": 692876
+      "close": 474.80499267578125,
+      "volume": 727881
     }
   ]
 }

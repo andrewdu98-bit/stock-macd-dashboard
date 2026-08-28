@@ -1,7 +1,7 @@
 {
   "symbol": "TDG",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:59.295Z",
+  "updatedAt": "2026-08-28T13:51:17.236Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20090,8 +20090,8 @@
       "open": 1191.02001953125,
       "high": 1195.510009765625,
       "low": 1183.2850341796875,
-      "close": 1184.949951171875,
-      "volume": 5488
+      "close": 1187.27001953125,
+      "volume": 5934
     }
   ]
 }

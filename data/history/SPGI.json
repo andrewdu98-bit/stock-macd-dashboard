@@ -1,7 +1,7 @@
 {
   "symbol": "SPGI",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:58.303Z",
+  "updatedAt": "2026-08-28T13:51:16.222Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20114,8 +20114,8 @@
       "open": 436,
       "high": 439.6099853515625,
       "low": 436.17999267578125,
-      "close": 437.7665100097656,
-      "volume": 52313
+      "close": 438.6099853515625,
+      "volume": 60172
     }
   ]
 }

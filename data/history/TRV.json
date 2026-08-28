@@ -1,7 +1,7 @@
 {
   "symbol": "TRV",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:47:00.388Z",
+  "updatedAt": "2026-08-28T13:51:18.273Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20106,8 +20106,8 @@
       "open": 371.17999267578125,
       "high": 372.010009765625,
       "low": 368.1400146484375,
-      "close": 369.5,
-      "volume": 56662
+      "close": 369.9700012207031,
+      "volume": 68136
     }
   ]
 }

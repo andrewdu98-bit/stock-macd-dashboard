@@ -1,7 +1,7 @@
 {
   "symbol": "SBUX",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:57.267Z",
+  "updatedAt": "2026-08-28T13:51:15.293Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20114,8 +20114,8 @@
       "open": 107.95999908447266,
       "high": 108.22000122070312,
       "low": 107.26000213623047,
-      "close": 108.0083999633789,
-      "volume": 264091
+      "close": 107.97000122070312,
+      "volume": 304008
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "TMUS",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:59.895Z",
+  "updatedAt": "2026-08-28T13:51:17.770Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20114,8 +20114,8 @@
       "open": 178.69000244140625,
       "high": 178.8699951171875,
       "low": 176.49000549316406,
-      "close": 177.6999969482422,
-      "volume": 199412
+      "close": 177.8300018310547,
+      "volume": 228579
     }
   ]
 }

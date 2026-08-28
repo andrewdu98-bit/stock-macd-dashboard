@@ -1,7 +1,7 @@
 {
   "symbol": "TFC",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:59.589Z",
+  "updatedAt": "2026-08-28T13:51:17.491Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20114,8 +20114,8 @@
       "open": 50.689998626708984,
       "high": 50.9900016784668,
       "low": 50.54999923706055,
-      "close": 50.599998474121094,
-      "volume": 209678
+      "close": 50.66999816894531,
+      "volume": 257494
     }
   ]
 }

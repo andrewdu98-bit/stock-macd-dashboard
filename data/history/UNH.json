@@ -1,7 +1,7 @@
 {
   "symbol": "UNH",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:47:01.438Z",
+  "updatedAt": "2026-08-28T13:51:19.426Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20114,8 +20114,8 @@
       "open": 396.4200134277344,
       "high": 396.739990234375,
       "low": 392.81500244140625,
-      "close": 393.989990234375,
-      "volume": 164270
+      "close": 395.04998779296875,
+      "volume": 189989
     }
   ]
 }

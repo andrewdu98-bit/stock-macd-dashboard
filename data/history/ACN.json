@@ -1,7 +1,7 @@
 {
   "symbol": "ACN",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:29.590Z",
+  "updatedAt": "2026-08-28T13:50:47.054Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20114,8 +20114,8 @@
       "open": 189.33999633789062,
       "high": 191.8300018310547,
       "low": 189.03720092773438,
-      "close": 189.6649932861328,
-      "volume": 237782
+      "close": 189.94009399414062,
+      "volume": 262252
     }
   ]
 }

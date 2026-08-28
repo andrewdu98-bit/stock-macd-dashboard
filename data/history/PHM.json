@@ -1,7 +1,7 @@
 {
   "symbol": "PHM",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:54.536Z",
+  "updatedAt": "2026-08-28T13:51:12.373Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20098,8 +20098,8 @@
       "open": 127.6500015258789,
       "high": 129.3249969482422,
       "low": 127.44000244140625,
-      "close": 128.15960693359375,
-      "volume": 42699
+      "close": 128.58999633789062,
+      "volume": 47645
     }
   ]
 }

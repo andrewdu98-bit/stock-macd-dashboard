@@ -1,7 +1,7 @@
 {
   "symbol": "ZTS",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:47:04.456Z",
+  "updatedAt": "2026-08-28T13:51:22.334Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20106,8 +20106,8 @@
       "open": 75.19999694824219,
       "high": 76.48999786376953,
       "low": 75.19999694824219,
-      "close": 75.91000366210938,
-      "volume": 194444
+      "close": 76.07019805908203,
+      "volume": 222636
     }
   ]
 }

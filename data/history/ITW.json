@@ -1,7 +1,7 @@
 {
   "symbol": "ITW",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:46.527Z",
+  "updatedAt": "2026-08-28T13:51:04.303Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20114,8 +20114,8 @@
       "open": 283.3500061035156,
       "high": 284.42999267578125,
       "low": 281.55999755859375,
-      "close": 282.010009765625,
-      "volume": 14795
+      "close": 281.7850036621094,
+      "volume": 17042
     }
   ]
 }

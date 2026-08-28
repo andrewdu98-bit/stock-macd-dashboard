@@ -1,7 +1,7 @@
 {
   "symbol": "GME",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:43.179Z",
+  "updatedAt": "2026-08-28T13:51:00.946Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20113,9 +20113,9 @@
       "date": "2026-08-28",
       "open": 18.299999237060547,
       "high": 18.329999923706055,
-      "low": 18.1200008392334,
-      "close": 18.125,
-      "volume": 473103
+      "low": 18.100099563598633,
+      "close": 18.139999389648438,
+      "volume": 522438
     }
   ]
 }

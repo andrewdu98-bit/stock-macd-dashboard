@@ -1,7 +1,7 @@
 {
   "symbol": "LULU",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:48.955Z",
+  "updatedAt": "2026-08-28T13:51:06.745Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20114,8 +20114,8 @@
       "open": 116.63999938964844,
       "high": 118.02999877929688,
       "low": 116.3499984741211,
-      "close": 117.30999755859375,
-      "volume": 268950
+      "close": 117.43250274658203,
+      "volume": 296852
     }
   ]
 }

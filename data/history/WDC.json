@@ -1,7 +1,7 @@
 {
   "symbol": "WDC",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:47:03.077Z",
+  "updatedAt": "2026-08-28T13:51:21.054Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20112,10 +20112,10 @@
     {
       "date": "2026-08-28",
       "open": 462.29998779296875,
-      "high": 473.989990234375,
+      "high": 474.5,
       "low": 455.276611328125,
-      "close": 472.30999755859375,
-      "volume": 603024
+      "close": 472.5799865722656,
+      "volume": 712500
     }
   ]
 }

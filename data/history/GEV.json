@@ -1,7 +1,7 @@
 {
   "symbol": "GEV",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:43.077Z",
+  "updatedAt": "2026-08-28T13:51:00.801Z",
   "start": "2024-03-27",
   "end": "2026-08-28",
   "rows": [
@@ -4865,9 +4865,9 @@
       "date": "2026-08-28",
       "open": 948.5900268554688,
       "high": 946.2849731445312,
-      "low": 938,
-      "close": 940.760009765625,
-      "volume": 120841
+      "low": 936.27001953125,
+      "close": 936.780029296875,
+      "volume": 142580
     }
   ]
 }

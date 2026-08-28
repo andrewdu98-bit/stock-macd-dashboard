@@ -1,7 +1,7 @@
 {
   "symbol": "WAT",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:47:02.987Z",
+  "updatedAt": "2026-08-28T13:51:20.831Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20090,8 +20090,8 @@
       "open": 417.79998779296875,
       "high": 422.5,
       "low": 415.2099914550781,
-      "close": 418.3949890136719,
-      "volume": 25601
+      "close": 417.3450012207031,
+      "volume": 30876
     }
   ]
 }

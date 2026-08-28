@@ -1,7 +1,7 @@
 {
   "symbol": "NCLH",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:51.613Z",
+  "updatedAt": "2026-08-28T13:51:09.389Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20114,8 +20114,8 @@
       "open": 16.790000915527344,
       "high": 16.934999465942383,
       "low": 16.690000534057617,
-      "close": 16.7450008392334,
-      "volume": 1084432
+      "close": 16.780000686645508,
+      "volume": 1168039
     }
   ]
 }

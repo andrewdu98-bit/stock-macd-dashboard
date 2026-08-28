@@ -1,7 +1,7 @@
 {
   "symbol": "HSIC",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:44.946Z",
+  "updatedAt": "2026-08-28T13:51:02.671Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20090,8 +20090,8 @@
       "open": 90.54000091552734,
       "high": 90.79000091552734,
       "low": 89.9625015258789,
-      "close": 90.37999725341797,
-      "volume": 8698
+      "close": 90.3499984741211,
+      "volume": 13049
     }
   ]
 }

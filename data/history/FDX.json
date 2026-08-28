@@ -1,7 +1,7 @@
 {
   "symbol": "FDX",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:41.666Z",
+  "updatedAt": "2026-08-28T13:50:59.386Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20106,8 +20106,8 @@
       "open": 332.3800048828125,
       "high": 333.989990234375,
       "low": 331.67999267578125,
-      "close": 332.2911071777344,
-      "volume": 66434
+      "close": 331.94000244140625,
+      "volume": 74342
     }
   ]
 }

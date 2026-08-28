@@ -1,7 +1,7 @@
 {
   "symbol": "PGR",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-08-28T13:46:54.329Z",
+  "updatedAt": "2026-08-28T13:51:12.198Z",
   "start": "2016-08-29",
   "end": "2026-08-28",
   "rows": [
@@ -20114,8 +20114,8 @@
       "open": 218.27000427246094,
       "high": 219.44000244140625,
       "low": 217.57000732421875,
-      "close": 218.02000427246094,
-      "volume": 48286
+      "close": 218.47999572753906,
+      "volume": 53441
     }
   ]
 }
