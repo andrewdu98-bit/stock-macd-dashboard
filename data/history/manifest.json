@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T13:51:23.138Z",
+  "generatedAt": "2026-08-31T13:47:08.231Z",
   "lookbackYears": 10,
   "count": 583,
   "ok": 579,
@@ -9,577 +9,577 @@
       "symbol": "A",
       "ok": true,
       "file": "data/history/A.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "AAOI",
       "ok": true,
       "file": "data/history/AAOI.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "AAPL",
       "ok": true,
       "file": "data/history/AAPL.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ABBV",
       "ok": true,
       "file": "data/history/ABBV.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ABNB",
       "ok": true,
       "file": "data/history/ABNB.json",
-      "rows": 1435,
+      "rows": 1436,
       "start": "2020-12-10",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "ABT",
       "ok": true,
       "file": "data/history/ABT.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ACGL",
       "ok": true,
       "file": "data/history/ACGL.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ACN",
       "ok": true,
       "file": "data/history/ACN.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ADBE",
       "ok": true,
       "file": "data/history/ADBE.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ADI",
       "ok": true,
       "file": "data/history/ADI.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ADM",
       "ok": true,
       "file": "data/history/ADM.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ADP",
       "ok": true,
       "file": "data/history/ADP.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ADSK",
       "ok": true,
       "file": "data/history/ADSK.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "AEE",
       "ok": true,
       "file": "data/history/AEE.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "AEP",
       "ok": true,
       "file": "data/history/AEP.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "AES",
       "ok": true,
       "file": "data/history/AES.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "AFL",
       "ok": true,
       "file": "data/history/AFL.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "AIG",
       "ok": true,
       "file": "data/history/AIG.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "AIZ",
       "ok": true,
       "file": "data/history/AIZ.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "AJG",
       "ok": true,
       "file": "data/history/AJG.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "AKAM",
       "ok": true,
       "file": "data/history/AKAM.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ALAB",
       "ok": true,
       "file": "data/history/ALAB.json",
-      "rows": 613,
+      "rows": 614,
       "start": "2024-03-20",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "ALB",
       "ok": true,
       "file": "data/history/ALB.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ALGN",
       "ok": true,
       "file": "data/history/ALGN.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ALL",
       "ok": true,
       "file": "data/history/ALL.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ALLE",
       "ok": true,
       "file": "data/history/ALLE.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ALNY",
       "ok": true,
       "file": "data/history/ALNY.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "AMAT",
       "ok": true,
       "file": "data/history/AMAT.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "AMCR",
       "ok": true,
       "file": "data/history/AMCR.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "AMD",
       "ok": true,
       "file": "data/history/AMD.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "AME",
       "ok": true,
       "file": "data/history/AME.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "AMGN",
       "ok": true,
       "file": "data/history/AMGN.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "AMP",
       "ok": true,
       "file": "data/history/AMP.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "AMT",
       "ok": true,
       "file": "data/history/AMT.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "AMZN",
       "ok": true,
       "file": "data/history/AMZN.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "AMZU",
       "ok": true,
       "file": "data/history/AMZU.json",
-      "rows": 998,
+      "rows": 999,
       "start": "2022-09-07",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "ANET",
       "ok": true,
       "file": "data/history/ANET.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "AON",
       "ok": true,
       "file": "data/history/AON.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "AOS",
       "ok": true,
       "file": "data/history/AOS.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "APA",
       "ok": true,
       "file": "data/history/APA.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "APD",
       "ok": true,
       "file": "data/history/APD.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "APH",
       "ok": true,
       "file": "data/history/APH.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "APO",
       "ok": true,
       "file": "data/history/APO.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "APP",
       "ok": true,
       "file": "data/history/APP.json",
-      "rows": 1350,
+      "rows": 1351,
       "start": "2021-04-15",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "APPX",
       "ok": true,
       "file": "data/history/APPX.json",
-      "rows": 338,
+      "rows": 339,
       "start": "2025-04-25",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "APTV",
       "ok": true,
       "file": "data/history/APTV.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ARE",
       "ok": true,
       "file": "data/history/ARE.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ARES",
       "ok": true,
       "file": "data/history/ARES.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ARM",
       "ok": true,
       "file": "data/history/ARM.json",
-      "rows": 742,
+      "rows": 743,
       "start": "2023-09-14",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "ASML",
       "ok": true,
       "file": "data/history/ASML.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ASTS",
       "ok": true,
       "file": "data/history/ASTS.json",
-      "rows": 1714,
+      "rows": 1715,
       "start": "2019-11-01",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "ATO",
       "ok": true,
       "file": "data/history/ATO.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "AVB",
       "ok": true,
       "file": "data/history/AVB.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "AVGO",
       "ok": true,
       "file": "data/history/AVGO.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "AVY",
       "ok": true,
       "file": "data/history/AVY.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "AWK",
       "ok": true,
       "file": "data/history/AWK.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "AXON",
       "ok": true,
       "file": "data/history/AXON.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "AXP",
       "ok": true,
       "file": "data/history/AXP.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "AXTI",
       "ok": true,
       "file": "data/history/AXTI.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "AZO",
       "ok": true,
       "file": "data/history/AZO.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "BA",
       "ok": true,
       "file": "data/history/BA.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "BABA",
       "ok": true,
       "file": "data/history/BABA.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "BAC",
       "ok": true,
       "file": "data/history/BAC.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "BALL",
       "ok": true,
       "file": "data/history/BALL.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "BAX",
       "ok": true,
       "file": "data/history/BAX.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "BB",
       "ok": true,
       "file": "data/history/BB.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "BBY",
       "ok": true,
       "file": "data/history/BBY.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "BDX",
       "ok": true,
       "file": "data/history/BDX.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "BEN",
       "ok": true,
       "file": "data/history/BEN.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "BF-B",
       "ok": true,
       "file": "data/history/BF-B.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "BG",
       "ok": true,
       "file": "data/history/BG.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "BIIB",
       "ok": true,
       "file": "data/history/BIIB.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "BK",
@@ -590,529 +590,529 @@
       "symbol": "BKNG",
       "ok": true,
       "file": "data/history/BKNG.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "BKR",
       "ok": true,
       "file": "data/history/BKR.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "BLDR",
       "ok": true,
       "file": "data/history/BLDR.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "BLK",
       "ok": true,
       "file": "data/history/BLK.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "BMNR",
       "ok": true,
       "file": "data/history/BMNR.json",
-      "rows": 310,
+      "rows": 311,
       "start": "2025-06-05",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "BMY",
       "ok": true,
       "file": "data/history/BMY.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "BNO",
       "ok": true,
       "file": "data/history/BNO.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "BOIL",
       "ok": true,
       "file": "data/history/BOIL.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "BR",
       "ok": true,
       "file": "data/history/BR.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "BRK-B",
       "ok": true,
       "file": "data/history/BRK-B.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "BRO",
       "ok": true,
       "file": "data/history/BRO.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "BSX",
       "ok": true,
       "file": "data/history/BSX.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "BTC-USD",
       "ok": true,
       "file": "data/history/BTC-USD.json",
       "rows": 3652,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "BX",
       "ok": true,
       "file": "data/history/BX.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "BXP",
       "ok": true,
       "file": "data/history/BXP.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "C",
       "ok": true,
       "file": "data/history/C.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CAG",
       "ok": true,
       "file": "data/history/CAG.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CAH",
       "ok": true,
       "file": "data/history/CAH.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CARR",
       "ok": true,
       "file": "data/history/CARR.json",
-      "rows": 1620,
+      "rows": 1621,
       "start": "2020-03-19",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "CASY",
       "ok": true,
       "file": "data/history/CASY.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CAT",
       "ok": true,
       "file": "data/history/CAT.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CB",
       "ok": true,
       "file": "data/history/CB.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CBOE",
       "ok": true,
       "file": "data/history/CBOE.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CBRE",
       "ok": true,
       "file": "data/history/CBRE.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CCEP",
       "ok": true,
       "file": "data/history/CCEP.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CCI",
       "ok": true,
       "file": "data/history/CCI.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CCL",
       "ok": true,
       "file": "data/history/CCL.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CDNS",
       "ok": true,
       "file": "data/history/CDNS.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CDW",
       "ok": true,
       "file": "data/history/CDW.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CEG",
       "ok": true,
       "file": "data/history/CEG.json",
-      "rows": 1157,
+      "rows": 1158,
       "start": "2022-01-19",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "CF",
       "ok": true,
       "file": "data/history/CF.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CFG",
       "ok": true,
       "file": "data/history/CFG.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CHD",
       "ok": true,
       "file": "data/history/CHD.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CHRW",
       "ok": true,
       "file": "data/history/CHRW.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CHTR",
       "ok": true,
       "file": "data/history/CHTR.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CI",
       "ok": true,
       "file": "data/history/CI.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CIEN",
       "ok": true,
       "file": "data/history/CIEN.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CINF",
       "ok": true,
       "file": "data/history/CINF.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CL",
       "ok": true,
       "file": "data/history/CL.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CLX",
       "ok": true,
       "file": "data/history/CLX.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CMCSA",
       "ok": true,
       "file": "data/history/CMCSA.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CME",
       "ok": true,
       "file": "data/history/CME.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CMG",
       "ok": true,
       "file": "data/history/CMG.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CMI",
       "ok": true,
       "file": "data/history/CMI.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CMS",
       "ok": true,
       "file": "data/history/CMS.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CNC",
       "ok": true,
       "file": "data/history/CNC.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CNP",
       "ok": true,
       "file": "data/history/CNP.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "COF",
       "ok": true,
       "file": "data/history/COF.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "COHR",
       "ok": true,
       "file": "data/history/COHR.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "COIN",
       "ok": true,
       "file": "data/history/COIN.json",
-      "rows": 1351,
+      "rows": 1352,
       "start": "2021-04-14",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "COO",
       "ok": true,
       "file": "data/history/COO.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "COP",
       "ok": true,
       "file": "data/history/COP.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "COR",
       "ok": true,
       "file": "data/history/COR.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "COST",
       "ok": true,
       "file": "data/history/COST.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CPAY",
       "ok": true,
       "file": "data/history/CPAY.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CPB",
       "ok": true,
       "file": "data/history/CPB.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CPRT",
       "ok": true,
       "file": "data/history/CPRT.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CPT",
       "ok": true,
       "file": "data/history/CPT.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CRH",
       "ok": true,
       "file": "data/history/CRH.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CRL",
       "ok": true,
       "file": "data/history/CRL.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CRM",
       "ok": true,
       "file": "data/history/CRM.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CRWD",
       "ok": true,
       "file": "data/history/CRWD.json",
-      "rows": 1814,
+      "rows": 1815,
       "start": "2019-06-12",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "CSCO",
       "ok": true,
       "file": "data/history/CSCO.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CSGP",
       "ok": true,
       "file": "data/history/CSGP.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CSX",
       "ok": true,
       "file": "data/history/CSX.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CTAS",
       "ok": true,
       "file": "data/history/CTAS.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CTRA",
@@ -1123,249 +1123,249 @@
       "symbol": "CTSH",
       "ok": true,
       "file": "data/history/CTSH.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CTVA",
       "ok": true,
       "file": "data/history/CTVA.json",
-      "rows": 1824,
+      "rows": 1825,
       "start": "2019-05-24",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "CVNA",
       "ok": true,
       "file": "data/history/CVNA.json",
-      "rows": 2347,
+      "rows": 2348,
       "start": "2017-04-28",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "CVS",
       "ok": true,
       "file": "data/history/CVS.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "CVX",
       "ok": true,
       "file": "data/history/CVX.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "D",
       "ok": true,
       "file": "data/history/D.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "DAL",
       "ok": true,
       "file": "data/history/DAL.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "DASH",
       "ok": true,
       "file": "data/history/DASH.json",
-      "rows": 1436,
+      "rows": 1437,
       "start": "2020-12-09",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "DD",
       "ok": true,
       "file": "data/history/DD.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "DDOG",
       "ok": true,
       "file": "data/history/DDOG.json",
-      "rows": 1745,
+      "rows": 1746,
       "start": "2019-09-19",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "DE",
       "ok": true,
       "file": "data/history/DE.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "DECK",
       "ok": true,
       "file": "data/history/DECK.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "DELL",
       "ok": true,
       "file": "data/history/DELL.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "DG",
       "ok": true,
       "file": "data/history/DG.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "DGX",
       "ok": true,
       "file": "data/history/DGX.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "DHI",
       "ok": true,
       "file": "data/history/DHI.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "DHR",
       "ok": true,
       "file": "data/history/DHR.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "DIS",
       "ok": true,
       "file": "data/history/DIS.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "DLR",
       "ok": true,
       "file": "data/history/DLR.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "DLTR",
       "ok": true,
       "file": "data/history/DLTR.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "DOC",
       "ok": true,
       "file": "data/history/DOC.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "DOV",
       "ok": true,
       "file": "data/history/DOV.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "DOW",
       "ok": true,
       "file": "data/history/DOW.json",
-      "rows": 1872,
+      "rows": 1873,
       "start": "2019-03-20",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "DPZ",
       "ok": true,
       "file": "data/history/DPZ.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "DRAM",
       "ok": true,
       "file": "data/history/DRAM.json",
-      "rows": 103,
+      "rows": 104,
       "start": "2026-04-02",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "DRI",
       "ok": true,
       "file": "data/history/DRI.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "DTE",
       "ok": true,
       "file": "data/history/DTE.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "DUK",
       "ok": true,
       "file": "data/history/DUK.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "DVA",
       "ok": true,
       "file": "data/history/DVA.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "DVN",
       "ok": true,
       "file": "data/history/DVN.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "DXCM",
       "ok": true,
       "file": "data/history/DXCM.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "EA",
@@ -1376,2281 +1376,2281 @@
       "symbol": "EBAY",
       "ok": true,
       "file": "data/history/EBAY.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ECL",
       "ok": true,
       "file": "data/history/ECL.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ED",
       "ok": true,
       "file": "data/history/ED.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "EFX",
       "ok": true,
       "file": "data/history/EFX.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "EG",
       "ok": true,
       "file": "data/history/EG.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "EIX",
       "ok": true,
       "file": "data/history/EIX.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "EL",
       "ok": true,
       "file": "data/history/EL.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ELV",
       "ok": true,
       "file": "data/history/ELV.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "EME",
       "ok": true,
       "file": "data/history/EME.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "EMR",
       "ok": true,
       "file": "data/history/EMR.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "EOG",
       "ok": true,
       "file": "data/history/EOG.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "EPAM",
       "ok": true,
       "file": "data/history/EPAM.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "EQIX",
       "ok": true,
       "file": "data/history/EQIX.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "EQR",
       "ok": true,
       "file": "data/history/EQR.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "EQT",
       "ok": true,
       "file": "data/history/EQT.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ERIE",
       "ok": true,
       "file": "data/history/ERIE.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ES",
       "ok": true,
       "file": "data/history/ES.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ESS",
       "ok": true,
       "file": "data/history/ESS.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ETN",
       "ok": true,
       "file": "data/history/ETN.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ETR",
       "ok": true,
       "file": "data/history/ETR.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "EVRG",
       "ok": true,
       "file": "data/history/EVRG.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "EW",
       "ok": true,
       "file": "data/history/EW.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "EXC",
       "ok": true,
       "file": "data/history/EXC.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "EXE",
       "ok": true,
       "file": "data/history/EXE.json",
-      "rows": 1394,
+      "rows": 1395,
       "start": "2021-02-10",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "EXPD",
       "ok": true,
       "file": "data/history/EXPD.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "EXPE",
       "ok": true,
       "file": "data/history/EXPE.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "EXR",
       "ok": true,
       "file": "data/history/EXR.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "F",
       "ok": true,
       "file": "data/history/F.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "FANG",
       "ok": true,
       "file": "data/history/FANG.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "FAST",
       "ok": true,
       "file": "data/history/FAST.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "FCX",
       "ok": true,
       "file": "data/history/FCX.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "FDS",
       "ok": true,
       "file": "data/history/FDS.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "FDX",
       "ok": true,
       "file": "data/history/FDX.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "FE",
       "ok": true,
       "file": "data/history/FE.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "FER",
       "ok": true,
       "file": "data/history/FER.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "FFIV",
       "ok": true,
       "file": "data/history/FFIV.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "FICO",
       "ok": true,
       "file": "data/history/FICO.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "FIS",
       "ok": true,
       "file": "data/history/FIS.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "FISV",
       "ok": true,
       "file": "data/history/FISV.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "FITB",
       "ok": true,
       "file": "data/history/FITB.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "FIX",
       "ok": true,
       "file": "data/history/FIX.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "FLY",
       "ok": true,
       "file": "data/history/FLY.json",
-      "rows": 267,
+      "rows": 268,
       "start": "2025-08-07",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "FORM",
       "ok": true,
       "file": "data/history/FORM.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "FOX",
       "ok": true,
       "file": "data/history/FOX.json",
-      "rows": 1874,
+      "rows": 1875,
       "start": "2019-03-13",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "FOXA",
       "ok": true,
       "file": "data/history/FOXA.json",
-      "rows": 1876,
+      "rows": 1877,
       "start": "2019-03-12",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "FRO",
       "ok": true,
       "file": "data/history/FRO.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "FRT",
       "ok": true,
       "file": "data/history/FRT.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "FSLR",
       "ok": true,
       "file": "data/history/FSLR.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "FSLY",
       "ok": true,
       "file": "data/history/FSLY.json",
-      "rows": 1831,
+      "rows": 1832,
       "start": "2019-05-17",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "FTNT",
       "ok": true,
       "file": "data/history/FTNT.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "FTV",
       "ok": true,
       "file": "data/history/FTV.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "GD",
       "ok": true,
       "file": "data/history/GD.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "GDDY",
       "ok": true,
       "file": "data/history/GDDY.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "GE",
       "ok": true,
       "file": "data/history/GE.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "GEHC",
       "ok": true,
       "file": "data/history/GEHC.json",
-      "rows": 928,
+      "rows": 929,
       "start": "2022-12-15",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "GEN",
       "ok": true,
       "file": "data/history/GEN.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "GEV",
       "ok": true,
       "file": "data/history/GEV.json",
-      "rows": 608,
+      "rows": 609,
       "start": "2024-03-27",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "GILD",
       "ok": true,
       "file": "data/history/GILD.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "GIS",
       "ok": true,
       "file": "data/history/GIS.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "GL",
       "ok": true,
       "file": "data/history/GL.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "GLD",
       "ok": true,
       "file": "data/history/GLD.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "GLW",
       "ok": true,
       "file": "data/history/GLW.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "GM",
       "ok": true,
       "file": "data/history/GM.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "GME",
       "ok": true,
       "file": "data/history/GME.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "GNRC",
       "ok": true,
       "file": "data/history/GNRC.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "GOOG",
       "ok": true,
       "file": "data/history/GOOG.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "GOOGL",
       "ok": true,
       "file": "data/history/GOOGL.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "GPC",
       "ok": true,
       "file": "data/history/GPC.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "GPN",
       "ok": true,
       "file": "data/history/GPN.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "GRMN",
       "ok": true,
       "file": "data/history/GRMN.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "GS",
       "ok": true,
       "file": "data/history/GS.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "GTLB",
       "ok": true,
       "file": "data/history/GTLB.json",
-      "rows": 1223,
+      "rows": 1224,
       "start": "2021-10-14",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "GWW",
       "ok": true,
       "file": "data/history/GWW.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "HAL",
       "ok": true,
       "file": "data/history/HAL.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "HAS",
       "ok": true,
       "file": "data/history/HAS.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "HBAN",
       "ok": true,
       "file": "data/history/HBAN.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "HCA",
       "ok": true,
       "file": "data/history/HCA.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "HD",
       "ok": true,
       "file": "data/history/HD.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "HIG",
       "ok": true,
       "file": "data/history/HIG.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "HII",
       "ok": true,
       "file": "data/history/HII.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "HLT",
       "ok": true,
       "file": "data/history/HLT.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "HON",
       "ok": true,
       "file": "data/history/HON.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "HOOD",
       "ok": true,
       "file": "data/history/HOOD.json",
-      "rows": 1277,
+      "rows": 1278,
       "start": "2021-07-29",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "HPE",
       "ok": true,
       "file": "data/history/HPE.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "HPQ",
       "ok": true,
       "file": "data/history/HPQ.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "HRL",
       "ok": true,
       "file": "data/history/HRL.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "HSIC",
       "ok": true,
       "file": "data/history/HSIC.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "HST",
       "ok": true,
       "file": "data/history/HST.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "HSY",
       "ok": true,
       "file": "data/history/HSY.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "HUBB",
       "ok": true,
       "file": "data/history/HUBB.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "HUM",
       "ok": true,
       "file": "data/history/HUM.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "HWM",
       "ok": true,
       "file": "data/history/HWM.json",
-      "rows": 2468,
+      "rows": 2469,
       "start": "2016-11-01",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "HYLN",
       "ok": true,
       "file": "data/history/HYLN.json",
-      "rows": 1673,
+      "rows": 1674,
       "start": "2020-01-02",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "IBIT",
       "ok": true,
       "file": "data/history/IBIT.json",
-      "rows": 660,
+      "rows": 661,
       "start": "2024-01-11",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "IBKR",
       "ok": true,
       "file": "data/history/IBKR.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "IBM",
       "ok": true,
       "file": "data/history/IBM.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ICE",
       "ok": true,
       "file": "data/history/ICE.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "IDXX",
       "ok": true,
       "file": "data/history/IDXX.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "IEX",
       "ok": true,
       "file": "data/history/IEX.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "IFF",
       "ok": true,
       "file": "data/history/IFF.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "IGV",
       "ok": true,
       "file": "data/history/IGV.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "INCY",
       "ok": true,
       "file": "data/history/INCY.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "INSM",
       "ok": true,
       "file": "data/history/INSM.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "INTC",
       "ok": true,
       "file": "data/history/INTC.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "INTU",
       "ok": true,
       "file": "data/history/INTU.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "INVH",
       "ok": true,
       "file": "data/history/INVH.json",
-      "rows": 2405,
+      "rows": 2406,
       "start": "2017-02-01",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "IONQ",
       "ok": true,
       "file": "data/history/IONQ.json",
-      "rows": 1420,
+      "rows": 1421,
       "start": "2021-01-04",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "IP",
       "ok": true,
       "file": "data/history/IP.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "IQV",
       "ok": true,
       "file": "data/history/IQV.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "IR",
       "ok": true,
       "file": "data/history/IR.json",
-      "rows": 2335,
+      "rows": 2336,
       "start": "2017-05-12",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "IRM",
       "ok": true,
       "file": "data/history/IRM.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ISRG",
       "ok": true,
       "file": "data/history/ISRG.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "IT",
       "ok": true,
       "file": "data/history/IT.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ITW",
       "ok": true,
       "file": "data/history/ITW.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "IVZ",
       "ok": true,
       "file": "data/history/IVZ.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "J",
       "ok": true,
       "file": "data/history/J.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "JBHT",
       "ok": true,
       "file": "data/history/JBHT.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "JBL",
       "ok": true,
       "file": "data/history/JBL.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "JCI",
       "ok": true,
       "file": "data/history/JCI.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "JKHY",
       "ok": true,
       "file": "data/history/JKHY.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "JNJ",
       "ok": true,
       "file": "data/history/JNJ.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "JPM",
       "ok": true,
       "file": "data/history/JPM.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "KDP",
       "ok": true,
       "file": "data/history/KDP.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "KEY",
       "ok": true,
       "file": "data/history/KEY.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "KEYS",
       "ok": true,
       "file": "data/history/KEYS.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "KHC",
       "ok": true,
       "file": "data/history/KHC.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "KIM",
       "ok": true,
       "file": "data/history/KIM.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "KKR",
       "ok": true,
       "file": "data/history/KKR.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "KLAC",
       "ok": true,
       "file": "data/history/KLAC.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "KMB",
       "ok": true,
       "file": "data/history/KMB.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "KMI",
       "ok": true,
       "file": "data/history/KMI.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "KO",
       "ok": true,
       "file": "data/history/KO.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "KORU",
       "ok": true,
       "file": "data/history/KORU.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "KR",
       "ok": true,
       "file": "data/history/KR.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "KVUE",
       "ok": true,
       "file": "data/history/KVUE.json",
-      "rows": 833,
+      "rows": 834,
       "start": "2023-05-04",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "L",
       "ok": true,
       "file": "data/history/L.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "LASE",
       "ok": true,
       "file": "data/history/LASE.json",
-      "rows": 981,
+      "rows": 982,
       "start": "2022-09-30",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "LDOS",
       "ok": true,
       "file": "data/history/LDOS.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "LEN",
       "ok": true,
       "file": "data/history/LEN.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "LH",
       "ok": true,
       "file": "data/history/LH.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "LHX",
       "ok": true,
       "file": "data/history/LHX.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "LII",
       "ok": true,
       "file": "data/history/LII.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "LIN",
       "ok": true,
       "file": "data/history/LIN.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "LITE",
       "ok": true,
       "file": "data/history/LITE.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "LLY",
       "ok": true,
       "file": "data/history/LLY.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "LMND",
       "ok": true,
       "file": "data/history/LMND.json",
-      "rows": 1547,
+      "rows": 1548,
       "start": "2020-07-02",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "LMT",
       "ok": true,
       "file": "data/history/LMT.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "LNG",
       "ok": true,
       "file": "data/history/LNG.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "LNT",
       "ok": true,
       "file": "data/history/LNT.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "LOW",
       "ok": true,
       "file": "data/history/LOW.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "LPTH",
       "ok": true,
       "file": "data/history/LPTH.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "LRCX",
       "ok": true,
       "file": "data/history/LRCX.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "LULU",
       "ok": true,
       "file": "data/history/LULU.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "LUNR",
       "ok": true,
       "file": "data/history/LUNR.json",
-      "rows": 1199,
+      "rows": 1200,
       "start": "2021-11-17",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "LUV",
       "ok": true,
       "file": "data/history/LUV.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "LVS",
       "ok": true,
       "file": "data/history/LVS.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "LYB",
       "ok": true,
       "file": "data/history/LYB.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "LYV",
       "ok": true,
       "file": "data/history/LYV.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "MA",
       "ok": true,
       "file": "data/history/MA.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "MAA",
       "ok": true,
       "file": "data/history/MAA.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "MAR",
       "ok": true,
       "file": "data/history/MAR.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "MAS",
       "ok": true,
       "file": "data/history/MAS.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "MCD",
       "ok": true,
       "file": "data/history/MCD.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "MCHP",
       "ok": true,
       "file": "data/history/MCHP.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "MCK",
       "ok": true,
       "file": "data/history/MCK.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "MCO",
       "ok": true,
       "file": "data/history/MCO.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "MDLZ",
       "ok": true,
       "file": "data/history/MDLZ.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "MDT",
       "ok": true,
       "file": "data/history/MDT.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "MELI",
       "ok": true,
       "file": "data/history/MELI.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "MET",
       "ok": true,
       "file": "data/history/MET.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "META",
       "ok": true,
       "file": "data/history/META.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "MGM",
       "ok": true,
       "file": "data/history/MGM.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "MKC",
       "ok": true,
       "file": "data/history/MKC.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "MLM",
       "ok": true,
       "file": "data/history/MLM.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "MMM",
       "ok": true,
       "file": "data/history/MMM.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "MNST",
       "ok": true,
       "file": "data/history/MNST.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "MO",
       "ok": true,
       "file": "data/history/MO.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "MOS",
       "ok": true,
       "file": "data/history/MOS.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "MPC",
       "ok": true,
       "file": "data/history/MPC.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "MPWR",
       "ok": true,
       "file": "data/history/MPWR.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "MRK",
       "ok": true,
       "file": "data/history/MRK.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "MRNA",
       "ok": true,
       "file": "data/history/MRNA.json",
-      "rows": 1941,
+      "rows": 1942,
       "start": "2018-12-07",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "MRSH",
       "ok": true,
       "file": "data/history/MRSH.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "MRVL",
       "ok": true,
       "file": "data/history/MRVL.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "MS",
       "ok": true,
       "file": "data/history/MS.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "MSCI",
       "ok": true,
       "file": "data/history/MSCI.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "MSFT",
       "ok": true,
       "file": "data/history/MSFT.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "MSFU",
       "ok": true,
       "file": "data/history/MSFU.json",
-      "rows": 998,
+      "rows": 999,
       "start": "2022-09-07",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "MSI",
       "ok": true,
       "file": "data/history/MSI.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "MSTR",
       "ok": true,
       "file": "data/history/MSTR.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "MTB",
       "ok": true,
       "file": "data/history/MTB.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "MTD",
       "ok": true,
       "file": "data/history/MTD.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "MU",
       "ok": true,
       "file": "data/history/MU.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "NBIS",
       "ok": true,
       "file": "data/history/NBIS.json",
-      "rows": 465,
+      "rows": 466,
       "start": "2024-10-21",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "NCLH",
       "ok": true,
       "file": "data/history/NCLH.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "NDAQ",
       "ok": true,
       "file": "data/history/NDAQ.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "NDSN",
       "ok": true,
       "file": "data/history/NDSN.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "NEE",
       "ok": true,
       "file": "data/history/NEE.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "NEM",
       "ok": true,
       "file": "data/history/NEM.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "NET",
       "ok": true,
       "file": "data/history/NET.json",
-      "rows": 1749,
+      "rows": 1750,
       "start": "2019-09-13",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "NFLX",
       "ok": true,
       "file": "data/history/NFLX.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "NI",
       "ok": true,
       "file": "data/history/NI.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "NKE",
       "ok": true,
       "file": "data/history/NKE.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "NOC",
       "ok": true,
       "file": "data/history/NOC.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "NOK",
       "ok": true,
       "file": "data/history/NOK.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "NOW",
       "ok": true,
       "file": "data/history/NOW.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "NRG",
       "ok": true,
       "file": "data/history/NRG.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "NSC",
       "ok": true,
       "file": "data/history/NSC.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "NTAP",
       "ok": true,
       "file": "data/history/NTAP.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "NTRS",
       "ok": true,
       "file": "data/history/NTRS.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "NUE",
       "ok": true,
       "file": "data/history/NUE.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "NVDA",
       "ok": true,
       "file": "data/history/NVDA.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "NVR",
       "ok": true,
       "file": "data/history/NVR.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "NVTS",
       "ok": true,
       "file": "data/history/NVTS.json",
-      "rows": 1219,
+      "rows": 1220,
       "start": "2021-10-20",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "NWS",
       "ok": true,
       "file": "data/history/NWS.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "NWSA",
       "ok": true,
       "file": "data/history/NWSA.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "NXPI",
       "ok": true,
       "file": "data/history/NXPI.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "O",
       "ok": true,
       "file": "data/history/O.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ODFL",
       "ok": true,
       "file": "data/history/ODFL.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "OKE",
       "ok": true,
       "file": "data/history/OKE.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "OMC",
       "ok": true,
       "file": "data/history/OMC.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ON",
       "ok": true,
       "file": "data/history/ON.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ONDS",
       "ok": true,
       "file": "data/history/ONDS.json",
-      "rows": 1439,
+      "rows": 1440,
       "start": "2020-12-04",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "OPEN",
       "ok": true,
       "file": "data/history/OPEN.json",
-      "rows": 1557,
+      "rows": 1558,
       "start": "2020-06-18",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "ORCL",
       "ok": true,
       "file": "data/history/ORCL.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ORLY",
       "ok": true,
       "file": "data/history/ORLY.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "OTIS",
       "ok": true,
       "file": "data/history/OTIS.json",
-      "rows": 1618,
+      "rows": 1619,
       "start": "2020-03-19",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "OXY",
       "ok": true,
       "file": "data/history/OXY.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "PANW",
       "ok": true,
       "file": "data/history/PANW.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "PAYX",
       "ok": true,
       "file": "data/history/PAYX.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "PCAR",
       "ok": true,
       "file": "data/history/PCAR.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "PCG",
       "ok": true,
       "file": "data/history/PCG.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "PDD",
       "ok": true,
       "file": "data/history/PDD.json",
-      "rows": 2034,
+      "rows": 2035,
       "start": "2018-07-26",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "PEG",
       "ok": true,
       "file": "data/history/PEG.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "PEP",
       "ok": true,
       "file": "data/history/PEP.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "PFE",
       "ok": true,
       "file": "data/history/PFE.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "PFG",
       "ok": true,
       "file": "data/history/PFG.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "PG",
       "ok": true,
       "file": "data/history/PG.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "PGR",
       "ok": true,
       "file": "data/history/PGR.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "PH",
       "ok": true,
       "file": "data/history/PH.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "PHM",
       "ok": true,
       "file": "data/history/PHM.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "PKG",
       "ok": true,
       "file": "data/history/PKG.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "PLD",
       "ok": true,
       "file": "data/history/PLD.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "PLTR",
       "ok": true,
       "file": "data/history/PLTR.json",
-      "rows": 1485,
+      "rows": 1486,
       "start": "2020-09-30",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "PM",
       "ok": true,
       "file": "data/history/PM.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "PNC",
       "ok": true,
       "file": "data/history/PNC.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "PNR",
       "ok": true,
       "file": "data/history/PNR.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "PNW",
       "ok": true,
       "file": "data/history/PNW.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "PODD",
       "ok": true,
       "file": "data/history/PODD.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "POET",
       "ok": true,
       "file": "data/history/POET.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "POOL",
       "ok": true,
       "file": "data/history/POOL.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "PPG",
       "ok": true,
       "file": "data/history/PPG.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "PPL",
       "ok": true,
       "file": "data/history/PPL.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "PRU",
       "ok": true,
       "file": "data/history/PRU.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "PSA",
       "ok": true,
       "file": "data/history/PSA.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "PSKY",
       "ok": true,
       "file": "data/history/PSKY.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "PSX",
       "ok": true,
       "file": "data/history/PSX.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "PTC",
       "ok": true,
       "file": "data/history/PTC.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "PWR",
       "ok": true,
       "file": "data/history/PWR.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "PYPL",
       "ok": true,
       "file": "data/history/PYPL.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "Q",
       "ok": true,
       "file": "data/history/Q.json",
-      "rows": 211,
+      "rows": 212,
       "start": "2025-10-27",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "QBTS",
       "ok": true,
       "file": "data/history/QBTS.json",
-      "rows": 1434,
+      "rows": 1435,
       "start": "2020-12-11",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "QCOM",
       "ok": true,
       "file": "data/history/QCOM.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "QQQ",
       "ok": true,
       "file": "data/history/QQQ.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "QQQM",
       "ok": true,
       "file": "data/history/QQQM.json",
-      "rows": 1476,
+      "rows": 1477,
       "start": "2020-10-13",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "QUBT",
       "ok": true,
       "file": "data/history/QUBT.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "RCL",
       "ok": true,
       "file": "data/history/RCL.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "RDDT",
       "ok": true,
       "file": "data/history/RDDT.json",
-      "rows": 612,
+      "rows": 613,
       "start": "2024-03-21",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "RDW",
       "ok": true,
       "file": "data/history/RDW.json",
-      "rows": 1412,
+      "rows": 1413,
       "start": "2021-01-14",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "REG",
       "ok": true,
       "file": "data/history/REG.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "REGN",
       "ok": true,
       "file": "data/history/REGN.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "RF",
       "ok": true,
       "file": "data/history/RF.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "RGTI",
       "ok": true,
       "file": "data/history/RGTI.json",
-      "rows": 1345,
+      "rows": 1346,
       "start": "2021-04-22",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "RJF",
       "ok": true,
       "file": "data/history/RJF.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "RKLB",
       "ok": true,
       "file": "data/history/RKLB.json",
-      "rows": 1446,
+      "rows": 1447,
       "start": "2020-11-24",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "RL",
       "ok": true,
       "file": "data/history/RL.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "RMBS",
       "ok": true,
       "file": "data/history/RMBS.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "RMD",
       "ok": true,
       "file": "data/history/RMD.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ROK",
       "ok": true,
       "file": "data/history/ROK.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ROL",
       "ok": true,
       "file": "data/history/ROL.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ROP",
       "ok": true,
       "file": "data/history/ROP.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ROST",
       "ok": true,
       "file": "data/history/ROST.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "RSG",
       "ok": true,
       "file": "data/history/RSG.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "RTX",
       "ok": true,
       "file": "data/history/RTX.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "RVTY",
       "ok": true,
       "file": "data/history/RVTY.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "SATS",
@@ -3661,1001 +3661,1001 @@
       "symbol": "SBAC",
       "ok": true,
       "file": "data/history/SBAC.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "SBUX",
       "ok": true,
       "file": "data/history/SBUX.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "SCHW",
       "ok": true,
       "file": "data/history/SCHW.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "SHLD",
       "ok": true,
       "file": "data/history/SHLD.json",
-      "rows": 742,
+      "rows": 743,
       "start": "2023-09-14",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "SHOP",
       "ok": true,
       "file": "data/history/SHOP.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "SHW",
       "ok": true,
       "file": "data/history/SHW.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "SJM",
       "ok": true,
       "file": "data/history/SJM.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "SKHY",
       "ok": true,
       "file": "data/history/SKHY.json",
-      "rows": 36,
+      "rows": 37,
       "start": "2026-07-10",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "SLB",
       "ok": true,
       "file": "data/history/SLB.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "SMCI",
       "ok": true,
       "file": "data/history/SMCI.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "SMH",
       "ok": true,
       "file": "data/history/SMH.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "SNA",
       "ok": true,
       "file": "data/history/SNA.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "SNDK",
       "ok": true,
       "file": "data/history/SNDK.json",
-      "rows": 387,
+      "rows": 388,
       "start": "2025-02-13",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "SNPS",
       "ok": true,
       "file": "data/history/SNPS.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "SO",
       "ok": true,
       "file": "data/history/SO.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "SOLV",
       "ok": true,
       "file": "data/history/SOLV.json",
-      "rows": 606,
+      "rows": 607,
       "start": "2024-03-26",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "SOXL",
       "ok": true,
       "file": "data/history/SOXL.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "SOXS",
       "ok": true,
       "file": "data/history/SOXS.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "SOXX",
       "ok": true,
       "file": "data/history/SOXX.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "SPCE",
       "ok": true,
       "file": "data/history/SPCE.json",
-      "rows": 2240,
+      "rows": 2241,
       "start": "2017-09-29",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "SPCX",
       "ok": true,
       "file": "data/history/SPCX.json",
-      "rows": 54,
+      "rows": 55,
       "start": "2026-06-12",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "SPG",
       "ok": true,
       "file": "data/history/SPG.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "SPGI",
       "ok": true,
       "file": "data/history/SPGI.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "SPY",
       "ok": true,
       "file": "data/history/SPY.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "SRE",
       "ok": true,
       "file": "data/history/SRE.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "STE",
       "ok": true,
       "file": "data/history/STE.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "STLD",
       "ok": true,
       "file": "data/history/STLD.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "STT",
       "ok": true,
       "file": "data/history/STT.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "STX",
       "ok": true,
       "file": "data/history/STX.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "STZ",
       "ok": true,
       "file": "data/history/STZ.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "SW",
       "ok": true,
       "file": "data/history/SW.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "SWK",
       "ok": true,
       "file": "data/history/SWK.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "SWKS",
       "ok": true,
       "file": "data/history/SWKS.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "SYF",
       "ok": true,
       "file": "data/history/SYF.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "SYK",
       "ok": true,
       "file": "data/history/SYK.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "SYY",
       "ok": true,
       "file": "data/history/SYY.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "T",
       "ok": true,
       "file": "data/history/T.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "TAP",
       "ok": true,
       "file": "data/history/TAP.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "TDG",
       "ok": true,
       "file": "data/history/TDG.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "TDY",
       "ok": true,
       "file": "data/history/TDY.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "TECH",
       "ok": true,
       "file": "data/history/TECH.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "TEL",
       "ok": true,
       "file": "data/history/TEL.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "TER",
       "ok": true,
       "file": "data/history/TER.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "TFC",
       "ok": true,
       "file": "data/history/TFC.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "TGT",
       "ok": true,
       "file": "data/history/TGT.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "TJX",
       "ok": true,
       "file": "data/history/TJX.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "TKO",
       "ok": true,
       "file": "data/history/TKO.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "TLT",
       "ok": true,
       "file": "data/history/TLT.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "TMO",
       "ok": true,
       "file": "data/history/TMO.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "TMUS",
       "ok": true,
       "file": "data/history/TMUS.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "TPL",
       "ok": true,
       "file": "data/history/TPL.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "TPR",
       "ok": true,
       "file": "data/history/TPR.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "TQQQ",
       "ok": true,
       "file": "data/history/TQQQ.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "TRGP",
       "ok": true,
       "file": "data/history/TRGP.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "TRI",
       "ok": true,
       "file": "data/history/TRI.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "TRMB",
       "ok": true,
       "file": "data/history/TRMB.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "TROW",
       "ok": true,
       "file": "data/history/TROW.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "TRV",
       "ok": true,
       "file": "data/history/TRV.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "TSCO",
       "ok": true,
       "file": "data/history/TSCO.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "TSLA",
       "ok": true,
       "file": "data/history/TSLA.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "TSM",
       "ok": true,
       "file": "data/history/TSM.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "TSMX",
       "ok": true,
       "file": "data/history/TSMX.json",
-      "rows": 477,
+      "rows": 478,
       "start": "2024-10-03",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "TSN",
       "ok": true,
       "file": "data/history/TSN.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "TT",
       "ok": true,
       "file": "data/history/TT.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "TTD",
       "ok": true,
       "file": "data/history/TTD.json",
-      "rows": 2498,
+      "rows": 2499,
       "start": "2016-09-21",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "TTWO",
       "ok": true,
       "file": "data/history/TTWO.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "TXN",
       "ok": true,
       "file": "data/history/TXN.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "TXT",
       "ok": true,
       "file": "data/history/TXT.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "TYL",
       "ok": true,
       "file": "data/history/TYL.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "UAL",
       "ok": true,
       "file": "data/history/UAL.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "UBER",
       "ok": true,
       "file": "data/history/UBER.json",
-      "rows": 1836,
+      "rows": 1837,
       "start": "2019-05-10",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "UDR",
       "ok": true,
       "file": "data/history/UDR.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "UHS",
       "ok": true,
       "file": "data/history/UHS.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ULTA",
       "ok": true,
       "file": "data/history/ULTA.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "UNH",
       "ok": true,
       "file": "data/history/UNH.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "UNP",
       "ok": true,
       "file": "data/history/UNP.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "UPS",
       "ok": true,
       "file": "data/history/UPS.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "UPST",
       "ok": true,
       "file": "data/history/UPST.json",
-      "rows": 1431,
+      "rows": 1432,
       "start": "2020-12-16",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "URI",
       "ok": true,
       "file": "data/history/URI.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "USAR",
       "ok": true,
       "file": "data/history/USAR.json",
-      "rows": 784,
+      "rows": 785,
       "start": "2023-07-17",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "USB",
       "ok": true,
       "file": "data/history/USB.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "USO",
       "ok": true,
       "file": "data/history/USO.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "V",
       "ok": true,
       "file": "data/history/V.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "VEEV",
       "ok": true,
       "file": "data/history/VEEV.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "VIAV",
       "ok": true,
       "file": "data/history/VIAV.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "VICI",
       "ok": true,
       "file": "data/history/VICI.json",
-      "rows": 2176,
+      "rows": 2177,
       "start": "2018-01-02",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "VLO",
       "ok": true,
       "file": "data/history/VLO.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "VLTO",
       "ok": true,
       "file": "data/history/VLTO.json",
-      "rows": 728,
+      "rows": 729,
       "start": "2023-10-04",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "VMC",
       "ok": true,
       "file": "data/history/VMC.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "VOO",
       "ok": true,
       "file": "data/history/VOO.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "VRSK",
       "ok": true,
       "file": "data/history/VRSK.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "VRSN",
       "ok": true,
       "file": "data/history/VRSN.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "VRT",
       "ok": true,
       "file": "data/history/VRT.json",
-      "rows": 2029,
+      "rows": 2030,
       "start": "2018-08-02",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "VRTX",
       "ok": true,
       "file": "data/history/VRTX.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "VST",
       "ok": true,
       "file": "data/history/VST.json",
-      "rows": 2488,
+      "rows": 2489,
       "start": "2016-10-05",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "VTR",
       "ok": true,
       "file": "data/history/VTR.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "VTRS",
       "ok": true,
       "file": "data/history/VTRS.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "VZ",
       "ok": true,
       "file": "data/history/VZ.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "WAB",
       "ok": true,
       "file": "data/history/WAB.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "WAT",
       "ok": true,
       "file": "data/history/WAT.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "WBD",
       "ok": true,
       "file": "data/history/WBD.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "WDAY",
       "ok": true,
       "file": "data/history/WDAY.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "WDC",
       "ok": true,
       "file": "data/history/WDC.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "WEC",
       "ok": true,
       "file": "data/history/WEC.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "WELL",
       "ok": true,
       "file": "data/history/WELL.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "WFC",
       "ok": true,
       "file": "data/history/WFC.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "WM",
       "ok": true,
       "file": "data/history/WM.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "WMB",
       "ok": true,
       "file": "data/history/WMB.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "WMT",
       "ok": true,
       "file": "data/history/WMT.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "WRB",
       "ok": true,
       "file": "data/history/WRB.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "WSM",
       "ok": true,
       "file": "data/history/WSM.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "WST",
       "ok": true,
       "file": "data/history/WST.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "WTW",
       "ok": true,
       "file": "data/history/WTW.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "WY",
       "ok": true,
       "file": "data/history/WY.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "WYNN",
       "ok": true,
       "file": "data/history/WYNN.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "XEL",
       "ok": true,
       "file": "data/history/XEL.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "XLE",
       "ok": true,
       "file": "data/history/XLE.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "XOM",
       "ok": true,
       "file": "data/history/XOM.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "XYL",
       "ok": true,
       "file": "data/history/XYL.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "XYZ",
       "ok": true,
       "file": "data/history/XYZ.json",
-      "rows": 2514,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2512,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "YUM",
       "ok": true,
       "file": "data/history/YUM.json",
-      "rows": 2512,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2510,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ZBH",
       "ok": true,
       "file": "data/history/ZBH.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ZBRA",
       "ok": true,
       "file": "data/history/ZBRA.json",
-      "rows": 2511,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2509,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     },
     {
       "symbol": "ZS",
       "ok": true,
       "file": "data/history/ZS.json",
-      "rows": 2125,
+      "rows": 2126,
       "start": "2018-03-16",
-      "end": "2026-08-28"
+      "end": "2026-08-31"
     },
     {
       "symbol": "ZTS",
       "ok": true,
       "file": "data/history/ZTS.json",
-      "rows": 2513,
-      "start": "2016-08-29",
-      "end": "2026-08-28"
+      "rows": 2511,
+      "start": "2016-09-01",
+      "end": "2026-08-31"
     }
   ]
 }
