@@ -1,9 +1,9 @@
 {
   "symbol": "GNRC",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-02T13:46:42.770Z",
+  "updatedAt": "2026-09-03T13:46:41.138Z",
   "start": "2016-09-06",
-  "end": "2026-09-02",
+  "end": "2026-09-03",
   "rows": [
     {
       "date": "2016-09-06",
@@ -20098,8 +20098,16 @@
       "open": 181.69000244140625,
       "high": 183.77999877929688,
       "low": 178.30999755859375,
-      "close": 178.30999755859375,
-      "volume": 26262
+      "close": 180.75999450683594,
+      "volume": 782300
+    },
+    {
+      "date": "2026-09-03",
+      "open": 180.92999267578125,
+      "high": 182.11000061035156,
+      "low": 179.03900146484375,
+      "close": 181.08999633789062,
+      "volume": 72181
     }
   ]
 }

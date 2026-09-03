@@ -1,9 +1,9 @@
 {
   "symbol": "BLDR",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-02T13:46:33.377Z",
+  "updatedAt": "2026-09-03T13:46:31.867Z",
   "start": "2016-09-06",
-  "end": "2026-09-02",
+  "end": "2026-09-03",
   "rows": [
     {
       "date": "2016-09-06",
@@ -20096,10 +20096,18 @@
     {
       "date": "2026-09-02",
       "open": 63,
-      "high": 63.869998931884766,
+      "high": 64.7699966430664,
       "low": 62.900001525878906,
-      "close": 63.20240020751953,
-      "volume": 127588
+      "close": 63.09000015258789,
+      "volume": 2257100
+    },
+    {
+      "date": "2026-09-03",
+      "open": 64.9800033569336,
+      "high": 65.72000122070312,
+      "low": 64.2300033569336,
+      "close": 64.51000213623047,
+      "volume": 92538
     }
   ]
 }

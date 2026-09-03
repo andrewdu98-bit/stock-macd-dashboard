@@ -1,9 +1,9 @@
 {
   "symbol": "IQV",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-02T13:46:45.187Z",
+  "updatedAt": "2026-09-03T13:46:43.674Z",
   "start": "2016-09-06",
-  "end": "2026-09-02",
+  "end": "2026-09-03",
   "rows": [
     {
       "date": "2016-09-06",
@@ -20096,10 +20096,18 @@
     {
       "date": "2026-09-02",
       "open": 258,
-      "high": 261.4949951171875,
+      "high": 266.0799865722656,
       "low": 257.17999267578125,
-      "close": 260.8599853515625,
-      "volume": 29601
+      "close": 263.8399963378906,
+      "volume": 1127700
+    },
+    {
+      "date": "2026-09-03",
+      "open": 265.80999755859375,
+      "high": 269.75,
+      "low": 265.3399963378906,
+      "close": 265.9599914550781,
+      "volume": 62846
     }
   ]
 }

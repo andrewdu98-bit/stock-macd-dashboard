@@ -1,9 +1,9 @@
 {
   "symbol": "PAYX",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-02T13:46:52.403Z",
+  "updatedAt": "2026-09-03T13:46:50.802Z",
   "start": "2016-09-06",
-  "end": "2026-09-02",
+  "end": "2026-09-03",
   "rows": [
     {
       "date": "2016-09-06",
@@ -20087,11 +20087,19 @@
     },
     {
       "date": "2026-09-02",
-      "open": 125.02999877929688,
+      "open": 125.01000213623047,
       "high": 125.02999877929688,
       "low": 122.80000305175781,
-      "close": 123.8550033569336,
-      "volume": 176677
+      "close": 124,
+      "volume": 3246900
+    },
+    {
+      "date": "2026-09-03",
+      "open": 124,
+      "high": 126.42250061035156,
+      "low": 124,
+      "close": 125,
+      "volume": 287777
     }
   ]
 }
