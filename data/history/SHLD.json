@@ -1,7 +1,7 @@
 {
   "symbol": "SHLD",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-04T13:46:58.403Z",
+  "updatedAt": "2026-09-07T13:47:54.938Z",
   "start": "2023-09-14",
   "end": "2026-09-04",
   "rows": [
@@ -5976,10 +5976,10 @@
     {
       "date": "2026-09-04",
       "open": 63.33000183105469,
-      "high": 63.34000015258789,
-      "low": 63.02009963989258,
-      "close": 63.150001525878906,
-      "volume": 40818
+      "high": 63.369998931884766,
+      "low": 62.790000915527344,
+      "close": 62.97999954223633,
+      "volume": 764400
     }
   ]
 }

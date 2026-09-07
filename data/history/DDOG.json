@@ -1,7 +1,7 @@
 {
   "symbol": "DDOG",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-04T13:46:39.966Z",
+  "updatedAt": "2026-09-07T13:47:31.490Z",
   "start": "2019-09-19",
   "end": "2026-09-04",
   "rows": [
@@ -13999,11 +13999,11 @@
     },
     {
       "date": "2026-09-04",
-      "open": 212.16000366210938,
-      "high": 213.7899932861328,
+      "open": 212.19000244140625,
+      "high": 214.7100067138672,
       "low": 210.9499969482422,
-      "close": 211.69039916992188,
-      "volume": 116554
+      "close": 212.92999267578125,
+      "volume": 2500700
     }
   ]
 }
