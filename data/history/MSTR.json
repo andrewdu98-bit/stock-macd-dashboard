@@ -1,7 +1,7 @@
 {
   "symbol": "MSTR",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:59:10.219Z",
+  "updatedAt": "2026-09-09T14:06:01.322Z",
   "start": "2016-09-12",
   "end": "2026-09-09",
   "rows": [
@@ -20097,9 +20097,9 @@
       "date": "2026-09-09",
       "open": 141.97799682617188,
       "high": 141.97799682617188,
-      "low": 136.5800018310547,
-      "close": 136.85499572753906,
-      "volume": 4339698
+      "low": 136.10009765625,
+      "close": 136.77999877929688,
+      "volume": 4803036
     }
   ]
 }

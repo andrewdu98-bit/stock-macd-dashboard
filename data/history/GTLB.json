@@ -1,7 +1,7 @@
 {
   "symbol": "GTLB",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:59:02.244Z",
+  "updatedAt": "2026-09-09T14:05:54.350Z",
   "start": "2021-10-14",
   "end": "2026-09-09",
   "rows": [
@@ -9842,8 +9842,8 @@
       "open": 47.310001373291016,
       "high": 47.5,
       "low": 46.380001068115234,
-      "close": 46.47999954223633,
-      "volume": 496265
+      "close": 47.35499954223633,
+      "volume": 626784
     }
   ]
 }

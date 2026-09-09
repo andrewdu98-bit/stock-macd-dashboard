@@ -1,7 +1,7 @@
 {
   "symbol": "ONDS",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:59:12.771Z",
+  "updatedAt": "2026-09-09T14:06:03.263Z",
   "start": "2020-12-04",
   "end": "2026-09-09",
   "rows": [
@@ -11569,9 +11569,9 @@
       "date": "2026-09-09",
       "open": 7.579999923706055,
       "high": 7.649400234222412,
-      "low": 7.510000228881836,
-      "close": 7.538400173187256,
-      "volume": 3556068
+      "low": 7.489999771118164,
+      "close": 7.554999828338623,
+      "volume": 4493684
     }
   ]
 }

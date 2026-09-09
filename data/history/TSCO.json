@@ -1,7 +1,7 @@
 {
   "symbol": "TSCO",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:59:20.534Z",
+  "updatedAt": "2026-09-09T14:06:10.178Z",
   "start": "2016-09-12",
   "end": "2026-09-09",
   "rows": [
@@ -20098,8 +20098,8 @@
       "open": 35.040000915527344,
       "high": 35.09000015258789,
       "low": 33.56999969482422,
-      "close": 33.705101013183594,
-      "volume": 1985571
+      "close": 33.7400016784668,
+      "volume": 2425597
     }
   ]
 }

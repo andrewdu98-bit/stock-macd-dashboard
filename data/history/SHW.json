@@ -1,7 +1,7 @@
 {
   "symbol": "SHW",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:59:17.366Z",
+  "updatedAt": "2026-09-09T14:06:07.424Z",
   "start": "2016-09-12",
   "end": "2026-09-09",
   "rows": [
@@ -20074,8 +20074,8 @@
       "open": 322.8699951171875,
       "high": 326.4800109863281,
       "low": 321.82000732421875,
-      "close": 322.1000061035156,
-      "volume": 113695
+      "close": 322.7699890136719,
+      "volume": 135746
     }
   ]
 }

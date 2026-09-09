@@ -1,7 +1,7 @@
 {
   "symbol": "MCHP",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:59:08.430Z",
+  "updatedAt": "2026-09-09T14:05:59.785Z",
   "start": "2016-09-12",
   "end": "2026-09-09",
   "rows": [
@@ -20096,10 +20096,10 @@
     {
       "date": "2026-09-09",
       "open": 73.05000305175781,
-      "high": 73.87999725341797,
+      "high": 74.19999694824219,
       "low": 72.78710174560547,
-      "close": 73.48989868164062,
-      "volume": 375066
+      "close": 74.19999694824219,
+      "volume": 440830
     }
   ]
 }

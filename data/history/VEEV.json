@@ -1,7 +1,7 @@
 {
   "symbol": "VEEV",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:59:22.124Z",
+  "updatedAt": "2026-09-09T14:06:11.516Z",
   "start": "2016-09-12",
   "end": "2026-09-09",
   "rows": [
@@ -20090,8 +20090,8 @@
       "open": 266.2099914550781,
       "high": 265.6650085449219,
       "low": 259.5,
-      "close": 259.9200134277344,
-      "volume": 111242
+      "close": 262.55999755859375,
+      "volume": 171538
     }
   ]
 }

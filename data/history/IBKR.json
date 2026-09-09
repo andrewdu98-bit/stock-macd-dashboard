@@ -1,7 +1,7 @@
 {
   "symbol": "IBKR",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:59:03.813Z",
+  "updatedAt": "2026-09-09T14:05:55.655Z",
   "start": "2016-09-12",
   "end": "2026-09-09",
   "rows": [
@@ -20098,8 +20098,8 @@
       "open": 90.97000122070312,
       "high": 91.26000213623047,
       "low": 90.33000183105469,
-      "close": 90.5999984741211,
-      "volume": 160443
+      "close": 90.4800033569336,
+      "volume": 200588
     }
   ]
 }

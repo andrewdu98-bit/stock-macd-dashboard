@@ -1,7 +1,7 @@
 {
   "symbol": "FSLY",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:59:00.584Z",
+  "updatedAt": "2026-09-09T14:05:53.050Z",
   "start": "2019-05-17",
   "end": "2026-09-09",
   "rows": [
@@ -14704,10 +14704,10 @@
     {
       "date": "2026-09-09",
       "open": 22.690000534057617,
-      "high": 24.08009910583496,
+      "high": 24.59000015258789,
       "low": 22.084999084472656,
-      "close": 23.940000534057617,
-      "volume": 1910524
+      "close": 24.520000457763672,
+      "volume": 2631596
     }
   ]
 }

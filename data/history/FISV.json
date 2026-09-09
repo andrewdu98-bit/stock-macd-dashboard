@@ -1,7 +1,7 @@
 {
   "symbol": "FISV",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:59:00.076Z",
+  "updatedAt": "2026-09-09T14:05:52.475Z",
   "start": "2016-09-12",
   "end": "2026-09-09",
   "rows": [
@@ -20089,9 +20089,9 @@
       "date": "2026-09-09",
       "open": 50.86000061035156,
       "high": 51.154998779296875,
-      "low": 49.869998931884766,
-      "close": 49.880001068115234,
-      "volume": 592912
+      "low": 49.83000183105469,
+      "close": 50.0099983215332,
+      "volume": 764003
     }
   ]
 }

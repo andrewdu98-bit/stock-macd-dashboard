@@ -1,7 +1,7 @@
 {
   "symbol": "DHR",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:58:56.052Z",
+  "updatedAt": "2026-09-09T14:05:49.362Z",
   "start": "2016-09-12",
   "end": "2026-09-09",
   "rows": [
@@ -20098,8 +20098,8 @@
       "open": 206,
       "high": 205.99000549316406,
       "low": 201.9499969482422,
-      "close": 202.99000549316406,
-      "volume": 248892
+      "close": 202.48500061035156,
+      "volume": 325112
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "NEM",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:59:11.028Z",
+  "updatedAt": "2026-09-09T14:06:01.880Z",
   "start": "2016-09-12",
   "end": "2026-09-09",
   "rows": [
@@ -20098,8 +20098,8 @@
       "open": 129.72999572753906,
       "high": 130.1999053955078,
       "low": 128.52000427246094,
-      "close": 128.58999633789062,
-      "volume": 816771
+      "close": 129.22999572753906,
+      "volume": 916839
     }
   ]
 }

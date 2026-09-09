@@ -1,7 +1,7 @@
 {
   "symbol": "BAC",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:58:49.934Z",
+  "updatedAt": "2026-09-09T14:05:43.857Z",
   "start": "2016-09-12",
   "end": "2026-09-09",
   "rows": [
@@ -20096,10 +20096,10 @@
     {
       "date": "2026-09-09",
       "open": 61.970001220703125,
-      "high": 61.994998931884766,
+      "high": 62.13999938964844,
       "low": 61.42499923706055,
-      "close": 61.915000915527344,
-      "volume": 5065626
+      "close": 62.1150016784668,
+      "volume": 5647680
     }
   ]
 }

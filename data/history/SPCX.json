@@ -1,7 +1,7 @@
 {
   "symbol": "SPCX",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:59:18.040Z",
+  "updatedAt": "2026-09-09T14:06:07.878Z",
   "start": "2026-06-12",
   "end": "2026-09-09",
   "rows": [
@@ -490,8 +490,8 @@
       "open": 151.97999572753906,
       "high": 153,
       "low": 150,
-      "close": 151.72000122070312,
-      "volume": 29186241
+      "close": 151.27999877929688,
+      "volume": 31364256
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "APTV",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:58:48.811Z",
+  "updatedAt": "2026-09-09T14:05:42.857Z",
   "start": "2016-09-12",
   "end": "2026-09-09",
   "rows": [
@@ -20073,9 +20073,9 @@
       "date": "2026-09-09",
       "open": 45.61000061035156,
       "high": 45.96139907836914,
-      "low": 45.3849983215332,
-      "close": 45.435001373291016,
-      "volume": 209108
+      "low": 45.17259979248047,
+      "close": 45.380001068115234,
+      "volume": 296102
     }
   ]
 }

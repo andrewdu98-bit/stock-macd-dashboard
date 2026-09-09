@@ -1,7 +1,7 @@
 {
   "symbol": "CRWD",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:58:54.624Z",
+  "updatedAt": "2026-09-09T14:05:48.022Z",
   "start": "2019-06-12",
   "end": "2026-09-09",
   "rows": [
@@ -14570,8 +14570,8 @@
       "open": 210.33999633789062,
       "high": 212.77000427246094,
       "low": 208.5,
-      "close": 210.60000610351562,
-      "volume": 919212
+      "close": 210.5399932861328,
+      "volume": 1023094
     }
   ]
 }

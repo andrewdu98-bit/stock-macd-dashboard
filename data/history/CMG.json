@@ -1,7 +1,7 @@
 {
   "symbol": "CMG",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:58:53.363Z",
+  "updatedAt": "2026-09-09T14:05:46.885Z",
   "start": "2016-09-12",
   "end": "2026-09-09",
   "rows": [
@@ -20098,8 +20098,8 @@
       "open": 36.810001373291016,
       "high": 36.86000061035156,
       "low": 36.08000183105469,
-      "close": 36.29999923706055,
-      "volume": 852075
+      "close": 36.345001220703125,
+      "volume": 1064388
     }
   ]
 }

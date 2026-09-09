@@ -1,7 +1,7 @@
 {
   "symbol": "ALNY",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:58:47.514Z",
+  "updatedAt": "2026-09-09T14:05:41.831Z",
   "start": "2016-09-12",
   "end": "2026-09-09",
   "rows": [
@@ -20080,10 +20080,10 @@
     {
       "date": "2026-09-09",
       "open": 256.4800109863281,
-      "high": 260.3900146484375,
+      "high": 261.9800109863281,
       "low": 256.4150085449219,
-      "close": 258.5199890136719,
-      "volume": 197162
+      "close": 259.30999755859375,
+      "volume": 219777
     }
   ]
 }

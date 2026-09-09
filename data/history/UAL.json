@@ -1,7 +1,7 @@
 {
   "symbol": "UAL",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:59:21.232Z",
+  "updatedAt": "2026-09-09T14:06:10.624Z",
   "start": "2016-09-12",
   "end": "2026-09-09",
   "rows": [
@@ -20090,8 +20090,8 @@
       "open": 106.0999984741211,
       "high": 107.52999877929688,
       "low": 105.7699966430664,
-      "close": 107.19000244140625,
-      "volume": 312154
+      "close": 106.75499725341797,
+      "volume": 390818
     }
   ]
 }

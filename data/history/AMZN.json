@@ -1,7 +1,7 @@
 {
   "symbol": "AMZN",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:58:48.018Z",
+  "updatedAt": "2026-09-09T14:05:42.398Z",
   "start": "2016-09-12",
   "end": "2026-09-09",
   "rows": [
@@ -20098,8 +20098,8 @@
       "open": 253.1199951171875,
       "high": 254.6199951171875,
       "low": 250.88999938964844,
-      "close": 252.64239501953125,
-      "volume": 6310460
+      "close": 251.9246063232422,
+      "volume": 7001556
     }
   ]
 }

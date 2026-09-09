@@ -1,7 +1,7 @@
 {
   "symbol": "ADI",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:58:46.352Z",
+  "updatedAt": "2026-09-09T14:05:40.826Z",
   "start": "2016-09-12",
   "end": "2026-09-09",
   "rows": [
@@ -20096,10 +20096,10 @@
     {
       "date": "2026-09-09",
       "open": 359.3699951171875,
-      "high": 365.614990234375,
+      "high": 366.9100036621094,
       "low": 359.3699951171875,
-      "close": 365.0199890136719,
-      "volume": 149368
+      "close": 366.510009765625,
+      "volume": 176587
     }
   ]
 }

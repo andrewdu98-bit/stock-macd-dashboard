@@ -1,7 +1,7 @@
 {
   "symbol": "FITB",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:59:00.071Z",
+  "updatedAt": "2026-09-09T14:05:52.500Z",
   "start": "2016-09-12",
   "end": "2026-09-09",
   "rows": [
@@ -20098,8 +20098,8 @@
       "open": 54.31999969482422,
       "high": 54.31999969482422,
       "low": 53.869998931884766,
-      "close": 53.92110061645508,
-      "volume": 191658
+      "close": 54.08000183105469,
+      "volume": 329229
     }
   ]
 }

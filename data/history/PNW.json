@@ -1,7 +1,7 @@
 {
   "symbol": "PNW",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:59:14.606Z",
+  "updatedAt": "2026-09-09T14:06:04.802Z",
   "start": "2016-09-12",
   "end": "2026-09-09",
   "rows": [
@@ -20074,8 +20074,8 @@
       "open": 98.18000030517578,
       "high": 98.31999969482422,
       "low": 97.72000122070312,
-      "close": 97.80999755859375,
-      "volume": 33203
+      "close": 97.88999938964844,
+      "volume": 40259
     }
   ]
 }

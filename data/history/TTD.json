@@ -1,7 +1,7 @@
 {
   "symbol": "TTD",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:59:20.896Z",
+  "updatedAt": "2026-09-09T14:06:10.375Z",
   "start": "2016-09-21",
   "end": "2026-09-09",
   "rows": [
@@ -20042,8 +20042,8 @@
       "open": 14.010000228881836,
       "high": 14.085000038146973,
       "low": 13.710100173950195,
-      "close": 13.71500015258789,
-      "volume": 2036751
+      "close": 13.824999809265137,
+      "volume": 2299459
     }
   ]
 }

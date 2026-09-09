@@ -1,7 +1,7 @@
 {
   "symbol": "IONQ",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:59:04.463Z",
+  "updatedAt": "2026-09-09T14:05:56.479Z",
   "start": "2021-01-04",
   "end": "2026-09-09",
   "rows": [
@@ -11416,10 +11416,10 @@
     {
       "date": "2026-09-09",
       "open": 39.5099983215332,
-      "high": 39.790000915527344,
+      "high": 39.915000915527344,
       "low": 38.58000183105469,
-      "close": 39.73360061645508,
-      "volume": 5142659
+      "close": 39.814998626708984,
+      "volume": 6100652
     }
   ]
 }

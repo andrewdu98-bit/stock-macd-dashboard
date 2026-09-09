@@ -1,7 +1,7 @@
 {
   "symbol": "BTC-USD",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:58:51.014Z",
+  "updatedAt": "2026-09-09T14:05:44.892Z",
   "start": "2016-09-10",
   "end": "2026-09-09",
   "rows": [
@@ -29218,8 +29218,8 @@
       "open": 78446.1796875,
       "high": 79691.65625,
       "low": 78446.1796875,
-      "close": 79174.40625,
-      "volume": 26595844096
+      "close": 79145.3203125,
+      "volume": 26238359552
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "ZBRA",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:59:24.602Z",
+  "updatedAt": "2026-09-09T14:06:13.844Z",
   "start": "2016-09-12",
   "end": "2026-09-09",
   "rows": [
@@ -20074,8 +20074,8 @@
       "open": 350.2699890136719,
       "high": 351.5199890136719,
       "low": 349.9200134277344,
-      "close": 351.1199951171875,
-      "volume": 18052
+      "close": 350.92999267578125,
+      "volume": 20918
     }
   ]
 }

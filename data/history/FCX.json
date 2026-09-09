@@ -1,7 +1,7 @@
 {
   "symbol": "FCX",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:58:59.494Z",
+  "updatedAt": "2026-09-09T14:05:51.985Z",
   "start": "2016-09-12",
   "end": "2026-09-09",
   "rows": [
@@ -20098,8 +20098,8 @@
       "open": 77.02999877929688,
       "high": 78.125,
       "low": 76.31999969482422,
-      "close": 76.4000015258789,
-      "volume": 1272143
+      "close": 76.79499816894531,
+      "volume": 1454813
     }
   ]
 }

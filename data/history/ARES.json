@@ -1,7 +1,7 @@
 {
   "symbol": "ARES",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:58:48.803Z",
+  "updatedAt": "2026-09-09T14:05:43.097Z",
   "start": "2016-09-12",
   "end": "2026-09-09",
   "rows": [
@@ -20082,8 +20082,8 @@
       "open": 138.22000122070312,
       "high": 137.9149932861328,
       "low": 134.16000366210938,
-      "close": 134.99000549316406,
-      "volume": 125390
+      "close": 134.67999267578125,
+      "volume": 183103
     }
   ]
 }

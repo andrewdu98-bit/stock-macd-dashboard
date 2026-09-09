@@ -1,7 +1,7 @@
 {
   "symbol": "FRT",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:59:00.578Z",
+  "updatedAt": "2026-09-09T14:05:52.955Z",
   "start": "2016-09-12",
   "end": "2026-09-09",
   "rows": [
@@ -20097,9 +20097,9 @@
       "date": "2026-09-09",
       "open": 117.25,
       "high": 117.20999908447266,
-      "low": 116.69999694824219,
-      "close": 116.74500274658203,
-      "volume": 57717
+      "low": 116.63500213623047,
+      "close": 116.76499938964844,
+      "volume": 81362
     }
   ]
 }

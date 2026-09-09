@@ -1,7 +1,7 @@
 {
   "symbol": "NTRS",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:59:11.888Z",
+  "updatedAt": "2026-09-09T14:06:02.540Z",
   "start": "2016-09-12",
   "end": "2026-09-09",
   "rows": [
@@ -20074,8 +20074,8 @@
       "open": 184.99000549316406,
       "high": 185.0800018310547,
       "low": 182.99000549316406,
-      "close": 184.00999450683594,
-      "volume": 68635
+      "close": 184.6199951171875,
+      "volume": 80164
     }
   ]
 }

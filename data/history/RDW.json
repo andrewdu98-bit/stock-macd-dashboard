@@ -1,7 +1,7 @@
 {
   "symbol": "RDW",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:59:15.776Z",
+  "updatedAt": "2026-09-09T14:06:05.980Z",
   "start": "2021-01-14",
   "end": "2026-09-09",
   "rows": [
@@ -11354,8 +11354,8 @@
       "open": 11.390000343322754,
       "high": 11.49899959564209,
       "low": 10.920000076293945,
-      "close": 11.024999618530273,
-      "volume": 2188406
+      "close": 11.050000190734863,
+      "volume": 2376437
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "EVRG",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:58:58.589Z",
+  "updatedAt": "2026-09-09T14:05:51.422Z",
   "start": "2016-09-12",
   "end": "2026-09-09",
   "rows": [
@@ -20098,8 +20098,8 @@
       "open": 82.36000061035156,
       "high": 82.51000213623047,
       "low": 81.95500183105469,
-      "close": 82.08000183105469,
-      "volume": 63514
+      "close": 82.30000305175781,
+      "volume": 81080
     }
   ]
 }

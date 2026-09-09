@@ -1,7 +1,7 @@
 {
   "symbol": "AMGN",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:58:47.936Z",
+  "updatedAt": "2026-09-09T14:05:42.196Z",
   "start": "2016-09-12",
   "end": "2026-09-09",
   "rows": [
@@ -20088,10 +20088,10 @@
     {
       "date": "2026-09-09",
       "open": 392.20001220703125,
-      "high": 394.6499938964844,
+      "high": 395.54998779296875,
       "low": 389.2799987792969,
-      "close": 394.07000732421875,
-      "volume": 274000
+      "close": 394.86871337890625,
+      "volume": 334216
     }
   ]
 }

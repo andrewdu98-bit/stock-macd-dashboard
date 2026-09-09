@@ -1,7 +1,7 @@
 {
   "symbol": "FER",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:58:59.778Z",
+  "updatedAt": "2026-09-09T14:05:52.240Z",
   "start": "2016-09-12",
   "end": "2026-09-09",
   "rows": [
@@ -20098,8 +20098,8 @@
       "open": 56.72999954223633,
       "high": 56.95000076293945,
       "low": 56.61000061035156,
-      "close": 56.689998626708984,
-      "volume": 178776
+      "close": 56.720001220703125,
+      "volume": 202872
     }
   ]
 }

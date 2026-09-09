@@ -1,7 +1,7 @@
 {
   "symbol": "GM",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:59:01.734Z",
+  "updatedAt": "2026-09-09T14:05:53.883Z",
   "start": "2016-09-12",
   "end": "2026-09-09",
   "rows": [
@@ -20098,8 +20098,8 @@
       "open": 85.22000122070312,
       "high": 86.20989990234375,
       "low": 84.94000244140625,
-      "close": 85.9800033569336,
-      "volume": 1001753
+      "close": 85.5199966430664,
+      "volume": 1129245
     }
   ]
 }

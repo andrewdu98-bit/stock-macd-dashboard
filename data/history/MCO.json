@@ -1,7 +1,7 @@
 {
   "symbol": "MCO",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:59:08.390Z",
+  "updatedAt": "2026-09-09T14:05:59.908Z",
   "start": "2016-09-12",
   "end": "2026-09-09",
   "rows": [
@@ -20073,9 +20073,9 @@
       "date": "2026-09-09",
       "open": 479.010009765625,
       "high": 478.7300109863281,
-      "low": 473.4700012207031,
-      "close": 473.92999267578125,
-      "volume": 34095
+      "low": 473.4400939941406,
+      "close": 475.3349914550781,
+      "volume": 43532
     }
   ]
 }

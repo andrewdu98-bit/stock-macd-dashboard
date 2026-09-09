@@ -1,7 +1,7 @@
 {
   "symbol": "MRNA",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:59:09.725Z",
+  "updatedAt": "2026-09-09T14:06:00.856Z",
   "start": "2018-12-07",
   "end": "2026-09-09",
   "rows": [
@@ -15586,8 +15586,8 @@
       "open": 140.2949981689453,
       "high": 143.94000244140625,
       "low": 136.6999969482422,
-      "close": 139,
-      "volume": 1804353
+      "close": 139.5749969482422,
+      "volume": 1965054
     }
   ]
 }

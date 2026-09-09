@@ -1,7 +1,7 @@
 {
   "symbol": "TER",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-09T13:59:19.510Z",
+  "updatedAt": "2026-09-09T14:06:09.251Z",
   "start": "2016-09-12",
   "end": "2026-09-09",
   "rows": [
@@ -20096,10 +20096,10 @@
     {
       "date": "2026-09-09",
       "open": 368.48199462890625,
-      "high": 381.0199890136719,
+      "high": 381.1651916503906,
       "low": 368.48199462890625,
-      "close": 380.114990234375,
-      "volume": 487902
+      "close": 380.9100036621094,
+      "volume": 531375
     }
   ]
 }
