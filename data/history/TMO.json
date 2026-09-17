@@ -1,9 +1,9 @@
 {
   "symbol": "TMO",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-16T13:47:30.293Z",
+  "updatedAt": "2026-09-17T13:47:05.734Z",
   "start": "2016-09-19",
-  "end": "2026-09-16",
+  "end": "2026-09-17",
   "rows": [
     {
       "date": "2016-09-19",
@@ -20096,10 +20096,18 @@
     {
       "date": "2026-09-16",
       "open": 642,
-      "high": 648.4381103515625,
+      "high": 653.4000244140625,
       "low": 638,
-      "close": 644.7150268554688,
-      "volume": 230859
+      "close": 648.4299926757812,
+      "volume": 2880000
+    },
+    {
+      "date": "2026-09-17",
+      "open": 656.75,
+      "high": 658.4000244140625,
+      "low": 649,
+      "close": 655.5349731445312,
+      "volume": 207820
     }
   ]
 }

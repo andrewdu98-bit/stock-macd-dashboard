@@ -1,9 +1,9 @@
 {
   "symbol": "FE",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-16T13:47:06.504Z",
+  "updatedAt": "2026-09-17T13:46:46.370Z",
   "start": "2016-09-19",
-  "end": "2026-09-16",
+  "end": "2026-09-17",
   "rows": [
     {
       "date": "2016-09-19",
@@ -20097,9 +20097,17 @@
       "date": "2026-09-16",
       "open": 45.61000061035156,
       "high": 45.72999954223633,
-      "low": 45.525001525878906,
-      "close": 45.599998474121094,
-      "volume": 87158
+      "low": 45.18000030517578,
+      "close": 45.380001068115234,
+      "volume": 3252900
+    },
+    {
+      "date": "2026-09-17",
+      "open": 45.52000045776367,
+      "high": 45.625,
+      "low": 45.375,
+      "close": 45.4900016784668,
+      "volume": 92437
     }
   ]
 }
