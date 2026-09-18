@@ -1,9 +1,9 @@
 {
   "symbol": "LMND",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-17T13:46:53.452Z",
+  "updatedAt": "2026-09-18T13:47:08.430Z",
   "start": "2020-07-02",
-  "end": "2026-09-17",
+  "end": "2026-09-18",
   "rows": [
     {
       "date": "2020-07-02",
@@ -12481,9 +12481,17 @@
       "date": "2026-09-17",
       "open": 49.77000045776367,
       "high": 49.847999572753906,
-      "low": 48.77000045776367,
-      "close": 48.875,
-      "volume": 52729
+      "low": 48.540000915527344,
+      "close": 48.58000183105469,
+      "volume": 846600
+    },
+    {
+      "date": "2026-09-18",
+      "open": 48.849998474121094,
+      "high": 49.31999969482422,
+      "low": 47.75,
+      "close": 48.279998779296875,
+      "volume": 141274
     }
   ]
 }

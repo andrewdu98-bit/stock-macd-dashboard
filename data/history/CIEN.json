@@ -1,9 +1,9 @@
 {
   "symbol": "CIEN",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-17T13:46:40.299Z",
+  "updatedAt": "2026-09-18T13:46:56.569Z",
   "start": "2016-09-19",
-  "end": "2026-09-17",
+  "end": "2026-09-18",
   "rows": [
     {
       "date": "2016-09-19",
@@ -20104,10 +20104,18 @@
     {
       "date": "2026-09-17",
       "open": 350.6000061035156,
-      "high": 372.3999938964844,
-      "low": 349.05999755859375,
-      "close": 370.9949951171875,
-      "volume": 600220
+      "high": 375.70001220703125,
+      "low": 341.92999267578125,
+      "close": 344.25,
+      "volume": 3764100
+    },
+    {
+      "date": "2026-09-18",
+      "open": 355.8699951171875,
+      "high": 358,
+      "low": 347.148193359375,
+      "close": 349.125,
+      "volume": 300271
     }
   ]
 }
