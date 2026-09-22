@@ -1,9 +1,9 @@
 {
   "symbol": "LASE",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-21T13:47:23.565Z",
+  "updatedAt": "2026-09-22T13:46:58.183Z",
   "start": "2022-09-30",
-  "end": "2026-09-21",
+  "end": "2026-09-22",
   "rows": [
     {
       "date": "2022-09-30",
@@ -7969,9 +7969,17 @@
       "date": "2026-09-21",
       "open": 0.8999999761581421,
       "high": 0.9100000262260437,
-      "low": 0.8919000029563904,
-      "close": 0.9085000157356262,
-      "volume": 622733
+      "low": 0.875,
+      "close": 0.8759999871253967,
+      "volume": 1969400
+    },
+    {
+      "date": "2026-09-22",
+      "open": 0.875,
+      "high": 0.8999999761581421,
+      "low": 0.8600000143051147,
+      "close": 0.888700008392334,
+      "volume": 282428
     }
   ]
 }
