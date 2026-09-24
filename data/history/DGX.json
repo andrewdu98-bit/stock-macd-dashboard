@@ -1,9 +1,9 @@
 {
   "symbol": "DGX",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-23T13:47:16.704Z",
+  "updatedAt": "2026-09-24T13:47:01.806Z",
   "start": "2016-09-26",
-  "end": "2026-09-23",
+  "end": "2026-09-24",
   "rows": [
     {
       "date": "2016-09-26",
@@ -20072,10 +20072,18 @@
     {
       "date": "2026-09-23",
       "open": 235.1199951171875,
-      "high": 237.875,
-      "low": 233.3800048828125,
-      "close": 237.50999450683594,
-      "volume": 41987
+      "high": 238.6199951171875,
+      "low": 231.9199981689453,
+      "close": 233,
+      "volume": 1129600
+    },
+    {
+      "date": "2026-09-24",
+      "open": 234.0800018310547,
+      "high": 235.99000549316406,
+      "low": 233.5500030517578,
+      "close": 233,
+      "volume": 38086
     }
   ]
 }
