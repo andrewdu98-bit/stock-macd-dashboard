@@ -1,9 +1,9 @@
 {
   "symbol": "RCL",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-24T13:47:18.237Z",
+  "updatedAt": "2026-09-25T13:47:04.790Z",
   "start": "2016-09-26",
-  "end": "2026-09-24",
+  "end": "2026-09-25",
   "rows": [
     {
       "date": "2016-09-26",
@@ -20104,10 +20104,18 @@
     {
       "date": "2026-09-24",
       "open": 234.3000030517578,
-      "high": 237,
+      "high": 243.17999267578125,
       "low": 232,
-      "close": 234.0124969482422,
-      "volume": 353625
+      "close": 238.97999572753906,
+      "volume": 5474100
+    },
+    {
+      "date": "2026-09-25",
+      "open": 241.8000030517578,
+      "high": 242.39999389648438,
+      "low": 238,
+      "close": 239.55999755859375,
+      "volume": 187729
     }
   ]
 }
