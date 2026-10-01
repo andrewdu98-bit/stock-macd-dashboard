@@ -1,9 +1,9 @@
 {
   "symbol": "SNPS",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-09-30T13:47:30.215Z",
+  "updatedAt": "2026-10-01T13:47:05.362Z",
   "start": "2016-10-03",
-  "end": "2026-09-30",
+  "end": "2026-10-01",
   "rows": [
     {
       "date": "2016-10-03",
@@ -20096,10 +20096,18 @@
     {
       "date": "2026-09-30",
       "open": 421.260009765625,
-      "high": 424.1600036621094,
+      "high": 445.57000732421875,
       "low": 415.239990234375,
-      "close": 423.32000732421875,
-      "volume": 237877
+      "close": 434.94000244140625,
+      "volume": 4489200
+    },
+    {
+      "date": "2026-10-01",
+      "open": 467.8479919433594,
+      "high": 480,
+      "low": 462,
+      "close": 478.34259033203125,
+      "volume": 1191879
     }
   ]
 }
