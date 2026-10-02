@@ -1,9 +1,9 @@
 {
   "symbol": "CDNS",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-01T13:46:44.038Z",
+  "updatedAt": "2026-10-02T13:46:41.715Z",
   "start": "2016-10-03",
-  "end": "2026-10-01",
+  "end": "2026-10-02",
   "rows": [
     {
       "date": "2016-10-03",
@@ -20104,10 +20104,18 @@
     {
       "date": "2026-10-01",
       "open": 339.3599853515625,
-      "high": 349.43499755859375,
+      "high": 355.0299987792969,
       "low": 337.8500061035156,
-      "close": 346.0950012207031,
-      "volume": 236859
+      "close": 350.7300109863281,
+      "volume": 3283900
+    },
+    {
+      "date": "2026-10-02",
+      "open": 356.5,
+      "high": 356.5,
+      "low": 351.2699890136719,
+      "close": 353.3800048828125,
+      "volume": 127789
     }
   ]
 }

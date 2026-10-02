@@ -1,9 +1,9 @@
 {
   "symbol": "WDAY",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-01T13:47:10.152Z",
+  "updatedAt": "2026-10-02T13:47:07.183Z",
   "start": "2016-10-03",
-  "end": "2026-10-01",
+  "end": "2026-10-02",
   "rows": [
     {
       "date": "2016-10-03",
@@ -20105,9 +20105,17 @@
       "date": "2026-10-01",
       "open": 195.3000030517578,
       "high": 195.75,
-      "low": 191.77999877929688,
-      "close": 191.77999877929688,
-      "volume": 190541
+      "low": 183.08999633789062,
+      "close": 186.75,
+      "volume": 2454900
+    },
+    {
+      "date": "2026-10-02",
+      "open": 187.55999755859375,
+      "high": 188.5,
+      "low": 185.2100067138672,
+      "close": 185.86000061035156,
+      "volume": 58325
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "symbol": "INTU",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-01T13:46:54.295Z",
+  "updatedAt": "2026-10-02T13:46:51.686Z",
   "start": "2016-10-03",
-  "end": "2026-10-01",
+  "end": "2026-10-02",
   "rows": [
     {
       "date": "2016-10-03",
@@ -20104,10 +20104,18 @@
     {
       "date": "2026-10-01",
       "open": 284.75,
-      "high": 291.5,
-      "low": 283.5,
-      "close": 288.2149963378906,
-      "volume": 661070
+      "high": 291.5299987792969,
+      "low": 277.30999755859375,
+      "close": 282.7799987792969,
+      "volume": 4646200
+    },
+    {
+      "date": "2026-10-02",
+      "open": 283.9100036621094,
+      "high": 284.20001220703125,
+      "low": 277.3800048828125,
+      "close": 280.010009765625,
+      "volume": 325851
     }
   ]
 }

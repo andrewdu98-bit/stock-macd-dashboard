@@ -1,9 +1,9 @@
 {
   "symbol": "GDDY",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-01T13:46:51.397Z",
+  "updatedAt": "2026-10-02T13:46:48.768Z",
   "start": "2016-10-03",
-  "end": "2026-10-01",
+  "end": "2026-10-02",
   "rows": [
     {
       "date": "2016-10-03",
@@ -20105,9 +20105,17 @@
       "date": "2026-10-01",
       "open": 97.5,
       "high": 98.12000274658203,
-      "low": 96.52020263671875,
-      "close": 96.67949676513672,
-      "volume": 55646
+      "low": 94.69999694824219,
+      "close": 96.9800033569336,
+      "volume": 1303300
+    },
+    {
+      "date": "2026-10-02",
+      "open": 96.87999725341797,
+      "high": 97.26000213623047,
+      "low": 95.7249984741211,
+      "close": 96.75499725341797,
+      "volume": 40465
     }
   ]
 }

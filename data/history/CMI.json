@@ -1,9 +1,9 @@
 {
   "symbol": "CMI",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-01T13:46:45.009Z",
+  "updatedAt": "2026-10-02T13:46:42.712Z",
   "start": "2016-10-03",
-  "end": "2026-10-01",
+  "end": "2026-10-02",
   "rows": [
     {
       "date": "2016-10-03",
@@ -20080,10 +20080,18 @@
     {
       "date": "2026-10-01",
       "open": 515,
-      "high": 516.905029296875,
-      "low": 512,
-      "close": 515.0900268554688,
-      "volume": 50827
+      "high": 525.6199951171875,
+      "low": 507.20001220703125,
+      "close": 517,
+      "volume": 1661100
+    },
+    {
+      "date": "2026-10-02",
+      "open": 524.72998046875,
+      "high": 531.2550048828125,
+      "low": 522.47998046875,
+      "close": 530.614990234375,
+      "volume": 49146
     }
   ]
 }
