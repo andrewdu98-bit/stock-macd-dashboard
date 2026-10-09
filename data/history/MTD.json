@@ -1,9 +1,9 @@
 {
   "symbol": "MTD",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-08T13:46:48.348Z",
+  "updatedAt": "2026-10-09T13:47:06.668Z",
   "start": "2016-10-10",
-  "end": "2026-10-08",
+  "end": "2026-10-09",
   "rows": [
     {
       "date": "2016-10-10",
@@ -20081,9 +20081,17 @@
       "date": "2026-10-08",
       "open": 1521.56005859375,
       "high": 1536.5400390625,
-      "low": 1501.8800048828125,
-      "close": 1528.5,
-      "volume": 8711
+      "low": 1500.9000244140625,
+      "close": 1529.4599609375,
+      "volume": 264500
+    },
+    {
+      "date": "2026-10-09",
+      "open": 1530.56005859375,
+      "high": 1549.739990234375,
+      "low": 1527.5250244140625,
+      "close": 1542.010009765625,
+      "volume": 6057
     }
   ]
 }
