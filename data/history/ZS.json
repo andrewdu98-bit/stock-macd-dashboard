@@ -1,9 +1,9 @@
 {
   "symbol": "ZS",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-13T13:47:15.494Z",
+  "updatedAt": "2026-10-14T13:47:23.892Z",
   "start": "2018-03-16",
-  "end": "2026-10-13",
+  "end": "2026-10-14",
   "rows": [
     {
       "date": "2018-03-16",
@@ -17250,8 +17250,16 @@
       "open": 224.61000061035156,
       "high": 235.36000061035156,
       "low": 223.75,
-      "close": 233.39999389648438,
-      "volume": 375134
+      "close": 228.66000366210938,
+      "volume": 3027700
+    },
+    {
+      "date": "2026-10-14",
+      "open": 223.5,
+      "high": 226.88999938964844,
+      "low": 223.00439453125,
+      "close": 225.94000244140625,
+      "volume": 256471
     }
   ]
 }
