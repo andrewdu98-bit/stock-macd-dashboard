@@ -1,7 +1,7 @@
 {
   "symbol": "WBD",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-14T13:47:22.263Z",
+  "updatedAt": "2026-10-15T13:47:09.173Z",
   "start": "2016-10-17",
   "end": "2026-10-07",
   "rows": [

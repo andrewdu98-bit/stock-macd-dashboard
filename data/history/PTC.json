@@ -1,9 +1,9 @@
 {
   "symbol": "PTC",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-14T13:47:14.365Z",
+  "updatedAt": "2026-10-15T13:47:00.838Z",
   "start": "2016-10-17",
-  "end": "2026-10-14",
+  "end": "2026-10-15",
   "rows": [
     {
       "date": "2016-10-17",
@@ -20073,9 +20073,17 @@
       "date": "2026-10-14",
       "open": 194.25,
       "high": 194.25999450683594,
-      "low": 193.6999969482422,
-      "close": 193.7899932861328,
-      "volume": 156534
+      "low": 193.3300018310547,
+      "close": 193.63999938964844,
+      "volume": 3485900
+    },
+    {
+      "date": "2026-10-15",
+      "open": 193.4499969482422,
+      "high": 193.66000366210938,
+      "low": 193,
+      "close": 193.47000122070312,
+      "volume": 531168
     }
   ]
 }
