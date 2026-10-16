@@ -1,9 +1,9 @@
 {
   "symbol": "CFG",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-15T13:46:41.084Z",
+  "updatedAt": "2026-10-16T13:46:41.721Z",
   "start": "2016-10-17",
-  "end": "2026-10-15",
+  "end": "2026-10-16",
   "rows": [
     {
       "date": "2016-10-17",
@@ -20088,10 +20088,18 @@
     {
       "date": "2026-10-15",
       "open": 62.880001068115234,
-      "high": 62.88999938964844,
+      "high": 63.880001068115234,
       "low": 62.27000045776367,
-      "close": 62.439998626708984,
-      "volume": 197691
+      "close": 63.43000030517578,
+      "volume": 4344300
+    },
+    {
+      "date": "2026-10-16",
+      "open": 64.5,
+      "high": 65.01499938964844,
+      "low": 63.625,
+      "close": 64.36750030517578,
+      "volume": 1237331
     }
   ]
 }
