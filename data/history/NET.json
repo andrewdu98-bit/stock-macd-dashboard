@@ -1,9 +1,9 @@
 {
   "symbol": "NET",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-16T13:46:58.805Z",
+  "updatedAt": "2026-10-19T13:46:57.334Z",
   "start": "2019-09-13",
-  "end": "2026-10-16",
+  "end": "2026-10-19",
   "rows": [
     {
       "date": "2019-09-13",
@@ -14265,9 +14265,17 @@
       "date": "2026-10-16",
       "open": 319,
       "high": 320.5,
-      "low": 297.3900146484375,
-      "close": 298.92999267578125,
-      "volume": 336302
+      "low": 291.1499938964844,
+      "close": 296.29998779296875,
+      "volume": 4224600
+    },
+    {
+      "date": "2026-10-19",
+      "open": 305,
+      "high": 306.67999267578125,
+      "low": 297.2099914550781,
+      "close": 298.30999755859375,
+      "volume": 250815
     }
   ]
 }
