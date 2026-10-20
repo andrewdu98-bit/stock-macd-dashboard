@@ -1,9 +1,9 @@
 {
   "symbol": "CVNA",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-19T13:46:43.975Z",
+  "updatedAt": "2026-10-20T13:46:55.609Z",
   "start": "2017-04-28",
-  "end": "2026-10-19",
+  "end": "2026-10-20",
   "rows": [
     {
       "date": "2017-04-28",
@@ -19058,8 +19058,16 @@
       "open": 59.459999084472656,
       "high": 59.68000030517578,
       "low": 57.81999969482422,
-      "close": 58.540000915527344,
-      "volume": 262216
+      "close": 58.709999084472656,
+      "volume": 5822700
+    },
+    {
+      "date": "2026-10-20",
+      "open": 58.16999816894531,
+      "high": 59.099998474121094,
+      "low": 57.905799865722656,
+      "close": 58.88999938964844,
+      "volume": 247797
     }
   ]
 }
