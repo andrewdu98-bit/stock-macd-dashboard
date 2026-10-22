@@ -1,7 +1,7 @@
 {
   "symbol": "ICE",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-22T13:46:56.587Z",
+  "updatedAt": "2026-10-22T21:42:40.692Z",
   "start": "2016-10-24",
   "end": "2026-10-22",
   "rows": [
@@ -20088,10 +20088,10 @@
     {
       "date": "2026-10-22",
       "open": 159.80999755859375,
-      "high": 161.9420928955078,
+      "high": 164.02999877929688,
       "low": 159.4149932861328,
-      "close": 160.75999450683594,
-      "volume": 133069
+      "close": 163.83999633789062,
+      "volume": 4734792
     }
   ]
 }

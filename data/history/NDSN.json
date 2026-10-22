@@ -1,7 +1,7 @@
 {
   "symbol": "NDSN",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-22T13:47:03.018Z",
+  "updatedAt": "2026-10-22T21:42:47.356Z",
   "start": "2016-10-24",
   "end": "2026-10-22",
   "rows": [
@@ -20081,9 +20081,9 @@
       "date": "2026-10-22",
       "open": 328.25,
       "high": 328.25,
-      "low": 316.3041076660156,
-      "close": 317.69500732421875,
-      "volume": 18313
+      "low": 311.54998779296875,
+      "close": 318.7099914550781,
+      "volume": 428920
     }
   ]
 }

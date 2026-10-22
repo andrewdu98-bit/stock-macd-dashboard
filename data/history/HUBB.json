@@ -1,7 +1,7 @@
 {
   "symbol": "HUBB",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-22T13:46:56.192Z",
+  "updatedAt": "2026-10-22T21:42:40.354Z",
   "start": "2016-10-24",
   "end": "2026-10-22",
   "rows": [
@@ -20105,9 +20105,9 @@
       "date": "2026-10-22",
       "open": 452.67999267578125,
       "high": 451.739990234375,
-      "low": 435.0950012207031,
-      "close": 437.135009765625,
-      "volume": 63479
+      "low": 433.9200134277344,
+      "close": 445.79998779296875,
+      "volume": 925796
     }
   ]
 }

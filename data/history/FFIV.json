@@ -1,7 +1,7 @@
 {
   "symbol": "FFIV",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-22T13:46:52.684Z",
+  "updatedAt": "2026-10-22T21:42:36.644Z",
   "start": "2016-10-24",
   "end": "2026-10-22",
   "rows": [
@@ -20081,9 +20081,9 @@
       "date": "2026-10-22",
       "open": 455,
       "high": 457.70001220703125,
-      "low": 452.3299865722656,
-      "close": 454.239990234375,
-      "volume": 12199
+      "low": 445.7200012207031,
+      "close": 450.0799865722656,
+      "volume": 494099
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "WTW",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-22T13:47:15.348Z",
+  "updatedAt": "2026-10-22T21:43:00.304Z",
   "start": "2016-10-24",
   "end": "2026-10-22",
   "rows": [
@@ -20080,10 +20080,10 @@
     {
       "date": "2026-10-22",
       "open": 320.3900146484375,
-      "high": 324.010009765625,
+      "high": 332.5899963378906,
       "low": 320.3900146484375,
-      "close": 324.010009765625,
-      "volume": 18166
+      "close": 332.17999267578125,
+      "volume": 523007
     }
   ]
 }

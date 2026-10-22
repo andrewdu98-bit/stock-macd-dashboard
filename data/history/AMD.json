@@ -1,7 +1,7 @@
 {
   "symbol": "AMD",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-22T13:46:41.070Z",
+  "updatedAt": "2026-10-22T21:42:24.978Z",
   "start": "2016-10-24",
   "end": "2026-10-22",
   "rows": [
@@ -20099,15 +20099,15 @@
       "high": 556.7899780273438,
       "low": 537.2999877929688,
       "close": 552.719970703125,
-      "volume": 17868300
+      "volume": 17998600
     },
     {
       "date": "2026-10-22",
       "open": 523.6199951171875,
-      "high": 526.2849731445312,
-      "low": 519.7999877929688,
-      "close": 524.655029296875,
-      "volume": 3284608
+      "high": 529.97998046875,
+      "low": 502.6000061035156,
+      "close": 507.92999267578125,
+      "volume": 27523659
     }
   ]
 }

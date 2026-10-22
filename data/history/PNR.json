@@ -1,7 +1,7 @@
 {
   "symbol": "PNR",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-22T13:47:06.246Z",
+  "updatedAt": "2026-10-22T21:42:50.629Z",
   "start": "2016-10-24",
   "end": "2026-10-22",
   "rows": [
@@ -20080,10 +20080,10 @@
     {
       "date": "2026-10-22",
       "open": 52.380001068115234,
-      "high": 52.88999938964844,
+      "high": 55.4900016784668,
       "low": 52.36000061035156,
-      "close": 52.78499984741211,
-      "volume": 93280
+      "close": 55.439998626708984,
+      "volume": 3169481
     }
   ]
 }

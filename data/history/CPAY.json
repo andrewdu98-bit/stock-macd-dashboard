@@ -1,7 +1,7 @@
 {
   "symbol": "CPAY",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-22T13:46:47.551Z",
+  "updatedAt": "2026-10-22T21:42:31.370Z",
   "start": "2016-10-24",
   "end": "2026-10-22",
   "rows": [
@@ -20080,10 +20080,10 @@
     {
       "date": "2026-10-22",
       "open": 406.2799987792969,
-      "high": 410.2099914550781,
-      "low": 408.3800048828125,
-      "close": 408.75,
-      "volume": 6557
+      "high": 416.2774963378906,
+      "low": 407.8305969238281,
+      "close": 415.010009765625,
+      "volume": 344302
     }
   ]
 }

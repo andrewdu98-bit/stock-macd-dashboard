@@ -1,7 +1,7 @@
 {
   "symbol": "KVUE",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-22T13:46:58.959Z",
+  "updatedAt": "2026-10-22T21:42:43.103Z",
   "start": "2023-05-04",
   "end": "2026-10-22",
   "rows": [
@@ -6968,10 +6968,10 @@
     {
       "date": "2026-10-22",
       "open": 19.18000030517578,
-      "high": 19.354999542236328,
+      "high": 19.889999389648438,
       "low": 19.18000030517578,
-      "close": 19.354999542236328,
-      "volume": 829231
+      "close": 19.8799991607666,
+      "volume": 15498083
     }
   ]
 }

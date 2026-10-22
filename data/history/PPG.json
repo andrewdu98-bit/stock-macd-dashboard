@@ -1,7 +1,7 @@
 {
   "symbol": "PPG",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-22T13:47:06.530Z",
+  "updatedAt": "2026-10-22T21:42:50.944Z",
   "start": "2016-10-24",
   "end": "2026-10-22",
   "rows": [
@@ -20080,10 +20080,10 @@
     {
       "date": "2026-10-22",
       "open": 108.95999908447266,
-      "high": 110.33999633789062,
+      "high": 113.1449966430664,
       "low": 108.81999969482422,
-      "close": 110.33999633789062,
-      "volume": 37998
+      "close": 113.08999633789062,
+      "volume": 1651003
     }
   ]
 }

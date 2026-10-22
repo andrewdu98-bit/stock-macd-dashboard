@@ -1,7 +1,7 @@
 {
   "symbol": "NTAP",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-22T13:47:03.802Z",
+  "updatedAt": "2026-10-22T21:42:48.101Z",
   "start": "2016-10-24",
   "end": "2026-10-22",
   "rows": [
@@ -20105,9 +20105,9 @@
       "date": "2026-10-22",
       "open": 214.1300048828125,
       "high": 215.76499938964844,
-      "low": 213.04010009765625,
-      "close": 214.1396026611328,
-      "volume": 92135
+      "low": 205.09010314941406,
+      "close": 212.50999450683594,
+      "volume": 1640947
     }
   ]
 }

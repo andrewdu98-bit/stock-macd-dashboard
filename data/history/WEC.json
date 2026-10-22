@@ -1,7 +1,7 @@
 {
   "symbol": "WEC",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-22T13:47:14.811Z",
+  "updatedAt": "2026-10-22T21:42:59.723Z",
   "start": "2016-10-24",
   "end": "2026-10-22",
   "rows": [
@@ -20088,10 +20088,10 @@
     {
       "date": "2026-10-22",
       "open": 108.97000122070312,
-      "high": 109.66999816894531,
+      "high": 112.2249984741211,
       "low": 108.4800033569336,
-      "close": 109.54080200195312,
-      "volume": 68542
+      "close": 112.1500015258789,
+      "volume": 2989330
     }
   ]
 }

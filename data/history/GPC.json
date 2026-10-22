@@ -1,7 +1,7 @@
 {
   "symbol": "GPC",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-22T13:46:54.708Z",
+  "updatedAt": "2026-10-22T21:42:38.697Z",
   "start": "2016-10-24",
   "end": "2026-10-22",
   "rows": [
@@ -20080,10 +20080,10 @@
     {
       "date": "2026-10-22",
       "open": 124.70999908447266,
-      "high": 126.25,
+      "high": 128.31500244140625,
       "low": 124.55000305175781,
-      "close": 125.5199966430664,
-      "volume": 58027
+      "close": 127.97000122070312,
+      "volume": 1733498
     }
   ]
 }

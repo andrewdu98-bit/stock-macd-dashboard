@@ -1,7 +1,7 @@
 {
   "symbol": "WFC",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-22T13:47:14.861Z",
+  "updatedAt": "2026-10-22T21:43:00.024Z",
   "start": "2016-10-24",
   "end": "2026-10-22",
   "rows": [
@@ -20096,10 +20096,10 @@
     {
       "date": "2026-10-22",
       "open": 81.0199966430664,
-      "high": 82.80999755859375,
+      "high": 83.375,
       "low": 81.0199966430664,
-      "close": 82.79499816894531,
-      "volume": 591049
+      "close": 83.01000213623047,
+      "volume": 9992681
     }
   ]
 }

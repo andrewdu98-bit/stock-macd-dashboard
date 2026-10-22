@@ -1,7 +1,7 @@
 {
   "symbol": "BABA",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-22T13:46:43.170Z",
+  "updatedAt": "2026-10-22T21:42:26.988Z",
   "start": "2016-10-24",
   "end": "2026-10-22",
   "rows": [
@@ -20099,15 +20099,15 @@
       "high": 106.31999969482422,
       "low": 103.5739974975586,
       "close": 104.41000366210938,
-      "volume": 11828800
+      "volume": 11861600
     },
     {
       "date": "2026-10-22",
       "open": 101,
-      "high": 102.9800033569336,
+      "high": 103.29879760742188,
       "low": 100.70999908447266,
-      "close": 102.9000015258789,
-      "volume": 2519183
+      "close": 101.81999969482422,
+      "volume": 11978185
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "PPL",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-22T13:47:06.525Z",
+  "updatedAt": "2026-10-22T21:42:50.939Z",
   "start": "2016-10-24",
   "end": "2026-10-22",
   "rows": [
@@ -20088,10 +20088,10 @@
     {
       "date": "2026-10-22",
       "open": 34.7400016784668,
-      "high": 34.95000076293945,
+      "high": 35.36000061035156,
       "low": 34.7400016784668,
-      "close": 34.95000076293945,
-      "volume": 387328
+      "close": 35.349998474121094,
+      "volume": 6481003
     }
   ]
 }

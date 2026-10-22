@@ -1,7 +1,7 @@
 {
   "symbol": "RKLB",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-22T13:47:07.849Z",
+  "updatedAt": "2026-10-22T21:42:52.473Z",
   "start": "2020-11-24",
   "end": "2026-10-22",
   "rows": [
@@ -11867,15 +11867,15 @@
       "high": 53.900001525878906,
       "low": 52.02000045776367,
       "close": 53.66999816894531,
-      "volume": 17658500
+      "volume": 17857800
     },
     {
       "date": "2026-10-22",
       "open": 51.650001525878906,
       "high": 52.97999954223633,
-      "low": 51.5,
-      "close": 52.031700134277344,
-      "volume": 2035867
+      "low": 49.95500183105469,
+      "close": 51.220001220703125,
+      "volume": 16555530
     }
   ]
 }

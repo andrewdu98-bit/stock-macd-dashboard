@@ -1,7 +1,7 @@
 {
   "symbol": "FIS",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-22T13:46:52.965Z",
+  "updatedAt": "2026-10-22T21:42:36.846Z",
   "start": "2016-10-24",
   "end": "2026-10-22",
   "rows": [
@@ -20104,10 +20104,10 @@
     {
       "date": "2026-10-22",
       "open": 36.599998474121094,
-      "high": 37.07500076293945,
+      "high": 38.29999923706055,
       "low": 36.599998474121094,
-      "close": 37.07500076293945,
-      "volume": 169787
+      "close": 38.290000915527344,
+      "volume": 6011700
     }
   ]
 }
