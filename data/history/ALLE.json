@@ -1,9 +1,9 @@
 {
   "symbol": "ALLE",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-21T13:46:56.595Z",
+  "updatedAt": "2026-10-22T13:46:40.785Z",
   "start": "2016-10-24",
-  "end": "2026-10-21",
+  "end": "2026-10-22",
   "rows": [
     {
       "date": "2016-10-24",
@@ -20096,10 +20096,18 @@
     {
       "date": "2026-10-21",
       "open": 157.2100067138672,
-      "high": 157.4550018310547,
-      "low": 155.9149932861328,
-      "close": 156.53500366210938,
-      "volume": 34508
+      "high": 159,
+      "low": 155.66000366210938,
+      "close": 159,
+      "volume": 1106400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 170,
+      "high": 173.80999755859375,
+      "low": 167.6199951171875,
+      "close": 169.80999755859375,
+      "volume": 272589
     }
   ]
 }
