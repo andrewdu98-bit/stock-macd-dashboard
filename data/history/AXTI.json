@@ -1,9 +1,9 @@
 {
   "symbol": "AXTI",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-22T21:42:26.772Z",
+  "updatedAt": "2026-10-23T13:46:44.084Z",
   "start": "2016-10-24",
-  "end": "2026-10-22",
+  "end": "2026-10-23",
   "rows": [
     {
       "date": "2016-10-24",
@@ -20104,10 +20104,18 @@
     {
       "date": "2026-10-22",
       "open": 55.5,
-      "high": 56.71989822387695,
+      "high": 56.720001220703125,
       "low": 51,
       "close": 51.560001373291016,
-      "volume": 9871071
+      "volume": 9902600
+    },
+    {
+      "date": "2026-10-23",
+      "open": 53.10499954223633,
+      "high": 55.20000076293945,
+      "low": 51.70000076293945,
+      "close": 54.619998931884766,
+      "volume": 2395673
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "symbol": "UDR",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-22T21:42:57.606Z",
+  "updatedAt": "2026-10-23T13:47:11.120Z",
   "start": "2016-10-24",
-  "end": "2026-10-22",
+  "end": "2026-10-23",
   "rows": [
     {
       "date": "2016-10-24",
@@ -20107,7 +20107,15 @@
       "high": 36.41999816894531,
       "low": 35.040000915527344,
       "close": 36.18000030517578,
-      "volume": 5748653
+      "volume": 5778500
+    },
+    {
+      "date": "2026-10-23",
+      "open": 36.400001525878906,
+      "high": 36.375,
+      "low": 35.92499923706055,
+      "close": 35.9379997253418,
+      "volume": 191194
     }
   ]
 }

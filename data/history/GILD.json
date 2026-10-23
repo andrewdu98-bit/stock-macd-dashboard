@@ -1,9 +1,9 @@
 {
   "symbol": "GILD",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-22T21:42:38.103Z",
+  "updatedAt": "2026-10-23T13:46:54.003Z",
   "start": "2016-10-24",
-  "end": "2026-10-22",
+  "end": "2026-10-23",
   "rows": [
     {
       "date": "2016-10-24",
@@ -20103,11 +20103,19 @@
     },
     {
       "date": "2026-10-22",
-      "open": 153.8249969482422,
+      "open": 154.24000549316406,
       "high": 157.4199981689453,
       "low": 153,
       "close": 157.19000244140625,
-      "volume": 6206634
+      "volume": 6210100
+    },
+    {
+      "date": "2026-10-23",
+      "open": 156.47000122070312,
+      "high": 157.50999450683594,
+      "low": 156.08999633789062,
+      "close": 157.18499755859375,
+      "volume": 434823
     }
   ]
 }

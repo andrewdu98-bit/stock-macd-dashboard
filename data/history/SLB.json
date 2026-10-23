@@ -1,9 +1,9 @@
 {
   "symbol": "SLB",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-22T21:42:53.695Z",
+  "updatedAt": "2026-10-23T13:47:07.659Z",
   "start": "2016-10-24",
-  "end": "2026-10-22",
+  "end": "2026-10-23",
   "rows": [
     {
       "date": "2016-10-24",
@@ -20104,10 +20104,18 @@
     {
       "date": "2026-10-22",
       "open": 51,
-      "high": 51.154998779296875,
+      "high": 51.15999984741211,
       "low": 48.70000076293945,
       "close": 49.54999923706055,
-      "volume": 14991112
+      "volume": 14994000
+    },
+    {
+      "date": "2026-10-23",
+      "open": 49.959999084472656,
+      "high": 51.060001373291016,
+      "low": 49.47999954223633,
+      "close": 50.90999984741211,
+      "volume": 1488313
     }
   ]
 }

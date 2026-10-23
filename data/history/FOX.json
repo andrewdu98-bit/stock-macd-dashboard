@@ -1,9 +1,9 @@
 {
   "symbol": "FOX",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-22T21:42:37.171Z",
+  "updatedAt": "2026-10-23T13:46:53.153Z",
   "start": "2019-03-13",
-  "end": "2026-10-22",
+  "end": "2026-10-23",
   "rows": [
     {
       "date": "2019-03-13",
@@ -15299,7 +15299,15 @@
       "high": 60.81999969482422,
       "low": 58.46500015258789,
       "close": 60.81999969482422,
-      "volume": 651849
+      "volume": 655300
+    },
+    {
+      "date": "2026-10-23",
+      "open": 60.33000183105469,
+      "high": 60.880001068115234,
+      "low": 60.30500030517578,
+      "close": 60.30500030517578,
+      "volume": 43291
     }
   ]
 }

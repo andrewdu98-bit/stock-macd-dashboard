@@ -1,9 +1,9 @@
 {
   "symbol": "PODD",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-22T21:42:50.675Z",
+  "updatedAt": "2026-10-23T13:47:05.066Z",
   "start": "2016-10-24",
-  "end": "2026-10-22",
+  "end": "2026-10-23",
   "rows": [
     {
       "date": "2016-10-24",
@@ -20083,7 +20083,15 @@
       "high": 148.35000610351562,
       "low": 142.47000122070312,
       "close": 148.1199951171875,
-      "volume": 1213795
+      "volume": 1213800
+    },
+    {
+      "date": "2026-10-23",
+      "open": 145,
+      "high": 148.92999267578125,
+      "low": 145,
+      "close": 147.60450744628906,
+      "volume": 31252
     }
   ]
 }

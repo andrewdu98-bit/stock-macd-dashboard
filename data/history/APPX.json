@@ -1,9 +1,9 @@
 {
   "symbol": "APPX",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-22T21:43:01.484Z",
+  "updatedAt": "2026-10-23T13:47:14.301Z",
   "start": "2025-04-25",
-  "end": "2026-10-22",
+  "end": "2026-10-23",
   "rows": [
     {
       "date": "2025-04-25",
@@ -3011,7 +3011,15 @@
       "high": 9.180000305175781,
       "low": 8.550000190734863,
       "close": 8.75,
-      "volume": 624277
+      "volume": 649700
+    },
+    {
+      "date": "2026-10-23",
+      "open": 8.640000343322754,
+      "high": 8.649999618530273,
+      "low": 8.361900329589844,
+      "close": 8.545000076293945,
+      "volume": 69214
     }
   ]
 }

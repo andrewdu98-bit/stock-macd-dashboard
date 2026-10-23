@@ -1,9 +1,9 @@
 {
   "symbol": "AMCR",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-22T21:42:25.002Z",
+  "updatedAt": "2026-10-23T13:46:42.456Z",
   "start": "2016-10-24",
-  "end": "2026-10-22",
+  "end": "2026-10-23",
   "rows": [
     {
       "date": "2016-10-24",
@@ -20099,7 +20099,15 @@
       "high": 46.56999969482422,
       "low": 45.060001373291016,
       "close": 46.279998779296875,
-      "volume": 4193935
+      "volume": 4194000
+    },
+    {
+      "date": "2026-10-23",
+      "open": 45.849998474121094,
+      "high": 46.29999923706055,
+      "low": 45.79999923706055,
+      "close": 46.029998779296875,
+      "volume": 88786
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "symbol": "PSA",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-22T21:42:51.131Z",
+  "updatedAt": "2026-10-23T13:47:05.495Z",
   "start": "2016-10-24",
-  "end": "2026-10-22",
+  "end": "2026-10-23",
   "rows": [
     {
       "date": "2016-10-24",
@@ -20104,10 +20104,18 @@
     {
       "date": "2026-10-22",
       "open": 298.3999938964844,
-      "high": 309.2049865722656,
+      "high": 309.25,
       "low": 298,
       "close": 309.1300048828125,
-      "volume": 773901
+      "volume": 773900
+    },
+    {
+      "date": "2026-10-23",
+      "open": 310,
+      "high": 310.7200012207031,
+      "low": 308.3299865722656,
+      "close": 308.3999938964844,
+      "volume": 24344
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "symbol": "BRK-B",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-22T21:42:28.421Z",
+  "updatedAt": "2026-10-23T13:46:45.505Z",
   "start": "2016-10-24",
-  "end": "2026-10-22",
+  "end": "2026-10-23",
   "rows": [
     {
       "date": "2016-10-24",
@@ -20104,10 +20104,18 @@
     {
       "date": "2026-10-22",
       "open": 544,
-      "high": 549.9400024414062,
+      "high": 549.9600219726562,
       "low": 542.010009765625,
       "close": 546.969970703125,
-      "volume": 5696218
+      "volume": 5701000
+    },
+    {
+      "date": "2026-10-23",
+      "open": 545.3699951171875,
+      "high": 548.3099975585938,
+      "low": 544.4052124023438,
+      "close": 546.864990234375,
+      "volume": 360837
     }
   ]
 }

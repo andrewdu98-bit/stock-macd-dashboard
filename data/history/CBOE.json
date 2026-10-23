@@ -1,9 +1,9 @@
 {
   "symbol": "CBOE",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-22T21:42:29.208Z",
+  "updatedAt": "2026-10-23T13:46:46.175Z",
   "start": "2016-10-24",
-  "end": "2026-10-22",
+  "end": "2026-10-23",
   "rows": [
     {
       "date": "2016-10-24",
@@ -20104,10 +20104,18 @@
     {
       "date": "2026-10-22",
       "open": 321.3500061035156,
-      "high": 330.54998779296875,
+      "high": 330.55999755859375,
       "low": 320,
       "close": 327.7200012207031,
-      "volume": 954890
+      "volume": 954900
+    },
+    {
+      "date": "2026-10-23",
+      "open": 333,
+      "high": 337.67999267578125,
+      "low": 331.7300109863281,
+      "close": 334.25,
+      "volume": 99147
     }
   ]
 }
