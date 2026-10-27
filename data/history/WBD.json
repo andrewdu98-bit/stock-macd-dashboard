@@ -1,18 +1,10 @@
 {
   "symbol": "WBD",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-26T13:47:18.160Z",
-  "start": "2016-10-27",
+  "updatedAt": "2026-10-27T13:47:03.462Z",
+  "start": "2016-10-28",
   "end": "2026-10-07",
   "rows": [
-    {
-      "date": "2016-10-27",
-      "open": 26.5,
-      "high": 26.579999923706055,
-      "low": 26.030000686645508,
-      "close": 26.15999984741211,
-      "volume": 2609000
-    },
     {
       "date": "2016-10-28",
       "open": 26.190000534057617,
