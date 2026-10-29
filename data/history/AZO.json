@@ -1,9 +1,9 @@
 {
   "symbol": "AZO",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-28T13:46:54.473Z",
+  "updatedAt": "2026-10-29T13:46:41.486Z",
   "start": "2016-10-31",
-  "end": "2026-10-28",
+  "end": "2026-10-29",
   "rows": [
     {
       "date": "2016-10-31",
@@ -20096,10 +20096,18 @@
     {
       "date": "2026-10-28",
       "open": 3133.97998046875,
-      "high": 3152.669921875,
-      "low": 3126.60498046875,
-      "close": 3139.014892578125,
-      "volume": 3609
+      "high": 3180.929931640625,
+      "low": 3126.610107421875,
+      "close": 3156.760009765625,
+      "volume": 162400
+    },
+    {
+      "date": "2026-10-29",
+      "open": 3205,
+      "high": 3224,
+      "low": 3194.375,
+      "close": 3217.47998046875,
+      "volume": 5686
     }
   ]
 }

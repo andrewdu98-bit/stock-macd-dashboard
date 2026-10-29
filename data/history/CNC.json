@@ -1,9 +1,9 @@
 {
   "symbol": "CNC",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-28T13:46:58.015Z",
+  "updatedAt": "2026-10-29T13:46:45.598Z",
   "start": "2016-10-31",
-  "end": "2026-10-28",
+  "end": "2026-10-29",
   "rows": [
     {
       "date": "2016-10-31",
@@ -20097,9 +20097,17 @@
       "date": "2026-10-28",
       "open": 68.04000091552734,
       "high": 70,
-      "low": 67.47000122070312,
-      "close": 68.20500183105469,
-      "volume": 409405
+      "low": 66.13999938964844,
+      "close": 67.05000305175781,
+      "volume": 5998700
+    },
+    {
+      "date": "2026-10-29",
+      "open": 68.25,
+      "high": 68.51000213623047,
+      "low": 67.21150207519531,
+      "close": 67.55000305175781,
+      "volume": 177710
     }
   ]
 }

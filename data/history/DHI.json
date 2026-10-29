@@ -1,9 +1,9 @@
 {
   "symbol": "DHI",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-28T13:47:00.353Z",
+  "updatedAt": "2026-10-29T13:46:48.275Z",
   "start": "2016-10-31",
-  "end": "2026-10-28",
+  "end": "2026-10-29",
   "rows": [
     {
       "date": "2016-10-31",
@@ -20072,10 +20072,18 @@
     {
       "date": "2026-10-28",
       "open": 146.72999572753906,
-      "high": 147.64999389648438,
-      "low": 146.13499450683594,
-      "close": 147.2050018310547,
-      "volume": 123178
+      "high": 148.42999267578125,
+      "low": 140.5500030517578,
+      "close": 143,
+      "volume": 5899800
+    },
+    {
+      "date": "2026-10-29",
+      "open": 142,
+      "high": 144.75,
+      "low": 140.75,
+      "close": 142.69000244140625,
+      "volume": 715330
     }
   ]
 }

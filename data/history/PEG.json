@@ -1,9 +1,9 @@
 {
   "symbol": "PEG",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-28T13:47:15.737Z",
+  "updatedAt": "2026-10-29T13:47:06.241Z",
   "start": "2016-10-31",
-  "end": "2026-10-28",
+  "end": "2026-10-29",
   "rows": [
     {
       "date": "2016-10-31",
@@ -20082,8 +20082,16 @@
       "open": 72.77999877929688,
       "high": 73.05999755859375,
       "low": 72.02999877929688,
-      "close": 72.26000213623047,
-      "volume": 52327
+      "close": 72.47000122070312,
+      "volume": 2101600
+    },
+    {
+      "date": "2026-10-29",
+      "open": 73.30999755859375,
+      "high": 73.7300033569336,
+      "low": 73.08999633789062,
+      "close": 73.22000122070312,
+      "volume": 465581
     }
   ]
 }

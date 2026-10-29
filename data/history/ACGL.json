@@ -1,9 +1,9 @@
 {
   "symbol": "ACGL",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-28T13:46:51.408Z",
+  "updatedAt": "2026-10-29T13:46:37.745Z",
   "start": "2016-10-31",
-  "end": "2026-10-28",
+  "end": "2026-10-29",
   "rows": [
     {
       "date": "2016-10-31",
@@ -20080,10 +20080,18 @@
     {
       "date": "2026-10-28",
       "open": 101.55999755859375,
-      "high": 102.43000030517578,
+      "high": 103.58999633789062,
       "low": 100.38999938964844,
-      "close": 100.5,
-      "volume": 206322
+      "close": 102.5,
+      "volume": 2883600
+    },
+    {
+      "date": "2026-10-29",
+      "open": 104.02999877929688,
+      "high": 104.69000244140625,
+      "low": 103.43000030517578,
+      "close": 103.80999755859375,
+      "volume": 63008
     }
   ]
 }
