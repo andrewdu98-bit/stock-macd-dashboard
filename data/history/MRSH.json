@@ -1,9 +1,9 @@
 {
   "symbol": "MRSH",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-29T13:47:02.386Z",
+  "updatedAt": "2026-10-30T13:47:08.407Z",
   "start": "2016-10-31",
-  "end": "2026-10-29",
+  "end": "2026-10-30",
   "rows": [
     {
       "date": "2016-10-31",
@@ -20096,10 +20096,18 @@
     {
       "date": "2026-10-29",
       "open": 194.1199951171875,
-      "high": 196.0800018310547,
-      "low": 194.1199951171875,
-      "close": 195.88999938964844,
-      "volume": 84095
+      "high": 197.1699981689453,
+      "low": 194,
+      "close": 197.02999877929688,
+      "volume": 2414200
+    },
+    {
+      "date": "2026-10-30",
+      "open": 201.9499969482422,
+      "high": 202.17999267578125,
+      "low": 200,
+      "close": 201.375,
+      "volume": 131861
     }
   ]
 }

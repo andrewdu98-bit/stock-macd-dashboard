@@ -1,9 +1,9 @@
 {
   "symbol": "EMR",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-29T13:46:50.245Z",
+  "updatedAt": "2026-10-30T13:46:58.217Z",
   "start": "2016-10-31",
-  "end": "2026-10-29",
+  "end": "2026-10-30",
   "rows": [
     {
       "date": "2016-10-31",
@@ -20088,10 +20088,18 @@
     {
       "date": "2026-10-29",
       "open": 168.17999267578125,
-      "high": 169.64089965820312,
+      "high": 171.25,
       "low": 167,
-      "close": 169.02000427246094,
-      "volume": 188508
+      "close": 170.74000549316406,
+      "volume": 1609700
+    },
+    {
+      "date": "2026-10-30",
+      "open": 168.67999267578125,
+      "high": 170.58999633789062,
+      "low": 168.00999450683594,
+      "close": 169.1750030517578,
+      "volume": 68507
     }
   ]
 }

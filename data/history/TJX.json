@@ -1,9 +1,9 @@
 {
   "symbol": "TJX",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-29T13:47:12.838Z",
+  "updatedAt": "2026-10-30T13:47:17.220Z",
   "start": "2016-10-31",
-  "end": "2026-10-29",
+  "end": "2026-10-30",
   "rows": [
     {
       "date": "2016-10-31",
@@ -20088,10 +20088,18 @@
     {
       "date": "2026-10-29",
       "open": 139.92999267578125,
-      "high": 140.35000610351562,
+      "high": 141.6300048828125,
       "low": 139.5,
-      "close": 139.88999938964844,
-      "volume": 282579
+      "close": 141.38999938964844,
+      "volume": 4327000
+    },
+    {
+      "date": "2026-10-30",
+      "open": 144.25,
+      "high": 144.25,
+      "low": 142.66000366210938,
+      "close": 143.08999633789062,
+      "volume": 212577
     }
   ]
 }
