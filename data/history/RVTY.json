@@ -1,7 +1,7 @@
 {
   "symbol": "RVTY",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:47:14.410Z",
+  "updatedAt": "2026-10-31T01:08:47.452Z",
   "start": "2016-10-31",
   "end": "2026-10-30",
   "rows": [
@@ -20089,9 +20089,9 @@
       "date": "2026-10-30",
       "open": 164.2100067138672,
       "high": 164.1750030517578,
-      "low": 160.38999938964844,
-      "close": 160.64999389648438,
-      "volume": 72746
+      "low": 155.80999755859375,
+      "close": 0,
+      "volume": 3179092
     }
   ]
 }

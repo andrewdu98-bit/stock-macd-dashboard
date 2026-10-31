@@ -1,7 +1,7 @@
 {
   "symbol": "PEP",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:47:11.479Z",
+  "updatedAt": "2026-10-31T01:08:44.547Z",
   "start": "2016-10-31",
   "end": "2026-10-30",
   "rows": [
@@ -20107,15 +20107,15 @@
       "high": 134.9600067138672,
       "low": 132.72999572753906,
       "close": 133.7899932861328,
-      "volume": 6156000
+      "volume": 6201400
     },
     {
       "date": "2026-10-30",
       "open": 136.60000610351562,
-      "high": 137.57000732421875,
-      "low": 136.4499969482422,
-      "close": 137.25,
-      "volume": 1390566
+      "high": 138.58999633789062,
+      "low": 135.8000030517578,
+      "close": 0,
+      "volume": 19439665
     }
   ]
 }

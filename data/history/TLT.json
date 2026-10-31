@@ -1,7 +1,7 @@
 {
   "symbol": "TLT",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:47:22.231Z",
+  "updatedAt": "2026-10-31T01:08:55.314Z",
   "start": "2016-10-31",
   "end": "2026-10-30",
   "rows": [
@@ -20107,15 +20107,15 @@
       "high": 81.86000061035156,
       "low": 81.16000366210938,
       "close": 81.48999786376953,
-      "volume": 25943500
+      "volume": 26024100
     },
     {
       "date": "2026-10-30",
       "open": 81.87000274658203,
       "high": 82.02999877929688,
-      "low": 81.70999908447266,
-      "close": 81.81500244140625,
-      "volume": 2988282
+      "low": 81.38009643554688,
+      "close": 0,
+      "volume": 41025196
     }
   ]
 }

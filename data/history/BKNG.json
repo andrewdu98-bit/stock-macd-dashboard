@@ -1,7 +1,7 @@
 {
   "symbol": "BKNG",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:46:51.788Z",
+  "updatedAt": "2026-10-31T01:08:24.746Z",
   "start": "2016-10-31",
   "end": "2026-10-30",
   "rows": [
@@ -20099,15 +20099,15 @@
       "high": 151.83999633789062,
       "low": 147.52999877929688,
       "close": 150.42999267578125,
-      "volume": 5896000
+      "volume": 5907300
     },
     {
       "date": "2026-10-30",
       "open": 152.14999389648438,
       "high": 152.6195068359375,
-      "low": 149.5500030517578,
-      "close": 149.60000610351562,
-      "volume": 441000
+      "low": 147.28500366210938,
+      "close": 0,
+      "volume": 8358522
     }
   ]
 }

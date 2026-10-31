@@ -1,7 +1,7 @@
 {
   "symbol": "STX",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:47:15.901Z",
+  "updatedAt": "2026-10-31T01:08:49.022Z",
   "start": "2016-10-31",
   "end": "2026-10-30",
   "rows": [
@@ -20107,15 +20107,15 @@
       "high": 718.6500244140625,
       "low": 675.4099731445312,
       "close": 700.469970703125,
-      "volume": 5320700
+      "volume": 5350700
     },
     {
       "date": "2026-10-30",
       "open": 651,
-      "high": 674,
-      "low": 645.0800170898438,
-      "close": 664.5250854492188,
-      "volume": 541856
+      "high": 678.4899291992188,
+      "low": 625.2963256835938,
+      "close": 0,
+      "volume": 5769883
     }
   ]
 }

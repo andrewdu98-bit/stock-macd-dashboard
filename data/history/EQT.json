@@ -1,7 +1,7 @@
 {
   "symbol": "EQT",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:46:58.489Z",
+  "updatedAt": "2026-10-31T01:08:31.459Z",
   "start": "2016-10-31",
   "end": "2026-10-30",
   "rows": [
@@ -20112,10 +20112,10 @@
     {
       "date": "2026-10-30",
       "open": 54.5,
-      "high": 55.459999084472656,
+      "high": 55.96500015258789,
       "low": 54.290000915527344,
-      "close": 55.16999816894531,
-      "volume": 375956
+      "close": 0,
+      "volume": 8859443
     }
   ]
 }

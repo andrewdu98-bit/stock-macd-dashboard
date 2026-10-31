@@ -1,7 +1,7 @@
 {
   "symbol": "INCY",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:47:03.550Z",
+  "updatedAt": "2026-10-31T01:08:36.530Z",
   "start": "2016-10-31",
   "end": "2026-10-30",
   "rows": [
@@ -20113,9 +20113,9 @@
       "date": "2026-10-30",
       "open": 120.0999984741211,
       "high": 122.86949920654297,
-      "low": 119.75,
-      "close": 121.7699966430664,
-      "volume": 170821
+      "low": 119.55000305175781,
+      "close": 0,
+      "volume": 2840308
     }
   ]
 }

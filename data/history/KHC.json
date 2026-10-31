@@ -1,7 +1,7 @@
 {
   "symbol": "KHC",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:47:05.044Z",
+  "updatedAt": "2026-10-31T01:08:37.980Z",
   "start": "2016-10-31",
   "end": "2026-10-30",
   "rows": [
@@ -20112,10 +20112,10 @@
     {
       "date": "2026-10-30",
       "open": 24.5,
-      "high": 24.59000015258789,
-      "low": 24.34000015258789,
-      "close": 24.520000457763672,
-      "volume": 555619
+      "high": 24.69499969482422,
+      "low": 24.309999465942383,
+      "close": 0,
+      "volume": 14060750
     }
   ]
 }

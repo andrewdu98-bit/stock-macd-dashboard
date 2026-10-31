@@ -1,7 +1,7 @@
 {
   "symbol": "MELI",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:47:07.555Z",
+  "updatedAt": "2026-10-31T01:08:40.520Z",
   "start": "2016-10-31",
   "end": "2026-10-30",
   "rows": [
@@ -20112,10 +20112,10 @@
     {
       "date": "2026-10-30",
       "open": 1639.5050048828125,
-      "high": 1643.6600341796875,
+      "high": 1648,
       "low": 1610.010009765625,
-      "close": 1643.5999755859375,
-      "volume": 59374
+      "close": 0,
+      "volume": 522509
     }
   ]
 }

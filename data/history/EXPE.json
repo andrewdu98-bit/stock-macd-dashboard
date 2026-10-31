@@ -1,7 +1,7 @@
 {
   "symbol": "EXPE",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:46:59.137Z",
+  "updatedAt": "2026-10-31T01:08:32.135Z",
   "start": "2016-10-31",
   "end": "2026-10-30",
   "rows": [
@@ -20088,10 +20088,10 @@
     {
       "date": "2026-10-30",
       "open": 283.760009765625,
-      "high": 286.2449951171875,
-      "low": 281.6099853515625,
-      "close": 284.3500061035156,
-      "volume": 123319
+      "high": 286.3599853515625,
+      "low": 280.2099914550781,
+      "close": 0,
+      "volume": 1775386
     }
   ]
 }

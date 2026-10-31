@@ -1,7 +1,7 @@
 {
   "symbol": "MSFT",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:47:08.628Z",
+  "updatedAt": "2026-10-31T01:08:41.656Z",
   "start": "2016-10-31",
   "end": "2026-10-30",
   "rows": [
@@ -20107,15 +20107,15 @@
       "high": 541.2899780273438,
       "low": 519.5599975585938,
       "close": 530.1400146484375,
-      "volume": 39213000
+      "volume": 39333200
     },
     {
       "date": "2026-10-30",
       "open": 525.27001953125,
       "high": 526,
       "low": 514.3499755859375,
-      "close": 523.4500122070312,
-      "volume": 4683763
+      "close": 0,
+      "volume": 35585367
     }
   ]
 }

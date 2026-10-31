@@ -1,7 +1,7 @@
 {
   "symbol": "CPB",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:46:55.081Z",
+  "updatedAt": "2026-10-31T01:08:28.042Z",
   "start": "2016-10-31",
   "end": "2026-10-30",
   "rows": [
@@ -20112,10 +20112,10 @@
     {
       "date": "2026-10-30",
       "open": 21.413999557495117,
-      "high": 21.565000534057617,
-      "low": 21.290000915527344,
-      "close": 21.520000457763672,
-      "volume": 344289
+      "high": 21.579999923706055,
+      "low": 21.235000610351562,
+      "close": 0,
+      "volume": 6319327
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "SWK",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:47:16.173Z",
+  "updatedAt": "2026-10-31T01:08:49.232Z",
   "start": "2016-10-31",
   "end": "2026-10-30",
   "rows": [
@@ -20090,8 +20090,8 @@
       "open": 104,
       "high": 104.94999694824219,
       "low": 101.5,
-      "close": 103.3550033569336,
-      "volume": 69203
+      "close": 0,
+      "volume": 1971917
     }
   ]
 }

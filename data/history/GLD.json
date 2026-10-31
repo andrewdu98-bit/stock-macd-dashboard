@@ -1,7 +1,7 @@
 {
   "symbol": "GLD",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:47:01.225Z",
+  "updatedAt": "2026-10-31T01:08:34.232Z",
   "start": "2016-10-31",
   "end": "2026-10-30",
   "rows": [
@@ -20107,15 +20107,15 @@
       "high": 369.94000244140625,
       "low": 366.9700012207031,
       "close": 368.57000732421875,
-      "volume": 9110500
+      "volume": 9132600
     },
     {
       "date": "2026-10-30",
       "open": 361.4540100097656,
       "high": 361.67999267578125,
-      "low": 359.5899963378906,
-      "close": 359.8500061035156,
-      "volume": 2113533
+      "low": 354.6700134277344,
+      "close": 0,
+      "volume": 16200319
     }
   ]
 }

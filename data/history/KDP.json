@@ -1,7 +1,7 @@
 {
   "symbol": "KDP",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:47:04.812Z",
+  "updatedAt": "2026-10-31T01:08:37.809Z",
   "start": "2016-10-31",
   "end": "2026-10-30",
   "rows": [
@@ -20107,15 +20107,15 @@
       "high": 35.380001068115234,
       "low": 34.68000030517578,
       "close": 35.29999923706055,
-      "volume": 15177600
+      "volume": 15209800
     },
     {
       "date": "2026-10-30",
       "open": 36.130001068115234,
       "high": 36.130001068115234,
-      "low": 35.665000915527344,
-      "close": 35.93000030517578,
-      "volume": 2490059
+      "low": 35.525001525878906,
+      "close": 0,
+      "volume": 32588368
     }
   ]
 }

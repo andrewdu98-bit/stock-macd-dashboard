@@ -1,7 +1,7 @@
 {
   "symbol": "CBRE",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:46:53.038Z",
+  "updatedAt": "2026-10-31T01:08:26.078Z",
   "start": "2016-10-31",
   "end": "2026-10-30",
   "rows": [
@@ -20113,9 +20113,9 @@
       "date": "2026-10-30",
       "open": 129.3800048828125,
       "high": 131.77450561523438,
-      "low": 129.52999877929688,
-      "close": 130.33999633789062,
-      "volume": 79152
+      "low": 127.90499877929688,
+      "close": 0,
+      "volume": 3179114
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "PANW",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:47:11.113Z",
+  "updatedAt": "2026-10-31T01:08:44.098Z",
   "start": "2016-10-31",
   "end": "2026-10-30",
   "rows": [
@@ -20107,15 +20107,15 @@
       "high": 389.6199951171875,
       "low": 367.5,
       "close": 380.57000732421875,
-      "volume": 7365700
+      "volume": 7384000
     },
     {
       "date": "2026-10-30",
       "open": 383.95001220703125,
       "high": 390,
-      "low": 372.2049865722656,
-      "close": 373.489990234375,
-      "volume": 869615
+      "low": 360.0199890136719,
+      "close": 0,
+      "volume": 7487335
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T13:47:22.388Z",
+  "generatedAt": "2026-10-31T01:08:55.470Z",
   "lookbackYears": 10,
   "count": 583,
   "ok": 578,
@@ -683,9 +683,9 @@
       "symbol": "BTC-USD",
       "ok": true,
       "file": "data/history/BTC-USD.json",
-      "rows": 3652,
+      "rows": 3653,
       "start": "2016-10-31",
-      "end": "2026-10-30"
+      "end": "2026-10-31"
     },
     {
       "symbol": "BX",

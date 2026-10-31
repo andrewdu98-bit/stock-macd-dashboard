@@ -1,7 +1,7 @@
 {
   "symbol": "ERIE",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:46:58.500Z",
+  "updatedAt": "2026-10-31T01:08:31.510Z",
   "start": "2016-10-31",
   "end": "2026-10-30",
   "rows": [
@@ -20112,10 +20112,10 @@
     {
       "date": "2026-10-30",
       "open": 251.1699981689453,
-      "high": 258.7850036621094,
+      "high": 270.5299072265625,
       "low": 251.1699981689453,
-      "close": 256.260009765625,
-      "volume": 8977
+      "close": 0,
+      "volume": 719919
     }
   ]
 }

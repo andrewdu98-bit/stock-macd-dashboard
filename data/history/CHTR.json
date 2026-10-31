@@ -1,7 +1,7 @@
 {
   "symbol": "CHTR",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:46:53.757Z",
+  "updatedAt": "2026-10-31T01:08:26.672Z",
   "start": "2016-10-31",
   "end": "2026-10-30",
   "rows": [
@@ -20112,10 +20112,10 @@
     {
       "date": "2026-10-30",
       "open": 110.56999969482422,
-      "high": 111.7300033569336,
-      "low": 109.4000015258789,
-      "close": 110.6449966430664,
-      "volume": 88321
+      "high": 111.88999938964844,
+      "low": 109.34500122070312,
+      "close": 0,
+      "volume": 2094009
     }
   ]
 }

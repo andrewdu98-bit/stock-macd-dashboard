@@ -1,7 +1,7 @@
 {
   "symbol": "MNST",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:47:07.936Z",
+  "updatedAt": "2026-10-31T01:08:40.938Z",
   "start": "2016-10-31",
   "end": "2026-10-30",
   "rows": [
@@ -20099,15 +20099,15 @@
       "high": 46.560001373291016,
       "low": 45.77000045776367,
       "close": 46.349998474121094,
-      "volume": 10396900
+      "volume": 10425200
     },
     {
       "date": "2026-10-30",
       "open": 47.619998931884766,
       "high": 47.619998931884766,
-      "low": 47.029998779296875,
-      "close": 47.32500076293945,
-      "volume": 515599
+      "low": 46.7599983215332,
+      "close": 0,
+      "volume": 13313569
     }
   ]
 }

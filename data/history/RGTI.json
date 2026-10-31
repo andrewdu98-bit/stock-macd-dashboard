@@ -1,7 +1,7 @@
 {
   "symbol": "RGTI",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:47:13.577Z",
+  "updatedAt": "2026-10-31T01:08:46.699Z",
   "start": "2021-04-22",
   "end": "2026-10-30",
   "rows": [
@@ -11107,15 +11107,15 @@
       "high": 12.380000114440918,
       "low": 11.875,
       "close": 12.0600004196167,
-      "volume": 12461200
+      "volume": 12511300
     },
     {
       "date": "2026-10-30",
       "open": 11.350000381469727,
       "high": 11.520000457763672,
-      "low": 11.229399681091309,
-      "close": 11.25,
-      "volume": 1429026
+      "low": 10.819999694824219,
+      "close": 0,
+      "volume": 14604120
     }
   ]
 }

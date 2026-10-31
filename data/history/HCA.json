@@ -1,7 +1,7 @@
 {
   "symbol": "HCA",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:47:02.155Z",
+  "updatedAt": "2026-10-31T01:08:35.107Z",
   "start": "2016-10-31",
   "end": "2026-10-30",
   "rows": [
@@ -20088,10 +20088,10 @@
     {
       "date": "2026-10-30",
       "open": 480.3399963378906,
-      "high": 485.42999267578125,
-      "low": 477.9100036621094,
-      "close": 484.3900146484375,
-      "volume": 75355
+      "high": 485.7250061035156,
+      "low": 472.4599914550781,
+      "close": 0,
+      "volume": 1116869
     }
   ]
 }

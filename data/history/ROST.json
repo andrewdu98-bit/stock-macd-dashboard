@@ -1,7 +1,7 @@
 {
   "symbol": "ROST",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:47:14.263Z",
+  "updatedAt": "2026-10-31T01:08:47.286Z",
   "start": "2016-10-31",
   "end": "2026-10-30",
   "rows": [
@@ -20097,9 +20097,9 @@
       "date": "2026-10-30",
       "open": 235.27999877929688,
       "high": 235.7050018310547,
-      "low": 234,
-      "close": 234.2949981689453,
-      "volume": 123561
+      "low": 227.50999450683594,
+      "close": 0,
+      "volume": 2104972
     }
   ]
 }

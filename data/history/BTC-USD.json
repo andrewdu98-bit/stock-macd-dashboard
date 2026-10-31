@@ -1,9 +1,9 @@
 {
   "symbol": "BTC-USD",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:46:52.070Z",
+  "updatedAt": "2026-10-31T01:08:25.135Z",
   "start": "2016-10-31",
-  "end": "2026-10-30",
+  "end": "2026-10-31",
   "rows": [
     {
       "date": "2016-10-31",
@@ -29215,11 +29215,19 @@
     },
     {
       "date": "2026-10-30",
-      "open": 77791.375,
-      "high": 78564.9375,
-      "low": 76418.3359375,
-      "close": 76854.6015625,
-      "volume": 58506887168
+      "open": 0,
+      "high": 0,
+      "low": 0,
+      "close": 0,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-31",
+      "open": 77202.3984375,
+      "high": 77434.1484375,
+      "low": 77161.5859375,
+      "close": 77393.078125,
+      "volume": 38731141120
     }
   ]
 }

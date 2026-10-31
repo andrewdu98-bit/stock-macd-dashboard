@@ -1,7 +1,7 @@
 {
   "symbol": "DVA",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:46:57.393Z",
+  "updatedAt": "2026-10-31T01:08:30.339Z",
   "start": "2016-10-31",
   "end": "2026-10-30",
   "rows": [
@@ -20112,10 +20112,10 @@
     {
       "date": "2026-10-30",
       "open": 175,
-      "high": 187.52000427246094,
+      "high": 187.77000427246094,
       "low": 173.27999877929688,
-      "close": 181.0124969482422,
-      "volume": 219878
+      "close": 0,
+      "volume": 1760622
     }
   ]
 }

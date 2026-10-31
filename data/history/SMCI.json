@@ -1,7 +1,7 @@
 {
   "symbol": "SMCI",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:47:14.944Z",
+  "updatedAt": "2026-10-31T01:08:48.026Z",
   "start": "2016-10-31",
   "end": "2026-10-30",
   "rows": [
@@ -20107,15 +20107,15 @@
       "high": 35.849998474121094,
       "low": 34.119998931884766,
       "close": 34.43000030517578,
-      "volume": 25086200
+      "volume": 25307500
     },
     {
       "date": "2026-10-30",
       "open": 32.630001068115234,
-      "high": 32.79999923706055,
-      "low": 32.02000045776367,
-      "close": 32.5099983215332,
-      "volume": 5690878
+      "high": 33.16999816894531,
+      "low": 31.331499099731445,
+      "close": 0,
+      "volume": 38060849
     }
   ]
 }

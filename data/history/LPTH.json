@@ -1,7 +1,7 @@
 {
   "symbol": "LPTH",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:47:06.449Z",
+  "updatedAt": "2026-10-31T01:08:39.398Z",
   "start": "2016-10-31",
   "end": "2026-10-30",
   "rows": [
@@ -20107,15 +20107,15 @@
       "high": 8.550000190734863,
       "low": 8.010000228881836,
       "close": 8.3100004196167,
-      "volume": 2149200
+      "volume": 2160200
     },
     {
       "date": "2026-10-30",
       "open": 7.71999979019165,
-      "high": 8.020000457763672,
+      "high": 8.14169979095459,
       "low": 7.699999809265137,
-      "close": 7.960000038146973,
-      "volume": 279349
+      "close": 0,
+      "volume": 3669900
     }
   ]
 }

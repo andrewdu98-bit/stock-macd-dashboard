@@ -1,7 +1,7 @@
 {
   "symbol": "AXP",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:46:50.871Z",
+  "updatedAt": "2026-10-31T01:08:23.818Z",
   "start": "2016-10-31",
   "end": "2026-10-30",
   "rows": [
@@ -20105,9 +20105,9 @@
       "date": "2026-10-30",
       "open": 323.79998779296875,
       "high": 324.8399963378906,
-      "low": 321.4200134277344,
-      "close": 322.07000732421875,
-      "volume": 137801
+      "low": 316.67498779296875,
+      "close": 0,
+      "volume": 2546390
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "HPQ",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:47:02.643Z",
+  "updatedAt": "2026-10-31T01:08:35.596Z",
   "start": "2016-10-31",
   "end": "2026-10-30",
   "rows": [
@@ -20107,15 +20107,15 @@
       "high": 32.97999954223633,
       "low": 31.739999771118164,
       "close": 31.829999923706055,
-      "volume": 12958900
+      "volume": 13000900
     },
     {
       "date": "2026-10-30",
       "open": 27.299999237060547,
-      "high": 29.149999618530273,
+      "high": 29.6200008392334,
       "low": 26.969999313354492,
-      "close": 28.80500030517578,
-      "volume": 6073083
+      "close": 0,
+      "volume": 29891462
     }
   ]
 }

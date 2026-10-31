@@ -1,7 +1,7 @@
 {
   "symbol": "PDD",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:47:11.343Z",
+  "updatedAt": "2026-10-31T01:08:44.323Z",
   "start": "2018-07-26",
   "end": "2026-10-30",
   "rows": [
@@ -16619,15 +16619,15 @@
       "high": 79.87000274658203,
       "low": 77.83999633789062,
       "close": 79.27999877929688,
-      "volume": 5078400
+      "volume": 5099500
     },
     {
       "date": "2026-10-30",
       "open": 79.69999694824219,
       "high": 81,
-      "low": 79.5,
-      "close": 81,
-      "volume": 851829
+      "low": 78.5,
+      "close": 0,
+      "volume": 5320713
     }
   ]
 }

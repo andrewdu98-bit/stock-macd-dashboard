@@ -1,7 +1,7 @@
 {
   "symbol": "HSY",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:47:02.871Z",
+  "updatedAt": "2026-10-31T01:08:35.841Z",
   "start": "2016-10-31",
   "end": "2026-10-30",
   "rows": [
@@ -20088,10 +20088,10 @@
     {
       "date": "2026-10-30",
       "open": 162.2100067138672,
-      "high": 165.2050018310547,
+      "high": 165.97999572753906,
       "low": 161.63999938964844,
-      "close": 164.33999633789062,
-      "volume": 154813
+      "close": 0,
+      "volume": 2251291
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "PCG",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:47:11.367Z",
+  "updatedAt": "2026-10-31T01:08:44.334Z",
   "start": "2016-10-31",
   "end": "2026-10-30",
   "rows": [
@@ -20107,15 +20107,15 @@
       "high": 13.40999984741211,
       "low": 13.180000305175781,
       "close": 13.229999542236328,
-      "volume": 26827200
+      "volume": 26858900
     },
     {
       "date": "2026-10-30",
       "open": 13.335000038146973,
       "high": 13.380000114440918,
-      "low": 13.239999771118164,
-      "close": 13.305000305175781,
-      "volume": 864069
+      "low": 13.050000190734863,
+      "close": 0,
+      "volume": 20715075
     }
   ]
 }

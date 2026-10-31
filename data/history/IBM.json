@@ -1,7 +1,7 @@
 {
   "symbol": "IBM",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-30T13:47:03.310Z",
+  "updatedAt": "2026-10-31T01:08:36.272Z",
   "start": "2016-10-31",
   "end": "2026-10-30",
   "rows": [
@@ -20107,15 +20107,15 @@
       "high": 258.3299865722656,
       "low": 247.8000030517578,
       "close": 258.2799987792969,
-      "volume": 3922200
+      "volume": 3934500
     },
     {
       "date": "2026-10-30",
       "open": 258.2799987792969,
       "high": 259.5899963378906,
-      "low": 257,
-      "close": 258.6449890136719,
-      "volume": 372385
+      "low": 254.7104949951172,
+      "close": 0,
+      "volume": 5567815
     }
   ]
 }
