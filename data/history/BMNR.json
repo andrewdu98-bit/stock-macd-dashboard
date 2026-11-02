@@ -1,9 +1,9 @@
 {
   "symbol": "BMNR",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-31T01:08:42.015Z",
+  "updatedAt": "2026-11-02T14:47:45.259Z",
   "start": "2025-06-05",
-  "end": "2026-10-30",
+  "end": "2026-11-02",
   "rows": [
     {
       "date": "2025-06-05",
@@ -2834,8 +2834,16 @@
       "open": 20.389999389648438,
       "high": 20.770000457763672,
       "low": 19.600000381469727,
-      "close": 0,
-      "volume": 38260559
+      "close": 20.18000030517578,
+      "volume": 38326200
+    },
+    {
+      "date": "2026-11-02",
+      "open": 20.354999542236328,
+      "high": 20.65999984741211,
+      "low": 20.280000686645508,
+      "close": 20.530000686645508,
+      "volume": 2970711
     }
   ]
 }

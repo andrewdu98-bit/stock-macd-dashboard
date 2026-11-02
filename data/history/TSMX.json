@@ -1,9 +1,9 @@
 {
   "symbol": "TSMX",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-10-31T01:08:50.982Z",
+  "updatedAt": "2026-11-02T14:47:54.936Z",
   "start": "2024-10-03",
-  "end": "2026-10-30",
+  "end": "2026-11-02",
   "rows": [
     {
       "date": "2024-10-03",
@@ -4168,10 +4168,18 @@
     {
       "date": "2026-10-30",
       "open": 72.75,
-      "high": 74.0999984741211,
+      "high": 74.25,
       "low": 67.66500091552734,
-      "close": 0,
-      "volume": 961001
+      "close": 69.8499984741211,
+      "volume": 969200
+    },
+    {
+      "date": "2026-11-02",
+      "open": 72.20999908447266,
+      "high": 72.6624984741211,
+      "low": 70.17500305175781,
+      "close": 70.17500305175781,
+      "volume": 93782
     }
   ]
 }
