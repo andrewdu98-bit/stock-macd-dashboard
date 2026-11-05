@@ -1,9 +1,9 @@
 {
   "symbol": "LHX",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-04T14:56:32.791Z",
+  "updatedAt": "2026-11-05T14:47:00.658Z",
   "start": "2016-11-07",
-  "end": "2026-11-04",
+  "end": "2026-11-05",
   "rows": [
     {
       "date": "2016-11-07",
@@ -20081,9 +20081,17 @@
       "date": "2026-11-04",
       "open": 270,
       "high": 271.5199890136719,
-      "low": 263.3299865722656,
-      "close": 265.6700134277344,
-      "volume": 375340
+      "low": 255.6300048828125,
+      "close": 259.739990234375,
+      "volume": 3240400
+    },
+    {
+      "date": "2026-11-05",
+      "open": 258,
+      "high": 261.2099914550781,
+      "low": 256.6199951171875,
+      "close": 256.6199951171875,
+      "volume": 117098
     }
   ]
 }
