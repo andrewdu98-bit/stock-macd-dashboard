@@ -1,7 +1,7 @@
 {
   "symbol": "BNO",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T14:46:41.462Z",
+  "updatedAt": "2026-11-05T18:23:03.368Z",
   "start": "2016-11-07",
   "end": "2026-11-05",
   "rows": [
@@ -20104,10 +20104,10 @@
     {
       "date": "2026-11-05",
       "open": 61.84000015258789,
-      "high": 62.099998474121094,
-      "low": 61.40999984741211,
-      "close": 61.79999923706055,
-      "volume": 485126
+      "high": 62.22999954223633,
+      "low": 60.79499816894531,
+      "close": 62.220001220703125,
+      "volume": 1710646
     }
   ]
 }

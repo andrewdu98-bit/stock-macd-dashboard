@@ -1,7 +1,7 @@
 {
   "symbol": "CVS",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T14:46:46.900Z",
+  "updatedAt": "2026-11-05T18:23:07.246Z",
   "start": "2016-11-07",
   "end": "2026-11-05",
   "rows": [
@@ -20105,9 +20105,9 @@
       "date": "2026-11-05",
       "open": 81.6500015258789,
       "high": 83.38990020751953,
-      "low": 81.02079772949219,
-      "close": 81.06289672851562,
-      "volume": 1927216
+      "low": 80.01499938964844,
+      "close": 80.125,
+      "volume": 10429171
     }
   ]
 }

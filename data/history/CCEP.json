@@ -1,7 +1,7 @@
 {
   "symbol": "CCEP",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T14:46:43.016Z",
+  "updatedAt": "2026-11-05T18:23:04.538Z",
   "start": "2016-11-07",
   "end": "2026-11-05",
   "rows": [
@@ -20080,10 +20080,10 @@
     {
       "date": "2026-11-05",
       "open": 116.68499755859375,
-      "high": 117.12999725341797,
+      "high": 119.08999633789062,
       "low": 115.55999755859375,
-      "close": 116.51499938964844,
-      "volume": 126982
+      "close": 117.2750015258789,
+      "volume": 1254555
     }
   ]
 }

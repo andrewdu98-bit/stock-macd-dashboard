@@ -1,7 +1,7 @@
 {
   "symbol": "AJG",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T14:46:36.698Z",
+  "updatedAt": "2026-11-05T18:22:59.786Z",
   "start": "2016-11-07",
   "end": "2026-11-05",
   "rows": [
@@ -20104,10 +20104,10 @@
     {
       "date": "2026-11-05",
       "open": 289,
-      "high": 293,
-      "low": 288.70001220703125,
-      "close": 291.9289855957031,
-      "volume": 221670
+      "high": 294.3699951171875,
+      "low": 285.4801025390625,
+      "close": 288.0799865722656,
+      "volume": 1130237
     }
   ]
 }

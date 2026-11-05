@@ -1,7 +1,7 @@
 {
   "symbol": "HIG",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T14:46:55.685Z",
+  "updatedAt": "2026-11-05T18:23:13.794Z",
   "start": "2016-11-07",
   "end": "2026-11-05",
   "rows": [
@@ -20088,10 +20088,10 @@
     {
       "date": "2026-11-05",
       "open": 140,
-      "high": 140.99000549316406,
-      "low": 139.38999938964844,
-      "close": 140.77499389648438,
-      "volume": 61259
+      "high": 141.32989501953125,
+      "low": 137.25999450683594,
+      "close": 137.55999755859375,
+      "volume": 661401
     }
   ]
 }

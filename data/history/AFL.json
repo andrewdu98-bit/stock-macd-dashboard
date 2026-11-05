@@ -1,7 +1,7 @@
 {
   "symbol": "AFL",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T14:46:36.494Z",
+  "updatedAt": "2026-11-05T18:22:59.513Z",
   "start": "2016-11-07",
   "end": "2026-11-05",
   "rows": [
@@ -20088,10 +20088,10 @@
     {
       "date": "2026-11-05",
       "open": 126.06999969482422,
-      "high": 129.44000244140625,
+      "high": 131.18499755859375,
       "low": 125.94999694824219,
-      "close": 129.3000030517578,
-      "volume": 172384
+      "close": 126.94000244140625,
+      "volume": 977401
     }
   ]
 }

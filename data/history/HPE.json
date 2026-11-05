@@ -1,7 +1,7 @@
 {
   "symbol": "HPE",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T14:46:55.991Z",
+  "updatedAt": "2026-11-05T18:23:14.077Z",
   "start": "2016-11-07",
   "end": "2026-11-05",
   "rows": [
@@ -20105,9 +20105,9 @@
       "date": "2026-11-05",
       "open": 47.67499923706055,
       "high": 47.77000045776367,
-      "low": 45.97999954223633,
-      "close": 46.15520095825195,
-      "volume": 2743470
+      "low": 43.380001068115234,
+      "close": 44.970001220703125,
+      "volume": 14899729
     }
   ]
 }

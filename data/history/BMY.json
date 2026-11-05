@@ -1,7 +1,7 @@
 {
   "symbol": "BMY",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T14:46:41.362Z",
+  "updatedAt": "2026-11-05T18:23:03.382Z",
   "start": "2016-11-07",
   "end": "2026-11-05",
   "rows": [
@@ -20104,10 +20104,10 @@
     {
       "date": "2026-11-05",
       "open": 65,
-      "high": 65,
-      "low": 64.25,
-      "close": 64.63500213623047,
-      "volume": 522394
+      "high": 65.54000091552734,
+      "low": 63.18000030517578,
+      "close": 63.599998474121094,
+      "volume": 4216934
     }
   ]
 }

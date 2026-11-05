@@ -1,7 +1,7 @@
 {
   "symbol": "IGV",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T14:47:22.833Z",
+  "updatedAt": "2026-11-05T18:23:33.365Z",
   "start": "2016-11-07",
   "end": "2026-11-05",
   "rows": [
@@ -20105,9 +20105,9 @@
       "date": "2026-11-05",
       "open": 103.11000061035156,
       "high": 103.3499984741211,
-      "low": 99.93000030517578,
-      "close": 100.30999755859375,
-      "volume": 939550
+      "low": 98.5,
+      "close": 98.7699966430664,
+      "volume": 9388378
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "LRCX",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T14:47:01.713Z",
+  "updatedAt": "2026-11-05T18:23:18.142Z",
   "start": "2016-11-07",
   "end": "2026-11-05",
   "rows": [
@@ -20105,9 +20105,9 @@
       "date": "2026-11-05",
       "open": 207.89999389648438,
       "high": 210.0500030517578,
-      "low": 204.1999969482422,
-      "close": 205.4199981689453,
-      "volume": 1955128
+      "low": 189.5,
+      "close": 190.25,
+      "volume": 14551331
     }
   ]
 }

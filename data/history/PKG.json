@@ -1,7 +1,7 @@
 {
   "symbol": "PKG",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T14:47:09.093Z",
+  "updatedAt": "2026-11-05T18:23:23.550Z",
   "start": "2016-11-07",
   "end": "2026-11-05",
   "rows": [
@@ -20104,10 +20104,10 @@
     {
       "date": "2026-11-05",
       "open": 259.8599853515625,
-      "high": 262.5050048828125,
-      "low": 260.010009765625,
-      "close": 261.75,
-      "volume": 20380
+      "high": 262.510009765625,
+      "low": 246.2050018310547,
+      "close": 246.2050018310547,
+      "volume": 458394
     }
   ]
 }

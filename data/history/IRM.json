@@ -1,7 +1,7 @@
 {
   "symbol": "IRM",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T14:46:58.222Z",
+  "updatedAt": "2026-11-05T18:23:15.628Z",
   "start": "2016-11-07",
   "end": "2026-11-05",
   "rows": [
@@ -20103,11 +20103,11 @@
     },
     {
       "date": "2026-11-05",
-      "open": 116.80000305175781,
-      "high": 110.80500030517578,
-      "low": 106.80999755859375,
-      "close": 107.11589813232422,
-      "volume": 367395
+      "open": 109.72000122070312,
+      "high": 111,
+      "low": 106.37999725341797,
+      "close": 106.37999725341797,
+      "volume": 1748948
     }
   ]
 }

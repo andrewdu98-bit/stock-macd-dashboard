@@ -1,7 +1,7 @@
 {
   "symbol": "FTV",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T14:46:53.362Z",
+  "updatedAt": "2026-11-05T18:23:12.056Z",
   "start": "2016-11-07",
   "end": "2026-11-05",
   "rows": [
@@ -20089,9 +20089,9 @@
       "date": "2026-11-05",
       "open": 68.56999969482422,
       "high": 68.84500122070312,
-      "low": 68.11499786376953,
-      "close": 68.13999938964844,
-      "volume": 205337
+      "low": 65.41000366210938,
+      "close": 65.47000122070312,
+      "volume": 1441583
     }
   ]
 }

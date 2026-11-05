@@ -1,7 +1,7 @@
 {
   "symbol": "HBAN",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T14:46:55.369Z",
+  "updatedAt": "2026-11-05T18:23:13.625Z",
   "start": "2016-11-07",
   "end": "2026-11-05",
   "rows": [
@@ -20105,9 +20105,9 @@
       "date": "2026-11-05",
       "open": 16.290000915527344,
       "high": 16.475000381469727,
-      "low": 16.280000686645508,
-      "close": 16.334999084472656,
-      "volume": 1744628
+      "low": 15.539999961853027,
+      "close": 15.574999809265137,
+      "volume": 12967539
     }
   ]
 }

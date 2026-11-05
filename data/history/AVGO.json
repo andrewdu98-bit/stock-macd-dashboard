@@ -1,7 +1,7 @@
 {
   "symbol": "AVGO",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T14:46:39.402Z",
+  "updatedAt": "2026-11-05T18:23:01.839Z",
   "start": "2016-11-07",
   "end": "2026-11-05",
   "rows": [
@@ -20105,9 +20105,9 @@
       "date": "2026-11-05",
       "open": 311.93499755859375,
       "high": 314,
-      "low": 308.24029541015625,
-      "close": 310.2950134277344,
-      "volume": 4299472
+      "low": 292.80010986328125,
+      "close": 297.1400146484375,
+      "volume": 26418300
     }
   ]
 }

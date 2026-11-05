@@ -1,7 +1,7 @@
 {
   "symbol": "QCOM",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T14:47:10.790Z",
+  "updatedAt": "2026-11-05T18:23:24.729Z",
   "start": "2016-11-07",
   "end": "2026-11-05",
   "rows": [
@@ -20104,10 +20104,10 @@
     {
       "date": "2026-11-05",
       "open": 150.3000030517578,
-      "high": 158.42999267578125,
-      "low": 149.08999633789062,
-      "close": 155.88999938964844,
-      "volume": 4806945
+      "high": 159.2653045654297,
+      "low": 148.25,
+      "close": 155,
+      "volume": 19652530
     }
   ]
 }

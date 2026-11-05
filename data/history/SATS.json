@@ -1,7 +1,7 @@
 {
   "symbol": "SATS",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T14:47:12.656Z",
+  "updatedAt": "2026-11-05T18:23:26.062Z",
   "start": "2026-07-17",
   "end": "2026-11-05",
   "rows": [
@@ -265,9 +265,9 @@
       "date": "2026-11-05",
       "open": 95.38999938964844,
       "high": 95.44989776611328,
-      "low": 95,
-      "close": 95.0999984741211,
-      "volume": 37588
+      "low": 93.09600067138672,
+      "close": 93.75,
+      "volume": 243064
     }
   ]
 }

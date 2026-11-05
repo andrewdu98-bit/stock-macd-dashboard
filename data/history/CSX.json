@@ -1,7 +1,7 @@
 {
   "symbol": "CSX",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T14:46:46.294Z",
+  "updatedAt": "2026-11-05T18:23:06.930Z",
   "start": "2016-11-07",
   "end": "2026-11-05",
   "rows": [
@@ -20104,10 +20104,10 @@
     {
       "date": "2026-11-05",
       "open": 52.209999084472656,
-      "high": 52.34000015258789,
+      "high": 52.53499984741211,
       "low": 50.61000061035156,
-      "close": 51.595001220703125,
-      "volume": 1594938
+      "close": 51.290000915527344,
+      "volume": 8719727
     }
   ]
 }

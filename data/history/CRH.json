@@ -1,7 +1,7 @@
 {
   "symbol": "CRH",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T14:46:45.812Z",
+  "updatedAt": "2026-11-05T18:23:06.567Z",
   "start": "2016-11-07",
   "end": "2026-11-05",
   "rows": [
@@ -20105,9 +20105,9 @@
       "date": "2026-11-05",
       "open": 99.12000274658203,
       "high": 100.16500091552734,
-      "low": 98.68000030517578,
-      "close": 98.91000366210938,
-      "volume": 537994
+      "low": 94.22000122070312,
+      "close": 94.47000122070312,
+      "volume": 3481238
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "AAPL",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T14:46:35.305Z",
+  "updatedAt": "2026-11-05T18:22:58.612Z",
   "start": "2016-11-07",
   "end": "2026-11-05",
   "rows": [
@@ -20105,9 +20105,9 @@
       "date": "2026-11-05",
       "open": 353.8999938964844,
       "high": 355.3800048828125,
-      "low": 350.8299865722656,
-      "close": 352.03399658203125,
-      "volume": 7414869
+      "low": 342.5899963378906,
+      "close": 342.92498779296875,
+      "volume": 38531107
     }
   ]
 }

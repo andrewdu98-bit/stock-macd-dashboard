@@ -1,7 +1,7 @@
 {
   "symbol": "AMZU",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T14:46:38.053Z",
+  "updatedAt": "2026-11-05T18:23:00.909Z",
   "start": "2022-09-07",
   "end": "2026-11-05",
   "rows": [
@@ -8369,9 +8369,9 @@
       "date": "2026-11-05",
       "open": 39.33000183105469,
       "high": 39.790000915527344,
-      "low": 37.77000045776367,
-      "close": 37.92490005493164,
-      "volume": 689965
+      "low": 33.93000030517578,
+      "close": 35.85499954223633,
+      "volume": 2938782
     }
   ]
 }

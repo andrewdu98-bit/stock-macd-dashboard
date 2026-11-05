@@ -1,7 +1,7 @@
 {
   "symbol": "DRAM",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T14:46:48.663Z",
+  "updatedAt": "2026-11-05T18:23:08.609Z",
   "start": "2026-04-02",
   "end": "2026-11-05",
   "rows": [
@@ -1209,9 +1209,9 @@
       "date": "2026-11-05",
       "open": 42.125,
       "high": 42.380001068115234,
-      "low": 41.090599060058594,
-      "close": 41.13999938964844,
-      "volume": 11457381
+      "low": 38,
+      "close": 38.619998931884766,
+      "volume": 65810512
     }
   ]
 }

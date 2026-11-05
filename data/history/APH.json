@@ -1,7 +1,7 @@
 {
   "symbol": "APH",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T14:46:38.522Z",
+  "updatedAt": "2026-11-05T18:23:01.223Z",
   "start": "2016-11-07",
   "end": "2026-11-05",
   "rows": [
@@ -20105,9 +20105,9 @@
       "date": "2026-11-05",
       "open": 76.08999633789062,
       "high": 77.12000274658203,
-      "low": 75.1500015258789,
-      "close": 75.80000305175781,
-      "volume": 1404825
+      "low": 71.55000305175781,
+      "close": 71.81999969482422,
+      "volume": 12455950
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "AIZ",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T14:46:36.682Z",
+  "updatedAt": "2026-11-05T18:22:59.679Z",
   "start": "2016-11-07",
   "end": "2026-11-05",
   "rows": [
@@ -20080,10 +20080,10 @@
     {
       "date": "2026-11-05",
       "open": 313.239990234375,
-      "high": 315.0299987792969,
-      "low": 311.4175109863281,
-      "close": 315.0299987792969,
-      "volume": 19941
+      "high": 316.7179870605469,
+      "low": 304.05499267578125,
+      "close": 304.6199951171875,
+      "volume": 197240
     }
   ]
 }

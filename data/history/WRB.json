@@ -1,7 +1,7 @@
 {
   "symbol": "WRB",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T14:47:21.346Z",
+  "updatedAt": "2026-11-05T18:23:32.309Z",
   "start": "2016-11-07",
   "end": "2026-11-05",
   "rows": [
@@ -20088,10 +20088,10 @@
     {
       "date": "2026-11-05",
       "open": 77.66999816894531,
-      "high": 78.38999938964844,
-      "low": 77.50499725341797,
-      "close": 78.33499908447266,
-      "volume": 44860
+      "high": 79.26000213623047,
+      "low": 76.98999786376953,
+      "close": 76.98999786376953,
+      "volume": 622184
     }
   ]
 }

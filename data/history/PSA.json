@@ -1,7 +1,7 @@
 {
   "symbol": "PSA",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T14:47:10.124Z",
+  "updatedAt": "2026-11-05T18:23:24.283Z",
   "start": "2016-11-07",
   "end": "2026-11-05",
   "rows": [
@@ -20105,9 +20105,9 @@
       "date": "2026-11-05",
       "open": 344.9800109863281,
       "high": 345.89068603515625,
-      "low": 343.3399963378906,
-      "close": 344.7200012207031,
-      "volume": 57703
+      "low": 336.2250061035156,
+      "close": 337.4599914550781,
+      "volume": 824803
     }
   ]
 }

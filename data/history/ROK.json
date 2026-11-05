@@ -1,7 +1,7 @@
 {
   "symbol": "ROK",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T14:47:12.068Z",
+  "updatedAt": "2026-11-05T18:23:25.648Z",
   "start": "2016-11-07",
   "end": "2026-11-05",
   "rows": [
@@ -20080,10 +20080,10 @@
     {
       "date": "2026-11-05",
       "open": 402.9599914550781,
-      "high": 410.30999755859375,
-      "low": 398.75,
-      "close": 407.8800048828125,
-      "volume": 259351
+      "high": 412.6300048828125,
+      "low": 381.6050109863281,
+      "close": 382.0849914550781,
+      "volume": 1542525
     }
   ]
 }

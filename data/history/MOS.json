@@ -1,7 +1,7 @@
 {
   "symbol": "MOS",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T14:47:03.647Z",
+  "updatedAt": "2026-11-05T18:23:19.681Z",
   "start": "2016-11-07",
   "end": "2026-11-05",
   "rows": [
@@ -20106,8 +20106,8 @@
       "open": 21.545000076293945,
       "high": 22.5,
       "low": 21.389999389648438,
-      "close": 22.049999237060547,
-      "volume": 1737776
+      "close": 22.155000686645508,
+      "volume": 9213870
     }
   ]
 }

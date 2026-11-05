@@ -1,7 +1,7 @@
 {
   "symbol": "IBIT",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T14:46:56.900Z",
+  "updatedAt": "2026-11-05T18:23:14.721Z",
   "start": "2024-01-11",
   "end": "2026-11-05",
   "rows": [
@@ -5665,9 +5665,9 @@
       "date": "2026-11-05",
       "open": 44.959999084472656,
       "high": 45.02000045776367,
-      "low": 44.54880142211914,
-      "close": 44.64500045776367,
-      "volume": 6099217
+      "low": 42.665000915527344,
+      "close": 43.005001068115234,
+      "volume": 49662492
     }
   ]
 }

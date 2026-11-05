@@ -1,7 +1,7 @@
 {
   "symbol": "JNJ",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T14:46:59.045Z",
+  "updatedAt": "2026-11-05T18:23:16.233Z",
   "start": "2016-11-07",
   "end": "2026-11-05",
   "rows": [
@@ -20104,10 +20104,10 @@
     {
       "date": "2026-11-05",
       "open": 278.9150085449219,
-      "high": 279.3299865722656,
-      "low": 276.7699890136719,
-      "close": 278.7950134277344,
-      "volume": 444303
+      "high": 281.9200134277344,
+      "low": 274.4200134277344,
+      "close": 274.9901123046875,
+      "volume": 4578682
     }
   ]
 }

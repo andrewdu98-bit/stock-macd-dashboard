@@ -1,7 +1,7 @@
 {
   "symbol": "STE",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T14:47:14.440Z",
+  "updatedAt": "2026-11-05T18:23:27.426Z",
   "start": "2016-11-07",
   "end": "2026-11-05",
   "rows": [
@@ -20104,10 +20104,10 @@
     {
       "date": "2026-11-05",
       "open": 252.35000610351562,
-      "high": 255.3350067138672,
+      "high": 259.2449951171875,
       "low": 247.6750030517578,
-      "close": 255.3350067138672,
-      "volume": 189505
+      "close": 251.2899932861328,
+      "volume": 789769
     }
   ]
 }

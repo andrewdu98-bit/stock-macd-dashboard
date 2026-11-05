@@ -1,7 +1,7 @@
 {
   "symbol": "SJM",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T14:47:13.303Z",
+  "updatedAt": "2026-11-05T18:23:26.477Z",
   "start": "2016-11-07",
   "end": "2026-11-05",
   "rows": [
@@ -20080,10 +20080,10 @@
     {
       "date": "2026-11-05",
       "open": 133.9600067138672,
-      "high": 134.5,
-      "low": 133.69000244140625,
-      "close": 134.02999877929688,
-      "volume": 32750
+      "high": 136.22000122070312,
+      "low": 132.08999633789062,
+      "close": 133.0449981689453,
+      "volume": 677449
     }
   ]
 }
