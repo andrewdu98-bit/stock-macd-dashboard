@@ -1,47 +1,19 @@
 name: Update market data
 on:
   workflow_dispatch:
-  schedule:
-    # GitHub Actions cron is UTC only. These two UTC times cover both EST and EDT.
-    # The gate step below keeps only the run that is actually 9:30 AM on weekdays in Detroit.
-    - cron: '30 13 * * 1-5'
-    - cron: '30 14 * * 1-5'
 permissions:
   contents: write
 jobs:
   update-data:
     runs-on: ubuntu-latest
     steps:
-      - name: Gate scheduled runs to 9:30 AM weekdays Detroit
-        id: gate
-        env:
-          TZ: America/Detroit
-        run: |
-          if [ "${{ github.event_name }}" != "schedule" ]; then
-            echo "should_run=true" >> "$GITHUB_OUTPUT"
-            exit 0
-          fi
-
-          local_time=$(date +%H%M)
-          day_of_week=$(date +%u)
-          if [ "$local_time" = "0930" ] && [ "$day_of_week" -ge 1 ] && [ "$day_of_week" -le 5 ]; then
-            echo "should_run=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "Not 9:30 AM on a weekday in Detroit yet (local time: $local_time, day: $day_of_week); skipping."
-            echo "should_run=false" >> "$GITHUB_OUTPUT"
-          fi
       - uses: actions/checkout@v4
-        if: steps.gate.outputs.should_run == 'true'
       - uses: actions/setup-node@v4
-        if: steps.gate.outputs.should_run == 'true'
         with:
           node-version: '22'
       - run: node scripts/generate-data.js
-        if: steps.gate.outputs.should_run == 'true'
       - run: node scripts/update-history-data.js
-        if: steps.gate.outputs.should_run == 'true'
       - name: Commit updated data
-        if: steps.gate.outputs.should_run == 'true'
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
