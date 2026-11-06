@@ -1,9 +1,9 @@
 {
   "symbol": "PRU",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T18:23:24.244Z",
+  "updatedAt": "2026-11-06T15:50:36.052Z",
   "start": "2016-11-07",
-  "end": "2026-11-05",
+  "end": "2026-11-06",
   "rows": [
     {
       "date": "2016-11-07",
@@ -20089,9 +20089,17 @@
       "date": "2026-11-05",
       "open": 128,
       "high": 128.77999877929688,
-      "low": 121.75,
-      "close": 122.2249984741211,
-      "volume": 1242289
+      "low": 121.44999694824219,
+      "close": 122.45999908447266,
+      "volume": 2680000
+    },
+    {
+      "date": "2026-11-06",
+      "open": 120.45999908447266,
+      "high": 121.5,
+      "low": 120.2300033569336,
+      "close": 120.86000061035156,
+      "volume": 298884
     }
   ]
 }

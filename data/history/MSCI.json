@@ -1,9 +1,9 @@
 {
   "symbol": "MSCI",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-05T18:23:20.105Z",
+  "updatedAt": "2026-11-06T15:50:30.948Z",
   "start": "2016-11-07",
-  "end": "2026-11-05",
+  "end": "2026-11-06",
   "rows": [
     {
       "date": "2016-11-07",
@@ -20090,8 +20090,16 @@
       "open": 680,
       "high": 681.0399780273438,
       "low": 650.1199951171875,
-      "close": 653.9149780273438,
-      "volume": 466555
+      "close": 655.9099731445312,
+      "volume": 1049100
+    },
+    {
+      "date": "2026-11-06",
+      "open": 642.02001953125,
+      "high": 649.4299926757812,
+      "low": 640.6799926757812,
+      "close": 645.3300170898438,
+      "volume": 78658
     }
   ]
 }
