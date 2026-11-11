@@ -1,7 +1,7 @@
 {
   "symbol": "KVUE",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-10T14:46:56.874Z",
+  "updatedAt": "2026-11-11T14:51:05.168Z",
   "start": "2023-05-04",
   "end": "2026-11-02",
   "rows": [
