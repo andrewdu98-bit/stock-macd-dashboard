@@ -1,9 +1,9 @@
 {
   "symbol": "MCD",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-11T14:51:06.735Z",
+  "updatedAt": "2026-11-12T14:46:43.810Z",
   "start": "2016-11-14",
-  "end": "2026-11-11",
+  "end": "2026-11-12",
   "rows": [
     {
       "date": "2016-11-14",
@@ -20097,9 +20097,17 @@
       "date": "2026-11-11",
       "open": 279,
       "high": 279.4100036621094,
-      "low": 277.7300109863281,
-      "close": 278.44000244140625,
-      "volume": 433251
+      "low": 274.45001220703125,
+      "close": 274.79998779296875,
+      "volume": 6859900
+    },
+    {
+      "date": "2026-11-12",
+      "open": 277,
+      "high": 279.7947998046875,
+      "low": 276.9100036621094,
+      "close": 278.239990234375,
+      "volume": 468951
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "symbol": "JBL",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-11T14:51:04.312Z",
+  "updatedAt": "2026-11-12T14:46:40.992Z",
   "start": "2016-11-14",
-  "end": "2026-11-11",
+  "end": "2026-11-12",
   "rows": [
     {
       "date": "2016-11-14",
@@ -20072,10 +20072,18 @@
     {
       "date": "2026-11-11",
       "open": 258.44000244140625,
-      "high": 260.5299987792969,
+      "high": 266,
       "low": 256,
-      "close": 257.114990234375,
-      "volume": 75131
+      "close": 258.8900146484375,
+      "volume": 1075500
+    },
+    {
+      "date": "2026-11-12",
+      "open": 258.44000244140625,
+      "high": 259.6099853515625,
+      "low": 255.12159729003906,
+      "close": 258.8900146484375,
+      "volume": 28089
     }
   ]
 }

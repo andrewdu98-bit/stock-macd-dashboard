@@ -1,9 +1,9 @@
 {
   "symbol": "IDXX",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-11T14:51:03.313Z",
+  "updatedAt": "2026-11-12T14:46:39.808Z",
   "start": "2016-11-14",
-  "end": "2026-11-11",
+  "end": "2026-11-12",
   "rows": [
     {
       "date": "2016-11-14",
@@ -20072,10 +20072,18 @@
     {
       "date": "2026-11-11",
       "open": 688.0399780273438,
-      "high": 702.8800048828125,
+      "high": 703.8400268554688,
       "low": 680,
-      "close": 702.8800048828125,
-      "volume": 25531
+      "close": 702.5900268554688,
+      "volume": 423300
+    },
+    {
+      "date": "2026-11-12",
+      "open": 711.6799926757812,
+      "high": 712,
+      "low": 705,
+      "close": 705.5078125,
+      "volume": 14406
     }
   ]
 }

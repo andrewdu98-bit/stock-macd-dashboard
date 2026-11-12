@@ -1,7 +1,7 @@
 {
   "symbol": "PSKY",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-11T14:51:11.751Z",
+  "updatedAt": "2026-11-12T14:46:49.602Z",
   "start": "2016-11-14",
   "end": "2026-10-26",
   "rows": [

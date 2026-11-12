@@ -1,9 +1,9 @@
 {
   "symbol": "NVR",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-11T14:51:09.492Z",
+  "updatedAt": "2026-11-12T14:46:46.981Z",
   "start": "2016-11-14",
-  "end": "2026-11-11",
+  "end": "2026-11-12",
   "rows": [
     {
       "date": "2016-11-14",
@@ -20072,10 +20072,18 @@
     {
       "date": "2026-11-11",
       "open": 5935,
-      "high": 5969.9599609375,
-      "low": 5910,
-      "close": 5967.03515625,
-      "volume": 834
+      "high": 5970.14990234375,
+      "low": 5840.02001953125,
+      "close": 5895.39990234375,
+      "volume": 36000
+    },
+    {
+      "date": "2026-11-12",
+      "open": 5940.14013671875,
+      "high": 6000.58984375,
+      "low": 5929.0849609375,
+      "close": 5895.39990234375,
+      "volume": 733
     }
   ]
 }

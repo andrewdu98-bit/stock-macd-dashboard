@@ -1,9 +1,9 @@
 {
   "symbol": "TGT",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-11T14:51:15.526Z",
+  "updatedAt": "2026-11-12T14:46:53.873Z",
   "start": "2016-11-14",
-  "end": "2026-11-11",
+  "end": "2026-11-12",
   "rows": [
     {
       "date": "2016-11-14",
@@ -20081,9 +20081,17 @@
       "date": "2026-11-11",
       "open": 162,
       "high": 163.49000549316406,
-      "low": 161.77999877929688,
-      "close": 163.1199951171875,
-      "volume": 162907
+      "low": 160.94000244140625,
+      "close": 162.6999969482422,
+      "volume": 3345300
+    },
+    {
+      "date": "2026-11-12",
+      "open": 165,
+      "high": 166.32000732421875,
+      "low": 162.38209533691406,
+      "close": 162.7899932861328,
+      "volume": 184680
     }
   ]
 }
