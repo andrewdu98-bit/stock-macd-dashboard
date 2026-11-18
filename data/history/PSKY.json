@@ -1,18 +1,10 @@
 {
   "symbol": "PSKY",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-17T14:46:52.611Z",
-  "start": "2016-11-18",
+  "updatedAt": "2026-11-18T14:48:13.368Z",
+  "start": "2016-11-21",
   "end": "2026-10-26",
   "rows": [
-    {
-      "date": "2016-11-18",
-      "open": 59.95000076293945,
-      "high": 60.52000045776367,
-      "low": 59.91999816894531,
-      "close": 60,
-      "volume": 5428300
-    },
     {
       "date": "2016-11-21",
       "open": 60.08000183105469,
