@@ -1,9 +1,9 @@
 {
   "symbol": "JCI",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-18T14:48:05.859Z",
+  "updatedAt": "2026-11-19T14:46:49.676Z",
   "start": "2016-11-21",
-  "end": "2026-11-18",
+  "end": "2026-11-19",
   "rows": [
     {
       "date": "2016-11-21",
@@ -20080,10 +20080,18 @@
     {
       "date": "2026-11-18",
       "open": 136,
-      "high": 137.39999389648438,
+      "high": 138.75,
       "low": 134.83999633789062,
-      "close": 135.47500610351562,
-      "volume": 188933
+      "close": 138.4199981689453,
+      "volume": 4609500
+    },
+    {
+      "date": "2026-11-19",
+      "open": 139.91000366210938,
+      "high": 140.9499969482422,
+      "low": 139.02000427246094,
+      "close": 139.93499755859375,
+      "volume": 183098
     }
   ]
 }
