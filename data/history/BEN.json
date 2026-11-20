@@ -1,9 +1,9 @@
 {
   "symbol": "BEN",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-19T14:46:36.814Z",
+  "updatedAt": "2026-11-20T14:47:39.041Z",
   "start": "2016-11-21",
-  "end": "2026-11-19",
+  "end": "2026-11-20",
   "rows": [
     {
       "date": "2016-11-21",
@@ -20089,9 +20089,17 @@
       "date": "2026-11-19",
       "open": 34.75,
       "high": 34.869998931884766,
-      "low": 34.404998779296875,
-      "close": 34.75,
-      "volume": 56032
+      "low": 33.18000030517578,
+      "close": 33.27000045776367,
+      "volume": 3149800
+    },
+    {
+      "date": "2026-11-20",
+      "open": 33.150001525878906,
+      "high": 33.244998931884766,
+      "low": 32.959999084472656,
+      "close": 33.099998474121094,
+      "volume": 94877
     }
   ]
 }
