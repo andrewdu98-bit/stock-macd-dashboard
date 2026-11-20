@@ -1,7 +1,7 @@
 {
   "symbol": "NRG",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T14:47:57.536Z",
+  "updatedAt": "2026-11-20T21:03:23.129Z",
   "start": "2016-11-21",
   "end": "2026-11-20",
   "rows": [
@@ -20096,10 +20096,10 @@
     {
       "date": "2026-11-20",
       "open": 92,
-      "high": 93.09500122070312,
-      "low": 91.1500015258789,
-      "close": 92.2699966430664,
-      "volume": 123473
+      "high": 93.95999908447266,
+      "low": 87.27999877929688,
+      "close": 87.7699966430664,
+      "volume": 3427489
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "QUBT",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T14:48:01.107Z",
+  "updatedAt": "2026-11-20T21:03:26.509Z",
   "start": "2016-11-21",
   "end": "2026-11-20",
   "rows": [
@@ -20107,15 +20107,15 @@
       "high": 5.400000095367432,
       "low": 4.860000133514404,
       "close": 4.880000114440918,
-      "volume": 7036500
+      "volume": 7064700
     },
     {
       "date": "2026-11-20",
       "open": 4.710999965667725,
-      "high": 4.815000057220459,
-      "low": 4.650000095367432,
-      "close": 4.755000114440918,
-      "volume": 1547273
+      "high": 4.900000095367432,
+      "low": 4.370100021362305,
+      "close": 4.400000095367432,
+      "volume": 9897883
     }
   ]
 }

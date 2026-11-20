@@ -1,7 +1,7 @@
 {
   "symbol": "VMC",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T14:48:07.457Z",
+  "updatedAt": "2026-11-20T21:03:32.694Z",
   "start": "2016-11-21",
   "end": "2026-11-20",
   "rows": [
@@ -20112,10 +20112,10 @@
     {
       "date": "2026-11-20",
       "open": 276.2099914550781,
-      "high": 281.1700134277344,
-      "low": 275.2200012207031,
-      "close": 281.1700134277344,
-      "volume": 61336
+      "high": 281.3599853515625,
+      "low": 270.44000244140625,
+      "close": 270.9700012207031,
+      "volume": 1004662
     }
   ]
 }

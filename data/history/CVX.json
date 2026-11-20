@@ -1,7 +1,7 @@
 {
   "symbol": "CVX",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T14:47:43.636Z",
+  "updatedAt": "2026-11-20T21:03:08.941Z",
   "start": "2016-11-21",
   "end": "2026-11-20",
   "rows": [
@@ -20112,10 +20112,10 @@
     {
       "date": "2026-11-20",
       "open": 206.44000244140625,
-      "high": 207.33999633789062,
+      "high": 210.1300048828125,
       "low": 205.93919372558594,
-      "close": 207.19000244140625,
-      "volume": 833627
+      "close": 208.39500427246094,
+      "volume": 6774481
     }
   ]
 }

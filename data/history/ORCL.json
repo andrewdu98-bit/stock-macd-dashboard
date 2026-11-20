@@ -1,7 +1,7 @@
 {
   "symbol": "ORCL",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T14:47:58.563Z",
+  "updatedAt": "2026-11-20T21:03:24.181Z",
   "start": "2016-11-21",
   "end": "2026-11-20",
   "rows": [
@@ -20107,15 +20107,15 @@
       "high": 118.5,
       "low": 110.23999786376953,
       "close": 110.56999969482422,
-      "volume": 27630500
+      "volume": 27781200
     },
     {
       "date": "2026-11-20",
       "open": 108.4749984741211,
-      "high": 108.87999725341797,
-      "low": 106.30000305175781,
-      "close": 107.46700286865234,
-      "volume": 3797433
+      "high": 108.98999786376953,
+      "low": 100.25050354003906,
+      "close": 101.16999816894531,
+      "volume": 39062928
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "DUK",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T14:47:44.911Z",
+  "updatedAt": "2026-11-20T21:03:10.248Z",
   "start": "2016-11-21",
   "end": "2026-11-20",
   "rows": [
@@ -20096,10 +20096,10 @@
     {
       "date": "2026-11-20",
       "open": 130.13999938964844,
-      "high": 130.62759399414062,
-      "low": 129.60000610351562,
-      "close": 130.44000244140625,
-      "volume": 519439
+      "high": 131.27000427246094,
+      "low": 129.50999450683594,
+      "close": 129.77499389648438,
+      "volume": 4230934
     }
   ]
 }

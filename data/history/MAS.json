@@ -1,7 +1,7 @@
 {
   "symbol": "MAS",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T14:47:54.886Z",
+  "updatedAt": "2026-11-20T21:03:20.271Z",
   "start": "2016-11-21",
   "end": "2026-11-20",
   "rows": [
@@ -20112,10 +20112,10 @@
     {
       "date": "2026-11-20",
       "open": 83.72000122070312,
-      "high": 84.7249984741211,
-      "low": 83.28500366210938,
-      "close": 84.5250015258789,
-      "volume": 134088
+      "high": 85.23500061035156,
+      "low": 82.25,
+      "close": 82.59500122070312,
+      "volume": 1372217
     }
   ]
 }

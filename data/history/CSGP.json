@@ -1,7 +1,7 @@
 {
   "symbol": "CSGP",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T14:47:43.032Z",
+  "updatedAt": "2026-11-20T21:03:08.400Z",
   "start": "2016-11-21",
   "end": "2026-11-20",
   "rows": [
@@ -20096,10 +20096,10 @@
     {
       "date": "2026-11-20",
       "open": 29.024999618530273,
-      "high": 29.65999984741211,
+      "high": 30.200000762939453,
       "low": 29,
-      "close": 29.510000228881836,
-      "volume": 229743
+      "close": 29.610000610351562,
+      "volume": 6195389
     }
   ]
 }

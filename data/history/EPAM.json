@@ -1,7 +1,7 @@
 {
   "symbol": "EPAM",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T14:47:45.889Z",
+  "updatedAt": "2026-11-20T21:03:11.193Z",
   "start": "2016-11-21",
   "end": "2026-11-20",
   "rows": [
@@ -20112,10 +20112,10 @@
     {
       "date": "2026-11-20",
       "open": 153,
-      "high": 156.13999938964844,
+      "high": 158.36000061035156,
       "low": 152.5800018310547,
-      "close": 156.0050048828125,
-      "volume": 31894
+      "close": 153.36000061035156,
+      "volume": 1012501
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "WMT",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T14:48:08.662Z",
+  "updatedAt": "2026-11-20T21:03:33.837Z",
   "start": "2016-11-21",
   "end": "2026-11-20",
   "rows": [
@@ -20107,15 +20107,15 @@
       "high": 126.94999694824219,
       "low": 123.2699966430664,
       "close": 126.04000091552734,
-      "volume": 32258900
+      "volume": 32289300
     },
     {
       "date": "2026-11-20",
       "open": 127.28500366210938,
-      "high": 129.75999450683594,
+      "high": 130.52000427246094,
       "low": 127.22000122070312,
-      "close": 129.0500030517578,
-      "volume": 4139230
+      "close": 127.94999694824219,
+      "volume": 40172748
     }
   ]
 }

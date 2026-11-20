@@ -1,7 +1,7 @@
 {
   "symbol": "RJF",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T14:48:01.662Z",
+  "updatedAt": "2026-11-20T21:03:27.012Z",
   "start": "2016-11-21",
   "end": "2026-11-20",
   "rows": [
@@ -20112,10 +20112,10 @@
     {
       "date": "2026-11-20",
       "open": 159.44000244140625,
-      "high": 159.92999267578125,
-      "low": 158.02999877929688,
-      "close": 159.41000366210938,
-      "volume": 66163
+      "high": 160.35000610351562,
+      "low": 155.00999450683594,
+      "close": 155.75,
+      "volume": 841840
     }
   ]
 }

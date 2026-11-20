@@ -1,7 +1,7 @@
 {
   "symbol": "LMT",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T14:47:53.890Z",
+  "updatedAt": "2026-11-20T21:03:19.391Z",
   "start": "2016-11-21",
   "end": "2026-11-20",
   "rows": [
@@ -20112,10 +20112,10 @@
     {
       "date": "2026-11-20",
       "open": 574.4299926757812,
-      "high": 577,
-      "low": 571,
-      "close": 575.135009765625,
-      "volume": 80475
+      "high": 577.280029296875,
+      "low": 563.2100219726562,
+      "close": 565.4099731445312,
+      "volume": 866119
     }
   ]
 }

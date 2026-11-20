@@ -1,7 +1,7 @@
 {
   "symbol": "ETN",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T14:47:46.395Z",
+  "updatedAt": "2026-11-20T21:03:11.680Z",
   "start": "2016-11-21",
   "end": "2026-11-20",
   "rows": [
@@ -20096,10 +20096,10 @@
     {
       "date": "2026-11-20",
       "open": 325.04998779296875,
-      "high": 327.3699951171875,
-      "low": 319.5,
-      "close": 323.70001220703125,
-      "volume": 368536
+      "high": 327.9800109863281,
+      "low": 308.2200012207031,
+      "close": 311.30999755859375,
+      "volume": 3983245
     }
   ]
 }

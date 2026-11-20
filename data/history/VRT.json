@@ -1,7 +1,7 @@
 {
   "symbol": "VRT",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T14:48:07.618Z",
+  "updatedAt": "2026-11-20T21:03:32.906Z",
   "start": "2018-08-02",
   "end": "2026-11-20",
   "rows": [
@@ -16699,15 +16699,15 @@
       "high": 201.4199981689453,
       "low": 183.80999755859375,
       "close": 184.99000549316406,
-      "volume": 7289700
+      "volume": 7309900
     },
     {
       "date": "2026-11-20",
       "open": 181,
       "high": 181.8000030517578,
-      "low": 171.55999755859375,
-      "close": 174.55499267578125,
-      "volume": 1278970
+      "low": 163.5749969482422,
+      "close": 166.2449951171875,
+      "volume": 10946653
     }
   ]
 }

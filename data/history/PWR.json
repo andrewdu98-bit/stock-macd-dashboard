@@ -1,7 +1,7 @@
 {
   "symbol": "PWR",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T14:48:00.736Z",
+  "updatedAt": "2026-11-20T21:03:26.275Z",
   "start": "2016-11-21",
   "end": "2026-11-20",
   "rows": [
@@ -20112,10 +20112,10 @@
     {
       "date": "2026-11-20",
       "open": 569.6400146484375,
-      "high": 569.9400024414062,
-      "low": 561.1699829101562,
-      "close": 567.7650146484375,
-      "volume": 124670
+      "high": 579.4550170898438,
+      "low": 548.6400146484375,
+      "close": 559.280029296875,
+      "volume": 1828356
     }
   ]
 }

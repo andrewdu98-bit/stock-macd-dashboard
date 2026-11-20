@@ -1,7 +1,7 @@
 {
   "symbol": "MRVL",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T14:47:56.129Z",
+  "updatedAt": "2026-11-20T21:03:21.626Z",
   "start": "2016-11-21",
   "end": "2026-11-20",
   "rows": [
@@ -20107,15 +20107,15 @@
       "high": 154.50999450683594,
       "low": 138.35000610351562,
       "close": 138.47000122070312,
-      "volume": 29909100
+      "volume": 30063800
     },
     {
       "date": "2026-11-20",
       "open": 132.74000549316406,
-      "high": 133.39999389648438,
-      "low": 128.86000061035156,
-      "close": 130.91000366210938,
-      "volume": 5238685
+      "high": 134.17539978027344,
+      "low": 120.55999755859375,
+      "close": 122.27999877929688,
+      "volume": 39351306
     }
   ]
 }

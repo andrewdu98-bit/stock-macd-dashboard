@@ -1,7 +1,7 @@
 {
   "symbol": "UHS",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T14:48:06.467Z",
+  "updatedAt": "2026-11-20T21:03:31.715Z",
   "start": "2016-11-21",
   "end": "2026-11-20",
   "rows": [
@@ -20112,10 +20112,10 @@
     {
       "date": "2026-11-20",
       "open": 176.9199981689453,
-      "high": 179.27999877929688,
-      "low": 176.9600067138672,
-      "close": 178.5,
-      "volume": 49829
+      "high": 180.77999877929688,
+      "low": 176.625,
+      "close": 179.4600067138672,
+      "volume": 631121
     }
   ]
 }

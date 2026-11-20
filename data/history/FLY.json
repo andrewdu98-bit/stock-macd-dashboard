@@ -1,7 +1,7 @@
 {
   "symbol": "FLY",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T14:47:47.750Z",
+  "updatedAt": "2026-11-20T21:03:12.971Z",
   "start": "2025-08-07",
   "end": "2026-11-20",
   "rows": [
@@ -2608,10 +2608,10 @@
     {
       "date": "2026-11-20",
       "open": 19.010000228881836,
-      "high": 19.5,
-      "low": 18.625999450683594,
-      "close": 19.020000457763672,
-      "volume": 359089
+      "high": 19.59000015258789,
+      "low": 17.329999923706055,
+      "close": 17.690000534057617,
+      "volume": 5099021
     }
   ]
 }

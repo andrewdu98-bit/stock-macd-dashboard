@@ -1,7 +1,7 @@
 {
   "symbol": "SOXS",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T14:48:10.203Z",
+  "updatedAt": "2026-11-20T21:03:35.262Z",
   "start": "2016-11-21",
   "end": "2026-11-20",
   "rows": [
@@ -20107,15 +20107,15 @@
       "high": 63.58000183105469,
       "low": 50.08000183105469,
       "close": 63.13999938964844,
-      "volume": 98147100
+      "volume": 100639900
     },
     {
       "date": "2026-11-20",
       "open": 67.05999755859375,
-      "high": 72.09500122070312,
-      "low": 67.16999816894531,
-      "close": 69.47000122070312,
-      "volume": 30598555
+      "high": 84.85990142822266,
+      "low": 67.05970001220703,
+      "close": 83.30000305175781,
+      "volume": 114704357
     }
   ]
 }

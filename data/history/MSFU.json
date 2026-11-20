@@ -1,7 +1,7 @@
 {
   "symbol": "MSFU",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T14:47:56.372Z",
+  "updatedAt": "2026-11-20T21:03:21.836Z",
   "start": "2022-09-07",
   "end": "2026-11-20",
   "rows": [
@@ -8456,10 +8456,10 @@
     {
       "date": "2026-11-20",
       "open": 35.380001068115234,
-      "high": 36.29999923706055,
-      "low": 35.11000061035156,
-      "close": 36.29999923706055,
-      "volume": 607180
+      "high": 37.027099609375,
+      "low": 33.72999954223633,
+      "close": 34.22999954223633,
+      "volume": 4344505
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "QBTS",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T14:48:00.895Z",
+  "updatedAt": "2026-11-20T21:03:26.301Z",
   "start": "2020-12-11",
   "end": "2026-11-20",
   "rows": [
@@ -11939,15 +11939,15 @@
       "high": 8.380000114440918,
       "low": 7.260000228881836,
       "close": 7.309999942779541,
-      "volume": 18776400
+      "volume": 18821400
     },
     {
       "date": "2026-11-20",
       "open": 7.139999866485596,
-      "high": 7.170000076293945,
-      "low": 6.949999809265137,
-      "close": 7.074999809265137,
-      "volume": 2384230
+      "high": 7.287399768829346,
+      "low": 6.460000038146973,
+      "close": 6.519999980926514,
+      "volume": 21827148
     }
   ]
 }

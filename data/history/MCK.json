@@ -1,7 +1,7 @@
 {
   "symbol": "MCK",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T14:47:54.935Z",
+  "updatedAt": "2026-11-20T21:03:20.539Z",
   "start": "2016-11-21",
   "end": "2026-11-20",
   "rows": [
@@ -20112,10 +20112,10 @@
     {
       "date": "2026-11-20",
       "open": 1076.719970703125,
-      "high": 1083.0498046875,
-      "low": 1073,
-      "close": 1082.5799560546875,
-      "volume": 54636
+      "high": 1088.1400146484375,
+      "low": 1067.4300537109375,
+      "close": 1069.7149658203125,
+      "volume": 438594
     }
   ]
 }

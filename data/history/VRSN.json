@@ -1,7 +1,7 @@
 {
   "symbol": "VRSN",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T14:48:07.820Z",
+  "updatedAt": "2026-11-20T21:03:32.838Z",
   "start": "2016-11-21",
   "end": "2026-11-20",
   "rows": [
@@ -20112,10 +20112,10 @@
     {
       "date": "2026-11-20",
       "open": 310.05999755859375,
-      "high": 313.6600036621094,
-      "low": 309.2749938964844,
-      "close": 312.94000244140625,
-      "volume": 58667
+      "high": 317.1564025878906,
+      "low": 306.4549865722656,
+      "close": 306.8699951171875,
+      "volume": 1322997
     }
   ]
 }

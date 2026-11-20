@@ -1,7 +1,7 @@
 {
   "symbol": "AKAM",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T14:47:36.128Z",
+  "updatedAt": "2026-11-20T21:03:01.692Z",
   "start": "2016-11-21",
   "end": "2026-11-20",
   "rows": [
@@ -20096,10 +20096,10 @@
     {
       "date": "2026-11-20",
       "open": 91.01000213623047,
-      "high": 91.25,
-      "low": 89.18009948730469,
-      "close": 90.52999877929688,
-      "volume": 396306
+      "high": 91.43000030517578,
+      "low": 84.8949966430664,
+      "close": 85.11000061035156,
+      "volume": 5512804
     }
   ]
 }

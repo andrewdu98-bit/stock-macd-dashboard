@@ -1,7 +1,7 @@
 {
   "symbol": "FANG",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T14:47:46.956Z",
+  "updatedAt": "2026-11-20T21:03:12.206Z",
   "start": "2016-11-21",
   "end": "2026-11-20",
   "rows": [
@@ -20112,10 +20112,10 @@
     {
       "date": "2026-11-20",
       "open": 175.97000122070312,
-      "high": 177.11000061035156,
-      "low": 175.52999877929688,
-      "close": 176.61500549316406,
-      "volume": 138966
+      "high": 180.11990356445312,
+      "low": 175.05999755859375,
+      "close": 175.75,
+      "volume": 3098155
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "ABNB",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T14:47:35.211Z",
+  "updatedAt": "2026-11-20T21:03:00.730Z",
   "start": "2020-12-10",
   "end": "2026-11-20",
   "rows": [
@@ -11947,15 +11947,15 @@
       "high": 182.8000030517578,
       "low": 172.52000427246094,
       "close": 172.7899932861328,
-      "volume": 5730100
+      "volume": 5778600
     },
     {
       "date": "2026-11-20",
       "open": 173.67999267578125,
       "high": 175.74000549316406,
-      "low": 172.19000244140625,
-      "close": 175.625,
-      "volume": 733175
+      "low": 169.1199951171875,
+      "close": 170.36000061035156,
+      "volume": 4147214
     }
   ]
 }

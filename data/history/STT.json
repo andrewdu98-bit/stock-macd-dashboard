@@ -1,7 +1,7 @@
 {
   "symbol": "STT",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T14:48:03.774Z",
+  "updatedAt": "2026-11-20T21:03:29.136Z",
   "start": "2016-11-21",
   "end": "2026-11-20",
   "rows": [
@@ -20112,10 +20112,10 @@
     {
       "date": "2026-11-20",
       "open": 160.1300048828125,
-      "high": 160.1300048828125,
-      "low": 158.05999755859375,
-      "close": 159.60000610351562,
-      "volume": 165254
+      "high": 160.75999450683594,
+      "low": 154.71499633789062,
+      "close": 155.41000366210938,
+      "volume": 1674378
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "TRI",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T14:48:05.406Z",
+  "updatedAt": "2026-11-20T21:03:30.753Z",
   "start": "2016-11-21",
   "end": "2026-11-20",
   "rows": [
@@ -20096,10 +20096,10 @@
     {
       "date": "2026-11-20",
       "open": 100.54000091552734,
-      "high": 104.43000030517578,
+      "high": 105.2300033569336,
       "low": 100.54000091552734,
-      "close": 104.43000030517578,
-      "volume": 156278
+      "close": 101.55999755859375,
+      "volume": 2508289
     }
   ]
 }

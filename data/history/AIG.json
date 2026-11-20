@@ -1,7 +1,7 @@
 {
   "symbol": "AIG",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T14:47:36.006Z",
+  "updatedAt": "2026-11-20T21:03:01.475Z",
   "start": "2016-11-21",
   "end": "2026-11-20",
   "rows": [
@@ -20096,10 +20096,10 @@
     {
       "date": "2026-11-20",
       "open": 80.1500015258789,
-      "high": 80.87999725341797,
-      "low": 79.98999786376953,
-      "close": 80.8499984741211,
-      "volume": 179758
+      "high": 81.34500122070312,
+      "low": 79.61000061035156,
+      "close": 79.69000244140625,
+      "volume": 2077226
     }
   ]
 }

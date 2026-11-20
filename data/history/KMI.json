@@ -1,7 +1,7 @@
 {
   "symbol": "KMI",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T14:47:52.950Z",
+  "updatedAt": "2026-11-20T21:03:18.509Z",
   "start": "2016-11-21",
   "end": "2026-11-20",
   "rows": [
@@ -20112,10 +20112,10 @@
     {
       "date": "2026-11-20",
       "open": 30.950000762939453,
-      "high": 31.025999069213867,
-      "low": 30.709999084472656,
-      "close": 31.025999069213867,
-      "volume": 878435
+      "high": 31.25,
+      "low": 30.239999771118164,
+      "close": 30.395000457763672,
+      "volume": 10347890
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "TSLA",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T14:48:05.629Z",
+  "updatedAt": "2026-11-20T21:03:30.964Z",
   "start": "2016-11-21",
   "end": "2026-11-20",
   "rows": [
@@ -20107,15 +20107,15 @@
       "high": 393.6000061035156,
       "low": 370.80999755859375,
       "close": 374.4100036621094,
-      "volume": 26375800
+      "volume": 26532900
     },
     {
       "date": "2026-11-20",
       "open": 370.2200012207031,
-      "high": 370.6700134277344,
-      "low": 365.1400146484375,
-      "close": 370.4200134277344,
-      "volume": 4552989
+      "high": 373.8799133300781,
+      "low": 344.3299865722656,
+      "close": 345.82000732421875,
+      "volume": 43268266
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "KORU",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T14:48:09.725Z",
+  "updatedAt": "2026-11-20T21:03:34.844Z",
   "start": "2016-11-21",
   "end": "2026-11-20",
   "rows": [
@@ -20107,15 +20107,15 @@
       "high": 7.389999866485596,
       "low": 6.329999923706055,
       "close": 6.349999904632568,
-      "volume": 53344200
+      "volume": 56078400
     },
     {
       "date": "2026-11-20",
       "open": 5.980000019073486,
-      "high": 5.983099937438965,
-      "low": 5.690299987792969,
-      "close": 5.860000133514404,
-      "volume": 27999317
+      "high": 6.089099884033203,
+      "low": 4.590000152587891,
+      "close": 4.760000228881836,
+      "volume": 89049482
     }
   ]
 }
