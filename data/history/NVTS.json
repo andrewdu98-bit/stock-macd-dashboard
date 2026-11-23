@@ -1,9 +1,9 @@
 {
   "symbol": "NVTS",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T21:03:23.368Z",
+  "updatedAt": "2026-11-23T14:50:49.136Z",
   "start": "2021-10-20",
-  "end": "2026-11-20",
+  "end": "2026-11-23",
   "rows": [
     {
       "date": "2021-10-20",
@@ -10227,7 +10227,15 @@
       "high": 6.949999809265137,
       "low": 6.03000020980835,
       "close": 6.079999923706055,
-      "volume": 17913233
+      "volume": 18163000
+    },
+    {
+      "date": "2026-11-23",
+      "open": 7.340000152587891,
+      "high": 7.670199871063232,
+      "low": 7.199999809265137,
+      "close": 7.420000076293945,
+      "volume": 4282303
     }
   ]
 }

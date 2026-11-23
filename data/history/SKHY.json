@@ -1,9 +1,9 @@
 {
   "symbol": "SKHY",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-20T21:03:34.890Z",
+  "updatedAt": "2026-11-23T14:51:01.613Z",
   "start": "2026-07-10",
-  "end": "2026-11-20",
+  "end": "2026-11-23",
   "rows": [
     {
       "date": "2026-07-10",
@@ -759,11 +759,19 @@
     },
     {
       "date": "2026-11-20",
-      "open": 117.63500213623047,
+      "open": 117.63999938964844,
       "high": 117.88999938964844,
       "low": 102.44999694824219,
       "close": 103.56999969482422,
-      "volume": 37328520
+      "volume": 39679700
+    },
+    {
+      "date": "2026-11-23",
+      "open": 127.125,
+      "high": 127.125,
+      "low": 120.81500244140625,
+      "close": 122.9800033569336,
+      "volume": 11369163
     }
   ]
 }
