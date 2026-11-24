@@ -1,9 +1,9 @@
 {
   "symbol": "EFX",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-23T14:50:35.661Z",
+  "updatedAt": "2026-11-24T14:47:27.595Z",
   "start": "2016-11-25",
-  "end": "2026-11-23",
+  "end": "2026-11-24",
   "rows": [
     {
       "date": "2016-11-25",
@@ -20073,9 +20073,17 @@
       "date": "2026-11-23",
       "open": 178.02000427246094,
       "high": 182.0500030517578,
-      "low": 177.19000244140625,
-      "close": 179.02000427246094,
-      "volume": 37151
+      "low": 176.94000244140625,
+      "close": 179.50999450683594,
+      "volume": 1057500
+    },
+    {
+      "date": "2026-11-24",
+      "open": 179.75999450683594,
+      "high": 184.02499389648438,
+      "low": 179,
+      "close": 179,
+      "volume": 24735
     }
   ]
 }

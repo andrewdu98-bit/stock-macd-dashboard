@@ -1,9 +1,9 @@
 {
   "symbol": "MTB",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-23T14:50:47.684Z",
+  "updatedAt": "2026-11-24T14:47:37.561Z",
   "start": "2016-11-25",
-  "end": "2026-11-23",
+  "end": "2026-11-24",
   "rows": [
     {
       "date": "2016-11-25",
@@ -20074,8 +20074,16 @@
       "open": 215.52999877929688,
       "high": 215.52999877929688,
       "low": 209.25,
-      "close": 210.7899932861328,
-      "volume": 53385
+      "close": 211.60000610351562,
+      "volume": 837000
+    },
+    {
+      "date": "2026-11-24",
+      "open": 215.52999877929688,
+      "high": 212.3800048828125,
+      "low": 210.14999389648438,
+      "close": 212.3300018310547,
+      "volume": 25522
     }
   ]
 }

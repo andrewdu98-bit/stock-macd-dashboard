@@ -1,9 +1,9 @@
 {
   "symbol": "IEX",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-23T14:50:41.942Z",
+  "updatedAt": "2026-11-24T14:47:32.700Z",
   "start": "2016-11-25",
-  "end": "2026-11-23",
+  "end": "2026-11-24",
   "rows": [
     {
       "date": "2016-11-25",
@@ -20096,10 +20096,18 @@
     {
       "date": "2026-11-23",
       "open": 228.61000061035156,
-      "high": 228.64999389648438,
+      "high": 229.16000366210938,
       "low": 224.25,
-      "close": 226,
-      "volume": 35205
+      "close": 227.9199981689453,
+      "volume": 1046300
+    },
+    {
+      "date": "2026-11-24",
+      "open": 225.27999877929688,
+      "high": 226.5399932861328,
+      "low": 225.1300048828125,
+      "close": 225.50999450683594,
+      "volume": 64630
     }
   ]
 }

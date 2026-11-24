@@ -1,9 +1,9 @@
 {
   "symbol": "LNG",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-23T14:50:44.845Z",
+  "updatedAt": "2026-11-24T14:47:35.243Z",
   "start": "2016-11-25",
-  "end": "2026-11-23",
+  "end": "2026-11-24",
   "rows": [
     {
       "date": "2016-11-25",
@@ -20096,10 +20096,18 @@
     {
       "date": "2026-11-23",
       "open": 296,
-      "high": 299.989990234375,
-      "low": 296,
-      "close": 298.9599914550781,
-      "volume": 85354
+      "high": 300.7099914550781,
+      "low": 294.92999267578125,
+      "close": 295.4599914550781,
+      "volume": 2017900
+    },
+    {
+      "date": "2026-11-24",
+      "open": 296.5,
+      "high": 297,
+      "low": 292.3900146484375,
+      "close": 296.7650146484375,
+      "volume": 62590
     }
   ]
 }
