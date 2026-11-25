@@ -1,9 +1,9 @@
 {
   "symbol": "VICI",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-24T14:47:46.673Z",
+  "updatedAt": "2026-11-25T14:47:11.397Z",
   "start": "2018-01-02",
-  "end": "2026-11-24",
+  "end": "2026-11-25",
   "rows": [
     {
       "date": "2018-01-02",
@@ -17896,10 +17896,18 @@
     {
       "date": "2026-11-24",
       "open": 24.079999923706055,
-      "high": 24.25,
+      "high": 24.780000686645508,
       "low": 23.889999389648438,
-      "close": 24.25,
-      "volume": 351923
+      "close": 24.770000457763672,
+      "volume": 7447000
+    },
+    {
+      "date": "2026-11-25",
+      "open": 25,
+      "high": 25.102500915527344,
+      "low": 24.940000534057617,
+      "close": 25.024999618530273,
+      "volume": 539880
     }
   ]
 }
