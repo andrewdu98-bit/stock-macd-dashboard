@@ -1,7 +1,7 @@
 {
   "symbol": "USAR",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-25T14:47:11.058Z",
+  "updatedAt": "2026-11-26T14:47:11.275Z",
   "start": "2023-07-17",
   "end": "2026-11-25",
   "rows": [
@@ -6763,15 +6763,15 @@
       "high": 7.099999904632568,
       "low": 6.505000114440918,
       "close": 6.679999828338623,
-      "volume": 14620700
+      "volume": 14751300
     },
     {
       "date": "2026-11-25",
-      "open": 6.28000020980835,
-      "high": 6.289999961853027,
+      "open": 6.25,
+      "high": 6.650000095367432,
       "low": 6.010000228881836,
-      "close": 6.059999942779541,
-      "volume": 2284040
+      "close": 6.590000152587891,
+      "volume": 14290900
     }
   ]
 }

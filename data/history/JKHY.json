@@ -1,7 +1,7 @@
 {
   "symbol": "JKHY",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-25T14:46:56.397Z",
+  "updatedAt": "2026-11-26T14:46:58.751Z",
   "start": "2016-11-28",
   "end": "2026-11-25",
   "rows": [
@@ -20104,10 +20104,10 @@
     {
       "date": "2026-11-25",
       "open": 178.50999450683594,
-      "high": 179.11000061035156,
-      "low": 177.5749969482422,
-      "close": 178.7050018310547,
-      "volume": 19022
+      "high": 183,
+      "low": 177.5800018310547,
+      "close": 182.0800018310547,
+      "volume": 781700
     }
   ]
 }

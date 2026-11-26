@@ -1,7 +1,7 @@
 {
   "symbol": "CMCSA",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-25T14:46:45.445Z",
+  "updatedAt": "2026-11-26T14:46:49.567Z",
   "start": "2016-11-28",
   "end": "2026-11-25",
   "rows": [
@@ -20103,11 +20103,11 @@
     },
     {
       "date": "2026-11-25",
-      "open": 25.469999313354492,
-      "high": 25.56999969482422,
-      "low": 25.311100006103516,
-      "close": 25.31999969482422,
-      "volume": 1493760
+      "open": 25.440000534057617,
+      "high": 26.040000915527344,
+      "low": 25.309999465942383,
+      "close": 25.729999542236328,
+      "volume": 23643200
     }
   ]
 }

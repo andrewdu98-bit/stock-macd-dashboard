@@ -1,7 +1,7 @@
 {
   "symbol": "CTAS",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-25T14:46:47.031Z",
+  "updatedAt": "2026-11-26T14:46:50.811Z",
   "start": "2016-11-28",
   "end": "2026-11-25",
   "rows": [
@@ -20103,11 +20103,11 @@
     },
     {
       "date": "2026-11-25",
-      "open": 226.0399932861328,
-      "high": 227.5800018310547,
-      "low": 223.83999633789062,
-      "close": 224.94009399414062,
-      "volume": 117793
+      "open": 226.02999877929688,
+      "high": 228.92999267578125,
+      "low": 223.82000732421875,
+      "close": 227.64999389648438,
+      "volume": 1874400
     }
   ]
 }

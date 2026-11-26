@@ -1,7 +1,7 @@
 {
   "symbol": "SBAC",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-25T14:47:06.554Z",
+  "updatedAt": "2026-11-26T14:47:07.409Z",
   "start": "2016-11-28",
   "end": "2026-11-25",
   "rows": [
@@ -20103,11 +20103,11 @@
     },
     {
       "date": "2026-11-25",
-      "open": 173.1999969482422,
-      "high": 174.77000427246094,
-      "low": 172.85000610351562,
-      "close": 173.08999633789062,
-      "volume": 24986
+      "open": 173.27999877929688,
+      "high": 177.17999267578125,
+      "low": 172.47999572753906,
+      "close": 174.72999572753906,
+      "volume": 835400
     }
   ]
 }

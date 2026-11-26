@@ -1,7 +1,7 @@
 {
   "symbol": "BKR",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-25T14:46:43.166Z",
+  "updatedAt": "2026-11-26T14:46:47.586Z",
   "start": "2016-11-28",
   "end": "2026-11-25",
   "rows": [
@@ -20103,11 +20103,11 @@
     },
     {
       "date": "2026-11-25",
-      "open": 44.7400016784668,
-      "high": 45.08000183105469,
+      "open": 44.689998626708984,
+      "high": 46.720001220703125,
       "low": 44.38999938964844,
-      "close": 44.875,
-      "volume": 671670
+      "close": 46.36000061035156,
+      "volume": 7098900
     }
   ]
 }

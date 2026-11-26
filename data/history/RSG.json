@@ -1,7 +1,7 @@
 {
   "symbol": "RSG",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-25T14:47:06.290Z",
+  "updatedAt": "2026-11-26T14:47:07.212Z",
   "start": "2016-11-28",
   "end": "2026-11-25",
   "rows": [
@@ -20080,10 +20080,10 @@
     {
       "date": "2026-11-25",
       "open": 254.4600067138672,
-      "high": 254.99989318847656,
-      "low": 247,
-      "close": 253.9499969482422,
-      "volume": 29573
+      "high": 256,
+      "low": 252,
+      "close": 254.16000366210938,
+      "volume": 1178200
     }
   ]
 }

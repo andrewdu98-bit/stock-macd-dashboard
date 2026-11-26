@@ -1,7 +1,7 @@
 {
   "symbol": "FTNT",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-25T14:46:52.146Z",
+  "updatedAt": "2026-11-26T14:46:55.199Z",
   "start": "2016-11-28",
   "end": "2026-11-25",
   "rows": [
@@ -20104,10 +20104,10 @@
     {
       "date": "2026-11-25",
       "open": 128.7899932861328,
-      "high": 131.63999938964844,
-      "low": 128.35000610351562,
-      "close": 130.02000427246094,
-      "volume": 373710
+      "high": 135.4199981689453,
+      "low": 127.58000183105469,
+      "close": 134.9600067138672,
+      "volume": 4406900
     }
   ]
 }

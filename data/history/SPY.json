@@ -1,7 +1,7 @@
 {
   "symbol": "SPY",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-25T14:47:07.718Z",
+  "updatedAt": "2026-11-26T14:47:08.398Z",
   "start": "2016-11-28",
   "end": "2026-11-25",
   "rows": [
@@ -20099,15 +20099,15 @@
       "high": 720.9299926757812,
       "low": 712.1400146484375,
       "close": 718.780029296875,
-      "volume": 64228000
+      "volume": 64343200
     },
     {
       "date": "2026-11-25",
       "open": 703.2000122070312,
-      "high": 703.7000122070312,
-      "low": 695.4650268554688,
-      "close": 697.8900146484375,
-      "volume": 7533313
+      "high": 718.4299926757812,
+      "low": 695.4500122070312,
+      "close": 716.7000122070312,
+      "volume": 72919200
     }
   ]
 }

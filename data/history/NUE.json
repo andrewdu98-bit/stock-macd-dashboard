@@ -1,7 +1,7 @@
 {
   "symbol": "NUE",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-25T14:47:01.980Z",
+  "updatedAt": "2026-11-26T14:47:03.527Z",
   "start": "2016-11-28",
   "end": "2026-11-25",
   "rows": [
@@ -20104,10 +20104,10 @@
     {
       "date": "2026-11-25",
       "open": 243.5,
-      "high": 243.5,
-      "low": 238.98899841308594,
-      "close": 241.27999877929688,
-      "volume": 209516
+      "high": 250.58999633789062,
+      "low": 238.99000549316406,
+      "close": 248.33999633789062,
+      "volume": 1525800
     }
   ]
 }

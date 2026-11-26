@@ -1,7 +1,7 @@
 {
   "symbol": "LUNR",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-25T14:46:58.377Z",
+  "updatedAt": "2026-11-26T14:47:00.523Z",
   "start": "2021-11-17",
   "end": "2026-11-25",
   "rows": [
@@ -10083,15 +10083,15 @@
       "high": 9.569999694824219,
       "low": 8.73900032043457,
       "close": 8.930000305175781,
-      "volume": 8001300
+      "volume": 8173000
     },
     {
       "date": "2026-11-25",
-      "open": 8.479999542236328,
-      "high": 8.489999771118164,
-      "low": 8.070099830627441,
-      "close": 8.145000457763672,
-      "volume": 1694565
+      "open": 8.5,
+      "high": 9.380000114440918,
+      "low": 8.005000114440918,
+      "close": 9.140000343322754,
+      "volume": 12712400
     }
   ]
 }

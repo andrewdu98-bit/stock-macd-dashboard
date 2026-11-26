@@ -1,7 +1,7 @@
 {
   "symbol": "JBHT",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-25T14:46:56.203Z",
+  "updatedAt": "2026-11-26T14:46:58.603Z",
   "start": "2016-11-28",
   "end": "2026-11-25",
   "rows": [
@@ -20080,10 +20080,10 @@
     {
       "date": "2026-11-25",
       "open": 221.0800018310547,
-      "high": 222.44000244140625,
-      "low": 219.9375,
-      "close": 221.37249755859375,
-      "volume": 18934
+      "high": 229.16000366210938,
+      "low": 219.69000244140625,
+      "close": 227.9199981689453,
+      "volume": 595500
     }
   ]
 }

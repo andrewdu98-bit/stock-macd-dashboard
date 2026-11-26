@@ -1,7 +1,7 @@
 {
   "symbol": "NSC",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-25T14:47:01.770Z",
+  "updatedAt": "2026-11-26T14:47:03.447Z",
   "start": "2016-11-28",
   "end": "2026-11-25",
   "rows": [
@@ -20088,10 +20088,10 @@
     {
       "date": "2026-11-25",
       "open": 316,
-      "high": 317.1600036621094,
-      "low": 314.9800109863281,
-      "close": 315.0799865722656,
-      "volume": 18906
+      "high": 327.80999755859375,
+      "low": 313.9800109863281,
+      "close": 326.510009765625,
+      "volume": 1156800
     }
   ]
 }

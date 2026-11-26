@@ -1,7 +1,7 @@
 {
   "symbol": "KMB",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-25T14:46:57.007Z",
+  "updatedAt": "2026-11-26T14:46:59.272Z",
   "start": "2016-11-28",
   "end": "2026-11-25",
   "rows": [
@@ -20096,10 +20096,10 @@
     {
       "date": "2026-11-25",
       "open": 108.95999908447266,
-      "high": 109.68000030517578,
-      "low": 108.87000274658203,
-      "close": 109.12999725341797,
-      "volume": 278853
+      "high": 110.3499984741211,
+      "low": 108.55999755859375,
+      "close": 109.44999694824219,
+      "volume": 4596400
     }
   ]
 }

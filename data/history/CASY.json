@@ -1,7 +1,7 @@
 {
   "symbol": "CASY",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-25T14:46:44.265Z",
+  "updatedAt": "2026-11-26T14:46:48.462Z",
   "start": "2016-11-28",
   "end": "2026-11-25",
   "rows": [
@@ -20080,10 +20080,10 @@
     {
       "date": "2026-11-25",
       "open": 691.75,
-      "high": 692,
-      "low": 685.1799926757812,
-      "close": 685.7999877929688,
-      "volume": 6435
+      "high": 700.719970703125,
+      "low": 681.1599731445312,
+      "close": 698.260009765625,
+      "volume": 387600
     }
   ]
 }

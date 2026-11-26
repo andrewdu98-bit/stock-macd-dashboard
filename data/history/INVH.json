@@ -1,7 +1,7 @@
 {
   "symbol": "INVH",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-25T14:46:55.509Z",
+  "updatedAt": "2026-11-26T14:46:58.015Z",
   "start": "2017-02-01",
   "end": "2026-11-25",
   "rows": [
@@ -19736,10 +19736,10 @@
     {
       "date": "2026-11-25",
       "open": 27.34000015258789,
-      "high": 27.440000534057617,
+      "high": 28.05500030517578,
       "low": 27.235000610351562,
-      "close": 27.40999984741211,
-      "volume": 118156
+      "close": 27.81999969482422,
+      "volume": 7528400
     }
   ]
 }

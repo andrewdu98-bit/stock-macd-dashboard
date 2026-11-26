@@ -1,7 +1,7 @@
 {
   "symbol": "NOC",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-25T14:47:01.589Z",
+  "updatedAt": "2026-11-26T14:47:03.256Z",
   "start": "2016-11-28",
   "end": "2026-11-25",
   "rows": [
@@ -20104,10 +20104,10 @@
     {
       "date": "2026-11-25",
       "open": 550.4000244140625,
-      "high": 553.4500122070312,
-      "low": 548,
-      "close": 549.989990234375,
-      "volume": 15425
+      "high": 558,
+      "low": 547.7899780273438,
+      "close": 555.7899780273438,
+      "volume": 583000
     }
   ]
 }

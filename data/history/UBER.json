@@ -1,7 +1,7 @@
 {
   "symbol": "UBER",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-25T14:47:10.514Z",
+  "updatedAt": "2026-11-26T14:47:10.859Z",
   "start": "2019-05-10",
   "end": "2026-11-25",
   "rows": [
@@ -15184,10 +15184,10 @@
     {
       "date": "2026-11-25",
       "open": 64,
-      "high": 64.80000305175781,
-      "low": 63.59000015258789,
-      "close": 63.709999084472656,
-      "volume": 1242624
+      "high": 66.9800033569336,
+      "low": 63.56999969482422,
+      "close": 66.3499984741211,
+      "volume": 19832100
     }
   ]
 }

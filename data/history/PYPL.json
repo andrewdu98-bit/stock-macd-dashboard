@@ -1,7 +1,7 @@
 {
   "symbol": "PYPL",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-25T14:47:04.927Z",
+  "updatedAt": "2026-11-26T14:47:06.130Z",
   "start": "2016-11-28",
   "end": "2026-11-25",
   "rows": [
@@ -20103,11 +20103,11 @@
     },
     {
       "date": "2026-11-25",
-      "open": 55.400001525878906,
-      "high": 55.935001373291016,
-      "low": 55.28010177612305,
-      "close": 55.470001220703125,
-      "volume": 796167
+      "open": 55.439998626708984,
+      "high": 57.95500183105469,
+      "low": 55.279998779296875,
+      "close": 57.810001373291016,
+      "volume": 9450800
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "symbol": "MDLZ",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-25T14:46:59.204Z",
+  "updatedAt": "2026-11-26T14:47:01.204Z",
   "start": "2016-11-28",
   "end": "2026-11-25",
   "rows": [
@@ -20104,10 +20104,10 @@
     {
       "date": "2026-11-25",
       "open": 67.69000244140625,
-      "high": 68.01000213623047,
-      "low": 67.5199966430664,
-      "close": 67.625,
-      "volume": 590130
+      "high": 68.41000366210938,
+      "low": 67.2300033569336,
+      "close": 67.80999755859375,
+      "volume": 10118200
     }
   ]
 }

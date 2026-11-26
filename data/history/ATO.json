@@ -1,7 +1,7 @@
 {
   "symbol": "ATO",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-25T14:46:41.800Z",
+  "updatedAt": "2026-11-26T14:46:46.344Z",
   "start": "2016-11-28",
   "end": "2026-11-25",
   "rows": [
@@ -20080,10 +20080,10 @@
     {
       "date": "2026-11-25",
       "open": 172.5399932861328,
-      "high": 173.6699981689453,
+      "high": 174.3300018310547,
       "low": 171.27000427246094,
-      "close": 171.85499572753906,
-      "volume": 35666
+      "close": 173.25999450683594,
+      "volume": 1757100
     }
   ]
 }

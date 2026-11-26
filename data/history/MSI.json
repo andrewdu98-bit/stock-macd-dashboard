@@ -1,7 +1,7 @@
 {
   "symbol": "MSI",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-25T14:47:00.575Z",
+  "updatedAt": "2026-11-26T14:47:02.427Z",
   "start": "2016-11-28",
   "end": "2026-11-25",
   "rows": [
@@ -20080,10 +20080,10 @@
     {
       "date": "2026-11-25",
       "open": 527.3099975585938,
-      "high": 528.5750122070312,
+      "high": 543.1599731445312,
       "low": 523,
-      "close": 525.4400024414062,
-      "volume": 44362
+      "close": 541,
+      "volume": 1248200
     }
   ]
 }

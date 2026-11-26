@@ -1,7 +1,7 @@
 {
   "symbol": "EQIX",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-25T14:46:49.835Z",
+  "updatedAt": "2026-11-26T14:46:53.263Z",
   "start": "2016-11-28",
   "end": "2026-11-25",
   "rows": [
@@ -20103,11 +20103,11 @@
     },
     {
       "date": "2026-11-25",
-      "open": 963.6799926757812,
-      "high": 965.719970703125,
-      "low": 950.8200073242188,
-      "close": 950.8201904296875,
-      "volume": 21633
+      "open": 964,
+      "high": 987.1400146484375,
+      "low": 950.8099975585938,
+      "close": 978.219970703125,
+      "volume": 502200
     }
   ]
 }

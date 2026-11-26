@@ -1,7 +1,7 @@
 {
   "symbol": "TRGP",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-25T14:47:09.445Z",
+  "updatedAt": "2026-11-26T14:47:09.876Z",
   "start": "2016-11-28",
   "end": "2026-11-25",
   "rows": [
@@ -20080,10 +20080,10 @@
     {
       "date": "2026-11-25",
       "open": 278.79998779296875,
-      "high": 281.80999755859375,
+      "high": 287.8500061035156,
       "low": 278.7099914550781,
-      "close": 281.6600036621094,
-      "volume": 31139
+      "close": 285.5299987792969,
+      "volume": 1241400
     }
   ]
 }

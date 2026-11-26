@@ -1,7 +1,7 @@
 {
   "symbol": "ASTS",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-25T14:46:41.629Z",
+  "updatedAt": "2026-11-26T14:46:46.241Z",
   "start": "2019-11-01",
   "end": "2026-11-25",
   "rows": [
@@ -14203,15 +14203,15 @@
       "high": 25.270000457763672,
       "low": 22.520000457763672,
       "close": 23.600000381469727,
-      "volume": 15434800
+      "volume": 15507100
     },
     {
       "date": "2026-11-25",
-      "open": 22.68000030517578,
-      "high": 23.56999969482422,
+      "open": 22.639999389648438,
+      "high": 26.665000915527344,
       "low": 22.5,
-      "close": 22.934999465942383,
-      "volume": 2406189
+      "close": 26.020000457763672,
+      "volume": 26439000
     }
   ]
 }

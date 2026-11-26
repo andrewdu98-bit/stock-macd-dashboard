@@ -1,7 +1,7 @@
 {
   "symbol": "ADBE",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-25T14:46:39.247Z",
+  "updatedAt": "2026-11-26T14:46:44.219Z",
   "start": "2016-11-28",
   "end": "2026-11-25",
   "rows": [
@@ -20103,11 +20103,11 @@
     },
     {
       "date": "2026-11-25",
-      "open": 229.6300048828125,
-      "high": 233.3759002685547,
-      "low": 227.72000122070312,
-      "close": 228.6300048828125,
-      "volume": 361845
+      "open": 230.5,
+      "high": 236.8000030517578,
+      "low": 227.7100067138672,
+      "close": 232.8300018310547,
+      "volume": 3752600
     }
   ]
 }

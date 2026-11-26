@@ -1,7 +1,7 @@
 {
   "symbol": "DVN",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-25T14:46:48.906Z",
+  "updatedAt": "2026-11-26T14:46:52.499Z",
   "start": "2016-11-28",
   "end": "2026-11-25",
   "rows": [
@@ -20104,10 +20104,10 @@
     {
       "date": "2026-11-25",
       "open": 41.25,
-      "high": 41.81999969482422,
+      "high": 42.88999938964844,
       "low": 40.9900016784668,
-      "close": 41.814998626708984,
-      "volume": 725088
+      "close": 42.45000076293945,
+      "volume": 10255800
     }
   ]
 }

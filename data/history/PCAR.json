@@ -1,7 +1,7 @@
 {
   "symbol": "PCAR",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-25T14:47:03.150Z",
+  "updatedAt": "2026-11-26T14:47:04.577Z",
   "start": "2016-11-28",
   "end": "2026-11-25",
   "rows": [
@@ -20103,11 +20103,11 @@
     },
     {
       "date": "2026-11-25",
-      "open": 103.8499984741211,
-      "high": 105.2300033569336,
+      "open": 104.12999725341797,
+      "high": 108.5199966430664,
       "low": 103.36000061035156,
-      "close": 104.69999694824219,
-      "volume": 405545
+      "close": 107.94999694824219,
+      "volume": 4077300
     }
   ]
 }

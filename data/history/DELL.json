@@ -1,7 +1,7 @@
 {
   "symbol": "DELL",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-25T14:46:47.838Z",
+  "updatedAt": "2026-11-26T14:46:51.614Z",
   "start": "2016-11-28",
   "end": "2026-11-25",
   "rows": [
@@ -20099,15 +20099,15 @@
       "high": 318.2200012207031,
       "low": 290.5,
       "close": 295.2799987792969,
-      "volume": 20630000
+      "volume": 21584200
     },
     {
       "date": "2026-11-25",
       "open": 267.57000732421875,
-      "high": 277.9100036621094,
+      "high": 297.8900146484375,
       "low": 265,
-      "close": 276.010009765625,
-      "volume": 6488460
+      "close": 297.05999755859375,
+      "volume": 26489800
     }
   ]
 }

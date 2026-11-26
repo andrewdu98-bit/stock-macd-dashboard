@@ -1,7 +1,7 @@
 {
   "symbol": "VTRS",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-25T14:47:12.078Z",
+  "updatedAt": "2026-11-26T14:47:12.105Z",
   "start": "2016-11-28",
   "end": "2026-11-25",
   "rows": [
@@ -20096,10 +20096,10 @@
     {
       "date": "2026-11-25",
       "open": 19.670000076293945,
-      "high": 19.700000762939453,
+      "high": 19.989999771118164,
       "low": 19.34000015258789,
-      "close": 19.459999084472656,
-      "volume": 459300
+      "close": 19.829999923706055,
+      "volume": 7185700
     }
   ]
 }
