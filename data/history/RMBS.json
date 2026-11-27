@@ -1,9 +1,9 @@
 {
   "symbol": "RMBS",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:47:06.933Z",
+  "updatedAt": "2026-11-27T14:50:44.196Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20108,6 +20108,14 @@
       "low": 62.2599983215332,
       "close": 68.86000061035156,
       "volume": 1679500
+    },
+    {
+      "date": "2026-11-27",
+      "open": 72.5,
+      "high": 72.5,
+      "low": 69.83000183105469,
+      "close": 70.27999877929688,
+      "volume": 58633
     }
   ]
 }

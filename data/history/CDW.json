@@ -1,9 +1,9 @@
 {
   "symbol": "CDW",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:46:48.927Z",
+  "updatedAt": "2026-11-27T14:50:26.079Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20108,6 +20108,14 @@
       "low": 158.27999877929688,
       "close": 174.97000122070312,
       "volume": 1542300
+    },
+    {
+      "date": "2026-11-27",
+      "open": 176.68499755859375,
+      "high": 180.42999267578125,
+      "low": 175.82000732421875,
+      "close": 180.42999267578125,
+      "volume": 98904
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "symbol": "TSM",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:47:10.284Z",
+  "updatedAt": "2026-11-27T14:50:47.628Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20107,7 +20107,15 @@
       "high": 343.1700134277344,
       "low": 321.1000061035156,
       "close": 342.3399963378906,
-      "volume": 22717200
+      "volume": 22861100
+    },
+    {
+      "date": "2026-11-27",
+      "open": 352.6400146484375,
+      "high": 354.3599853515625,
+      "low": 345.2110900878906,
+      "close": 347.3299865722656,
+      "volume": 3072950
     }
   ]
 }

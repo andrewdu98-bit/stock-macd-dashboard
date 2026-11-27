@@ -1,9 +1,9 @@
 {
   "symbol": "VRTX",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:47:11.895Z",
+  "updatedAt": "2026-11-27T14:50:49.264Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20108,6 +20108,14 @@
       "low": 550.5599975585938,
       "close": 564.1199951171875,
       "volume": 1617400
+    },
+    {
+      "date": "2026-11-27",
+      "open": 517.3699951171875,
+      "high": 522.280029296875,
+      "low": 502.9006042480469,
+      "close": 510.30499267578125,
+      "volume": 607925
     }
   ]
 }

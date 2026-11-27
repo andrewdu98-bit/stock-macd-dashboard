@@ -1,9 +1,9 @@
 {
   "symbol": "PFE",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:47:04.904Z",
+  "updatedAt": "2026-11-27T14:50:42.153Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20107,7 +20107,15 @@
       "high": 28.670000076293945,
       "low": 28.09000015258789,
       "close": 28.459999084472656,
-      "volume": 27106200
+      "volume": 27143400
+    },
+    {
+      "date": "2026-11-27",
+      "open": 28.40999984741211,
+      "high": 28.56999969482422,
+      "low": 28.329999923706055,
+      "close": 28.510000228881836,
+      "volume": 1519610
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "symbol": "BXP",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:46:48.180Z",
+  "updatedAt": "2026-11-27T14:50:25.348Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20084,6 +20084,14 @@
       "low": 62.189998626708984,
       "close": 64.0199966430664,
       "volume": 1348600
+    },
+    {
+      "date": "2026-11-27",
+      "open": 64.2699966430664,
+      "high": 64.4800033569336,
+      "low": 64.01000213623047,
+      "close": 64.08000183105469,
+      "volume": 18834
     }
   ]
 }

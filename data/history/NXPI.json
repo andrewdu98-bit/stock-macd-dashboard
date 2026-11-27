@@ -1,9 +1,9 @@
 {
   "symbol": "NXPI",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:47:03.846Z",
+  "updatedAt": "2026-11-27T14:50:41.102Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20108,6 +20108,14 @@
       "low": 227.08999633789062,
       "close": 242.9600067138672,
       "volume": 5434700
+    },
+    {
+      "date": "2026-11-27",
+      "open": 248.125,
+      "high": 249.3300018310547,
+      "low": 244.91000366210938,
+      "close": 246.64999389648438,
+      "volume": 156008
     }
   ]
 }

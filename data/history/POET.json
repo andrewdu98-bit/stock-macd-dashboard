@@ -1,9 +1,9 @@
 {
   "symbol": "POET",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:47:05.572Z",
+  "updatedAt": "2026-11-27T14:50:42.913Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20107,7 +20107,15 @@
       "high": 3.680000066757202,
       "low": 3.200000047683716,
       "close": 3.5799999237060547,
-      "volume": 7953000
+      "volume": 8052400
+    },
+    {
+      "date": "2026-11-27",
+      "open": 3.819999933242798,
+      "high": 3.819999933242798,
+      "low": 3.5801000595092773,
+      "close": 3.630000114440918,
+      "volume": 1114760
     }
   ]
 }

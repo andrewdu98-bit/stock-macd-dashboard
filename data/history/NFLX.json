@@ -1,9 +1,9 @@
 {
   "symbol": "NFLX",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:47:03.036Z",
+  "updatedAt": "2026-11-27T14:50:40.289Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20107,7 +20107,15 @@
       "high": 59.56999969482422,
       "low": 57.029998779296875,
       "close": 59.40999984741211,
-      "volume": 45693600
+      "volume": 45756500
+    },
+    {
+      "date": "2026-11-27",
+      "open": 60.040000915527344,
+      "high": 61.0099983215332,
+      "low": 59.9900016784668,
+      "close": 60.41999816894531,
+      "volume": 4128387
     }
   ]
 }

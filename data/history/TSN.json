@@ -1,9 +1,9 @@
 {
   "symbol": "TSN",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:47:10.431Z",
+  "updatedAt": "2026-11-27T14:50:47.754Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20108,6 +20108,14 @@
       "low": 62.900001525878906,
       "close": 63.52000045776367,
       "volume": 3069800
+    },
+    {
+      "date": "2026-11-27",
+      "open": 63.43000030517578,
+      "high": 63.66999816894531,
+      "low": 63.22999954223633,
+      "close": 63.22999954223633,
+      "volume": 132018
     }
   ]
 }

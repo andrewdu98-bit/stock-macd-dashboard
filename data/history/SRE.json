@@ -1,9 +1,9 @@
 {
   "symbol": "SRE",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:47:08.412Z",
+  "updatedAt": "2026-11-27T14:50:45.768Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20092,6 +20092,14 @@
       "low": 78.45999908447266,
       "close": 79.08999633789062,
       "volume": 3256600
+    },
+    {
+      "date": "2026-11-27",
+      "open": 79.30999755859375,
+      "high": 79.7509994506836,
+      "low": 79.2300033569336,
+      "close": 79.45999908447266,
+      "volume": 95265
     }
   ]
 }

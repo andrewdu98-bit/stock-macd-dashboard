@@ -1,9 +1,9 @@
 {
   "symbol": "ZBH",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:47:13.391Z",
+  "updatedAt": "2026-11-27T14:50:50.780Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20084,6 +20084,14 @@
       "low": 107.56999969482422,
       "close": 110.05999755859375,
       "volume": 1783000
+    },
+    {
+      "date": "2026-11-27",
+      "open": 110.05999755859375,
+      "high": 110.5199966430664,
+      "low": 109.30000305175781,
+      "close": 109.79499816894531,
+      "volume": 145227
     }
   ]
 }

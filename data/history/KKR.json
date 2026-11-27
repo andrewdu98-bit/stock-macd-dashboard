@@ -1,9 +1,9 @@
 {
   "symbol": "KKR",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:46:59.171Z",
+  "updatedAt": "2026-11-27T14:50:36.448Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20108,6 +20108,14 @@
       "low": 89.37999725341797,
       "close": 94.0999984741211,
       "volume": 4420900
+    },
+    {
+      "date": "2026-11-27",
+      "open": 95.44999694824219,
+      "high": 96.16000366210938,
+      "low": 95.19999694824219,
+      "close": 96.0199966430664,
+      "volume": 156214
     }
   ]
 }

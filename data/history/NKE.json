@@ -1,9 +1,9 @@
 {
   "symbol": "NKE",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:47:03.104Z",
+  "updatedAt": "2026-11-27T14:50:40.392Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20107,7 +20107,15 @@
       "high": 37.060001373291016,
       "low": 35.34000015258789,
       "close": 36.65999984741211,
-      "volume": 27945300
+      "volume": 27974100
+    },
+    {
+      "date": "2026-11-27",
+      "open": 36.810001373291016,
+      "high": 37.06999969482422,
+      "low": 36.57500076293945,
+      "close": 36.59000015258789,
+      "volume": 1482769
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "symbol": "NVDA",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:47:03.648Z",
+  "updatedAt": "2026-11-27T14:50:40.902Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20107,7 +20107,15 @@
       "high": 150.3699951171875,
       "low": 141.1699981689453,
       "close": 149.3000030517578,
-      "volume": 363377300
+      "volume": 366571900
+    },
+    {
+      "date": "2026-11-27",
+      "open": 151.94000244140625,
+      "high": 151.97999572753906,
+      "low": 145.38999938964844,
+      "close": 146.72500610351562,
+      "volume": 47603008
     }
   ]
 }

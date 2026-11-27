@@ -1,9 +1,9 @@
 {
   "symbol": "KIM",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:46:59.115Z",
+  "updatedAt": "2026-11-27T14:50:36.365Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20092,6 +20092,14 @@
       "low": 25.760000228881836,
       "close": 26.049999237060547,
       "volume": 5986000
+    },
+    {
+      "date": "2026-11-27",
+      "open": 26,
+      "high": 26.200000762939453,
+      "low": 26,
+      "close": 26.1299991607666,
+      "volume": 176863
     }
   ]
 }

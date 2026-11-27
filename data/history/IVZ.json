@@ -1,9 +1,9 @@
 {
   "symbol": "IVZ",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:46:58.461Z",
+  "updatedAt": "2026-11-27T14:50:35.721Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20092,6 +20092,14 @@
       "low": 26.780000686645508,
       "close": 28.100000381469727,
       "volume": 4585000
+    },
+    {
+      "date": "2026-11-27",
+      "open": 28.709999084472656,
+      "high": 28.860000610351562,
+      "low": 28.540000915527344,
+      "close": 28.709999084472656,
+      "volume": 127944
     }
   ]
 }

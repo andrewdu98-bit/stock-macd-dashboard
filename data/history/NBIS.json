@@ -1,9 +1,9 @@
 {
   "symbol": "NBIS",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:47:02.637Z",
+  "updatedAt": "2026-11-27T14:50:39.940Z",
   "start": "2024-10-21",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2024-10-21",
@@ -4219,7 +4219,15 @@
       "high": 87.26100158691406,
       "low": 75.5999984741211,
       "close": 84.98999786376953,
-      "volume": 40180600
+      "volume": 40766800
+    },
+    {
+      "date": "2026-11-27",
+      "open": 89.66999816894531,
+      "high": 89.87999725341797,
+      "low": 83.9000015258789,
+      "close": 84.80000305175781,
+      "volume": 5879161
     }
   ]
 }

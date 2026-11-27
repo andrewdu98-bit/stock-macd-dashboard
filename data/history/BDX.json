@@ -1,9 +1,9 @@
 {
   "symbol": "BDX",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:46:47.217Z",
+  "updatedAt": "2026-11-27T14:50:24.349Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20084,6 +20084,14 @@
       "low": 218.69000244140625,
       "close": 221.24000549316406,
       "volume": 1331300
+    },
+    {
+      "date": "2026-11-27",
+      "open": 220.60000610351562,
+      "high": 221.72860717773438,
+      "low": 220.0449981689453,
+      "close": 220.85499572753906,
+      "volume": 57452
     }
   ]
 }

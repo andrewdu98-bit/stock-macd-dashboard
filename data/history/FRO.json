@@ -1,9 +1,9 @@
 {
   "symbol": "FRO",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:46:55.003Z",
+  "updatedAt": "2026-11-27T14:50:32.188Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20108,6 +20108,14 @@
       "low": 46.400001525878906,
       "close": 47.650001525878906,
       "volume": 2062500
+    },
+    {
+      "date": "2026-11-27",
+      "open": 48.52000045776367,
+      "high": 48.66999816894531,
+      "low": 47.08000183105469,
+      "close": 47.33000183105469,
+      "volume": 443446
     }
   ]
 }

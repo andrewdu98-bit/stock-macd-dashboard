@@ -1,9 +1,9 @@
 {
   "symbol": "VIAV",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:47:11.491Z",
+  "updatedAt": "2026-11-27T14:50:48.859Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20108,6 +20108,14 @@
       "low": 24.579999923706055,
       "close": 27.229999542236328,
       "volume": 7688900
+    },
+    {
+      "date": "2026-11-27",
+      "open": 28.68000030517578,
+      "high": 28.68000030517578,
+      "low": 27.19499969482422,
+      "close": 27.530000686645508,
+      "volume": 130463
     }
   ]
 }

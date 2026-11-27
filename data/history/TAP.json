@@ -1,9 +1,9 @@
 {
   "symbol": "TAP",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:47:09.155Z",
+  "updatedAt": "2026-11-27T14:50:46.501Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20108,6 +20108,14 @@
       "low": 40.36000061035156,
       "close": 40.97999954223633,
       "volume": 2488900
+    },
+    {
+      "date": "2026-11-27",
+      "open": 40.58000183105469,
+      "high": 40.935001373291016,
+      "low": 40.5099983215332,
+      "close": 40.81999969482422,
+      "volume": 72400
     }
   ]
 }

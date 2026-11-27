@@ -1,9 +1,9 @@
 {
   "symbol": "INSM",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:46:57.860Z",
+  "updatedAt": "2026-11-27T14:50:35.110Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20084,6 +20084,14 @@
       "low": 170.05999755859375,
       "close": 170.30999755859375,
       "volume": 31390300
+    },
+    {
+      "date": "2026-11-27",
+      "open": 170.2899932861328,
+      "high": 170.6999969482422,
+      "low": 170.25,
+      "close": 170.64500427246094,
+      "volume": 1183869
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "symbol": "INTC",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:46:57.923Z",
+  "updatedAt": "2026-11-27T14:50:35.161Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20107,7 +20107,15 @@
       "high": 55,
       "low": 49.15999984741211,
       "close": 54.470001220703125,
-      "volume": 128605100
+      "volume": 129277900
+    },
+    {
+      "date": "2026-11-27",
+      "open": 56.474998474121094,
+      "high": 56.560001373291016,
+      "low": 54.54999923706055,
+      "close": 55.04999923706055,
+      "volume": 15609110
     }
   ]
 }

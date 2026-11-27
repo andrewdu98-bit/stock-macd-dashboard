@@ -1,9 +1,9 @@
 {
   "symbol": "AON",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:46:45.706Z",
+  "updatedAt": "2026-11-27T14:50:22.850Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20092,6 +20092,14 @@
       "low": 343.07000732421875,
       "close": 347.489990234375,
       "volume": 1221300
+    },
+    {
+      "date": "2026-11-27",
+      "open": 345.3999938964844,
+      "high": 348.2200012207031,
+      "low": 344.739990234375,
+      "close": 347.6050109863281,
+      "volume": 169752
     }
   ]
 }

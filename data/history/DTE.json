@@ -1,9 +1,9 @@
 {
   "symbol": "DTE",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:46:52.309Z",
+  "updatedAt": "2026-11-27T14:50:29.479Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20108,6 +20108,14 @@
       "low": 136.7899932861328,
       "close": 137.75999450683594,
       "volume": 1104500
+    },
+    {
+      "date": "2026-11-27",
+      "open": 138.1999969482422,
+      "high": 138.5,
+      "low": 137.5850067138672,
+      "close": 137.66000366210938,
+      "volume": 30881
     }
   ]
 }

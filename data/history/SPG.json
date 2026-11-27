@@ -1,9 +1,9 @@
 {
   "symbol": "SPG",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:47:08.335Z",
+  "updatedAt": "2026-11-27T14:50:45.676Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20092,6 +20092,14 @@
       "low": 228.88999938964844,
       "close": 233.97999572753906,
       "volume": 1308100
+    },
+    {
+      "date": "2026-11-27",
+      "open": 234.08999633789062,
+      "high": 235.91000366210938,
+      "low": 234.08999633789062,
+      "close": 234.9199981689453,
+      "volume": 38808
     }
   ]
 }

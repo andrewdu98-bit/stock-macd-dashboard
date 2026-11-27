@@ -1,9 +1,9 @@
 {
   "symbol": "CPRT",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:46:50.381Z",
+  "updatedAt": "2026-11-27T14:50:27.534Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20108,6 +20108,14 @@
       "low": 31.68000030517578,
       "close": 33.16999816894531,
       "volume": 10921600
+    },
+    {
+      "date": "2026-11-27",
+      "open": 33.13999938964844,
+      "high": 33.43000030517578,
+      "low": 33.084999084472656,
+      "close": 33.26499938964844,
+      "volume": 518756
     }
   ]
 }

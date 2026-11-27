@@ -1,9 +1,9 @@
 {
   "symbol": "NDAQ",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:47:02.831Z",
+  "updatedAt": "2026-11-27T14:50:40.072Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20092,6 +20092,14 @@
       "low": 104.70999908447266,
       "close": 107.06999969482422,
       "volume": 2693600
+    },
+    {
+      "date": "2026-11-27",
+      "open": 109.16000366210938,
+      "high": 109.16000366210938,
+      "low": 107.93000030517578,
+      "close": 108.30000305175781,
+      "volume": 136985
     }
   ]
 }

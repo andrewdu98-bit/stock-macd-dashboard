@@ -1,9 +1,9 @@
 {
   "symbol": "ANET",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:46:45.637Z",
+  "updatedAt": "2026-11-27T14:50:22.776Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20108,6 +20108,14 @@
       "low": 154.50999450683594,
       "close": 163.99000549316406,
       "volume": 8264300
+    },
+    {
+      "date": "2026-11-27",
+      "open": 170.1300048828125,
+      "high": 170.5,
+      "low": 167.25,
+      "close": 167.90499877929688,
+      "volume": 519539
     }
   ]
 }

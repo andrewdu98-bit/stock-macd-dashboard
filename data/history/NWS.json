@@ -1,9 +1,9 @@
 {
   "symbol": "NWS",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:47:03.724Z",
+  "updatedAt": "2026-11-27T14:50:41.034Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20084,6 +20084,14 @@
       "low": 28.34000015258789,
       "close": 28.940000534057617,
       "volume": 1101200
+    },
+    {
+      "date": "2026-11-27",
+      "open": 28.815000534057617,
+      "high": 29.125,
+      "low": 28.815000534057617,
+      "close": 29.059999465942383,
+      "volume": 45016
     }
   ]
 }

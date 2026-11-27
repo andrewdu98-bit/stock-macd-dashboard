@@ -1,9 +1,9 @@
 {
   "symbol": "SYF",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:47:08.938Z",
+  "updatedAt": "2026-11-27T14:50:46.283Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20092,6 +20092,14 @@
       "low": 65.75,
       "close": 68.7300033569336,
       "volume": 2630700
+    },
+    {
+      "date": "2026-11-27",
+      "open": 69.43000030517578,
+      "high": 69.93000030517578,
+      "low": 69.31999969482422,
+      "close": 69.70500183105469,
+      "volume": 61557
     }
   ]
 }

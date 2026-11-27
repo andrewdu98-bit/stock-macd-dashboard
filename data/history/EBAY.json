@@ -1,9 +1,9 @@
 {
   "symbol": "EBAY",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:46:52.653Z",
+  "updatedAt": "2026-11-27T14:50:29.791Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20100,6 +20100,14 @@
       "low": 112.72000122070312,
       "close": 115.54000091552734,
       "volume": 4545100
+    },
+    {
+      "date": "2026-11-27",
+      "open": 115.80000305175781,
+      "high": 116.75,
+      "low": 115.26499938964844,
+      "close": 115.8499984741211,
+      "volume": 142959
     }
   ]
 }

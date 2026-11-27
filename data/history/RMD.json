@@ -1,9 +1,9 @@
 {
   "symbol": "RMD",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:47:06.971Z",
+  "updatedAt": "2026-11-27T14:50:44.248Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20107,7 +20107,15 @@
       "high": 247.49000549316406,
       "low": 239.32000732421875,
       "close": 245.6999969482422,
-      "volume": 1170400
+      "volume": 1194100
+    },
+    {
+      "date": "2026-11-27",
+      "open": 243.7100067138672,
+      "high": 246.47000122070312,
+      "low": 243.0050048828125,
+      "close": 245.59500122070312,
+      "volume": 73654
     }
   ]
 }

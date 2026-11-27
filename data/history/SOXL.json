@@ -1,9 +1,9 @@
 {
   "symbol": "SOXL",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:47:08.179Z",
+  "updatedAt": "2026-11-27T14:50:45.455Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20107,7 +20107,15 @@
       "high": 32.119998931884766,
       "low": 24.610000610351562,
       "close": 32.02000045776367,
-      "volume": 532204700
+      "volume": 544577400
+    },
+    {
+      "date": "2026-11-27",
+      "open": 35.09000015258789,
+      "high": 35.11000061035156,
+      "low": 32.02000045776367,
+      "close": 32.89799880981445,
+      "volume": 121643204
     }
   ]
 }

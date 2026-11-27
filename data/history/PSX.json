@@ -1,9 +1,9 @@
 {
   "symbol": "PSX",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:47:05.961Z",
+  "updatedAt": "2026-11-27T14:50:43.224Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20108,6 +20108,14 @@
       "low": 230.83999633789062,
       "close": 236.0800018310547,
       "volume": 3155200
+    },
+    {
+      "date": "2026-11-27",
+      "open": 242.24000549316406,
+      "high": 244.27999877929688,
+      "low": 240.38499450683594,
+      "close": 242.1699981689453,
+      "volume": 235091
     }
   ]
 }

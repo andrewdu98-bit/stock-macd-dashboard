@@ -1,9 +1,9 @@
 {
   "symbol": "AEP",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:46:44.516Z",
+  "updatedAt": "2026-11-27T14:50:21.655Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20100,6 +20100,14 @@
       "low": 126.80999755859375,
       "close": 127.58999633789062,
       "volume": 2871100
+    },
+    {
+      "date": "2026-11-27",
+      "open": 127.58999633789062,
+      "high": 127.86000061035156,
+      "low": 127.36499786376953,
+      "close": 127.48500061035156,
+      "volume": 84531
     }
   ]
 }

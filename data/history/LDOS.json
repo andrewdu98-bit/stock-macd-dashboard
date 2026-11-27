@@ -1,9 +1,9 @@
 {
   "symbol": "LDOS",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:46:59.663Z",
+  "updatedAt": "2026-11-27T14:50:36.930Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20092,6 +20092,14 @@
       "low": 126.44999694824219,
       "close": 130.6199951171875,
       "volume": 671800
+    },
+    {
+      "date": "2026-11-27",
+      "open": 130.2100067138672,
+      "high": 131.5500030517578,
+      "low": 128.7949981689453,
+      "close": 129.72999572753906,
+      "volume": 46313
     }
   ]
 }

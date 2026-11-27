@@ -1,9 +1,9 @@
 {
   "symbol": "CARR",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:46:48.380Z",
+  "updatedAt": "2026-11-27T14:50:25.551Z",
   "start": "2020-03-19",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2020-03-19",
@@ -13460,6 +13460,14 @@
       "low": 51.62099838256836,
       "close": 53.900001525878906,
       "volume": 6146800
+    },
+    {
+      "date": "2026-11-27",
+      "open": 54.56999969482422,
+      "high": 54.78499984741211,
+      "low": 54.15999984741211,
+      "close": 54.27000045776367,
+      "volume": 210157
     }
   ]
 }

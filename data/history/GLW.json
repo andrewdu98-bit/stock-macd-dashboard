@@ -1,9 +1,9 @@
 {
   "symbol": "GLW",
   "source": "Yahoo Finance chart API, daily OHLCV, split/dividend adjusted by Yahoo chart endpoint",
-  "updatedAt": "2026-11-26T14:46:55.850Z",
+  "updatedAt": "2026-11-27T14:50:33.063Z",
   "start": "2016-11-28",
-  "end": "2026-11-25",
+  "end": "2026-11-27",
   "rows": [
     {
       "date": "2016-11-28",
@@ -20107,7 +20107,15 @@
       "high": 100.7699966430664,
       "low": 92.77999877929688,
       "close": 100.23999786376953,
-      "volume": 9003200
+      "volume": 9025300
+    },
+    {
+      "date": "2026-11-27",
+      "open": 104.58000183105469,
+      "high": 105.23999786376953,
+      "low": 101.37000274658203,
+      "close": 102.1500015258789,
+      "volume": 639177
     }
   ]
 }
